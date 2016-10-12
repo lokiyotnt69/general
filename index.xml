@@ -28,14 +28,6 @@
 </item> 
 
 <item>
-<title>-[COLOR blue] Peliculas variadas[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
-
-<item>
 <title>-[COLOR red] SERIES[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
@@ -74,6 +66,16 @@
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarpruebas.m3u</externallink>	
 </item> 
+
+
+<item>
+<title>-[COLOR purple] PLUS MOVISTAR [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
 
 
 
