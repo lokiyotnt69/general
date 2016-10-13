@@ -146,3 +146,763 @@ http://ipsatpro.com:8000/live/unal/unal/1052.ts
 http://ipsatpro.com:8000/live/unal/unal/1044.ts 
 #EXTINF:-1,UK:  DISNEY XD
 http://orbit-iptv.com:2500/live/karim/karim/2173.ts
+#EXTINF:-1,BeinSport-1MaxHD-extra
+http://5.196.81.121:8000/live/both/both/481.ts
+#EXTINF:-1,Beinsport-max2HD-extra
+http://5.196.81.121:8000/live/both/both/482.ts
+#EXTINF:-1,BeinSport-1-HD-extra
+http://5.196.81.121:8000/live/both/both/471.ts
+#EXTINF:-1,BeinSport-2HD-extra
+http://5.196.81.121:8000/live/both/both/472.ts
+#EXTINF:-1,BeinSport-3HD-extra
+http://5.196.81.121:8000/live/both/both/473.ts
+#EXTINF:-1,BeinSport-4HD-extra
+http://5.196.81.121:8000/live/both/both/474.ts
+#EXTINF:-1,BeinSport-5HD-extra
+http://5.196.81.121:8000/live/both/both/475.ts
+#EXTINF:-1,BeinSport-6HD-extra
+http://5.196.81.121:8000/live/both/both/476.ts
+#EXTINF:-1,BeinSport-7HD-extra
+http://5.196.81.121:8000/live/both/both/477.ts
+#EXTINF:-1,BeinSport-8HD-extra
+http://5.196.81.121:8000/live/both/both/478.ts
+#EXTINF:-1,BeinSport-9HD-extra
+http://5.196.81.121:8000/live/both/both/479.ts
+#EXTINF:-1,BeinSport-10HD-extra
+http://5.196.81.121:8000/live/both/both/480.ts
+#EXTINF:-1,AR_BEIN_MOVIES_1HD
+http://5.196.81.121:8000/live/both/both/272.ts
+#EXTINF:-1,AR_BEIN_MOVIES_2HD
+http://5.196.81.121:8000/live/both/both/273.ts
+#EXTINF:-1,AR_BEIN_MOVIES_3HD
+http://5.196.81.121:8000/live/both/both/274.ts
+#EXTINF:-1,Panorama Film
+http://5.196.81.121:8000/live/both/both/466.ts
+#EXTINF:-1,--Orient_tv
+http://5.196.81.121:8000/live/both/both/2217.ts
+#EXTINF:-1,Mu: Aghani
+http://5.196.81.121:8000/live/both/both/2246.ts
+#EXTINF:-1,--4SHABAB
+http://5.196.81.121:8000/live/both/both/2242.ts
+#EXTINF:-1,--Time_Film
+http://5.196.81.121:8000/live/both/both/2235.ts
+#EXTINF:-1,--Moga_comedy
+http://5.196.81.121:8000/live/both/both/2234.ts
+#EXTINF:-1,MBC 1
+http://5.196.81.121:8000/live/both/both/18.ts
+#EXTINF:-1,MBC 2
+http://5.196.81.121:8000/live/both/both/19.ts
+#EXTINF:-1,MBC 3
+http://5.196.81.121:8000/live/both/both/20.ts
+#EXTINF:-1,MBC 4
+http://5.196.81.121:8000/live/both/both/21.ts
+#EXTINF:-1,MBC Max
+http://5.196.81.121:8000/live/both/both/23.ts
+#EXTINF:-1,|AR|  MBC MASR 2
+http://5.196.81.121:8000/live/both/both/328.ts
+#EXTINF:-1,MBC Masr
+http://5.196.81.121:8000/live/both/both/25.ts
+#EXTINF:-1,MBC Drama
+http://5.196.81.121:8000/live/both/both/24.ts
+#EXTINF:-1,MBC Action
+http://5.196.81.121:8000/live/both/both/22.ts
+#EXTINF:-1,ONTV
+http://5.196.81.121:8000/live/both/both/230.ts
+#EXTINF:-1,--Otv-Lebanon
+http://5.196.81.121:8000/live/both/both/45.ts
+#EXTINF:-1,mtv
+http://5.196.81.121:8000/live/both/both/41.ts
+#EXTINF:-1,aljadeed
+http://5.196.81.121:8000/live/both/both/40.ts
+#EXTINF:-1,LBC
+http://5.196.81.121:8000/live/both/both/57.ts
+#EXTINF:-1,nbn
+http://5.196.81.121:8000/live/both/both/44.ts
+#EXTINF:-1,Lebanon
+http://5.196.81.121:8000/live/both/both/42.ts
+#EXTINF:-1,ALmanar
+http://5.196.81.121:8000/live/both/both/240.ts
+#EXTINF:-1,Rotana Music
+http://5.196.81.121:8000/live/both/both/269.ts
+#EXTINF:-1,--Rotana_clip
+http://5.196.81.121:8000/live/both/both/28.ts
+#EXTINF:-1,--Rotana_masr
+http://5.196.81.121:8000/live/both/both/30.ts
+#EXTINF:-1,--Rotana_khalijiya
+http://5.196.81.121:8000/live/both/both/29.ts
+#EXTINF:-1,--Rotana_Classic
+http://5.196.81.121:8000/live/both/both/27.ts
+#EXTINF:-1,--Rotana-Cinema
+http://5.196.81.121:8000/live/both/both/26.ts
+#EXTINF:-1,--Syria_Tv
+http://5.196.81.121:8000/live/both/both/223.ts
+#EXTINF:-1,Syria Drama
+http://5.196.81.121:8000/live/both/both/224.ts
+#EXTINF:-1,Syria Aloula
+http://5.196.81.121:8000/live/both/both/225.ts
+#EXTINF:-1,Sama Syria
+http://5.196.81.121:8000/live/both/both/326.ts
+#EXTINF:-1,Almayden
+http://5.196.81.121:8000/live/both/both/63.ts
+#EXTINF:-1,Almayadeen
+http://5.196.81.121:8000/live/both/both/239.ts
+#EXTINF:-1,Talaqi
+http://5.196.81.121:8000/live/both/both/227.ts
+#EXTINF:-1,--Nilecomedy
+http://5.196.81.121:8000/live/both/both/34.ts
+#EXTINF:-1,--Nile_Drama
+http://5.196.81.121:8000/live/both/both/84.ts
+#EXTINF:-1,--Nile_CENIMA
+http://5.196.81.121:8000/live/both/both/220.ts
+#EXTINF:-1,--STAR_CINEMA_1
+http://5.196.81.121:8000/live/both/both/324.ts
+#EXTINF:-1,--STAR_CINEMA_2
+http://5.196.81.121:8000/live/both/both/325.ts
+#EXTINF:-1,--CBC
+http://5.196.81.121:8000/live/both/both/31.ts
+#EXTINF:-1,--CBC_2
+http://5.196.81.121:8000/live/both/both/32.ts
+#EXTINF:-1,--CBC_Extra
+http://5.196.81.121:8000/live/both/both/241.ts
+#EXTINF:-1,--CBC_Sofra
+http://5.196.81.121:8000/live/both/both/242.ts
+#EXTINF:-1,--Cinema_pro
+http://5.196.81.121:8000/live/both/both/82.ts
+#EXTINF:-1,--Toktokaflam
+http://5.196.81.121:8000/live/both/both/81.ts
+#EXTINF:-1,--Cairo_Drama
+http://5.196.81.121:8000/live/both/both/305.ts
+#EXTINF:-1,--Cairo_cinema
+http://5.196.81.121:8000/live/both/both/295.ts
+#EXTINF:-1,--Alqahira_we_alnas
+http://5.196.81.121:8000/live/both/both/250.ts
+#EXTINF:-1,--Alqahira_we_alnas2
+http://5.196.81.121:8000/live/both/both/251.ts
+#EXTINF:-1,--ALNAHAR1
+http://5.196.81.121:8000/live/both/both/243.ts
+#EXTINF:-1,--ALNAHAR_DRAMA
+http://5.196.81.121:8000/live/both/both/246.ts
+#EXTINF:-1,--ALNAHAR_CINEMA
+http://5.196.81.121:8000/live/both/both/247.ts
+#EXTINF:-1,--ALNAHAR_ALYOUM
+http://5.196.81.121:8000/live/both/both/245.ts
+#EXTINF:-1,--Hayet2
+http://5.196.81.121:8000/live/both/both/39.ts
+#EXTINF:-1,Alhayat 2
+http://5.196.81.121:8000/live/both/both/249.ts
+#EXTINF:-1,Alhayat 1
+http://5.196.81.121:8000/live/both/both/248.ts
+#EXTINF:-1,cctvarab
+http://5.196.81.121:8000/live/both/both/51.ts
+#EXTINF:-1,--ART_Hikeyet 1
+http://5.196.81.121:8000/live/both/both/48.ts
+#EXTINF:-1,--ART_Hikeyet 2
+http://5.196.81.121:8000/live/both/both/49.ts
+#EXTINF:-1,--ART_Cinema
+http://5.196.81.121:8000/live/both/both/50.ts
+#EXTINF:-1,--ART_AFLAM1
+http://5.196.81.121:8000/live/both/both/46.ts
+#EXTINF:-1,--ART_AFLAM2
+http://5.196.81.121:8000/live/both/both/47.ts
+#EXTINF:-1,--Alhayat
+http://5.196.81.121:8000/live/both/both/33.ts
+#EXTINF:-1,--Panorama_Drama2
+http://5.196.81.121:8000/live/both/both/281.ts
+#EXTINF:-1,--Panorama_Drama1
+http://5.196.81.121:8000/live/both/both/282.ts
+#EXTINF:-1,--Melody_Classic
+http://5.196.81.121:8000/live/both/both/83.ts
+#EXTINF:-1,--Aljazeera_news
+http://5.196.81.121:8000/live/both/both/64.ts
+#EXTINF:-1,test local
+http://5.196.81.121:8000/live/both/both/1.ts
+#EXTINF:-1,--ALJazeera
+http://5.196.81.121:8000/live/both/both/231.ts
+#EXTINF:-1,JSC mubacher
+http://5.196.81.121:8000/live/both/both/67.ts
+#EXTINF:-1,--Aljazeera_mubashar
+http://5.196.81.121:8000/live/both/both/232.ts
+#EXTINF:-1,--Aljazeera_English
+http://5.196.81.121:8000/live/both/both/237.ts
+#EXTINF:-1,Jsc int
+http://5.196.81.121:8000/live/both/both/68.ts
+#EXTINF:-1,JSC Doc
+http://5.196.81.121:8000/live/both/both/76.ts
+#EXTINF:-1,Alarabya tv
+http://5.196.81.121:8000/live/both/both/233.ts
+#EXTINF:-1,--AL_HADATH
+http://5.196.81.121:8000/live/both/both/310.ts
+#EXTINF:-1,--FRANCE_24
+http://5.196.81.121:8000/live/both/both/238.ts
+#EXTINF:-1,--RTNews
+http://5.196.81.121:8000/live/both/both/66.ts
+#EXTINF:-1,--Alarabia_news
+http://5.196.81.121:8000/live/both/both/65.ts
+#EXTINF:-1,euronews
+http://5.196.81.121:8000/live/both/both/69.ts
+#EXTINF:-1,qods
+http://5.196.81.121:8000/live/both/both/55.ts
+#EXTINF:-1,--Sharqianews
+http://5.196.81.121:8000/live/both/both/96.ts
+#EXTINF:-1,--CartoonNetwork_Ar
+http://5.196.81.121:8000/live/both/both/58.ts
+#EXTINF:-1,--Toyor_aljaneh
+http://5.196.81.121:8000/live/both/both/35.ts
+#EXTINF:-1,--karamesh
+http://5.196.81.121:8000/live/both/both/37.ts
+#EXTINF:-1,majdkids
+http://5.196.81.121:8000/live/both/both/38.ts
+#EXTINF:-1,--noontv_kids
+http://5.196.81.121:8000/live/both/both/36.ts
+#EXTINF:-1,--Alnas
+http://5.196.81.121:8000/live/both/both/77.ts
+#EXTINF:-1,--Almajd3
+http://5.196.81.121:8000/live/both/both/75.ts
+#EXTINF:-1,Islamic Sunnah
+http://5.196.81.121:8000/live/both/both/261.ts
+#EXTINF:-1,Islamic Quran Hydaya
+http://5.196.81.121:8000/live/both/both/262.ts
+#EXTINF:-1,Islamic Quran
+http://5.196.81.121:8000/live/both/both/260.ts
+#EXTINF:-1,--ALResalah
+http://5.196.81.121:8000/live/both/both/74.ts
+#EXTINF:-1,arabica
+http://5.196.81.121:8000/live/both/both/79.ts
+#EXTINF:-1,--Sama_Dubai
+http://5.196.81.121:8000/live/both/both/257.ts
+#EXTINF:-1,--Dubai_One
+http://5.196.81.121:8000/live/both/both/256.ts
+#EXTINF:-1,--Dubai_Alan
+http://5.196.81.121:8000/live/both/both/259.ts
+#EXTINF:-1,AR Dubai tv
+http://5.196.81.121:8000/live/both/both/255.ts
+#EXTINF:-1,AD TV
+http://5.196.81.121:8000/live/both/both/270.ts
+#EXTINF:-1,--Zee_Alwan
+http://5.196.81.121:8000/live/both/both/117.ts
+#EXTINF:-1,--AD_Alemarat
+http://5.196.81.121:8000/live/both/both/54.ts
+#EXTINF:-1,abu dhaby drama
+http://5.196.81.121:8000/live/both/both/53.ts
+#EXTINF:-1,Nationale geography
+http://5.196.81.121:8000/live/both/both/80.ts
+#EXTINF:-1,medi1 Maroc
+http://5.196.81.121:8000/live/both/both/110.ts
+#EXTINF:-1,--2m_maroc
+http://5.196.81.121:8000/live/both/both/109.ts
+#EXTINF:-1,--Aloula_inter
+http://5.196.81.121:8000/live/both/both/91.ts
+#EXTINF:-1,--Alanwar
+http://5.196.81.121:8000/live/both/both/78.ts
+#EXTINF:-1,--Janoubiya
+http://5.196.81.121:8000/live/both/both/106.ts
+#EXTINF:-1,--Echourouk_benna
+http://5.196.81.121:8000/live/both/both/85.ts
+#EXTINF:-1,--Echourouk
+http://5.196.81.121:8000/live/both/both/97.ts
+#EXTINF:-1,--Almostakela
+http://5.196.81.121:8000/live/both/both/94.ts
+#EXTINF:-1,--Almaghribia
+http://5.196.81.121:8000/live/both/both/86.ts
+#EXTINF:-1,Zaytouna Tunisia
+http://5.196.81.121:8000/live/both/both/105.ts
+#EXTINF:-1,--Tunisia_Nat_2
+http://5.196.81.121:8000/live/both/both/113.ts
+#EXTINF:-1,--Tunisia Nat_1
+http://5.196.81.121:8000/live/both/both/114.ts
+#EXTINF:-1,Tounesna
+http://5.196.81.121:8000/live/both/both/107.ts
+#EXTINF:-1,--Nessma
+http://5.196.81.121:8000/live/both/both/115.ts
+#EXTINF:-1,--hannibal
+http://5.196.81.121:8000/live/both/both/111.ts
+#EXTINF:-1,--Ennahar
+http://5.196.81.121:8000/live/both/both/102.ts
+#EXTINF:-1,Attounisiya
+http://5.196.81.121:8000/live/both/both/112.ts
+#EXTINF:-1,--Alrrabia
+http://5.196.81.121:8000/live/both/both/89.ts
+#EXTINF:-1,--Attesisa_Tunisia
+http://5.196.81.121:8000/live/both/both/104.ts
+#EXTINF:-1,--Kbc_Algerie
+http://5.196.81.121:8000/live/both/both/101.ts
+#EXTINF:-1,--Dzaier_tv
+http://5.196.81.121:8000/live/both/both/98.ts
+#EXTINF:-1,--Djazairia
+http://5.196.81.121:8000/live/both/both/100.ts
+#EXTINF:-1,Alhadef AlgÃ©rie
+http://5.196.81.121:8000/live/both/both/92.ts
+#EXTINF:-1,AlgÃ©rie 3
+http://5.196.81.121:8000/live/both/both/95.ts
+#EXTINF:-1,beIN SPORTS 1HD
+http://www.ipsat.me:8000/live/emad/emad/1675.ts
+#EXTINF:-1,beIN SPORTS 2HD
+http://www.ipsat.me:8000/live/emad/emad/1674.ts
+#EXTINF:-1,beIN SPORTS 3HD
+http://www.ipsat.me:8000/live/emad/emad/1566.ts
+#EXTINF:-1,beIN SPORTS 4HD
+http://www.ipsat.me:8000/live/emad/emad/1565.ts
+#EXTINF:-1,beIN SPORTS 5HD
+http://www.ipsat.me:8000/live/emad/emad/1564.ts
+#EXTINF:-1,beIN SPORTS 6HD
+http://www.ipsat.me:8000/live/emad/emad/1563.ts
+#EXTINF:-1,beIN SPORTS 7HD
+http://www.ipsat.me:8000/live/emad/emad/487.ts
+#EXTINF:-1,beIN SPORTS 8HD
+http://www.ipsat.me:8000/live/emad/emad/10.ts
+#EXTINF:-1,beIN SPORTS 9HD
+http://www.ipsat.me:8000/live/emad/emad/9.ts
+#EXTINF:-1,beIN SPORTS 10HD
+http://www.ipsat.me:8000/live/emad/emad/8.ts
+#EXTINF:-1,beIN SPORTS 11 EN HD
+http://www.ipsat.me:8000/live/emad/emad/7.ts
+#EXTINF:-1,beIN SPORTS 12 EN HD
+http://www.ipsat.me:8000/live/emad/emad/6.ts
+#EXTINF:-1,beIN SPORTS 13 FR HD
+http://www.ipsat.me:8000/live/emad/emad/5.ts
+#EXTINF:-1,beIN SPORTS 14 FR HD
+http://www.ipsat.me:8000/live/emad/emad/4.ts
+#EXTINF:-1,beIN SPORTS 15 ES HD
+http://www.ipsat.me:8000/live/emad/emad/3.ts
+#EXTINF:-1,beIN SPORTS 16 FR HD
+http://www.ipsat.me:8000/live/emad/emad/2.ts
+#EXTINF:-1,beIN SPORTS 17 ES HD
+http://www.ipsat.me:8000/live/emad/emad/2917.ts
+#EXTINF:-1,beIN MOVIES 1HD
+http://www.ipsat.me:8000/live/emad/emad/2388.ts
+#EXTINF:-1,beIN MOVIES 2HD
+http://www.ipsat.me:8000/live/emad/emad/2459.ts
+#EXTINF:-1,beIN MOVIES 3HD
+http://www.ipsat.me:8000/live/emad/emad/2617.ts
+#EXTINF:-1,beIN MOVIES 4HD
+http://www.ipsat.me:8000/live/emad/emad/2835.ts
+#EXTINF:-1,beIN Fatafeat HD
+http://www.ipsat.me:8000/live/emad/emad/2683.ts
+#EXTINF:-1,beIN Baraem HD
+http://www.ipsat.me:8000/live/emad/emad/2837.ts
+#EXTINF:-1,beIN Jeem HD
+http://www.ipsat.me:8000/live/emad/emad/2583.ts
+#EXTINF:-1,beIN Dream Works HD
+http://www.ipsat.me:8000/live/emad/emad/2998.ts
+#EXTINF:-1,beIN JUNIOR KIDS HD
+http://www.ipsat.me:8000/live/emad/emad/2867.ts
+#EXTINF:-1,beIN SPORTS NEWS
+http://www.ipsat.me:8000/live/emad/emad/2673.ts
+#EXTINF:-1,beIN SPORTS
+http://www.ipsat.me:8000/live/emad/emad/2674.ts
+#EXTINF:-1,beIN SPORTS 1
+http://www.ipsat.me:8000/live/emad/emad/1791.ts
+#EXTINF:-1,beIN SPORTS 2
+http://www.ipsat.me:8000/live/emad/emad/1777.ts
+#EXTINF:-1,beIN SPORTS 3
+http://www.ipsat.me:8000/live/emad/emad/1776.ts
+#EXTINF:-1,beIN SPORTS 4
+http://www.ipsat.me:8000/live/emad/emad/1775.ts
+#EXTINF:-1,beIN SPORTS 5
+http://www.ipsat.me:8000/live/emad/emad/1773.ts
+#EXTINF:-1,beIN SPORTS 6
+http://www.ipsat.me:8000/live/emad/emad/1772.ts
+#EXTINF:-1,beIN SPORTS 7
+http://www.ipsat.me:8000/live/emad/emad/1679.ts
+#EXTINF:-1,beIN SPORTS 8
+http://www.ipsat.me:8000/live/emad/emad/1678.ts
+#EXTINF:-1,beIN SPORTS 9
+http://www.ipsat.me:8000/live/emad/emad/1677.ts
+#EXTINF:-1,beIN SPORTS 10
+http://www.ipsat.me:8000/live/emad/emad/1676.ts
+#EXTINF:-1,beIN MOVIES 1
+http://www.ipsat.me:8000/live/emad/emad/2549.ts
+#EXTINF:-1,beIN MOVIES 2
+http://www.ipsat.me:8000/live/emad/emad/2548.ts
+#EXTINF:-1,Al Fajer
+http://www.ipsat.me:8000/live/emad/emad/2601.ts
+#EXTINF:-1,-------  AlKASS TV CH -------
+http://www.ipsat.me:8000/live/emad/emad/2573.ts
+#EXTINF:-1,AlKASS 1 HD
+http://www.ipsat.me:8000/live/emad/emad/2569.ts
+#EXTINF:-1,AlKASS 2 HD
+http://www.ipsat.me:8000/live/emad/emad/2570.ts
+#EXTINF:-1,AlKASS 3 HD
+http://www.ipsat.me:8000/live/emad/emad/2571.ts
+#EXTINF:-1,AlKASS 4 HD
+http://www.ipsat.me:8000/live/emad/emad/2572.ts
+#EXTINF:-1,-------  MBC PRO SPORT CH -------
+http://www.ipsat.me:8000/live/emad/emad/2595.ts
+#EXTINF:-1,MBC Pro Sports 1 HD
+http://www.ipsat.me:8000/live/emad/emad/2594.ts
+#EXTINF:-1,MBC Pro Sports 2 HD
+http://www.ipsat.me:8000/live/emad/emad/2593.ts
+#EXTINF:-1,MBC Pro Sports 3 HD
+http://www.ipsat.me:8000/live/emad/emad/2592.ts
+#EXTINF:-1,------- OSN SPORTS CH -------
+http://www.ipsat.me:8000/live/emad/emad/2410.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 1HD
+http://www.ipsat.me:8000/live/emad/emad/2411.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 2HD
+http://www.ipsat.me:8000/live/emad/emad/2412.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 3HD
+http://www.ipsat.me:8000/live/emad/emad/2413.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 4HD
+http://www.ipsat.me:8000/live/emad/emad/2415.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 5HD
+http://www.ipsat.me:8000/live/emad/emad/2895.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 6HD
+http://www.ipsat.me:8000/live/emad/emad/2523.ts
+#EXTINF:-1,OSN SPORTS 1HD
+http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/78.ts
+#EXTINF:-1,OSN SPORTS 2HD
+http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/79.ts
+#EXTINF:-1,OSN SPORTS 3HD
+http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/80.ts
+#EXTINF:-1,OSN SPORTS 4HD
+http://www.ipsat.me:8000/live/emad/emad/2416.ts
+#EXTINF:-1,OSN WWE Network HD
+http://www.ipsat.me:8000/live/emad/emad/2417.ts
+#EXTINF:-1,OSN WWE Network HD+
+http://www.ipsat.me:8000/live/emad/emad/2483.ts
+#EXTINF:-1,OSN Fight Network
+http://www.ipsat.me:8000/live/emad/emad/2848.ts 
+#EXTINF:-1,FR:FRANCE-OHD
+http://5.196.81.121:8000/live/both/both/370.ts
+#EXTINF:-1,FR:HD1-FRANCE
+http://5.196.81.121:8000/live/both/both/373.ts
+#EXTINF:-1,FR:FRANCE-2HD
+http://5.196.81.121:8000/live/both/both/366.ts
+#EXTINF:-1,FR:FRANCE-3HD
+http://5.196.81.121:8000/live/both/both/367.ts
+#EXTINF:-1,FR:FRANCE-4HD
+http://5.196.81.121:8000/live/both/both/368.ts
+#EXTINF:-1,FR:FRANCE-5HD
+http://5.196.81.121:8000/live/both/both/369.ts
+#EXTINF:-1,FR:COMEDIE-HD
+http://5.196.81.121:8000/live/both/both/376.ts
+#EXTINF:-1,FR:TV-BREIZH-HD
+http://5.196.81.121:8000/live/both/both/375.ts
+#EXTINF:-1,FR:Arte
+http://5.196.81.121:8000/live/both/both/372.ts
+#EXTINF:-1,FR:TMC
+http://5.196.81.121:8000/live/both/both/374.ts
+#EXTINF:-1,FR:M6-HD
+http://5.196.81.121:8000/live/both/both/371.ts
+#EXTINF:-1,FR:TF1-HD
+http://5.196.81.121:8000/live/both/both/365.ts
+#EXTINF:-1,FR:RTL9-HD
+http://5.196.81.121:8000/live/both/both/378.ts
+#EXTINF:-1,FR:TCMCINEMAHD
+http://5.196.81.121:8000/live/both/both/399.ts
+#EXTINF:-1,FR:OCS-CITY
+http://5.196.81.121:8000/live/both/both/389.ts
+#EXTINF:-1,FR:CINE-PREMIERE
+http://5.196.81.121:8000/live/both/both/391.ts
+#EXTINF:-1,FR:CINE-POLAR-HD
+http://5.196.81.121:8000/live/both/both/396.ts
+#EXTINF:-1,FR:CINE-FX-HD
+http://5.196.81.121:8000/live/both/both/397.ts
+#EXTINF:-1,FR:CINE-FRISSON-HD
+http://5.196.81.121:8000/live/both/both/393.ts
+#EXTINF:-1,FR:Cine-Famiz-HD
+http://5.196.81.121:8000/live/both/both/394.ts
+#EXTINF:-1,FR:Cine-Emotion-HD
+http://5.196.81.121:8000/live/both/both/392.ts
+#EXTINF:-1,FR:Cine-Classic-HD
+http://5.196.81.121:8000/live/both/both/395.ts
+#EXTINF:-1,FR:CANAL-SERIES
+http://5.196.81.121:8000/live/both/both/384.ts
+#EXTINF:-1,FR:CANAL-HD
+http://5.196.81.121:8000/live/both/both/382.ts
+#EXTINF:-1,FR:CANAL-FAMILY-HD
+http://5.196.81.121:8000/live/both/both/386.ts
+#EXTINF:-1,FR:CANAL-DECALE-HD
+http://5.196.81.121:8000/live/both/both/383.ts
+#EXTINF:-1,FR:CANAL-CINEMA-HD
+http://5.196.81.121:8000/live/both/both/385.ts
+#EXTINF:-1,FR:BEIN-SPORT-1HD
+http://5.196.81.121:8000/live/both/both/403.ts
+#EXTINF:-1,FR:BEIN-SPORT-2HD
+http://5.196.81.121:8000/live/both/both/404.ts
+#EXTINF:-1,FR:BEIN-SPORT-3HD
+http://5.196.81.121:8000/live/both/both/405.ts
+#EXTINF:-1,FR:EUROSPORT-1HD
+http://5.196.81.121:8000/live/both/both/406.ts
+#EXTINF:-1,FR:CANAL-SPORT-HD
+http://5.196.81.121:8000/live/both/both/401.ts
+#EXTINF:-1,FR:Weo
+http://5.196.81.121:8000/live/both/both/424.ts
+#EXTINF:-1,FR:Voyage
+http://5.196.81.121:8000/live/both/both/422.ts
+#EXTINF:-1,FR:USHUAIA-TVHD
+http://5.196.81.121:8000/live/both/both/416.ts
+#EXTINF:-1,FR:TOUTE-LHISTOIRE
+http://5.196.81.121:8000/live/both/both/418.ts
+#EXTINF:-1,FR:Science-et-Vie-TV
+http://5.196.81.121:8000/live/both/both/417.ts
+#EXTINF:-1,FR:RMC-DECOUVERTE
+http://5.196.81.121:8000/live/both/both/421.ts
+#EXTINF:-1,FR:Planete-CI
+http://5.196.81.121:8000/live/both/both/411.ts
+#EXTINF:-1,FR:NATIONAL-GEO-CHANNEL-HD
+http://5.196.81.121:8000/live/both/both/414.ts
+#EXTINF:-1,FR:NATGEO-WILD-HD
+http://5.196.81.121:8000/live/both/both/413.ts
+#EXTINF:-1,FR:CHERIE-25
+http://5.196.81.121:8000/live/both/both/423.ts
+#EXTINF:-1,FR:CHASSE&PECHE
+http://5.196.81.121:8000/live/both/both/420.ts
+#EXTINF:-1,FR:ANIMAUX-HD
+http://5.196.81.121:8000/live/both/both/419.ts
+#EXTINF:-1,FR:TiJi
+http://5.196.81.121:8000/live/both/both/436.ts
+#EXTINF:-1,FR:Teletoon
+http://5.196.81.121:8000/live/both/both/433.ts
+#EXTINF:-1,FR:Piwi-HD
+http://5.196.81.121:8000/live/both/both/437.ts
+#EXTINF:-1,FR:NICKELODEON-Junior
+http://5.196.81.121:8000/live/both/both/432.ts
+#EXTINF:-1,FR:Mangas
+http://5.196.81.121:8000/live/both/both/438.ts
+#EXTINF:-1,FR:Gulli
+http://5.196.81.121:8000/live/both/both/435.ts
+#EXTINF:-1,FR:DISNEY-XD
+http://5.196.81.121:8000/live/both/both/428.ts
+#EXTINF:-1,FR:Disney-Channel
+http://5.196.81.121:8000/live/both/both/426.ts
+#EXTINF:-1,FR:Cartoon-Network
+http://5.196.81.121:8000/live/both/both/430.ts
+#EXTINF:-1,FR:BOOMERANG
+http://5.196.81.121:8000/live/both/both/431.ts
+#EXTINF:-1,ES:*****((((Spain))))*****
+http://5.196.81.121:8000/live/both/both/454.ts
+#EXTINF:-1,ES:FOX
+http://5.196.81.121:8000/live/both/both/465.ts
+#EXTINF:-1,ES:C-COMEDIA
+http://5.196.81.121:8000/live/both/both/464.ts
+#EXTINF:-1,ES:LA_SEXTA_HD
+http://5.196.81.121:8000/live/both/both/463.ts
+#EXTINF:-1,ES:Taquilla-1
+http://5.196.81.121:8000/live/both/both/455.ts
+#EXTINF:-1,ES:Taquilla-2
+http://5.196.81.121:8000/live/both/both/456.ts
+#EXTINF:-1,ES:Taquilla-3
+http://5.196.81.121:8000/live/both/both/457.ts
+#EXTINF:-1,ES:Taquilla-4
+http://5.196.81.121:8000/live/both/both/458.ts
+#EXTINF:-1,ES:Taquilla-5
+http://5.196.81.121:8000/live/both/both/459.ts
+#EXTINF:-1,ES:Taquilla-6
+http://5.196.81.121:8000/live/both/both/460.ts
+#EXTINF:-1,ES:Taquilla-7
+http://5.196.81.121:8000/live/both/both/461.ts
+#EXTINF:-1,ES:Taquilla-8
+http://5.196.81.121:8000/live/both/both/462.ts
+#EXTINF:-1,ES:Canal_Estrenos
+http://5.196.81.121:8000/live/both/both/610.ts
+#EXTINF:-1,ES:Canal_Dcine
+http://5.196.81.121:8000/live/both/both/608.ts
+#EXTINF:-1,ES:Canal_Comedia
+http://5.196.81.121:8000/live/both/both/609.ts
+#EXTINF:-1,ES: LA 1 HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10014.ts
+#EXTINF:-1,ES: LA 2
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10013.ts
+#EXTINF:-1,ES: CUATRO HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10034.ts
+#EXTINF:-1,ES: QUATRO
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9993.ts
+#EXTINF:-1,ES: TELECINCO
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9987.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10011.ts
+#EXTINF:-1,ES: LA SEXTA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10012.ts
+#EXTINF:-1,ES: NOVA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9998.ts
+#EXTINF:-1,ES: Telesur
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9985.ts
+#EXTINF:-1,ES: 24 HORAS
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10082.ts
+#EXTINF:-1,ES: TVI Internacional
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9982.ts
+#EXTINF:-1,ES: RT NEWS ENG
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9990.ts
+#EXTINF:-1,ES: CANAL SUR ANDALUCIA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10038.ts
+#EXTINF:-1,ES: ARAGON TV
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10077.ts
+#EXTINF:-1,ES: ANTENA 3 HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10078.ts
+#EXTINF:-1,ES: AJE
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10080.ts
+#EXTINF:-1,ES: 40 TV
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10024.ts
+#EXTINF:-1,ES: NHK WORLD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10000.ts
+#EXTINF:-1,ES: LOS 40
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10010.ts
+#EXTINF:-1,ES: FRANCE 24-EN
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10018.ts
+#EXTINF:-1,ES: EHS
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10026.ts
+#EXTINF:-1,ES: DIVINITY
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10027.ts
+#EXTINF:-1,ES: Canal Extremadura SAT
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10040.ts
+#EXTINF:-1,ES: BAR TV
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10073.ts
+#EXTINF:-1,ES: Parlamento
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9995.ts
+#EXTINF:-1,ES: RT
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9991.ts
+#EXTINF:-1,ES: C  ESTRENOS
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10054.ts
+#EXTINF:-1,ES: C XTRA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10045.ts
+#EXTINF:-1,ES: C  ACCION HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10057.ts
+#EXTINF:-1,ES: C COMEDIA HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10046.ts
+#EXTINF:-1,ES: C  DCINE HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10056.ts
+#EXTINF:-1,ES: DCINE
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10033.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10016.ts
+#EXTINF:-1,ES: TCM
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9988.ts
+#EXTINF:-1,ES: PARAMOUNT
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9996.ts
+#EXTINF:-1,ES: TNT HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9984.ts
+#EXTINF:-1,ES: #0 HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10083.ts
+#EXTINF:-1,ES: C  SERIES HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10048.ts
+#EXTINF:-1,ES: C  Series Xtra HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10047.ts
+#EXTINF:-1,ES: FOX HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10020.ts
+#EXTINF:-1,ES: FOX LIFE HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10019.ts
+#EXTINF:-1,ES: AMC HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10079.ts
+#EXTINF:-1,ES: AXN HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10076.ts
+#EXTINF:-1,ES: AXN WHITE
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10075.ts
+#EXTINF:-1,ES: SYFY
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9989.ts
+#EXTINF:-1,ES: CALLE 13
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10043.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10036.ts
+#EXTINF:-1,ES: COSMOPOLITAN HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10035.ts
+#EXTINF:-1,ES: ESTRELAS
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10023.ts
+#EXTINF:-1,ES: ENERGY
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10025.ts
+#EXTINF:-1,ES: TOROS
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9983.ts
+#EXTINF:-1,ES: LTC
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10009.ts
+#EXTINF:-1,ES: C  PORTADA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10049.ts
+#EXTINF:-1,ES: C  DEPORTES
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10055.ts
+#EXTINF:-1,ES: DEPORTES 2
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10032.ts
+#EXTINF:-1,ES: C  FTBOL
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10053.ts
+#EXTINF:-1,ES: C  FUTBOL HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10052.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9992.ts
+#EXTINF:-1,ES: LALIGA TV BAR
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10356.ts
+#EXTINF:-1,ES: BEIN LALIGA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10072.ts
+#EXTINF:-1,ES: BEIN LALIGA HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10071.ts
+#EXTINF:-1,ES: BEIN SPORT
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10070.ts
+#EXTINF:-1,ES: BEIN SPORT HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10069.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 1
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10068.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 2
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10066.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 3
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10065.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 4
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10064.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 5
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10063.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 6
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10062.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 7
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10061.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 8
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10060.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 9
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10059.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 10
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10067.ts
+#EXTINF:-1,ES: EUROSPORT 1
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10022.ts
+#EXTINF:-1,ES: EUROSPORT 2
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10021.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9986.ts
+#EXTINF:-1,ES: C  GOLF HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10050.ts
+#EXTINF:-1,ES: MOVISTAR F1
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10006.ts
+#EXTINF:-1,ES: MOVISTAR F1 HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10005.ts
+#EXTINF:-1,ES: MOTOGP HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10007.ts
+#EXTINF:-1,ES: MOTO GP
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10008.ts
+#EXTINF:-1,ES: C  GOLF
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10051.ts
+#EXTINF:-1,ES: CANAL ODISEA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10039.ts
+#EXTINF:-1,ES: NAT GEOGRAPH
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10001.ts
+#EXTINF:-1,ES: NAT GEO WILD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10003.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10002.ts
+#EXTINF:-1,ES: C&I
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10044.ts
+#EXTINF:-1,ES: DISCOVERY
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10031.ts
+#EXTINF:-1,ES: HISTORIA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10017.ts
+#EXTINF:-1,ES: A&E
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10081.ts
+#EXTINF:-1,ES: CAZA Y PESCA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10037.ts
+#EXTINF:-1,ES: IBERALIA TV
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10015.ts
+#EXTINF:-1,ES: VIAJAR
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9981.ts
+#EXTINF:-1,ES: CANAL COCINA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10042.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10041.ts
+#EXTINF:-1,ES: MTV ESPANA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10004.ts
+#EXTINF:-1,ES: DISNEY CH.
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10030.ts
+#EXTINF:-1,ES: DISNEY JR
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10029.ts
+#EXTINF:-1,ES: DISNEY XD
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10028.ts
+#EXTINF:-1,ES: BOING
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10058.ts
+#EXTINF:-1,ES: Nickelodeon
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9999.ts
+#EXTINF:-1,ES: PANDA
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/9997.ts
+#EXTINF:-1,ES: BABY TV
+http://bstream.nextfuturedays.net:8000/live/elvis/presley/10074.ts
