@@ -562,347 +562,152 @@ http://www.ipsat.me:8000/live/emad/emad/2417.ts
 http://www.ipsat.me:8000/live/emad/emad/2483.ts
 #EXTINF:-1,OSN Fight Network
 http://www.ipsat.me:8000/live/emad/emad/2848.ts 
-#EXTINF:-1,FR:FRANCE-OHD
-http://5.196.81.121:8000/live/both/both/370.ts
-#EXTINF:-1,FR:HD1-FRANCE
-http://5.196.81.121:8000/live/both/both/373.ts
-#EXTINF:-1,FR:FRANCE-2HD
-http://5.196.81.121:8000/live/both/both/366.ts
-#EXTINF:-1,FR:FRANCE-3HD
-http://5.196.81.121:8000/live/both/both/367.ts
-#EXTINF:-1,FR:FRANCE-4HD
-http://5.196.81.121:8000/live/both/both/368.ts
-#EXTINF:-1,FR:FRANCE-5HD
-http://5.196.81.121:8000/live/both/both/369.ts
-#EXTINF:-1,FR:COMEDIE-HD
-http://5.196.81.121:8000/live/both/both/376.ts
-#EXTINF:-1,FR:TV-BREIZH-HD
-http://5.196.81.121:8000/live/both/both/375.ts
-#EXTINF:-1,FR:Arte
-http://5.196.81.121:8000/live/both/both/372.ts
-#EXTINF:-1,FR:TMC
-http://5.196.81.121:8000/live/both/both/374.ts
-#EXTINF:-1,FR:M6-HD
-http://5.196.81.121:8000/live/both/both/371.ts
-#EXTINF:-1,FR:TF1-HD
-http://5.196.81.121:8000/live/both/both/365.ts
-#EXTINF:-1,FR:RTL9-HD
-http://5.196.81.121:8000/live/both/both/378.ts
-#EXTINF:-1,FR:TCMCINEMAHD
-http://5.196.81.121:8000/live/both/both/399.ts
-#EXTINF:-1,FR:OCS-CITY
-http://5.196.81.121:8000/live/both/both/389.ts
-#EXTINF:-1,FR:CINE-PREMIERE
-http://5.196.81.121:8000/live/both/both/391.ts
-#EXTINF:-1,FR:CINE-POLAR-HD
-http://5.196.81.121:8000/live/both/both/396.ts
-#EXTINF:-1,FR:CINE-FX-HD
-http://5.196.81.121:8000/live/both/both/397.ts
-#EXTINF:-1,FR:CINE-FRISSON-HD
-http://5.196.81.121:8000/live/both/both/393.ts
-#EXTINF:-1,FR:Cine-Famiz-HD
-http://5.196.81.121:8000/live/both/both/394.ts
-#EXTINF:-1,FR:Cine-Emotion-HD
-http://5.196.81.121:8000/live/both/both/392.ts
-#EXTINF:-1,FR:Cine-Classic-HD
-http://5.196.81.121:8000/live/both/both/395.ts
-#EXTINF:-1,FR:CANAL-SERIES
-http://5.196.81.121:8000/live/both/both/384.ts
-#EXTINF:-1,FR:CANAL-HD
-http://5.196.81.121:8000/live/both/both/382.ts
-#EXTINF:-1,FR:CANAL-FAMILY-HD
-http://5.196.81.121:8000/live/both/both/386.ts
-#EXTINF:-1,FR:CANAL-DECALE-HD
-http://5.196.81.121:8000/live/both/both/383.ts
-#EXTINF:-1,FR:CANAL-CINEMA-HD
-http://5.196.81.121:8000/live/both/both/385.ts
-#EXTINF:-1,FR:BEIN-SPORT-1HD
-http://5.196.81.121:8000/live/both/both/403.ts
-#EXTINF:-1,FR:BEIN-SPORT-2HD
-http://5.196.81.121:8000/live/both/both/404.ts
-#EXTINF:-1,FR:BEIN-SPORT-3HD
-http://5.196.81.121:8000/live/both/both/405.ts
-#EXTINF:-1,FR:EUROSPORT-1HD
-http://5.196.81.121:8000/live/both/both/406.ts
-#EXTINF:-1,FR:CANAL-SPORT-HD
-http://5.196.81.121:8000/live/both/both/401.ts
-#EXTINF:-1,FR:Weo
-http://5.196.81.121:8000/live/both/both/424.ts
-#EXTINF:-1,FR:Voyage
-http://5.196.81.121:8000/live/both/both/422.ts
-#EXTINF:-1,FR:USHUAIA-TVHD
-http://5.196.81.121:8000/live/both/both/416.ts
-#EXTINF:-1,FR:TOUTE-LHISTOIRE
-http://5.196.81.121:8000/live/both/both/418.ts
-#EXTINF:-1,FR:Science-et-Vie-TV
-http://5.196.81.121:8000/live/both/both/417.ts
-#EXTINF:-1,FR:RMC-DECOUVERTE
-http://5.196.81.121:8000/live/both/both/421.ts
-#EXTINF:-1,FR:Planete-CI
-http://5.196.81.121:8000/live/both/both/411.ts
-#EXTINF:-1,FR:NATIONAL-GEO-CHANNEL-HD
-http://5.196.81.121:8000/live/both/both/414.ts
-#EXTINF:-1,FR:NATGEO-WILD-HD
-http://5.196.81.121:8000/live/both/both/413.ts
-#EXTINF:-1,FR:CHERIE-25
-http://5.196.81.121:8000/live/both/both/423.ts
-#EXTINF:-1,FR:CHASSE&PECHE
-http://5.196.81.121:8000/live/both/both/420.ts
-#EXTINF:-1,FR:ANIMAUX-HD
-http://5.196.81.121:8000/live/both/both/419.ts
-#EXTINF:-1,FR:TiJi
-http://5.196.81.121:8000/live/both/both/436.ts
-#EXTINF:-1,FR:Teletoon
-http://5.196.81.121:8000/live/both/both/433.ts
-#EXTINF:-1,FR:Piwi-HD
-http://5.196.81.121:8000/live/both/both/437.ts
-#EXTINF:-1,FR:NICKELODEON-Junior
-http://5.196.81.121:8000/live/both/both/432.ts
-#EXTINF:-1,FR:Mangas
-http://5.196.81.121:8000/live/both/both/438.ts
-#EXTINF:-1,FR:Gulli
-http://5.196.81.121:8000/live/both/both/435.ts
-#EXTINF:-1,FR:DISNEY-XD
-http://5.196.81.121:8000/live/both/both/428.ts
-#EXTINF:-1,FR:Disney-Channel
-http://5.196.81.121:8000/live/both/both/426.ts
-#EXTINF:-1,FR:Cartoon-Network
-http://5.196.81.121:8000/live/both/both/430.ts
-#EXTINF:-1,FR:BOOMERANG
-http://5.196.81.121:8000/live/both/both/431.ts
-#EXTINF:-1,ES:*****((((Spain))))*****
-http://5.196.81.121:8000/live/both/both/454.ts
-#EXTINF:-1,ES:FOX
-http://5.196.81.121:8000/live/both/both/465.ts
-#EXTINF:-1,ES:C-COMEDIA
-http://5.196.81.121:8000/live/both/both/464.ts
-#EXTINF:-1,ES:LA_SEXTA_HD
-http://5.196.81.121:8000/live/both/both/463.ts
-#EXTINF:-1,ES:Taquilla-1
-http://5.196.81.121:8000/live/both/both/455.ts
-#EXTINF:-1,ES:Taquilla-2
-http://5.196.81.121:8000/live/both/both/456.ts
-#EXTINF:-1,ES:Taquilla-3
-http://5.196.81.121:8000/live/both/both/457.ts
-#EXTINF:-1,ES:Taquilla-4
-http://5.196.81.121:8000/live/both/both/458.ts
-#EXTINF:-1,ES:Taquilla-5
-http://5.196.81.121:8000/live/both/both/459.ts
-#EXTINF:-1,ES:Taquilla-6
-http://5.196.81.121:8000/live/both/both/460.ts
-#EXTINF:-1,ES:Taquilla-7
-http://5.196.81.121:8000/live/both/both/461.ts
-#EXTINF:-1,ES:Taquilla-8
-http://5.196.81.121:8000/live/both/both/462.ts
-#EXTINF:-1,ES:Canal_Estrenos
-http://5.196.81.121:8000/live/both/both/610.ts
-#EXTINF:-1,ES:Canal_Dcine
-http://5.196.81.121:8000/live/both/both/608.ts
-#EXTINF:-1,ES:Canal_Comedia
-http://5.196.81.121:8000/live/both/both/609.ts
-#EXTINF:-1,ES: LA 1 HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10014.ts
-#EXTINF:-1,ES: LA 2
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10013.ts
-#EXTINF:-1,ES: CUATRO HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10034.ts
-#EXTINF:-1,ES: QUATRO
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9993.ts
-#EXTINF:-1,ES: TELECINCO
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9987.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10011.ts
-#EXTINF:-1,ES: LA SEXTA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10012.ts
-#EXTINF:-1,ES: NOVA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9998.ts
-#EXTINF:-1,ES: Telesur
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9985.ts
-#EXTINF:-1,ES: 24 HORAS
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10082.ts
-#EXTINF:-1,ES: TVI Internacional
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9982.ts
-#EXTINF:-1,ES: RT NEWS ENG
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9990.ts
-#EXTINF:-1,ES: CANAL SUR ANDALUCIA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10038.ts
-#EXTINF:-1,ES: ARAGON TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10077.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10078.ts
-#EXTINF:-1,ES: AJE
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10080.ts
-#EXTINF:-1,ES: 40 TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10024.ts
-#EXTINF:-1,ES: NHK WORLD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10000.ts
-#EXTINF:-1,ES: LOS 40
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10010.ts
-#EXTINF:-1,ES: FRANCE 24-EN
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10018.ts
-#EXTINF:-1,ES: EHS
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10026.ts
-#EXTINF:-1,ES: DIVINITY
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10027.ts
-#EXTINF:-1,ES: Canal Extremadura SAT
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10040.ts
-#EXTINF:-1,ES: BAR TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10073.ts
-#EXTINF:-1,ES: Parlamento
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9995.ts
-#EXTINF:-1,ES: RT
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9991.ts
-#EXTINF:-1,ES: C  ESTRENOS
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10054.ts
-#EXTINF:-1,ES: C XTRA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10045.ts
-#EXTINF:-1,ES: C  ACCION HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10057.ts
-#EXTINF:-1,ES: C COMEDIA HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10046.ts
-#EXTINF:-1,ES: C  DCINE HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10056.ts
-#EXTINF:-1,ES: DCINE
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10033.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10016.ts
+
+#EXTINF:-1,ES: Taquilla 1
+http://ipsatpro.com:8000/live/unal/unal/1071.ts
+#EXTINF:-1,ES: Taquilla 2
+http://ipsatpro.com:8000/live/unal/unal/1070.ts
+#EXTINF:-1,ES: Taquilla 3
+http://ipsatpro.com:8000/live/unal/unal/1069.ts
+#EXTINF:-1,ES: Taquilla 4
+http://ipsatpro.com:8000/live/unal/unal/1068.ts
+#EXTINF:-1,ES: Taquilla 5
+http://ipsatpro.com:8000/live/unal/unal/1067.ts
+#EXTINF:-1,ES: Taquilla 6
+http://ipsatpro.com:8000/live/unal/unal/1066.ts
+#EXTINF:-1,ES: Taquilla 7
+http://ipsatpro.com:8000/live/unal/unal/1065.ts
+#EXTINF:-1,ES: Taquilla 8
+http://ipsatpro.com:8000/live/unal/unal/1064.ts
+#EXTINF:-1,ES: Taquilla 9
+http://ipsatpro.com:8000/live/unal/unal/1063.ts
+#EXTINF:-1,ES: Taquilla 10
+http://ipsatpro.com:8000/live/unal/unal/1062.ts
+#EXTINF:-1,ES: Canal+ Liga
+http://ipsatpro.com:8000/live/unal/unal/1022.ts
+#EXTINF:-1,ES: Canal+ Deportes HD
+http://ipsatpro.com:8000/live/unal/unal/1012.ts
+#EXTINF:-1,ES: Canal+ Futpol
+http://ipsatpro.com:8000/live/unal/unal/1020.ts
+#EXTINF:-1,ES: Canal+ Golf
+http://ipsatpro.com:8000/live/unal/unal/1019.ts
+#EXTINF:-1,ES: Canal+ HD
+http://ipsatpro.com:8000/live/unal/unal/1016.ts
+#EXTINF:-1,ES: Canal+ Accion
+http://ipsatpro.com:8000/live/unal/unal/1030.ts
+#EXTINF:-1,ES: Canal+ Dcine
+http://ipsatpro.com:8000/live/unal/unal/1028.ts
+#EXTINF:-1,ES: Canal+ Comedia
+http://ipsatpro.com:8000/live/unal/unal/1031.ts
+#EXTINF:-1,ES: Canal+ Estrenos HD
+http://ipsatpro.com:8000/live/unal/unal/1059.ts
+#EXTINF:-1,ES: Canal+ de las Estrellas
+http://ipsatpro.com:8000/live/unal/unal/1048.ts
+#EXTINF:-1,ES: Canal+ Series
+http://ipsatpro.com:8000/live/unal/unal/1058.ts
+#EXTINF:-1,ES: Canal+ Serie Xtra
+http://ipsatpro.com:8000/live/unal/unal/1004.ts
+#EXTINF:-1,ES: Canal+ Cuatro
+http://ipsatpro.com:8000/live/unal/unal/1026.ts
+#EXTINF:-1,ES: Canal+ 13 Nicaragua
+http://ipsatpro.com:8000/live/unal/unal/1033.ts
+#EXTINF:-1,ES: Canal+ Cocina
+http://ipsatpro.com:8000/live/unal/unal/1024.ts
+#EXTINF:-1,ES: Canal+ AXN HD
+http://ipsatpro.com:8000/live/unal/unal/1054.ts
+#EXTINF:-1,ES: Canal+ Toros
+http://ipsatpro.com:8000/live/unal/unal/1049.ts
+#EXTINF:-1,ES: Canal Los40
+http://ipsatpro.com:8000/live/unal/unal/1002.ts
+#EXTINF:-1,ES: Canal+ Nova
+http://ipsatpro.com:8000/live/unal/unal/1034.ts
+#EXTINF:-1,ES: Canal+ Fox HD
+http://ipsatpro.com:8000/live/unal/unal/1029.ts
+#EXTINF:-1,ES: Canal T HD
+http://ipsatpro.com:8000/live/unal/unal/1047.ts
+#EXTINF:-1,ES: Canal MicroVision HD
+http://ipsatpro.com:8000/live/unal/unal/1041.ts
+#EXTINF:-1,ES: Canal+ 40
+http://ipsatpro.com:8000/live/unal/unal/1039.ts
+#EXTINF:-1,ES: 24 Horas
+http://ipsatpro.com:8000/live/unal/unal/1046.ts
+#EXTINF:-1,ES: Bein Sport ES HD
+http://ipsatpro.com:8000/live/unal/unal/1003.ts
+#EXTINF:-1,ES: Barca TV
+http://ipsatpro.com:8000/live/unal/unal/1021.ts
+#EXTINF:-1,ES: Movis Star Moto Gp
+http://ipsatpro.com:8000/live/unal/unal/1011.ts
+#EXTINF:-1,ES: Movi Star F1
+http://ipsatpro.com:8000/live/unal/unal/1010.ts
+#EXTINF:-1,ES: Comedy Central
+http://ipsatpro.com:8000/live/unal/unal/1042.ts
+#EXTINF:-1,ES: Teledeportes
+http://ipsatpro.com:8000/live/unal/unal/1050.ts
+#EXTINF:-1,ES: Clan TVE
+http://ipsatpro.com:8000/live/unal/unal/1045.ts
+#EXTINF:-1,ES: Real Madrid
+http://ipsatpro.com:8000/live/unal/unal/1037.ts
+#EXTINF:-1,ES: La 1
+http://ipsatpro.com:8000/live/unal/unal/1014.ts
+#EXTINF:-1,ES: La 2
+http://ipsatpro.com:8000/live/unal/unal/1013.ts
+#EXTINF:-1,ES: La 2 RTVE
+http://ipsatpro.com:8000/live/unal/unal/1025.ts
+#EXTINF:-1,ES: La  Sexta HD
+http://ipsatpro.com:8000/live/unal/unal/1017.ts
+#EXTINF:-1,ES: TV Galicia
+http://ipsatpro.com:8000/live/unal/unal/1015.ts
 #EXTINF:-1,ES: TCM
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9988.ts
-#EXTINF:-1,ES: PARAMOUNT
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9996.ts
-#EXTINF:-1,ES: TNT HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9984.ts
-#EXTINF:-1,ES: #0 HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10083.ts
-#EXTINF:-1,ES: C  SERIES HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10048.ts
-#EXTINF:-1,ES: C  Series Xtra HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10047.ts
-#EXTINF:-1,ES: FOX HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10020.ts
-#EXTINF:-1,ES: FOX LIFE HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10019.ts
-#EXTINF:-1,ES: AMC HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10079.ts
-#EXTINF:-1,ES: AXN HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10076.ts
-#EXTINF:-1,ES: AXN WHITE
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10075.ts
-#EXTINF:-1,ES: SYFY
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9989.ts
-#EXTINF:-1,ES: CALLE 13
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10043.ts
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10036.ts
-#EXTINF:-1,ES: COSMOPOLITAN HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10035.ts
-#EXTINF:-1,ES: ESTRELAS
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10023.ts
-#EXTINF:-1,ES: ENERGY
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10025.ts
-#EXTINF:-1,ES: TOROS
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9983.ts
-#EXTINF:-1,ES: LTC
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10009.ts
-#EXTINF:-1,ES: C  PORTADA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10049.ts
-#EXTINF:-1,ES: C  DEPORTES
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10055.ts
-#EXTINF:-1,ES: DEPORTES 2
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10032.ts
-#EXTINF:-1,ES: C  FTBOL
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10053.ts
-#EXTINF:-1,ES: C  FUTBOL HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10052.ts
-#EXTINF:-1,ES: REAL MADRID TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9992.ts
-#EXTINF:-1,ES: LALIGA TV BAR
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10356.ts
-#EXTINF:-1,ES: BEIN LALIGA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10072.ts
-#EXTINF:-1,ES: BEIN LALIGA HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10071.ts
-#EXTINF:-1,ES: BEIN SPORT
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10070.ts
-#EXTINF:-1,ES: BEIN SPORT HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10069.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 1
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10068.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 2
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10066.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 3
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10065.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 4
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10064.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 5
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10063.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 6
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10062.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 7
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10061.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 8
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10060.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 9
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10059.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 10
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10067.ts
-#EXTINF:-1,ES: EUROSPORT 1
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10022.ts
-#EXTINF:-1,ES: EUROSPORT 2
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10021.ts
-#EXTINF:-1,ES: TELEDEPORTE
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9986.ts
-#EXTINF:-1,ES: C  GOLF HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10050.ts
-#EXTINF:-1,ES: MOVISTAR F1
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10006.ts
-#EXTINF:-1,ES: MOVISTAR F1 HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10005.ts
-#EXTINF:-1,ES: MOTOGP HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10007.ts
-#EXTINF:-1,ES: MOTO GP
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10008.ts
-#EXTINF:-1,ES: C  GOLF
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10051.ts
-#EXTINF:-1,ES: CANAL ODISEA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10039.ts
-#EXTINF:-1,ES: NAT GEOGRAPH
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10001.ts
-#EXTINF:-1,ES: NAT GEO WILD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10003.ts
-#EXTINF:-1,ES: NAT GEO WILD HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10002.ts
-#EXTINF:-1,ES: C&I
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10044.ts
-#EXTINF:-1,ES: DISCOVERY
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10031.ts
-#EXTINF:-1,ES: HISTORIA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10017.ts
+http://ipsatpro.com:8000/live/unal/unal/1053.ts
+#EXTINF:-1,ES: Proyecto 40
+http://ipsatpro.com:8000/live/unal/unal/1056.ts
+#EXTINF:-1,ES: Azteca Noticias
+http://ipsatpro.com:8000/live/unal/unal/1061.ts
+#EXTINF:-1,ES: 324 Entertainment
+http://ipsatpro.com:8000/live/unal/unal/1005.ts
+#EXTINF:-1,ES: Fox Life
+http://ipsatpro.com:8000/live/unal/unal/1060.ts
+#EXTINF:-1,ES: Hollywood
+http://ipsatpro.com:8000/live/unal/unal/1036.ts
+#EXTINF:-1,ES: Axn White HD
+http://ipsatpro.com:8000/live/unal/unal/1023.ts
+#EXTINF:-1,ES: History
+http://ipsatpro.com:8000/live/unal/unal/1051.ts
+#EXTINF:-1,ES: Calle 13 Spain
+http://ipsatpro.com:8000/live/unal/unal/1009.ts
+#EXTINF:-1,ES: Azteca trece
+http://ipsatpro.com:8000/live/unal/unal/1018.ts
+#EXTINF:-1,ES: Anime
+http://ipsatpro.com:8000/live/unal/unal/999.ts
+#EXTINF:-1,ES: Azteca 7 Monterrey
+http://ipsatpro.com:8000/live/unal/unal/1035.ts
+#EXTINF:-1,ES: Antena 3 Internacional
+http://ipsatpro.com:8000/live/unal/unal/1000.ts
 #EXTINF:-1,ES: A&E
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10081.ts
-#EXTINF:-1,ES: CAZA Y PESCA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10037.ts
-#EXTINF:-1,ES: IBERALIA TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10015.ts
-#EXTINF:-1,ES: VIAJAR
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9981.ts
-#EXTINF:-1,ES: CANAL COCINA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10042.ts
-#EXTINF:-1,ES: CANAL DECASA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10041.ts
-#EXTINF:-1,ES: MTV ESPANA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10004.ts
-#EXTINF:-1,ES: DISNEY CH.
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10030.ts
-#EXTINF:-1,ES: DISNEY JR
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10029.ts
-#EXTINF:-1,ES: DISNEY XD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10028.ts
-#EXTINF:-1,ES: BOING
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10058.ts
-#EXTINF:-1,ES: Nickelodeon
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9999.ts
-#EXTINF:-1,ES: PANDA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9997.ts
-#EXTINF:-1,ES: BABY TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10074.ts
+http://ipsatpro.com:8000/live/unal/unal/1001.ts
+#EXTINF:-1,ES: FDF
+http://ipsatpro.com:8000/live/unal/unal/1007.ts
+#EXTINF:-1,ES: Caza Y Pesca
+http://ipsatpro.com:8000/live/unal/unal/1027.ts
+#EXTINF:-1,ES: Viajar
+http://ipsatpro.com:8000/live/unal/unal/1043.ts
+#EXTINF:-1,ES: Teleticino
+http://ipsatpro.com:8000/live/unal/unal/1008.ts
+#EXTINF:-1,ES: National Geographic
+http://ipsatpro.com:8000/live/unal/unal/1057.ts
+#EXTINF:-1,ES: National Geographic Wild
+http://ipsatpro.com:8000/live/unal/unal/1055.ts
+#EXTINF:-1,ES: Disney Chaneel
+http://ipsatpro.com:8000/live/unal/unal/1040.ts
+#EXTINF:-1,ES: Disney XD
+http://ipsatpro.com:8000/live/unal/unal/1038.ts
+#EXTINF:-1,ES: TNT
+http://ipsatpro.com:8000/live/unal/unal/1032.ts
+#EXTINF:-1,ES: TVN Chile HD
+http://ipsatpro.com:8000/live/unal/unal/1006.ts
+#EXTINF:-1,ES: CHILE La Red
+http://ipsatpro.com:8000/live/unal/unal/1052.ts
+#EXTINF:-1,ES: ITV HD Chile
+http://ipsatpro.com:8000/live/unal/unal/1044.ts 
+#EXTINF:-1,UK:  DISNEY XD
+http://orbit-iptv.com:2500/live/karim/karim/2173.ts
