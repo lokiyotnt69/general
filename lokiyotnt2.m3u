@@ -1,586 +1,257 @@
-#EXTINF:-1,MOTORS TV
-http://149.202.70.7:8000/live/joel/joel/155.ts
-#EXTINF:-1,PENTHOUSE HD
-http://149.202.70.7:8000/live/joel/joel/154.ts
-#EXTINF:-1,TPA Internacional
-http://149.202.70.7:8000/live/joel/joel/147.ts
-#EXTINF:-1,Tiji
-http://149.202.70.7:8000/live/joel/joel/148.ts
-#EXTINF:-1,Sony Max
-http://149.202.70.7:8000/live/joel/joel/149.ts
-#EXTINF:-1,MVM
-http://149.202.70.7:8000/live/joel/joel/150.ts
-#EXTINF:-1,MTV Portugal
-http://149.202.70.7:8000/live/joel/joel/151.ts
-#EXTINF:-1,MCM POP
-http://149.202.70.7:8000/live/joel/joel/152.ts
-#EXTINF:-1,SPORTV +
-http://149.202.70.7:8000/live/joel/joel/153.ts
-#EXTINF:-1,SYFY
-http://149.202.70.7:8000/live/joel/joel/145.ts
-#EXTINF:-1,SIC K
-http://149.202.70.7:8000/live/joel/joel/146.ts
-#EXTINF:-1,Kombat Sport
-http://149.202.70.7:8000/live/joel/joel/143.ts
-#EXTINF:-1,CaçaVision
-http://149.202.70.7:8000/live/joel/joel/144.ts
-#EXTINF:-1,SIC MULHER
-http://149.202.70.7:8000/live/joel/joel/137.ts
-#EXTINF:-1,FUEL TV
-http://149.202.70.7:8000/live/joel/joel/138.ts
-#EXTINF:-1,FTV
-http://149.202.70.7:8000/live/joel/joel/139.ts
-#EXTINF:-1,EUROSPORT NEWS
-http://149.202.70.7:8000/live/joel/joel/140.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://149.202.70.7:8000/live/joel/joel/141.ts
-#EXTINF:-1,A&E
-http://149.202.70.7:8000/live/joel/joel/142.ts
-#EXTINF:-1,VH1 Classic
-http://149.202.70.7:8000/live/joel/joel/120.ts
-#EXTINF:-1,VH1
-http://149.202.70.7:8000/live/joel/joel/133.ts
-#EXTINF:-1,TV Galicia
-http://149.202.70.7:8000/live/joel/joel/121.ts
-#EXTINF:-1,Tele Sur
-http://149.202.70.7:8000/live/joel/joel/122.ts
-#EXTINF:-1,SIC Radical
-http://149.202.70.7:8000/live/joel/joel/123.ts
-#EXTINF:-1,RTP Africa
-http://149.202.70.7:8000/live/joel/joel/124.ts
-#EXTINF:-1,NAT GEO WILD
-http://149.202.70.7:8000/live/joel/joel/131.ts
-#EXTINF:-1,MCM TOP
-http://149.202.70.7:8000/live/joel/joel/132.ts
-#EXTINF:-1,Globo Premium
-http://149.202.70.7:8000/live/joel/joel/125.ts
-#EXTINF:-1,FOX Comedy
-http://149.202.70.7:8000/live/joel/joel/127.ts
-#EXTINF:-1,Disney Junior
-http://149.202.70.7:8000/live/joel/joel/126.ts
-#EXTINF:-1,https://iptv.zone/en CNBC
-http://149.202.70.7:8000/live/joel/joel/134.ts
-#EXTINF:-1,CARTOON NETWORK
-http://149.202.70.7:8000/live/joel/joel/135.ts
-#EXTINF:-1,CANCAO NOVA
-http://149.202.70.7:8000/live/joel/joel/129.ts
-#EXTINF:-1,CANAL Q
-http://149.202.70.7:8000/live/joel/joel/130.ts
-#EXTINF:-1,24 Kitchen HD
-http://149.202.70.7:8000/live/joel/joel/119.ts
-#EXTINF:-1,TVI Reality Mosaico
-http://149.202.70.7:8000/live/joel/joel/114.ts
-#EXTINF:-1,TVI Reality Camera 4
-http://149.202.70.7:8000/live/joel/joel/115.ts
-#EXTINF:-1,TVI Reality Camera 3
-http://149.202.70.7:8000/live/joel/joel/116.ts
-#EXTINF:-1,TVI Reality Camera 2
-http://149.202.70.7:8000/live/joel/joel/117.ts
-#EXTINF:-1,TVI Reality Camera 1
-http://149.202.70.7:8000/live/joel/joel/118.ts
-#EXTINF:-1,Eurosport 2 Extra
-http://149.202.70.7:8000/live/joel/joel/113.ts
-#EXTINF:-1,FIGHT NETWORK HD
-http://149.202.70.7:8000/live/joel/joel/112.ts
-#EXTINF:-1,TVI FICCAO
-http://149.202.70.7:8000/live/joel/joel/100.ts
-#EXTINF:-1,SPORTV 5 LQ
-http://149.202.70.7:8000/live/joel/joel/99.ts
-#EXTINF:-1,SPORTV 4 LQ
-http://149.202.70.7:8000/live/joel/joel/98.ts
-#EXTINF:-1,SPORTV 3 LQ
-http://149.202.70.7:8000/live/joel/joel/97.ts
-#EXTINF:-1,SPORTV 2 LQ
-http://149.202.70.7:8000/live/joel/joel/96.ts
-#EXTINF:-1,SPORTV 1 LQ
-http://149.202.70.7:8000/live/joel/joel/95.ts
-#EXTINF:-1,VENUS
-http://149.202.70.7:8000/live/joel/joel/3.ts
-#EXTINF:-1,TVI REALITY
-http://149.202.70.7:8000/live/joel/joel/79.ts
-#EXTINF:-1,TVI 24
-http://149.202.70.7:8000/live/joel/joel/87.ts
-#EXTINF:-1,TVI
-http://149.202.70.7:8000/live/joel/joel/90.ts
-#EXTINF:-1,TVCINE 4
-http://149.202.70.7:8000/live/joel/joel/56.ts
-#EXTINF:-1,TVCINE 3
-http://149.202.70.7:8000/live/joel/joel/57.ts
-#EXTINF:-1,TVCINE 2
-http://149.202.70.7:8000/live/joel/joel/58.ts
-#EXTINF:-1,TVCINE 1
-http://149.202.70.7:8000/live/joel/joel/59.ts
-#EXTINF:-1,TV SERIES
-http://149.202.70.7:8000/live/joel/joel/55.ts
-#EXTINF:-1,TV RECORD
-http://149.202.70.7:8000/live/joel/joel/33.ts
-#EXTINF:-1,TV GLOBO
-http://149.202.70.7:8000/live/joel/joel/32.ts
-#EXTINF:-1,TRACE TV
-http://149.202.70.7:8000/live/joel/joel/29.ts
-#EXTINF:-1,TOROS TV
-http://149.202.70.7:8000/live/joel/joel/27.ts
-#EXTINF:-1,TLC
-http://149.202.70.7:8000/live/joel/joel/43.ts
-#EXTINF:-1,SPORTV 5
-http://149.202.70.7:8000/live/joel/joel/69.ts
-#EXTINF:-1,SPORTV 4
-http://149.202.70.7:8000/live/joel/joel/71.ts
-#EXTINF:-1,SPORTV 3
-http://149.202.70.7:8000/live/joel/joel/73.ts
-#EXTINF:-1,SPORTV 2
-http://149.202.70.7:8000/live/joel/joel/75.ts
-#EXTINF:-1,SPORTV 1
-http://149.202.70.7:8000/live/joel/joel/77.ts
-#EXTINF:-1,SPORTING TV
-http://149.202.70.7:8000/live/joel/joel/65.ts
-#EXTINF:-1,Santuario fatima
-http://149.202.70.7:8000/live/joel/joel/24.ts
-#EXTINF:-1,SIC NOTICIAS
-http://149.202.70.7:8000/live/joel/joel/88.ts
-#EXTINF:-1,SIC CARAS
-http://149.202.70.7:8000/live/joel/joel/80.ts
-#EXTINF:-1,SIC
-http://149.202.70.7:8000/live/joel/joel/91.ts
-#EXTINF:-1,SEXTREME
-http://149.202.70.7:8000/live/joel/joel/1.ts
-#EXTINF:-1,RTP MEMORIA
-http://149.202.70.7:8000/live/joel/joel/83.ts
-#EXTINF:-1,RTP MADEIRA
-http://149.202.70.7:8000/live/joel/joel/82.ts
-#EXTINF:-1,RTP AÇORES
-http://149.202.70.7:8000/live/joel/joel/81.ts
-#EXTINF:-1,RTP 3
-http://149.202.70.7:8000/live/joel/joel/89.ts
-#EXTINF:-1,RTP 2
-http://149.202.70.7:8000/live/joel/joel/92.ts
-#EXTINF:-1,RTP 1
-http://149.202.70.7:8000/live/joel/joel/93.ts
-#EXTINF:-1,REGIOES
-http://149.202.70.7:8000/live/joel/joel/84.ts
-#EXTINF:-1,PORTO CANAL
-http://149.202.70.7:8000/live/joel/joel/85.ts
-#EXTINF:-1,PLAYBOY
-http://149.202.70.7:8000/live/joel/joel/4.ts
-#EXTINF:-1,PFC
-http://149.202.70.7:8000/live/joel/joel/63.ts
-#EXTINF:-1,ODISSEIA
-http://149.202.70.7:8000/live/joel/joel/41.ts
-#EXTINF:-1,NICKELODEON
-http://149.202.70.7:8000/live/joel/joel/35.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://149.202.70.7:8000/live/joel/joel/39.ts
-#EXTINF:-1,MTV DANCE
-http://149.202.70.7:8000/live/joel/joel/30.ts
-#EXTINF:-1,MOV
-http://149.202.70.7:8000/live/joel/joel/52.ts
-#EXTINF:-1,MEZZO
-http://149.202.70.7:8000/live/joel/joel/31.ts
-#EXTINF:-1,JIM JAM
-http://149.202.70.7:8000/live/joel/joel/38.ts
-#EXTINF:-1,https://iptv.zone/en HOT
-http://149.202.70.7:8000/live/joel/joel/2.ts
-#EXTINF:-1,HOLLYWOOD
-http://149.202.70.7:8000/live/joel/joel/54.ts
-#EXTINF:-1,FRANCE 24
-http://149.202.70.7:8000/live/joel/joel/78.ts
-#EXTINF:-1,FOX MOVIES
-http://149.202.70.7:8000/live/joel/joel/50.ts
-#EXTINF:-1,FOX LIFE
-http://149.202.70.7:8000/live/joel/joel/45.ts
-#EXTINF:-1,FOX CRIME
-http://149.202.70.7:8000/live/joel/joel/44.ts
-#EXTINF:-1,FOX
-http://149.202.70.7:8000/live/joel/joel/46.ts
-#EXTINF:-1,EUROSPORT 2
-http://149.202.70.7:8000/live/joel/joel/61.ts
-#EXTINF:-1,EUROSPORT 1
-http://149.202.70.7:8000/live/joel/joel/62.ts
-#EXTINF:-1,EURONEWS
-http://149.202.70.7:8000/live/joel/joel/25.ts
-#EXTINF:-1,DW 1
-http://149.202.70.7:8000/live/joel/joel/23.ts
-#EXTINF:-1,DISNEY
-http://149.202.70.7:8000/live/joel/joel/37.ts
-#EXTINF:-1,DISCOVERY
-http://149.202.70.7:8000/live/joel/joel/40.ts
-#EXTINF:-1,CMTV
-http://149.202.70.7:8000/live/joel/joel/86.ts
-#EXTINF:-1,CINEMUNDO
-http://149.202.70.7:8000/live/joel/joel/53.ts
-#EXTINF:-1,CANAL PANDA
-http://149.202.70.7:8000/live/joel/joel/36.ts
-#EXTINF:-1,CANAL HISTORIA
-http://149.202.70.7:8000/live/joel/joel/42.ts
-#EXTINF:-1,CAÇA E PESCA
-http://149.202.70.7:8000/live/joel/joel/26.ts
-#EXTINF:-1,BTV 2
-http://149.202.70.7:8000/live/joel/joel/66.ts
-#EXTINF:-1,BTV 1
-http://149.202.70.7:8000/live/joel/joel/67.ts
-#EXTINF:-1,BOLA TV
-http://149.202.70.7:8000/live/joel/joel/64.ts
-#EXTINF:-1,BABY FIRST
-http://149.202.70.7:8000/live/joel/joel/34.ts
-#EXTINF:-1,AXN WHITE
-http://149.202.70.7:8000/live/joel/joel/48.ts
-#EXTINF:-1,AXN BLACK
-http://149.202.70.7:8000/live/joel/joel/47.ts
-#EXTINF:-1,AXN
-http://149.202.70.7:8000/live/joel/joel/49.ts
-#EXTINF:-1,AMC
-http://149.202.70.7:8000/live/joel/joel/51.ts
-#EXTINF:-1,AFROMUSIC
-http://149.202.70.7:8000/live/joel/joel/28.ts
-#EXTINF:-1,ICONCERTOS HD
-http://149.202.70.7:8000/live/joel/joel/94.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/493.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/492.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/569.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/567.ts
-#EXTINF:-1,IT: Sky Sport 24
-http://62.4.21.70:8000/live/tripoli/tripoli/491.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/568.ts
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/501.ts
-#EXTINF:-1,IT: Sky Calcio 2
-http://62.4.21.70:8000/live/tripoli/tripoli/500.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/566.ts
-#EXTINF:-1,IT: Sky Sport MotoGP HD
-http://62.4.21.70:8000/live/tripoli/tripoli/631.ts
-#EXTINF:-1,IT: Sky Super tennis HD
-http://62.4.21.70:8000/live/tripoli/tripoli/490.ts
-#EXTINF:-1,IT: SKY CINEMA 1 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/498.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://62.4.21.70:8000/live/tripoli/tripoli/495.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://62.4.21.70:8000/live/tripoli/tripoli/497.ts
-#EXTINF:-1,IT: Sky Cinema Hits
-http://62.4.21.70:8000/live/tripoli/tripoli/628.ts
-#EXTINF:-1,IT: Sky Cinema Classics HD
-http://62.4.21.70:8000/live/tripoli/tripoli/629.ts
-#EXTINF:-1,IT:Premium Studio Universal
-http://62.4.21.70:8000/live/tripoli/tripoli/779.ts
-#EXTINF:-1,IT:Premium Sport HD
-http://62.4.21.70:8000/live/tripoli/tripoli/778.ts
-#EXTINF:-1,IT:Premium Joi
-http://62.4.21.70:8000/live/tripoli/tripoli/780.ts
-#EXTINF:-1,IT:Premium EuroSport 1 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/786.ts
-#EXTINF:-1,IT:Premium EuroSport 2 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/787.ts
-#EXTINF:-1,IT:Premium Energy
-http://62.4.21.70:8000/live/tripoli/tripoli/788.ts
-#EXTINF:-1,IT:Premium Emotion
-http://62.4.21.70:8000/live/tripoli/tripoli/789.ts
-#EXTINF:-1,IT:Premium Disney Junior
-http://62.4.21.70:8000/live/tripoli/tripoli/791.ts
-#EXTINF:-1,IT:Premium Disney Channel
-http://62.4.21.70:8000/live/tripoli/tripoli/792.ts
-#EXTINF:-1,IT:Premium Discovery World
-http://62.4.21.70:8000/live/tripoli/tripoli/801.ts
-#EXTINF:-1,IT:Premium Crime
-http://62.4.21.70:8000/live/tripoli/tripoli/793.ts
-#EXTINF:-1,IT:Premium Comedy
-http://62.4.21.70:8000/live/tripoli/tripoli/794.ts
-#EXTINF:-1,IT:Premium Cinema 2 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/797.ts
-#EXTINF:-1,IT:Premium Cinema Plus 24
-http://62.4.21.70:8000/live/tripoli/tripoli/795.ts
-#EXTINF:-1,IT:Premium Cinema
-http://62.4.21.70:8000/live/tripoli/tripoli/796.ts
-#EXTINF:-1,IT:Premium Cartoon Network
-http://62.4.21.70:8000/live/tripoli/tripoli/790.ts
-#EXTINF:-1,IT:Premium Calcio HD
-http://62.4.21.70:8000/live/tripoli/tripoli/782.ts
-#EXTINF:-1,IT:Premium Calcio 1 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/783.ts
-#EXTINF:-1,IT:Premium Calcio 2
-http://62.4.21.70:8000/live/tripoli/tripoli/784.ts
-#EXTINF:-1,IT:Premium Calcio 3
-http://62.4.21.70:8000/live/tripoli/tripoli/785.ts
-#EXTINF:-1,IT:Premium Calcio
-http://62.4.21.70:8000/live/tripoli/tripoli/781.ts
-#EXTINF:-1,IT:Premium BBC Knowledge
-http://62.4.21.70:8000/live/tripoli/tripoli/798.ts
-#EXTINF:-1,IT:Premium BBC
-http://62.4.21.70:8000/live/tripoli/tripoli/799.ts
-#EXTINF:-1,IT:Premium Action HD
-http://62.4.21.70:8000/live/tripoli/tripoli/800.ts
-#EXTINF:-1,IT: RSI La 1 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/633.ts
-#EXTINF:-1,IT: RSI La 2
-http://62.4.21.70:8000/live/tripoli/tripoli/632.ts
-#EXTINF:-1,IT: Rai Sport 1
-http://62.4.21.70:8000/live/tripoli/tripoli/627.ts
-#EXTINF:-1,IT: Rai Sport 2
-http://62.4.21.70:8000/live/tripoli/tripoli/630.ts
-#EXTINF:-1,IT: RAI PREMIUM
-http://62.4.21.70:8000/live/tripoli/tripoli/626.ts
-#EXTINF:-1,IT: Rai 1
-http://62.4.21.70:8000/live/tripoli/tripoli/510.ts
-#EXTINF:-1,IT: RAI 2 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/623.ts
-#EXTINF:-1,IT: RAI 3 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/624.ts
-#EXTINF:-1,IT: Rai 4
-http://62.4.21.70:8000/live/tripoli/tripoli/625.ts
-#EXTINF:-1,IT: National Geo HD
-http://62.4.21.70:8000/live/tripoli/tripoli/634.ts
-#EXTINF:-1,IT: NatGeo Wild HD
-http://62.4.21.70:8000/live/tripoli/tripoli/635.ts
-#EXTINF:-1,IT: NatGeo People HD
-http://62.4.21.70:8000/live/tripoli/tripoli/636.ts
-#EXTINF:-1,IT: Milan Channel
-http://62.4.21.70:8000/live/tripoli/tripoli/637.ts
-#EXTINF:-1,IT: Mediaset Italia due
-http://62.4.21.70:8000/live/tripoli/tripoli/638.ts
-#EXTINF:-1,IT: JUVE CHANNEL
-http://62.4.21.70:8000/live/tripoli/tripoli/639.ts
-#EXTINF:-1,IT: Italia 1
-http://62.4.21.70:8000/live/tripoli/tripoli/640.ts
-#EXTINF:-1,IT: Inter
-http://62.4.21.70:8000/live/tripoli/tripoli/641.ts
-#EXTINF:-1,IT: FOX SPORT
-http://62.4.21.70:8000/live/tripoli/tripoli/643.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://62.4.21.70:8000/live/tripoli/tripoli/645.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://62.4.21.70:8000/live/tripoli/tripoli/646.ts
-#EXTINF:-1,IT: Disney Juniour
-http://62.4.21.70:8000/live/tripoli/tripoli/648.ts
-#EXTINF:-1,IT: Discovery World
-http://62.4.21.70:8000/live/tripoli/tripoli/649.ts
-#EXTINF:-1,IT: Discovery Sci HD
-http://62.4.21.70:8000/live/tripoli/tripoli/650.ts
-#EXTINF:-1,IT: Discovery HD
-http://62.4.21.70:8000/live/tripoli/tripoli/651.ts
-#EXTINF:-1,IT: CARTOONITO
-http://62.4.21.70:8000/live/tripoli/tripoli/652.ts
-#EXTINF:-1,IT: CARTOON NETWORK
-http://62.4.21.70:8000/live/tripoli/tripoli/653.ts
-#EXTINF:-1,IT: Canale 5
-http://62.4.21.70:8000/live/tripoli/tripoli/654.ts
-#EXTINF:-1,IT: Boing
-http://62.4.21.70:8000/live/tripoli/tripoli/655.ts
-#EXTINF:-1,IT: AXN
-http://62.4.21.70:8000/live/tripoli/tripoli/656.ts
-#EXTINF:-1,IT: Prima Fila 3 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/618.ts
-#EXTINF:-1,IT: Prima Fila 4 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/619.ts
-#EXTINF:-1,IT: Prima Fila 5 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/620.ts
-#EXTINF:-1,PRIMAFILA 6 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/560.ts
-#EXTINF:-1,PRIMAFILA 7 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/559.ts
-#EXTINF:-1,IT: Prima Fila 8 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/621.ts
-#EXTINF:-1,IT: Prima Fila 9 HD
-http://62.4.21.70:8000/live/tripoli/tripoli/622.ts
-#EXTINF:-1,IT:_Prima_Fila_10
-http://62.4.21.70:8000/live/tripoli/tripoli/2631.ts
-#EXTINF:-1,IT:_Prima_Fila_12
-http://62.4.21.70:8000/live/tripoli/tripoli/2632.ts
-#EXTINF:-1,ES: NOVA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9998.ts
-#EXTINF:-1,ES: Telesur
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9985.ts
-#EXTINF:-1,ES: 24 HORAS
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10082.ts
-#EXTINF:-1,ES: TVI Internacional
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9982.ts
-#EXTINF:-1,ES: RT NEWS ENG
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9990.ts
-#EXTINF:-1,ES: CANAL SUR ANDALUCIA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10038.ts
-#EXTINF:-1,ES: ARAGON TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10077.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10078.ts
-#EXTINF:-1,ES: AJE
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10080.ts
-#EXTINF:-1,ES: 40 TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10024.ts
-#EXTINF:-1,ES: NHK WORLD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10000.ts
-#EXTINF:-1,ES: LOS 40
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10010.ts
-#EXTINF:-1,ES: FRANCE 24-EN
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10018.ts
-#EXTINF:-1,ES: EHS
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10026.ts
-#EXTINF:-1,ES: DIVINITY
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10027.ts
-#EXTINF:-1,ES: Canal Extremadura SAT
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10040.ts
-#EXTINF:-1,ES: BAR TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10073.ts
-#EXTINF:-1,ES: Parlamento
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9995.ts
-#EXTINF:-1,ES: RT
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9991.ts
-#EXTINF:-1,ES: C  ESTRENOS
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10054.ts
-#EXTINF:-1,ES: C XTRA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10045.ts
-#EXTINF:-1,ES: C  ACCION HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10057.ts
-#EXTINF:-1,ES: C COMEDIA HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10046.ts
-#EXTINF:-1,ES: C  DCINE HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10056.ts
-#EXTINF:-1,ES: DCINE
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10033.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10016.ts
-#EXTINF:-1,ES: TCM
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9988.ts
-#EXTINF:-1,ES: PARAMOUNT
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9996.ts
-#EXTINF:-1,ES: TNT HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9984.ts
-#EXTINF:-1,ES: #0 HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10083.ts
-#EXTINF:-1,ES: C  SERIES HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10048.ts
-#EXTINF:-1,ES: C  Series Xtra HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10047.ts
-#EXTINF:-1,ES: FOX HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10020.ts
-#EXTINF:-1,ES: FOX LIFE HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10019.ts
-#EXTINF:-1,ES: AMC HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10079.ts
-#EXTINF:-1,ES: AXN HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10076.ts
-#EXTINF:-1,ES: AXN WHITE
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10075.ts
-#EXTINF:-1,ES: SYFY
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9989.ts
-#EXTINF:-1,ES: CALLE 13
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10043.ts
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10036.ts
-#EXTINF:-1,ES: COSMOPOLITAN HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10035.ts
-#EXTINF:-1,ES: ESTRELAS
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10023.ts
-#EXTINF:-1,ES: ENERGY
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10025.ts
-#EXTINF:-1,ES: TOROS
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9983.ts
-#EXTINF:-1,ES: LTC
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10009.ts
-#EXTINF:-1,ES: C  PORTADA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10049.ts
-#EXTINF:-1,ES: C  DEPORTES
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10055.ts
-#EXTINF:-1,ES: DEPORTES 2
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10032.ts
-#EXTINF:-1,ES: C  FTBOL
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10053.ts
-#EXTINF:-1,ES: C  FUTBOL HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10052.ts
-#EXTINF:-1,ES: REAL MADRID TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9992.ts
-#EXTINF:-1,ES: LALIGA TV BAR
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10356.ts
-#EXTINF:-1,ES: BEIN LALIGA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10072.ts
-#EXTINF:-1,ES: BEIN LALIGA HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10071.ts
-#EXTINF:-1,ES: BEIN SPORT
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10070.ts
-#EXTINF:-1,ES: BEIN SPORT HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10069.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 1
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10068.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 2
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10066.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 3
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10065.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 4
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10064.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 5
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10063.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 6
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10062.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 7
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10061.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 8
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10060.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 9
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10059.ts
-#EXTINF:-1,ES: BEIN SPORT MAX 10
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10067.ts
-#EXTINF:-1,ES: EUROSPORT 1
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10022.ts
-#EXTINF:-1,ES: EUROSPORT 2
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10021.ts
-#EXTINF:-1,ES: TELEDEPORTE
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9986.ts
-#EXTINF:-1,ES: C  GOLF HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10050.ts
-#EXTINF:-1,ES: MOVISTAR F1
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10006.ts
-#EXTINF:-1,ES: MOVISTAR F1 HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10005.ts
-#EXTINF:-1,ES: MOTOGP HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10007.ts
-#EXTINF:-1,ES: MOTO GP
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10008.ts
-#EXTINF:-1,ES: C  GOLF
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10051.ts
-#EXTINF:-1,ES: CANAL ODISEA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10039.ts
-#EXTINF:-1,ES: NAT GEOGRAPH
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10001.ts
-#EXTINF:-1,ES: NAT GEO WILD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10003.ts
-#EXTINF:-1,ES: NAT GEO WILD HD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10002.ts
-#EXTINF:-1,ES: C&I
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10044.ts
-#EXTINF:-1,ES: DISCOVERY
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10031.ts
-#EXTINF:-1,ES: HISTORIA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10017.ts
-#EXTINF:-1,ES: A&E
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10081.ts
-#EXTINF:-1,ES: CAZA Y PESCA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10037.ts
-#EXTINF:-1,ES: IBERALIA TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10015.ts
-#EXTINF:-1,ES: VIAJAR
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9981.ts
-#EXTINF:-1,ES: CANAL COCINA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10042.ts
-#EXTINF:-1,ES: CANAL DECASA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10041.ts
-#EXTINF:-1,ES: MTV ESPANA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10004.ts
-#EXTINF:-1,ES: DISNEY CH.
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10030.ts
-#EXTINF:-1,ES: DISNEY JR
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10029.ts
-#EXTINF:-1,ES: DISNEY XD
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10028.ts
-#EXTINF:-1,ES: BOING
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10058.ts
-#EXTINF:-1,ES: Nickelodeon
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9999.ts
-#EXTINF:-1,ES: PANDA
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/9997.ts
-#EXTINF:-1,ES: BABY TV
-http://bstream.nextfuturedays.net:8000/live/elvis/presley/10074.ts 
+#EXTINF:-1,------------ Spain TV ------------
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4880.ts
+#EXTINF:-1,ES - LTC
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7303.ts
+#EXTINF:-1,ES - LOS 40
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7251.ts
+#EXTINF:-1,ES - LALIGA TV BAR HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7241.ts
+#EXTINF:-1,ES - LALIGA TV BAR
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7240.ts
+#EXTINF:-1,ES - LA SEXTA HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7260.ts
+#EXTINF:-1,ES - TVI Internacional
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7325.ts
+#EXTINF:-1,ES - TNT HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7264.ts
+#EXTINF:-1,ES - TNT
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7324.ts
+#EXTINF:-1,ES - Telesur
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7323.ts
+#EXTINF:-1,ES - VIAJAR
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7326.ts
+#EXTINF:-1,ES - VH1
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7311.ts
+#EXTINF:-1,ES - TELECINCO HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7288.ts
+#EXTINF:-1,ES - TELEDEPORTE
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7322.ts
+#EXTINF:-1,ES - TELECINCO
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7321.ts
+#EXTINF:-1,ES - TCM HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7265.ts
+#EXTINF:-1,ES - TCM
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7320.ts
+#EXTINF:-1,ES - SYFY
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7319.ts
+#EXTINF:-1,ES - LA 1 HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7259.ts
+#EXTINF:-1,ES - LA 1
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7301.ts
+#EXTINF:-1,ES - LA 2
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7302.ts
+#EXTINF:-1,ES - LA SEXTA
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7304.ts
+#EXTINF:-1,ES - IBERALIA TV
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7300.ts
+#EXTINF:-1,ES - FRANCE 24-EN
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7299.ts
+#EXTINF:-1,ES - FOX LIFE HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7254.ts
+#EXTINF:-1,ES - FOX HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7253.ts
+#EXTINF:-1,ES - ES-40 TV
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7297.ts
+#EXTINF:-1,ES - ENERGY
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7296.ts
+#EXTINF:-1,ES - EHS
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7295.ts
+#EXTINF:-1,ES - DIVINITY
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7294.ts
+#EXTINF:-1,ES - C  SERIES HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7255.ts
+#EXTINF:-1,ES - BABY TV
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7273.ts
+#EXTINF:-1,ES - AXN HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7246.ts
+#EXTINF:-1,ES - ARAGON TV
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7272.ts
+#EXTINF:-1,ES - ANTENA 3 HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7245.ts
+#EXTINF:-1,ES - ANTENA 3
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7271.ts
+#EXTINF:-1,ES - MOVISTAR XTRA
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7287.ts
+#EXTINF:-1,ES - MOVISTAR PORTADA
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7286.ts
+#EXTINF:-1,ES - MOVISTAR DCINE HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7249.ts
+#EXTINF:-1,ES - MOVISTAR COMEDIA HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7257.ts
+#EXTINF:-1,ES - MOVISTAR ACCI©N HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7248.ts
+#EXTINF:-1,ES - MOVISTAR  Series Xtra HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7256.ts
+#EXTINF:-1,ES - AMC HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7247.ts
+#EXTINF:-1,ES - AMC
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7270.ts
+#EXTINF:-1,ES - AJE
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7269.ts
+#EXTINF:-1,ES - A&E
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7268.ts
+#EXTINF:-1,ES - 24 HORAS
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7266.ts
+#EXTINF:-1,ES - #0 HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7244.ts
+#EXTINF:-1,ES - CUATRO HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7252.ts
+#EXTINF:-1,ES - COSMOPOLITAN HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7250.ts
+#EXTINF:-1,ES - COSMO
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7292.ts
+#EXTINF:-1,ES - CAZA Y PESCA HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7242.ts
+#EXTINF:-1,ES - CASTILLA LA MANCHA
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7243.ts
+#EXTINF:-1,ES - CANAL SUR ANDALUCIA
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7291.ts
+#EXTINF:-1,ES - CANAL ODISEA
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7290.ts
+#EXTINF:-1,ES - Canal Extremadura SAT
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7289.ts
+#EXTINF:-1,ES - Fox
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4870.ts
+#EXTINF:-1,ES - Fox Life
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4871.ts
+#EXTINF:-1,ES - AXN White
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4853.ts
+#EXTINF:-1,ES - AXN
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4852.ts
+#EXTINF:-1,ES - Comedy Central
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4861.ts
+#EXTINF:-1,ES - RT NEWS ENG
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7267.ts
+#EXTINF:-1,ES - RT
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7318.ts
+#EXTINF:-1,ES - QUATRO
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7317.ts
+#EXTINF:-1,ES - Parlamento
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7315.ts
+#EXTINF:-1,ES - PARAMOUNT
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7314.ts
+#EXTINF:-1,ES - NOVA
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7313.ts
+#EXTINF:-1,ES - NHK WORLD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7312.ts
+#EXTINF:-1,ES - NAT GEO WILD HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7263.ts
+#EXTINF:-1,ES - Hollywood
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4869.ts
+#EXTINF:-1,ES - National Geographic
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4867.ts
+#EXTINF:-1,ES - Nat Geo Wild
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4866.ts
+#EXTINF:-1,ES - Historia
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4868.ts
+#EXTINF:-1,ES - MEZZO
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4878.ts
+#EXTINF:-1,ES - Discovery
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4874.ts
+#EXTINF:-1,ES - CI
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4860.ts
+#EXTINF:-1,ES - Caza Y Pesca
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4859.ts
+#EXTINF:-1,ES - Canal Decasa
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4857.ts
+#EXTINF:-1,ES - Canal Cocina
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4856.ts
+#EXTINF:-1,ES - Calle 13
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4855.ts
+#EXTINF:-1,ES - C  Toros
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4863.ts
+#EXTINF:-1,ES - C  Series Extra
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4850.ts
+#EXTINF:-1,ES - C  Series
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4849.ts
+#EXTINF:-1,ES - C  Estrenos
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4848.ts
+#EXTINF:-1,ES - C  Dcine
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4847.ts
+#EXTINF:-1,ES - C  Comedia
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4846.ts
+#EXTINF:-1,ES - C  Accion
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4845.ts
+#EXTINF:-1,ES - DISNEY JR
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7293.ts
+#EXTINF:-1,ES - Nickelodeon
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4877.ts
+#EXTINF:-1,ES - Disney XD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4876.ts
+#EXTINF:-1,ES - Disney Channel
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4875.ts
+#EXTINF:-1,ES - Canal Panda
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4858.ts
+#EXTINF:-1,ES - Boing Tv
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4844.ts
+#EXTINF:-1,ES - MTV ROCK
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7308.ts
+#EXTINF:-1,ES - MTV HITS
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7309.ts
+#EXTINF:-1,ES - MTV ESPA¹A
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7307.ts
+#EXTINF:-1,ES - MTV DANCE
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7310.ts
+#EXTINF:-1,ES - Canal + Liga
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/403.ts
+#EXTINF:-1,ES - Canal + Liga 2
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4862.ts
+#EXTINF:-1,ES - Canal + Deportes
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/405.ts
+#EXTINF:-1,ES - Canal +  Deportes 2
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4851.ts
+#EXTINF:-1,ES - Canal + Fotball
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/404.ts
+#EXTINF:-1,ES - BEIN LALIGA HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7261.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 1
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7275.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 2
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7276.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 3
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7277.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 4
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7278.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 5
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7279.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 6
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7280.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 7
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7281.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 8
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7282.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 9
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7283.ts
+#EXTINF:-1,ES - BEIN SPORT MAX 10
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7284.ts
+#EXTINF:-1,ES - Real Madrid TV
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4879.ts
+#EXTINF:-1,ES - BARCA TV
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4854.ts
+#EXTINF:-1,ES - Bein Sport
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4843.ts
+#EXTINF:-1,ES - GOL TV
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7298.ts
+#EXTINF:-1,ES - MOVISTAR FUTBOL HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7262.ts
+#EXTINF:-1,ES - MOVISTAR F1
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7306.ts
+#EXTINF:-1,ES - MOVISTAR GOLF HD
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7258.ts
+#EXTINF:-1,ES - MOVISTAR  GOLF
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7285.ts
+#EXTINF:-1,ES - Eurosport 1
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4872.ts
+#EXTINF:-1,ES - Eurosport 2
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4873.ts
+#EXTINF:-1,ES - MOVISTAR MOTO GP
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/7305.ts
+#EXTINF:-1,ES - Moviestar MOTOGP
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4864.ts
+#EXTINF:-1,ES - Moviestar F1
+http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/4865.ts
+ 
+
+
 
 
