@@ -43,37 +43,5 @@ http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
 http://hlslive.rtve.es/TDP_LV3_IPH/master.m3u8
 #EXTINF:-1 $ExtFilter="Español" group-title="DEPORTES" tvg-logo="..\Channel\logo\Real Madrid Tv.png",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="TDT" tvg-logo="..\Channel\Logo\proyecto 40.png",Proyecto 40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="TDT" tvg-logo="..\Channel\Logo\telesistema.png",Telesistema
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="TDT" tvg-logo="..\Channel\logo\Canal once Mexico.jpg",Canal 11 MEX Internacional
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="TDT" tvg-logo="..\Channel\Logo\TV Chile.png",TV Chile
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="TDT" tvg-logo="..\Channel\Logo\El Trece.jpg",El Trece
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
-#EXTINF:-1 $ExtFilter="Latino" group-title="TDT" tvg-logo="..\Channel\Logo\Azteca Trece.png",Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="TDT" tvg-logo="..\Channel\Logo\Canal 9.png",Canal 9 HD
-http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="TDT" tvg-logo="..\Channel\Logo\Canal De Las Estrellas.jpg",Canal De Las Estrellas
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="MUSICA" tvg-logo="..\Channel\Logo\VEVO.png",Vevo HD 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="MUSICA" tvg-logo="..\Channel\Logo\VEVO.png",Vevo HD 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="MUSICA" tvg-logo="..\Channel\Logo\VEVO.png",Vevo HD 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1 $ExtFilter="Latino" group-title="NOTICIAS" tvg-logo="..\Channel\Logo\azteca noticias.jpg",Azteca Noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_2_av-p.m3u8
-#EXTINF:-1 $ExtFilter="Ingles" group-title="DOCUMENTALES" tvg-logo="..\Channel\Logo\NASA TV.png",Nasa Tv
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
-#EXTINF:-1 $ExtFilter="Ingles" group-title="MUSICA" tvg-logo="..\Channel\Logo\Melody Channel Tv.png",Melody channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Ingles" group-title="MUSICA" tvg-logo="..\Channel\Logo\heart tv.png",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 $ExtFilter="Ingles" group-title="MUSICA" tvg-logo="..\Channel\Logo\Capital Tv.gif",Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 $ExtFilter="Ingles" group-title="NOTICIAS" tvg-logo="..\Channel\Logo\CNN International.png",CNN Internacional
-http://edge1.everyon.tv/etv1sb/pld16/chunklist_w535411323.m3u8
+
+
