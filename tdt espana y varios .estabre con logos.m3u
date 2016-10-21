@@ -33,3 +33,8 @@ http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
 http://hlslive.rtve.es/TDP_LV3_IPH/master.m3u8
 #EXTINF:-1 $ExtFilter="Español" group-title="DEPORTES" tvg-logo="..\Channel\logo\Real Madrid Tv.png",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> origin/master
