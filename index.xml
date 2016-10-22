@@ -44,7 +44,7 @@
 </item> 
 
 <item>
-<title>-[COLOR red] TDT[/COLOR]</title>
+<title>-[COLOR orange] TDT[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -52,7 +52,7 @@
 </item> 
 
 <item>
-<title>-[COLOR red] OTROS PAISES[/COLOR]</title>
+<title>-[COLOR brown] OTROS PAISES[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -60,7 +60,7 @@
 </item> 
 
 <item>
-<title>-[COLOR red] XXX[/COLOR]</title>
+<title>-[COLOR green] XXX[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -68,7 +68,7 @@
 </item> 
 
 <item>
-<title>-[COLOR yellow]Pruebas JHG[/COLOR]</title>
+<title>-[COLOR purple]Pruebas JHG[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -76,7 +76,7 @@
 </item> 
 
 <item>
-<title>-[COLOR yellow]Locuras JHG[/COLOR]</title>
+<title>-[COLOR white]Locuras JHG[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -85,20 +85,13 @@
 
 
 <item>
-<title>-[COLOR yellow]2500 peliculas[/COLOR]</title>
+<title>-[COLOR white]2500 peliculas[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/lokiyotnt2.m3u</externallink>	
 </item> 
 
-<item>
-<title>-[COLOR green]JHG[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/chwlibre/iptv/master/list1.m3u</externallink>	
-</item> 
 
 <item>
 <title>-[COLOR blue]Fase 2[/COLOR]</title>
