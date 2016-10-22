@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1,La 1 HD.
+http://37.134.190.136:9981/stream/channelid/1809011844?ticket=2C15579EDBB7C7C0481FEAA7FD2340DD374D9297&profile=pass
+#EXTINF:-1,La 2
+http://37.134.190.136:9981/stream/channelid/58826638?ticket=E97DCB6C547C73DEB5627BF0657F6E0ECA905E59&profile=pass
+#EXTINF:-1,antena3 HD
+http://37.134.190.136:9981/stream/channelid/369952653?ticket=45D94C044CC41EEDC8C9257993E82A6E8A12FDD3&profile=pass
+#EXTINF:-1,Cuatro HD
+http://37.134.190.136:9981/stream/channelid/160423494?ticket=85B812073F201A946D67049C602FD3A67233C46C&profile=pass
+#EXTINF:-1,Telecinco HD
+http://37.134.190.136:9981/stream/channelid/1934387701?ticket=F4B78A85123260DEA7688EED96229E4A1F1A716A&profile=pass
+#EXTINF:-1,laSexta HD
+http://37.134.190.136:9981/stream/channelid/1060149207?ticket=3AB1FEB3696C25949E90704CB2AF73E5BAB76816&profile=pass
+#EXTINF:-1,Telemadrid HD
+http://37.134.190.136:9981/stream/channelid/972019527?ticket=802DC970EA893467CA369A7FCC3FB7CB8F3E2AFB&profile=pass
+#EXTINF:-1,Clan
+http://37.134.190.136:9981/stream/channelid/913743849?ticket=C8B4B1002E583D2FD74A1EF9A930B0D834E14224&profile=pass
+#EXTINF:-1,7Discovery MAX
+http://37.134.190.136:9981/stream/channelid/1067733908?ticket=AA1B6908BCAB3FE721E7B91B5922CB4D404D0466&profile=pass
+#EXTINF:-1,tdp HD
+http://37.134.190.136:9981/stream/channelid/505464770?ticket=14442010D03B985264F7A18FD3365AF74086D336&profile=pass
+#EXTINF:-1,FDF
+http://37.134.190.136:9981/stream/channelid/752761120?ticket=97389651C57CF76D645D98B09DA7DA31239A6EA7&profile=pass
+#EXTINF:-1,13 Tv Definitivo
+http://37.134.190.136:9981/stream/channelid/1391758822?ticket=E160E2339FFEB0EEBFAB7210639CD75A8215EFB3&profile=pass
+#EXTINF:-1,Disney Channel
+http://37.134.190.136:9981/stream/channelid/1359663572?ticket=245A36470CD91199E86F2FBCB474B067C9AF9AAD&profile=pass
+#EXTINF:-1,atreseries HD
+http://37.134.190.136:9981/stream/channelid/1311192516?ticket=E4BFD0F7135831AADC244F1E70107323189C1590&profile=pass
+#EXTINF:-1,neox
+http://37.134.190.136:9981/stream/channelid/1401874684?ticket=C7917C294160616B3A340F2C67C4FF68CA21890D&profile=pass
+#EXTINF:-1,Energy
+http://37.134.190.136:9981/stream/channelid/1523425294?ticket=ADA6E11202A4DC7DAC99F0C09D020AE7299D84B2&profile=pass
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://37.134.190.136:9981/stream/channelid/1793840007?ticket=730F858C41C1E347225AFFC10F9E67AF3F1A880D&profile=pass
+#EXTINF:-1,Boing
+http://37.134.190.136:9981/stream/channelid/125328594?ticket=D33AF9106C2AF5BD5AA594E8B06D3A29962A80CA&profile=pass
+#EXTINF:-1,LA OTRA
+http://37.134.190.136:9981/stream/channelid/305869934?ticket=241F91FA198C69872E95B5F197369786C8D9B591&profile=pass
+#EXTINF:-1,Kiss FM
+http://37.134.190.136:9981/stream/channelid/1266532194?ticket=ABC3DA6585DC6231A870409134D20F856D6A71FC&profile=pass
+#EXTINF:-1,BeMad tv HD
+http://37.134.190.136:9981/stream/channelid/453227743?ticket=147333C67138588E0C04D98A831ABFFCDB47D4DE&profile=pass
+#EXTINF:-1,24h
+http://37.134.190.136:9981/stream/channelid/2018911770?ticket=F68EB8944FDAF8DFDB5A3441506D74F3A8BEFB7C&profile=pass
+#EXTINF:-1,8madrid
+http://37.134.190.136:9981/stream/channelid/1063017181?ticket=8BCDEFC4EE3761574A18E29A17C9DC55881DFEB8&profile=pass
+#EXTINF:-1,Canal Galería
+http://37.134.190.136:9981/stream/channelid/1972677992?ticket=D64B8EEEFA3C750EEEA5E656BE0864FFA1121216&profile=pass
+#EXTINF:-1,Divinity
+http://37.134.190.136:9981/stream/channelid/1955352668?ticket=89AC7716A992C80CDB39826200A3B5546A5B3665&profile=pass
+#EXTINF:-1,EHS.TV
+http://37.134.190.136:9981/stream/channelid/147441191?ticket=9ADB84CEFEAFD93D0FF3A1AD32FF3FE5B65B5B4B&profile=pass
+#EXTINF:-1,Hit FM
+http://37.134.190.136:9981/stream/channelid/125628025?ticket=A84837421EDBB5D00B86B0450DE849C010C45C6B&profile=pass
+#EXTINF:-1,nova
+http://37.134.190.136:9981/stream/channelid/2036689528?ticket=780E128EE1F071EEF4322989FEF79280782F3F08&profile=pass
+#EXTINF:-1,ONDA MADRID
+http://37.134.190.136:9981/stream/channelid/1227227837?ticket=9EF8FB1D44303659FF3C414FB2499DCA0DD7392A&profile=pass
+#EXTINF:-1,proximamente
+http://37.134.190.136:9981/stream/channelid/1250936216?ticket=8CAAB5A3AD4A7FE712B3898C3C85113532BFF04B&profile=pass
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/169.ts
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/168.ts
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/167.ts
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/166.ts
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/165.ts
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/164.ts
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/163.ts
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/162.ts
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/161.ts
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/160.ts
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/159.ts
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/1262.ts
+#EXTINF:-1,AR: Bein Sport 13 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/1263.ts
+#EXTINF:-1,AR: Bein Sport 14 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/1264.ts
+#EXTINF:-1,AR: Bein Sport 15 HD
+http://ipsatpro.com:8000/live/arabian1/arabian1/1265.ts
+#EXTINF:-1,AR: Bein Movies 1
+http://ipsatpro.com:8000/live/arabian1/arabian1/1224.ts
+#EXTINF:-1,AR: Bein Movies 2
+http://ipsatpro.com:8000/live/arabian1/arabian1/1225.ts
