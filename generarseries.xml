@@ -227,8 +227,7 @@
 </items>
 </channel>
 
-
-</channel>
+<channel>
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] temporada 2 </title>
 <urlsolve></urlsolve>
@@ -246,10 +245,27 @@
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] **02** </title>
-<urlsolve>http://www.nowvideo.sx/video/dcbaa2f482330</urlsolve>
+<urlsolve>http://streamcloud.eu/2dh2iyzib86w/sscanddalll.esp.2x02.avi.html</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  </title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR]  </title>
@@ -267,6 +283,7 @@
 </items>
 </channel>
 </channels>
+
 
 
 
