@@ -6,7 +6,7 @@
 <title>-[COLOR yellow] PEQUELANDIA[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://ocioparapeques.files.wordpress.com/2014/11/logo-con-marco-opp-1-e1415646950823.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarpequelandia.xml</externallink>	
 </item> 
 
@@ -14,7 +14,7 @@
 <title>-[COLOR yellow] Peliculas Peques [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://espaciocoruna.es/wp-content/uploads/2016/03/espacio-peques-2.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/peliculaspeques.m3u</externallink>	
 </item> 
 
@@ -23,16 +23,14 @@
 <title>-[COLOR pink]PELICULAS JHG[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://cinehelvetico.com/img/cine.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/peliculasJHG.html</externallink>	
 </item> 
 
 <item>
-
-
 <title>-[COLOR red] PELICULAS[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.fiestadelcine.com/images/logo.png</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generalpeliculas.xml</externallink>	
 </item> 
@@ -41,7 +39,7 @@
 <title>-[COLOR red] SERIES[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://kinirokay.com/wp-content/uploads/2016/01/Soy-adicto-a-una-serie.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
 </item> 
 
@@ -65,7 +63,7 @@
 <title>-[COLOR green] XXX[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://www.cinex.com.ve/imagenes/destacados/Cinex-MovieDefault-Sld.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/xxx.m3u</externallink>	
 </item> 
 
@@ -89,7 +87,7 @@
 <item>
 <title>-[COLOR white]2500 peliculas[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://14575-presscdn-0-73.pagely.netdna-cdn.com/wp-content/uploads/2013/04/CineEnFamilia_logo_438x198.jpg</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/lokiyotnt2.m3u</externallink>	
 </item> 
