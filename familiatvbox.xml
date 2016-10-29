@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<channels>
+   
+<channel>
+<name> Familia Tvbox </name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>http://channel.png</thumbnail>
+<fanart>http://fanart.jpg</fanart>
+</item>
+
+<item>
+<title></title>        
+<link></link>
+<thumbnail></thumbnail>
+<fanart>http://fanart.jpg</fanart>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name> Familia tvbox Series  </name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<items>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>http://channel.png</thumbnail>
+<fanart>http://fanart.jpg</fanart>
+</item>
+
+
+
+
+</channels>
