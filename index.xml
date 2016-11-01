@@ -18,45 +18,6 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
 </item> 	   
 
-		   
-		   
-		   
-		   
-<item>
-<title>-[COLOR yellow] PEQUELANDIA[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://3.bp.blogspot.com/-09-mW8Egjh4/VmNkmQkkQCI/AAAAAAAAAK8/JJU7aFZH2r0/s1600-r/logo_pequelandia.png</thumbnail>
-<fanart>https://ocioparapeques.files.wordpress.com/2014/11/logo-con-marco-opp-1-e1415646950823.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarpequelandia.xml</externallink>	
-</item> 
-
-<item>
-<title>-[COLOR yellow] Peliculas Peques [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51mZx5xms5L._AC_UL320_SR288,320_.jpg</thumbnail>
-<fanart>http://espaciocoruna.es/wp-content/uploads/2016/03/espacio-peques-2.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/peliculaspeques.m3u</externallink>	
-</item> 
-
-
-
-<item>
-<title>-[COLOR red] PELICULAS[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.fiestadelcine.com/images/logo.png</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generalpeliculas.xml</externallink>	
-</item> 
-
-
-<item>
-<title>-[COLOR orange] TDT  en prueva [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/hinojosa.m3u</externallink>	
-</item> 
- 
  
 
 <item>
@@ -68,13 +29,36 @@
 </item> 
 
 
-item>
-<title>-[COLOR green] XXX[/COLOR]</title>
+
+<item>
+<title>-[COLOR yellow] Peliculas Peques [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.m100.cl/wp-content/uploads/2015/09/Fotomainweb_440x165_CineX.jpg</thumbnail>
-<fanart>http://www.cinex.com.ve/imagenes/destacados/Cinex-MovieDefault-Sld.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/xxx.m3u</externallink>	
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51mZx5xms5L._AC_UL320_SR288,320_.jpg</thumbnail>
+<fanart>http://espaciocoruna.es/wp-content/uploads/2016/03/espacio-peques-2.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/peliculaspeques.m3u</externallink>	
+</item>  
+		  
+
+
+<item>
+<title>-[COLOR red] PELICULAS[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.fiestadelcine.com/images/logo.png</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generalpeliculas.xml</externallink>	
 </item> 
+
+
+
+	   
+<item>
+<title>-[COLOR yellow] PEQUELANDIA[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://3.bp.blogspot.com/-09-mW8Egjh4/VmNkmQkkQCI/AAAAAAAAAK8/JJU7aFZH2r0/s1600-r/logo_pequelandia.png</thumbnail>
+<fanart>https://ocioparapeques.files.wordpress.com/2014/11/logo-con-marco-opp-1-e1415646950823.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarpequelandia.xml</externallink>	
+</item> 
+
 
 
 <item>
@@ -89,7 +73,7 @@ item>
 
 
 <item>
-<title>-[COLOR purple]Pruebas JHG[/COLOR]</title>
+<title>-[COLOR purple] Más  Peliculas [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -99,23 +83,12 @@ item>
 
 
 <item>
-<title>-[COLOR brown] OTROS PAISES[/COLOR]</title>
+<title>-[COLOR orange] TDT  en prueva [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR white]Locuras JHG[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarlocuras.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/hinojosa.m3u</externallink>	
 </item> 
-
-
 
 
 
