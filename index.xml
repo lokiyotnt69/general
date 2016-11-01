@@ -50,7 +50,7 @@
 
 
 <item>
-<title>-[COLOR orange] TDT[/COLOR]</title>
+<title>-[COLOR orange] TDT  en prueva [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart></fanart>
@@ -61,10 +61,22 @@
 <item>
 <title>-[COLOR green] XXX[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.m100.cl/wp-content/uploads/2015/09/Fotomainweb_440x165_CineX.jpg</thumbnail>
 <fanart>http://www.cinex.com.ve/imagenes/destacados/Cinex-MovieDefault-Sld.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/xxx.m3u</externallink>	
 </item> 
+
+
+<item>
+<title>-[COLOR blue] Zona Vip[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://strippergalicia.es/wp-content/uploads/2013/06/logo-zona-vip.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/familiatvbox.xml</externallink>	
+</item> 
+
+
+
 
 <item>
 <title>-[COLOR purple]Pruebas JHG[/COLOR]</title>
@@ -72,15 +84,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarpruebas.m3u</externallink>	
-</item> 
-
-
-<item>
-<title>-[COLOR blue] Zona Vip[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/familiatvbox.xml</externallink>	
 </item> 
 
 
