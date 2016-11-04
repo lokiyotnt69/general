@@ -111,14 +111,6 @@
 </item> 
 
 
-<item>
-<title>-[COLOR red] Heroes [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
-
 
 <item>
 <title>-[COLOR red] Vikings [/COLOR]</title>
@@ -137,7 +129,14 @@
 <externallink></externallink>	
 </item> 
 
-		
+
+<item>
+<title>-[COLOR red] Heroes [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 		
 	
 
 
