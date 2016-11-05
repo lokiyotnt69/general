@@ -1,165 +1,29 @@
 #EXTM3U
-#EXTINF:3600,Challenge
-http://5.255.90.232:5000/play/a01i
-#EXTINF:1,,Crime+Inv
+#EXTINF:-1,Crime+Inv
 http://5.255.90.232:5000/play/a00c
-#EXTINF:1,,Crime+Inv +1
+#EXTINF:-1,Crime+Inv +1
 http://5.255.90.232:5000/play/a01e
-#EXTINF:1,,RT. One +1
+#EXTINF:-1,RT. One +1
 http://5.255.90.232:5000/play/a00t
-#EXTINF:1,,Nick Jr.
+#EXTINF:-1,Nick Jr.
 http://5.255.90.232:5000/play/a010
-#EXTINF:1,,Forces TV
+#EXTINF:-1,Forces TV
 http://5.255.90.232:5000/play/a01j
-#EXTINF:1,,Sky Sports Mix
+#EXTINF:-1,Sky Sports Mix
 http://5.255.90.232:5000/play/a00u
-#EXTINF:1,,LFCTV
+#EXTINF:-1,LFCTV
 http://5.255.90.232:5000/play/a01a
-#EXTINF:1,,GINXeSportsTV
+#EXTINF:-1,GINXeSportsTV
 http://5.255.90.232:5000/play/a01c
-#EXTINF:1,,SkyNws Arabia
+#EXTINF:-1,SkyNws Arabia
 http://5.255.90.232:5000/play/a00w
-#EXTINF:1,,QVC Extra
+#EXTINF:-1,QVC Extra
 http://5.255.90.232:5000/play/a015
-#EXTINF:1,,History +1 hour
+#EXTINF:-1,History +1 hour
 http://5.255.90.232:5000/play/a00i
-#EXTINF:1,,RT.jr
-http://5.255.90.232:5000/play/a00r
-#EXTINF:1,,H2
-http://5.255.90.232:5000/play/a00k
-#EXTINF:1,,Nickelodeon
-http://5.255.90.232:5000/play/a00x
-#EXTINF:1,,3e
-http://5.255.90.232:5000/play/a019
-#EXTINF:1,,Nicktoons
-http://5.255.90.232:5000/play/a00z
-#EXTINF:1,,Challenge+1
-http://5.255.90.232:5000/play/a01g
-#EXTINF:1,,History
-http://5.255.90.232:5000/play/a00a
-#EXTINF:1,,Nickelodeon+1
-http://5.255.90.232:5000/play/a00y
-#EXTINF:1,,TV3+1
-http://5.255.90.232:5000/play/a01k
-#EXTINF:1,,FOX News
-http://5.255.90.232:5000/play/a00b
-#EXTINF:1,,Oireachtas TV
-http://5.255.90.232:5000/play/a00s
-#EXTINF:1,,Challenge
-http://5.255.90.232:5000/play/a01h
-#EXTINF:1,,RT.2
-http://5.255.90.232:5000/play/a00o
-#EXTINF:1,,Real Lives
-http://5.255.90.232:5000/play/a00l
-#EXTINF:1,,Nat Geo+1hr
-http://5.255.90.232:5000/play/a00f
-#EXTINF:1,,UTV Ireland
-http://5.255.90.232:5000/play/a008
-#EXTINF:1,,MUTV
-http://5.255.90.232:5000/play/a00h
-#EXTINF:1,,Lifetime+1
-http://5.255.90.232:5000/play/a01d
-#EXTINF:1,,Sky Living+1
-http://5.255.90.232:5000/play/a012
-#EXTINF:1,,RT. One
-http://5.255.90.232:5000/play/a00n
-#EXTINF:1,,Real Lives+1
-http://5.255.90.232:5000/play/a01f
-#EXTINF:1,,At The Races
-http://5.255.90.232:5000/play/a00d
-#EXTINF:1,,Sky Sports Mix
-http://5.255.90.232:5000/play/a00v
-#EXTINF:1,,BabyTV
-http://5.255.90.232:5000/play/a011
-#EXTINF:1,,VICELAND
-http://5.255.90.232:5000/play/a01b
-#EXTINF:1,,RT. News Now
-http://5.255.90.232:5000/play/a00q
-#EXTINF:1,,TG4
-http://5.255.90.232:5000/play/a00p
-#EXTINF:1,,QVC Style
-http://5.255.90.232:5000/play/a016
-#EXTINF:1,,QVC Beauty
-http://5.255.90.232:5000/play/a017
-#EXTINF:1,,QVC
-http://5.255.90.232:5000/play/a014
-#EXTINF:1,,Nat Geo Wild
-http://5.255.90.232:5000/play/a00g
-#EXTINF:1,,Nat Geo
-http://5.255.90.232:5000/play/a00e
-
-#EXTM3U
-#EXTINF:6300,N24
-http://5.255.90.200:5000/play/a02l
-#EXTINF:1,,TV Paprika
-http://5.255.90.200:5000/play/a01m
-#EXTINF:1,,AXN CE
-http://5.255.90.200:5000/play/a004
-#EXTINF:1,,Discovery Science
-http://5.255.90.200:5000/play/a00r
-#EXTINF:1,,HBO
-http://5.255.90.200:5000/play/a01c
-#EXTINF:1,,HBO2
-http://5.255.90.200:5000/play/a00q
-#EXTINF:1,,TA3
-http://5.255.90.200:5000/play/a01i
-#EXTINF:1,,AXN Romania
-http://5.255.90.200:5000/play/a005
-#EXTINF:1,,m2 / Petofi
-http://5.255.90.200:5000/play/a016
-#EXTINF:1,,Animal Planet
-http://5.255.90.200:5000/play/a00p
-#EXTINF:1,,Disney Channel
-http://5.255.90.200:5000/play/a00o
-#EXTINF:1,,Eurosport 2
-http://5.255.90.200:5000/play/a010
-#EXTINF:1,,CT1
-http://5.255.90.200:5000/play/a01g
-#EXTINF:1,,RTS1
-http://5.255.90.200:5000/play/a00h
-#EXTINF:1,,TVSudEst
-http://5.255.90.200:5000/play/a007
-#EXTINF:1,,HirTV
-http://5.255.90.200:5000/play/a017
-#EXTINF:1,,OBN
-http://5.255.90.200:5000/play/a00g
-#EXTINF:1,,STORY5
-http://5.255.90.200:5000/play/a019
-#EXTINF:1,,Viasat3.
-http://5.255.90.200:5000/play/a011
-#EXTINF:1,,Spektrum
-http://5.255.90.200:5000/play/a01l
-#EXTINF:1,,Viasat6
-http://5.255.90.200:5000/play/a00z
-#EXTINF:1,,Discovery World
-http://5.255.90.200:5000/play/a00y
-#EXTINF:1,,m5
-http://5.255.90.200:5000/play/a02u
-#EXTINF:1,,TV Doma
-http://5.255.90.200:5000/play/a01k
-#EXTINF:1,,Prima TV
-http://5.255.90.200:5000/play/a01j
-#EXTINF:1,,Sport1
-http://5.255.90.200:5000/play/a01f
-#EXTINF:1,,DM-SAT
-http://5.255.90.200:5000/play/a00d
-#EXTINF:1,,Nat Geo Wild
-http://5.255.90.200:5000/play/a00v
-#EXTINF:1,,Auto Motor Sport
-http://5.255.90.200:5000/play/a015
-#EXTINF:1,,Happy 🙂
-http://5.255.90.200:5000/play/a00c
-#EXTINF:1,,VOJVODINA1
-http://5.255.90.200:5000/play/a00f
-#EXTINF:1,,AXN Black
-http://5.255.90.200:5000/play/a003
-#EXTINF:1,,CS Mini/CS Film/Horor Film
-http://5.255.90.200:5000/play/a01e
-#EXTINF:1,,B92
-http://5.255.90.200:5000/play/a00e
-#EXTINF:1,,NOVA Cinema
+#EXTINF:-1,,NOVA Cinema
 http://5.255.90.200:5000/play/a01d
-#EXTINF:1,,AXN White
+#EXTINF:-1,,AXN White
 http://5.255.90.200:5000/play/a002
 #EXTINF:1,,TV Sonce
 http://5.255.90.200:5000/play/a008
@@ -173,18 +37,1217 @@ http://5.255.90.200:5000/play/a00t
 http://5.255.90.200:5000/play/a00m
 #EXTINF:1,,M3 Anno
 http://5.255.90.200:5000/play/a00s
-#EXTINF:1,,Boomerang
+#EXTINF:-1,Boomerang
 http://5.255.90.200:5000/play/a00u
-#EXTINF:1,,TV Markiza
+#EXTINF:-1,TV Markiza
 http://5.255.90.200:5000/play/a01h
-#EXTINF:1,,RTS2
+#EXTINF:-1,RTS2
 http://5.255.90.200:5000/play/a00i
-#EXTINF:1,,m1
+#EXTINF:-1,m1
 http://5.255.90.200:5000/play/a014
-#EXTINF:1,,AMCHu
+#EXTINF:-1,AMCHu
 http://5.255.90.200:5000/play/a013
-#EXTINF:1,,JimJam
+#EXTINF:-1,JimJam
 http://5.255.90.200:5000/play/a00n
-
+#EXTINF:-1,ITV 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/76.ts
+#EXTINF:-1,ITV 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/77.ts
+#EXTINF:-1,ITV 3 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/78.ts
+#EXTINF:-1,ITV 4 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/79.ts
+#EXTINF:-1,Oxygen
+http://alphastreams.live:8080/live/freeworld/freeworld/430.ts
+#EXTINF:-1,NBC New-York
+http://alphastreams.live:8080/live/freeworld/freeworld/442.ts
+#EXTINF:-1,MSNBC
+http://alphastreams.live:8080/live/freeworld/freeworld/425.ts
+#EXTINF:-1,Lifetime 
+http://alphastreams.live:8080/live/freeworld/freeworld/428.ts
+#EXTINF:-1,Headline News
+http://alphastreams.live:8080/live/freeworld/freeworld/423.ts
+#EXTINF:-1,Gold
+http://alphastreams.live:8080/live/freeworld/freeworld/427.ts
+#EXTINF:-1,Tru TV ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/445.ts
+#EXTINF:-1,Fox News Channel
+http://alphastreams.live:8080/live/freeworld/freeworld/432.ts
+#EXTINF:-1,Fox News Channel HD
+http://alphastreams.live:8080/live/freeworld/freeworld/426.ts
+#EXTINF:-1,FOX Miami
+http://alphastreams.live:8080/live/freeworld/freeworld/439.ts
+#EXTINF:-1,Fox Business
+http://alphastreams.live:8080/live/freeworld/freeworld/433.ts
+#EXTINF:-1,CNN US
+http://alphastreams.live:8080/live/freeworld/freeworld/421.ts
+#EXTINF:-1,CNBC US
+http://alphastreams.live:8080/live/freeworld/freeworld/424.ts
+#EXTINF:-1,Chiller TV
+http://alphastreams.live:8080/live/freeworld/freeworld/444.ts
+#EXTINF:-1,CBS New-York
+http://alphastreams.live:8080/live/freeworld/freeworld/441.ts
+#EXTINF:-1,Bravo ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/431.ts
+#EXTINF:-1,ActionMax ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/458.ts
+#EXTINF:-1,ABC New-York
+http://alphastreams.live:8080/live/freeworld/freeworld/440.ts
+#EXTINF:-1,FOX 43
+http://alphastreams.live:8080/live/freeworld/freeworld/419.ts
+#EXTINF:-1,CITY HD
+http://alphastreams.live:8080/live/freeworld/freeworld/420.ts
+#EXTINF:-1,YTV HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/59.ts
+#EXTINF:-1,WEATHER NETWORK.
+http://alphastreams.live:8080/live/freeworld/freeworld/30.ts
+#EXTINF:-1,USA Network
+http://alphastreams.live:8080/live/freeworld/freeworld/101.ts
+#EXTINF:-1,Universal
+http://alphastreams.live:8080/live/freeworld/freeworld/164.ts
+#EXTINF:-1,WGN News
+http://alphastreams.live:8080/live/freeworld/freeworld/678.ts
+#EXTINF:-1,WeatherNation
+http://alphastreams.live:8080/live/freeworld/freeworld/682.ts
+#EXTINF:-1,TRT World
+http://alphastreams.live:8080/live/freeworld/freeworld/687.ts
+#EXTINF:-1,RT International
+http://alphastreams.live:8080/live/freeworld/freeworld/688.ts
+#EXTINF:-1,RT Documentary
+http://alphastreams.live:8080/live/freeworld/freeworld/674.ts
+#EXTINF:-1,RT US
+http://alphastreams.live:8080/live/freeworld/freeworld/677.ts
+#EXTINF:-1,RT UK
+http://alphastreams.live:8080/live/freeworld/freeworld/684.ts
+#EXTINF:-1,London Live
+http://alphastreams.live:8080/live/freeworld/freeworld/663.ts
+#EXTINF:-1,Press TV
+http://alphastreams.live:8080/live/freeworld/freeworld/690.ts
+#EXTINF:-1,Poker Central
+http://alphastreams.live:8080/live/freeworld/freeworld/666.ts
+#EXTINF:-1,NHK World
+http://alphastreams.live:8080/live/freeworld/freeworld/695.ts
+#EXTINF:-1,NewsmaxTV
+http://alphastreams.live:8080/live/freeworld/freeworld/697.ts
+#EXTINF:-1,KiTV 4 abc
+http://alphastreams.live:8080/live/freeworld/freeworld/664.ts
+#EXTINF:-1,France 24
+http://alphastreams.live:8080/live/freeworld/freeworld/689.ts
+#EXTINF:-1,Euronews
+http://alphastreams.live:8080/live/freeworld/freeworld/691.ts
+#EXTINF:-1,Deutsche Welle
+http://alphastreams.live:8080/live/freeworld/freeworld/694.ts
+#EXTINF:-1,CHching!
+http://alphastreams.live:8080/live/freeworld/freeworld/699.ts
+#EXTINF:-1,CBS News
+http://alphastreams.live:8080/live/freeworld/freeworld/676.ts
+#EXTINF:-1,C-Span
+http://alphastreams.live:8080/live/freeworld/freeworld/679.ts
+#EXTINF:-1,C-Span  Book TV
+http://alphastreams.live:8080/live/freeworld/freeworld/680.ts
+#EXTINF:-1,C-Span American History TV
+http://alphastreams.live:8080/live/freeworld/freeworld/681.ts
+#EXTINF:-1,ByuTV
+http://alphastreams.live:8080/live/freeworld/freeworld/698.ts
+#EXTINF:-1,Bloomberg TV US
+http://alphastreams.live:8080/live/freeworld/freeworld/675.ts
+#EXTINF:-1,Bloomberg TV UK
+http://alphastreams.live:8080/live/freeworld/freeworld/685.ts
+#EXTINF:-1,Bloomberg TV Asia
+http://alphastreams.live:8080/live/freeworld/freeworld/686.ts
+#EXTINF:-1,Arirang TV
+http://alphastreams.live:8080/live/freeworld/freeworld/696.ts
+#EXTINF:-1,Al Jazeera
+http://alphastreams.live:8080/live/freeworld/freeworld/692.ts
+#EXTINF:-1,Africa News Network
+http://alphastreams.live:8080/live/freeworld/freeworld/693.ts
+#EXTINF:-1,Travel Channel HD
+http://alphastreams.live:8080/live/freeworld/freeworld/100.ts
+#EXTINF:-1,TNT
+http://alphastreams.live:8080/live/freeworld/freeworld/94.ts
+#EXTINF:-1,TLC HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/52.ts
+#EXTINF:-1,TBS HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/55.ts
+#EXTINF:-1,SYFY USA
+http://alphastreams.live:8080/live/freeworld/freeworld/163.ts
+#EXTINF:-1,SPIKE HD
+http://alphastreams.live:8080/live/freeworld/freeworld/161.ts
+#EXTINF:-1,SPACE HD
+http://alphastreams.live:8080/live/freeworld/freeworld/4.ts
+#EXTINF:-1,SLICE HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/50.ts
+#EXTINF:-1,SKY TWO
+http://alphastreams.live:8080/live/freeworld/freeworld/159.ts
+#EXTINF:-1,SKY SuperHeros
+http://alphastreams.live:8080/live/freeworld/freeworld/160.ts
+#EXTINF:-1,PBS HD
+http://alphastreams.live:8080/live/freeworld/freeworld/98.ts
+#EXTINF:-1,OMNI 1 HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/31.ts
+#EXTINF:-1,OMNI 2HD
+http://alphastreams.live:8080/live/freeworld/freeworld/6.ts
+#EXTINF:-1,NBC HD
+http://alphastreams.live:8080/live/freeworld/freeworld/99.ts
+#EXTINF:-1,NASA TV HD
+http://alphastreams.live:8080/live/freeworld/freeworld/44.ts
+#EXTINF:-1,MUTV HD
+http://alphastreams.live:8080/live/freeworld/freeworld/82.ts
+#EXTINF:-1,LOVE NATURE HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/42.ts
+#EXTINF:-1,Lifetime HD
+http://alphastreams.live:8080/live/freeworld/freeworld/71.ts
+#EXTINF:-1,HBO2 USA
+http://alphastreams.live:8080/live/freeworld/freeworld/12.ts
+#EXTINF:-1,HBO Comedy
+http://alphastreams.live:8080/live/freeworld/freeworld/15.ts
+#EXTINF:-1,FX HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/53.ts
+#EXTINF:-1,Nick Jr
+http://alphastreams.live:8080/live/freeworld/freeworld/490.ts
+#EXTINF:-1,Disney XD
+http://alphastreams.live:8080/live/freeworld/freeworld/486.ts
+#EXTINF:-1,Disney Jr
+http://alphastreams.live:8080/live/freeworld/freeworld/485.ts
+#EXTINF:-1,Disney Channel
+http://alphastreams.live:8080/live/freeworld/freeworld/484.ts
+#EXTINF:-1,Cartoon Network
+http://alphastreams.live:8080/live/freeworld/freeworld/488.ts
+#EXTINF:-1,Boomerang USA
+http://alphastreams.live:8080/live/freeworld/freeworld/487.ts
+#EXTINF:-1,Teen Nick
+http://alphastreams.live:8080/live/freeworld/freeworld/491.ts
+#EXTINF:-1,Nickelodeon
+http://alphastreams.live:8080/live/freeworld/freeworld/489.ts
+#EXTINF:-1,FOX NEWS HD
+http://alphastreams.live:8080/live/freeworld/freeworld/37.ts
+#EXTINF:-1,Food Network HD
+http://alphastreams.live:8080/live/freeworld/freeworld/9.ts
+#EXTINF:-1,Family HD
+http://alphastreams.live:8080/live/freeworld/freeworld/178.ts
+#EXTINF:-1,E! HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/57.ts
+#EXTINF:-1,DIY Network
+http://alphastreams.live:8080/live/freeworld/freeworld/95.ts
+#EXTINF:-1,DIY NETWORK HD
+http://alphastreams.live:8080/live/freeworld/freeworld/75.ts
+#EXTINF:-1,Disney XD HD USA
+http://alphastreams.live:8080/live/freeworld/freeworld/24.ts
+#EXTINF:-1,Disney HD USA
+http://alphastreams.live:8080/live/freeworld/freeworld/22.ts
+#EXTINF:-1,NAT GEO WILD HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/40.ts
+#EXTINF:-1,Nat Geo HD US
+http://alphastreams.live:8080/live/freeworld/freeworld/28.ts
+#EXTINF:-1,History Channel US
+http://alphastreams.live:8080/live/freeworld/freeworld/72.ts
+#EXTINF:-1,Discovery Turbo
+http://alphastreams.live:8080/live/freeworld/freeworld/109.ts
+#EXTINF:-1,Discovery ID(En)
+http://alphastreams.live:8080/live/freeworld/freeworld/2.ts
+#EXTINF:-1,Discovery Home & Health
+http://alphastreams.live:8080/live/freeworld/freeworld/106.ts
+#EXTINF:-1,Discovery History
+http://alphastreams.live:8080/live/freeworld/freeworld/377.ts
+#EXTINF:-1,DISCOVERY HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/38.ts
+#EXTINF:-1,Discovery Family HD
+http://alphastreams.live:8080/live/freeworld/freeworld/179.ts
+#EXTINF:-1,Animal Planet SD
+http://alphastreams.live:8080/live/freeworld/freeworld/111.ts
+#EXTINF:-1,ANIMAL PLANET HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/41.ts
+#EXTINF:-1,CTV
+http://alphastreams.live:8080/live/freeworld/freeworld/10.ts
+#EXTINF:-1,COMEDY HD
+http://alphastreams.live:8080/live/freeworld/freeworld/7.ts
+#EXTINF:-1,Comedy Central HD US
+http://alphastreams.live:8080/live/freeworld/freeworld/89.ts
+#EXTINF:-1,CNN US HD
+http://alphastreams.live:8080/live/freeworld/freeworld/36.ts
+#EXTINF:-1,CNBC
+http://alphastreams.live:8080/live/freeworld/freeworld/116.ts
+#EXTINF:-1,CBS HD
+http://alphastreams.live:8080/live/freeworld/freeworld/88.ts
+#EXTINF:-1,CBC News
+http://alphastreams.live:8080/live/freeworld/freeworld/134.ts
+#EXTINF:-1,CBC HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/33.ts
+#EXTINF:-1,BRAVO HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/54.ts
+#EXTINF:-1,BNN HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/46.ts
+#EXTINF:-1,BNN
+http://alphastreams.live:8080/live/freeworld/freeworld/137.ts
+#EXTINF:-1,BBC 4 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/87.ts
+#EXTINF:-1,BBC 3 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/86.ts
+#EXTINF:-1,BBC 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/85.ts
+#EXTINF:-1,BBC 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/84.ts
+#EXTINF:-1,AMC HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/48.ts
+#EXTINF:-1,ABC PARK HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/47.ts
+#EXTINF:-1,ABC NEWS
+http://alphastreams.live:8080/live/freeworld/freeworld/138.ts
+#EXTINF:-1,ABC HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/34.ts
+#EXTINF:-1,HGTV HD
+http://alphastreams.live:8080/live/freeworld/freeworld/1.ts
+#EXTINF:-1,Sky News
+http://alphastreams.live:8080/live/freeworld/freeworld/157.ts
+#EXTINF:-1,Sky Movies Thriller
+http://alphastreams.live:8080/live/freeworld/freeworld/156.ts
+#EXTINF:-1,Sky Movies Select HD
+http://alphastreams.live:8080/live/freeworld/freeworld/154.ts
+#EXTINF:-1,Sky Movies ScFi-Horror HD
+http://alphastreams.live:8080/live/freeworld/freeworld/153.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://alphastreams.live:8080/live/freeworld/freeworld/152.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://alphastreams.live:8080/live/freeworld/freeworld/151.ts
+#EXTINF:-1,Sky Movies Family
+http://alphastreams.live:8080/live/freeworld/freeworld/150.ts
+#EXTINF:-1,Sky Movies Drama HD
+http://alphastreams.live:8080/live/freeworld/freeworld/149.ts
+#EXTINF:-1,Sky Movies Disney
+http://alphastreams.live:8080/live/freeworld/freeworld/148.ts
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://alphastreams.live:8080/live/freeworld/freeworld/147.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://alphastreams.live:8080/live/freeworld/freeworld/146.ts
+#EXTINF:-1,Sky Movies Action & Adventure
+http://alphastreams.live:8080/live/freeworld/freeworld/145.ts
+#EXTINF:-1,Sky Living HD
+http://alphastreams.live:8080/live/freeworld/freeworld/83.ts
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/376.ts
+#EXTINF:-1,Sky Atlantic
+http://alphastreams.live:8080/live/freeworld/freeworld/144.ts
+#EXTINF:-1,SHOWTIME HD
+http://alphastreams.live:8080/live/freeworld/freeworld/141.ts
+#EXTINF:-1,HBO Zone
+http://alphastreams.live:8080/live/freeworld/freeworld/455.ts
+#EXTINF:-1,HBO *
+http://alphastreams.live:8080/live/freeworld/freeworld/451.ts
+#EXTINF:-1,HBO Signature ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/450.ts
+#EXTINF:-1,HBO Family ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/453.ts
+#EXTINF:-1,HBO  HD
+http://alphastreams.live:8080/live/freeworld/freeworld/448.ts
+#EXTINF:-1,HBO Comedy ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/454.ts
+#EXTINF:-1,HBO 2 *
+http://alphastreams.live:8080/live/freeworld/freeworld/452.ts
+#EXTINF:-1,HBO 2  HD
+http://alphastreams.live:8080/live/freeworld/freeworld/449.ts
+#EXTINF:-1,Starz W
+http://alphastreams.live:8080/live/freeworld/freeworld/472.ts
+#EXTINF:-1,Starz Kids & Family ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/477.ts
+#EXTINF:-1,Starz In Black
+http://alphastreams.live:8080/live/freeworld/freeworld/476.ts
+#EXTINF:-1,Starz Edge ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/473.ts
+#EXTINF:-1,Starz  HD
+http://alphastreams.live:8080/live/freeworld/freeworld/471.ts
+#EXTINF:-1,Starz Comedy ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/475.ts
+#EXTINF:-1,Starz Cinema  HD
+http://alphastreams.live:8080/live/freeworld/freeworld/474.ts
+#EXTINF:-1,Showtime *
+http://alphastreams.live:8080/live/freeworld/freeworld/462.ts
+#EXTINF:-1,Showtime Showcase ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/464.ts
+#EXTINF:-1,Showtime Next
+http://alphastreams.live:8080/live/freeworld/freeworld/467.ts
+#EXTINF:-1,Showtime Extreme ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/465.ts
+#EXTINF:-1,Showtime  HD
+http://alphastreams.live:8080/live/freeworld/freeworld/461.ts
+#EXTINF:-1,Showtime Beyond ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/466.ts
+#EXTINF:-1,Showtime 2 ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/463.ts
+#EXTINF:-1,True Movies 1
+http://alphastreams.live:8080/live/freeworld/freeworld/478.ts
+#EXTINF:-1,The Movie Channel ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/446.ts
+#EXTINF:-1,Lifetime Movie Network
+http://alphastreams.live:8080/live/freeworld/freeworld/429.ts
+#EXTINF:-1,Lifetime Movie Network  HD
+http://alphastreams.live:8080/live/freeworld/freeworld/482.ts
+#EXTINF:-1,Encore Westerns ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/469.ts
+#EXTINF:-1,Encore  HD
+http://alphastreams.live:8080/live/freeworld/freeworld/468.ts
+#EXTINF:-1,Encore Action ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/470.ts
+#EXTINF:-1,Cinemax * HD
+http://alphastreams.live:8080/live/freeworld/freeworld/457.ts
+#EXTINF:-1,Cinemax  HD
+http://alphastreams.live:8080/live/freeworld/freeworld/456.ts
+#EXTINF:-1,Cinemax More
+http://alphastreams.live:8080/live/freeworld/freeworld/872.ts
+#EXTINF:-1,Cinemax Action HD
+http://alphastreams.live:8080/live/freeworld/freeworld/871.ts
+#EXTINF:-1,ThrillerMax ENG
+http://alphastreams.live:8080/live/freeworld/freeworld/460.ts
+#EXTINF:-1,Movies 24
+http://alphastreams.live:8080/live/freeworld/freeworld/480.ts
+#EXTINF:-1,WWE HD
+http://alphastreams.live:8080/live/freeworld/freeworld/26.ts
+#EXTINF:-1,Special Events & Sports 1
+http://alphastreams.live:8080/live/freeworld/freeworld/874.ts
+#EXTINF:-1,Special Events & Sports 2
+http://alphastreams.live:8080/live/freeworld/freeworld/875.ts
+#EXTINF:-1,Special Events & Sports 3
+http://alphastreams.live:8080/live/freeworld/freeworld/876.ts
+#EXTINF:-1,NBA TV HD
+http://alphastreams.live:8080/live/freeworld/freeworld/275.ts
+#EXTINF:-1,MLB Network HD
+http://alphastreams.live:8080/live/freeworld/freeworld/422.ts
+#EXTINF:-1,FOX Sports *
+http://alphastreams.live:8080/live/freeworld/freeworld/435.ts
+#EXTINF:-1,FOX NFL
+http://alphastreams.live:8080/live/freeworld/freeworld/873.ts
+#EXTINF:-1,Fox Sports W
+http://alphastreams.live:8080/live/freeworld/freeworld/437.ts
+#EXTINF:-1,Fox Sports South
+http://alphastreams.live:8080/live/freeworld/freeworld/436.ts
+#EXTINF:-1,Fox Sports Prime Ticket
+http://alphastreams.live:8080/live/freeworld/freeworld/438.ts
+#EXTINF:-1,Fox Sports South Florida
+http://alphastreams.live:8080/live/freeworld/freeworld/434.ts
+#EXTINF:-1,Fox Sports 506
+http://alphastreams.live:8080/live/freeworld/freeworld/328.ts
+#EXTINF:-1,Fox Sports 1 HD US
+http://alphastreams.live:8080/live/freeworld/freeworld/273.ts
+#EXTINF:-1,Fox Sports 2 HD US
+http://alphastreams.live:8080/live/freeworld/freeworld/274.ts
+#EXTINF:-1,BT SPORTS 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/309.ts
+#EXTINF:-1,BT SPORTS 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/310.ts
+#EXTINF:-1,ESPN US HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/58.ts
+#EXTINF:-1,ESPN 2
+http://alphastreams.live:8080/live/freeworld/freeworld/270.ts
+#EXTINF:-1,BEIN SPORTS US HD
+http://alphastreams.live:8080/live/freeworld/freeworld/289.ts
+#EXTINF:-1,BEIN HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/61.ts
+#EXTINF:-1,NFL NETWORK
+http://alphastreams.live:8080/live/freeworld/freeworld/277.ts
+#EXTINF:-1,MLB NETWORK
+http://alphastreams.live:8080/live/freeworld/freeworld/276.ts
+#EXTINF:-1,NFL 1
+http://alphastreams.live:8080/live/freeworld/freeworld/378.ts
+#EXTINF:-1,NFL 2
+http://alphastreams.live:8080/live/freeworld/freeworld/379.ts
+#EXTINF:-1,NFL 3
+http://alphastreams.live:8080/live/freeworld/freeworld/380.ts
+#EXTINF:-1,NFL 4
+http://alphastreams.live:8080/live/freeworld/freeworld/381.ts
+#EXTINF:-1,NFL 5
+http://alphastreams.live:8080/live/freeworld/freeworld/382.ts
+#EXTINF:-1,TSN 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/278.ts
+#EXTINF:-1,TSN 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/279.ts
+#EXTINF:-1,TSN 3 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/280.ts
+#EXTINF:-1,TSN 4 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/281.ts
+#EXTINF:-1,TSN 5 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/282.ts
+#EXTINF:-1,SKY SPORTS 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/292.ts
+#EXTINF:-1,SKY SPORTS 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/293.ts
+#EXTINF:-1,SKY SPORTS 3 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/294.ts
+#EXTINF:-1,SKY SPORTS 4 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/295.ts
+#EXTINF:-1,SKY SPORTS 5 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/296.ts
+#EXTINF:-1,Ten-3
+http://alphastreams.live:8080/live/freeworld/freeworld/334.ts
+#EXTINF:-1,Ten-2
+http://alphastreams.live:8080/live/freeworld/freeworld/333.ts
+#EXTINF:-1,Ten Golf
+http://alphastreams.live:8080/live/freeworld/freeworld/335.ts
+#EXTINF:-1,Ten Action
+http://alphastreams.live:8080/live/freeworld/freeworld/336.ts
+#EXTINF:-1,Super Sport 6 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/367.ts
+#EXTINF:-1,Super Sport 5 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/366.ts
+#EXTINF:-1,Star Sports 4HD(Sp)
+http://alphastreams.live:8080/live/freeworld/freeworld/340.ts
+#EXTINF:-1,Star Sports 3HD(Sp)
+http://alphastreams.live:8080/live/freeworld/freeworld/339.ts
+#EXTINF:-1,Star Sports 2HD
+http://alphastreams.live:8080/live/freeworld/freeworld/338.ts
+#EXTINF:-1,Star Sports 1HD
+http://alphastreams.live:8080/live/freeworld/freeworld/337.ts
+#EXTINF:-1,SPORTSNET WORLD.
+http://alphastreams.live:8080/live/freeworld/freeworld/68.ts
+#EXTINF:-1,SPORTSNET ONTARIO.
+http://alphastreams.live:8080/live/freeworld/freeworld/69.ts
+#EXTINF:-1,Sportsnet Ontario HD
+http://alphastreams.live:8080/live/freeworld/freeworld/284.ts
+#EXTINF:-1,Sportsnet One HD
+http://alphastreams.live:8080/live/freeworld/freeworld/283.ts
+#EXTINF:-1,SPORTSNET 1 HD.
+http://alphastreams.live:8080/live/freeworld/freeworld/67.ts
+#EXTINF:-1,Lig 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/373.ts
+#EXTINF:-1,Lig 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/374.ts
+#EXTINF:-1,Lig 3 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/375.ts
+#EXTINF:-1,Eurosport 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/313.ts
+#EXTINF:-1,Astro Supersports 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/324.ts
+#EXTINF:-1,Astro Supersports 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/325.ts
+#EXTINF:-1,Astro Supersports 3 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/326.ts
+#EXTINF:-1,Arena Sport 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/369.ts
+#EXTINF:-1,Arena Sport 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/370.ts
+#EXTINF:-1,Arena Sport 3 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/371.ts
+#EXTINF:-1,UFC Network Spanish HD
+http://alphastreams.live:8080/live/freeworld/freeworld/481.ts
+#EXTINF:-1,Music Videos 1
+http://alphastreams.live:8080/live/freeworld/freeworld/701.ts
+#EXTINF:-1,Music Videos 2
+http://alphastreams.live:8080/live/freeworld/freeworld/702.ts
+#EXTINF:-1,Music Videos 3
+http://alphastreams.live:8080/live/freeworld/freeworld/703.ts
+#EXTINF:-1,Music Videos 4
+http://alphastreams.live:8080/live/freeworld/freeworld/704.ts
+#EXTINF:-1,Music Videos 5
+http://alphastreams.live:8080/live/freeworld/freeworld/705.ts
+#EXTINF:-1,Music Videos 6
+http://alphastreams.live:8080/live/freeworld/freeworld/706.ts
+#EXTINF:-1,Music Videos 7
+http://alphastreams.live:8080/live/freeworld/freeworld/707.ts
+#EXTINF:-1,Music Videos 8
+http://alphastreams.live:8080/live/freeworld/freeworld/708.ts
+#EXTINF:-1,Music Videos 9
+http://alphastreams.live:8080/live/freeworld/freeworld/709.ts
+#EXTINF:-1,Music Videos 10
+http://alphastreams.live:8080/live/freeworld/freeworld/710.ts
+#EXTINF:-1,Music Videos 11
+http://alphastreams.live:8080/live/freeworld/freeworld/711.ts
+#EXTINF:-1,Music Videos 12
+http://alphastreams.live:8080/live/freeworld/freeworld/712.ts
+#EXTINF:-1,Music Videos 13
+http://alphastreams.live:8080/live/freeworld/freeworld/713.ts
+#EXTINF:-1,AXN Latino
+http://alphastreams.live:8080/live/freeworld/freeworld/555.ts
+#EXTINF:-1,Warner Channel SP
+http://alphastreams.live:8080/live/freeworld/freeworld/546.ts
+#EXTINF:-1,UFC Network Spanish SD
+http://alphastreams.live:8080/live/freeworld/freeworld/524.ts
+#EXTINF:-1,Univision Los Angeles
+http://alphastreams.live:8080/live/freeworld/freeworld/496.ts
+#EXTINF:-1,Univision HD
+http://alphastreams.live:8080/live/freeworld/freeworld/494.ts
+#EXTINF:-1,Univision Deportes
+http://alphastreams.live:8080/live/freeworld/freeworld/530.ts
+#EXTINF:-1,Univision
+http://alphastreams.live:8080/live/freeworld/freeworld/495.ts
+#EXTINF:-1,Universal Channel America Latina
+http://alphastreams.live:8080/live/freeworld/freeworld/549.ts
+#EXTINF:-1,UniMAS
+http://alphastreams.live:8080/live/freeworld/freeworld/498.ts
+#EXTINF:-1,Tru TV America Latina
+http://alphastreams.live:8080/live/freeworld/freeworld/562.ts
+#EXTINF:-1,TNT Series SP
+http://alphastreams.live:8080/live/freeworld/freeworld/558.ts
+#EXTINF:-1,TNT America Latina
+http://alphastreams.live:8080/live/freeworld/freeworld/580.ts
+#EXTINF:-1,Tlnovelas America
+http://alphastreams.live:8080/live/freeworld/freeworld/502.ts
+#EXTINF:-1,TLC SP
+http://alphastreams.live:8080/live/freeworld/freeworld/554.ts
+#EXTINF:-1,Telemundo Los Angeles
+http://alphastreams.live:8080/live/freeworld/freeworld/497.ts
+#EXTINF:-1,Telemundo Internacional
+http://alphastreams.live:8080/live/freeworld/freeworld/504.ts
+#EXTINF:-1,Telemundo
+http://alphastreams.live:8080/live/freeworld/freeworld/505.ts
+#EXTINF:-1,TDN Mexico
+http://alphastreams.live:8080/live/freeworld/freeworld/527.ts
+#EXTINF:-1,TCM America Latina
+http://alphastreams.live:8080/live/freeworld/freeworld/587.ts
+#EXTINF:-1,Syfy SP
+http://alphastreams.live:8080/live/freeworld/freeworld/551.ts
+#EXTINF:-1,Sundance Channel SP
+http://alphastreams.live:8080/live/freeworld/freeworld/579.ts
+#EXTINF:-1,CubaVision CUBA
+http://alphastreams.live:8080/live/freeworld/freeworld/869.ts
+#EXTINF:-1,Studio Universal
+http://alphastreams.live:8080/live/freeworld/freeworld/586.ts
+#EXTINF:-1,SPACE
+http://alphastreams.live:8080/live/freeworld/freeworld/584.ts
+#EXTINF:-1,RT SP
+http://alphastreams.live:8080/live/freeworld/freeworld/567.ts
+#EXTINF:-1,RCN Novelas
+http://alphastreams.live:8080/live/freeworld/freeworld/503.ts
+#EXTINF:-1,RCN Colombia
+http://alphastreams.live:8080/live/freeworld/freeworld/880.ts
+#EXTINF:-1,RCN 2 Colombia
+http://alphastreams.live:8080/live/freeworld/freeworld/879.ts
+#EXTINF:-1,CARACOL Colombia HD
+http://alphastreams.live:8080/live/freeworld/freeworld/878.ts
+#EXTINF:-1,Paramount Channel SP
+http://alphastreams.live:8080/live/freeworld/freeworld/578.ts
+#EXTINF:-1,Once Niños
+http://alphastreams.live:8080/live/freeworld/freeworld/537.ts
+#EXTINF:-1,Nickelodeon SP
+http://alphastreams.live:8080/live/freeworld/freeworld/534.ts
+#EXTINF:-1,Nick Jr SP
+http://alphastreams.live:8080/live/freeworld/freeworld/535.ts
+#EXTINF:-1,NBC Universo HD
+http://alphastreams.live:8080/live/freeworld/freeworld/500.ts
+#EXTINF:-1,National Geographic SP
+http://alphastreams.live:8080/live/freeworld/freeworld/514.ts
+#EXTINF:-1,Nat Geo Wild Latino America
+http://alphastreams.live:8080/live/freeworld/freeworld/515.ts
+#EXTINF:-1,MundoFox
+http://alphastreams.live:8080/live/freeworld/freeworld/557.ts
+#EXTINF:-1,MultiPremier
+http://alphastreams.live:8080/live/freeworld/freeworld/573.ts
+#EXTINF:-1,MTV SP
+http://alphastreams.live:8080/live/freeworld/freeworld/568.ts
+#EXTINF:-1,MTV Hits SP
+http://alphastreams.live:8080/live/freeworld/freeworld/569.ts
+#EXTINF:-1,Mega TV
+http://alphastreams.live:8080/live/freeworld/freeworld/499.ts
+#EXTINF:-1,Max UP SP
+http://alphastreams.live:8080/live/freeworld/freeworld/605.ts
+#EXTINF:-1,Max Prime *
+http://alphastreams.live:8080/live/freeworld/freeworld/606.ts
+#EXTINF:-1,Lifetime SP
+http://alphastreams.live:8080/live/freeworld/freeworld/563.ts
+#EXTINF:-1,Las Estrellas
+http://alphastreams.live:8080/live/freeworld/freeworld/492.ts
+#EXTINF:-1,Investigation Discovery SP
+http://alphastreams.live:8080/live/freeworld/freeworld/553.ts
+#EXTINF:-1,History Latino
+http://alphastreams.live:8080/live/freeworld/freeworld/513.ts
+#EXTINF:-1,HBO Signature SP
+http://alphastreams.live:8080/live/freeworld/freeworld/604.ts
+#EXTINF:-1,HBO Plus W*
+http://alphastreams.live:8080/live/freeworld/freeworld/602.ts
+#EXTINF:-1,HBO Plus E*
+http://alphastreams.live:8080/live/freeworld/freeworld/601.ts
+#EXTINF:-1,HBO SP
+http://alphastreams.live:8080/live/freeworld/freeworld/599.ts
+#EXTINF:-1,HBO Family SP
+http://alphastreams.live:8080/live/freeworld/freeworld/603.ts
+#EXTINF:-1,HBO 2 SP
+http://alphastreams.live:8080/live/freeworld/freeworld/600.ts
+#EXTINF:-1,H2 SP
+http://alphastreams.live:8080/live/freeworld/freeworld/512.ts
+#EXTINF:-1,Golden Multiplex
+http://alphastreams.live:8080/live/freeworld/freeworld/577.ts
+#EXTINF:-1,FX Latino
+http://alphastreams.live:8080/live/freeworld/freeworld/548.ts
+#EXTINF:-1,Fox Sports SP
+http://alphastreams.live:8080/live/freeworld/freeworld/520.ts
+#EXTINF:-1,Fox Sports 3 SP
+http://alphastreams.live:8080/live/freeworld/freeworld/522.ts
+#EXTINF:-1,Fox Sports 2 SP
+http://alphastreams.live:8080/live/freeworld/freeworld/521.ts
+#EXTINF:-1,Fox Movies SP
+http://alphastreams.live:8080/live/freeworld/freeworld/597.ts
+#EXTINF:-1,FOX Life
+http://alphastreams.live:8080/live/freeworld/freeworld/559.ts
+#EXTINF:-1,Fox SP
+http://alphastreams.live:8080/live/freeworld/freeworld/550.ts
+#EXTINF:-1,Fox Family
+http://alphastreams.live:8080/live/freeworld/freeworld/592.ts
+#EXTINF:-1,Fox Comedy
+http://alphastreams.live:8080/live/freeworld/freeworld/593.ts
+#EXTINF:-1,Fox Classics SP
+http://alphastreams.live:8080/live/freeworld/freeworld/598.ts
+#EXTINF:-1,Fox Cinema
+http://alphastreams.live:8080/live/freeworld/freeworld/594.ts
+#EXTINF:-1,Fox Action *
+http://alphastreams.live:8080/live/freeworld/freeworld/595.ts
+#EXTINF:-1,Fox 1 O*
+http://alphastreams.live:8080/live/freeworld/freeworld/591.ts
+#EXTINF:-1,Fox 1 *
+http://alphastreams.live:8080/live/freeworld/freeworld/590.ts
+#EXTINF:-1,Film Zone
+http://alphastreams.live:8080/live/freeworld/freeworld/589.ts
+#EXTINF:-1,Estrella TV
+http://alphastreams.live:8080/live/freeworld/freeworld/493.ts
+#EXTINF:-1,ESPN SP
+http://alphastreams.live:8080/live/freeworld/freeworld/517.ts
+#EXTINF:-1,ESPN 3 SP
+http://alphastreams.live:8080/live/freeworld/freeworld/519.ts
+#EXTINF:-1,ESPN 2 SP
+http://alphastreams.live:8080/live/freeworld/freeworld/518.ts
+#EXTINF:-1,E! SP
+http://alphastreams.live:8080/live/freeworld/freeworld/547.ts
+#EXTINF:-1,DW SP
+http://alphastreams.live:8080/live/freeworld/freeworld/506.ts
+#EXTINF:-1,Disney XD Norte
+http://alphastreams.live:8080/live/freeworld/freeworld/532.ts
+#EXTINF:-1,Disney Junior Norte
+http://alphastreams.live:8080/live/freeworld/freeworld/533.ts
+#EXTINF:-1,Disney Channel Norte
+http://alphastreams.live:8080/live/freeworld/freeworld/531.ts
+#EXTINF:-1,Discovery World
+http://alphastreams.live:8080/live/freeworld/freeworld/510.ts
+#EXTINF:-1,Discovery Theater
+http://alphastreams.live:8080/live/freeworld/freeworld/509.ts
+#EXTINF:-1,Discovery Kids America Latina
+http://alphastreams.live:8080/live/freeworld/freeworld/536.ts
+#EXTINF:-1,Discovery Home & Health SP
+http://alphastreams.live:8080/live/freeworld/freeworld/511.ts
+#EXTINF:-1,Discovery SP
+http://alphastreams.live:8080/live/freeworld/freeworld/508.ts
+#EXTINF:-1,De Pelicula Multiplex
+http://alphastreams.live:8080/live/freeworld/freeworld/571.ts
+#EXTINF:-1,De Pelicula
+http://alphastreams.live:8080/live/freeworld/freeworld/570.ts
+#EXTINF:-1,Comedy Central SP
+http://alphastreams.live:8080/live/freeworld/freeworld/561.ts
+#EXTINF:-1,CNN SP
+http://alphastreams.live:8080/live/freeworld/freeworld/564.ts
+#EXTINF:-1,Claro Sports
+http://alphastreams.live:8080/live/freeworld/freeworld/526.ts
+#EXTINF:-1,WIN Sport HD Colombia
+http://alphastreams.live:8080/live/freeworld/freeworld/870.ts
+#EXTINF:-1,Cinemax SP
+http://alphastreams.live:8080/live/freeworld/freeworld/583.ts
+#EXTINF:-1,Cinema Dinamita
+http://alphastreams.live:8080/live/freeworld/freeworld/572.ts
+#EXTINF:-1,CineLatino
+http://alphastreams.live:8080/live/freeworld/freeworld/574.ts
+#EXTINF:-1,CineCanal Prime
+http://alphastreams.live:8080/live/freeworld/freeworld/582.ts
+#EXTINF:-1,CineCanal
+http://alphastreams.live:8080/live/freeworld/freeworld/581.ts
+#EXTINF:-1,CBeebies SP
+http://alphastreams.live:8080/live/freeworld/freeworld/542.ts
+#EXTINF:-1,Cartoon Network SP
+http://alphastreams.live:8080/live/freeworld/freeworld/539.ts
+#EXTINF:-1,Canal Sony
+http://alphastreams.live:8080/live/freeworld/freeworld/543.ts
+#EXTINF:-1,Boomerang SP
+http://alphastreams.live:8080/live/freeworld/freeworld/538.ts
+#EXTINF:-1,Bein Sports SP
+http://alphastreams.live:8080/live/freeworld/freeworld/525.ts
+#EXTINF:-1,BBC Entertainment SP
+http://alphastreams.live:8080/live/freeworld/freeworld/544.ts
+#EXTINF:-1,Baby TV SP
+http://alphastreams.live:8080/live/freeworld/freeworld/541.ts
+#EXTINF:-1,AZ Corazon
+http://alphastreams.live:8080/live/freeworld/freeworld/501.ts
+#EXTINF:-1,Antena 3
+http://alphastreams.live:8080/live/freeworld/freeworld/507.ts
+#EXTINF:-1,Animal Planet SP
+http://alphastreams.live:8080/live/freeworld/freeworld/516.ts
+#EXTINF:-1,AMC
+http://alphastreams.live:8080/live/freeworld/freeworld/585.ts
+#EXTINF:-1,A&E SP
+http://alphastreams.live:8080/live/freeworld/freeworld/552.ts
+#EXTINF:-1,Willax TV
+http://alphastreams.live:8080/live/freeworld/freeworld/811.ts
+#EXTINF:-1,W24
+http://alphastreams.live:8080/live/freeworld/freeworld/753.ts
+#EXTINF:-1,VTV Valle
+http://alphastreams.live:8080/live/freeworld/freeworld/796.ts
+#EXTINF:-1,Ve Plus TV
+http://alphastreams.live:8080/live/freeworld/freeworld/851.ts
+#EXTINF:-1,Valle TV de Aconcagua
+http://alphastreams.live:8080/live/freeworld/freeworld/793.ts
+#EXTINF:-1,UCV Satelital
+http://alphastreams.live:8080/live/freeworld/freeworld/808.ts
+#EXTINF:-1,UCSG Televisión
+http://alphastreams.live:8080/live/freeworld/freeworld/756.ts
+#EXTINF:-1,TVX El Salvador
+http://alphastreams.live:8080/live/freeworld/freeworld/766.ts
+#EXTINF:-1,TVO Canal 23
+http://alphastreams.live:8080/live/freeworld/freeworld/785.ts
+#EXTINF:-1,TVJ Sports
+http://alphastreams.live:8080/live/freeworld/freeworld/824.ts
+#EXTINF:-1,TVES Canal 10
+http://alphastreams.live:8080/live/freeworld/freeworld/768.ts
+#EXTINF:-1,TVE1
+http://alphastreams.live:8080/live/freeworld/freeworld/857.ts
+#EXTINF:-1,TV Sur Canal 14
+http://alphastreams.live:8080/live/freeworld/freeworld/750.ts
+#EXTINF:-1,TV Marti
+http://alphastreams.live:8080/live/freeworld/freeworld/854.ts
+#EXTINF:-1,TV Maná Argentina
+http://alphastreams.live:8080/live/freeworld/freeworld/802.ts
+#EXTINF:-1,TV Centro HD
+http://alphastreams.live:8080/live/freeworld/freeworld/770.ts
+#EXTINF:-1,TV Azteca Honduras
+http://alphastreams.live:8080/live/freeworld/freeworld/849.ts
+#EXTINF:-1,TV Agro
+http://alphastreams.live:8080/live/freeworld/freeworld/776.ts
+#EXTINF:-1,TV 7 Ecuador
+http://alphastreams.live:8080/live/freeworld/freeworld/847.ts
+#EXTINF:-1,TV 5 Monde
+http://alphastreams.live:8080/live/freeworld/freeworld/860.ts
+#EXTINF:-1,TV 3
+http://alphastreams.live:8080/live/freeworld/freeworld/733.ts
+#EXTINF:-1,Tukanal TV
+http://alphastreams.live:8080/live/freeworld/freeworld/747.ts
+#EXTINF:-1,TRT
+http://alphastreams.live:8080/live/freeworld/freeworld/788.ts
+#EXTINF:-1,TRA Digital
+http://alphastreams.live:8080/live/freeworld/freeworld/816.ts
+#EXTINF:-1,TLX Telemax
+http://alphastreams.live:8080/live/freeworld/freeworld/798.ts
+#EXTINF:-1,Tirol TV
+http://alphastreams.live:8080/live/freeworld/freeworld/726.ts
+#EXTINF:-1,TEN Canal 10
+http://alphastreams.live:8080/live/freeworld/freeworld/771.ts
+#EXTINF:-1,Telpin TV Canal 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/797.ts
+#EXTINF:-1,Televisora Venezolana Social
+http://alphastreams.live:8080/live/freeworld/freeworld/784.ts
+#EXTINF:-1,Teleuno
+http://alphastreams.live:8080/live/freeworld/freeworld/846.ts
+#EXTINF:-1,Telesur
+http://alphastreams.live:8080/live/freeworld/freeworld/852.ts
+#EXTINF:-1,Telesistema Canal 11
+http://alphastreams.live:8080/live/freeworld/freeworld/815.ts
+#EXTINF:-1,Telemetro Radio
+http://alphastreams.live:8080/live/freeworld/freeworld/758.ts
+#EXTINF:-1,Telemedellin
+http://alphastreams.live:8080/live/freeworld/freeworld/780.ts
+#EXTINF:-1,TeleMax
+http://alphastreams.live:8080/live/freeworld/freeworld/840.ts
+#EXTINF:-1,TeleFuturo Canal 23
+http://alphastreams.live:8080/live/freeworld/freeworld/817.ts
+#EXTINF:-1,TeleDanli Canal 9
+http://alphastreams.live:8080/live/freeworld/freeworld/773.ts
+#EXTINF:-1,Telecafé
+http://alphastreams.live:8080/live/freeworld/freeworld/779.ts
+#EXTINF:-1,Telearuba
+http://alphastreams.live:8080/live/freeworld/freeworld/826.ts
+#EXTINF:-1,TeleAragua
+http://alphastreams.live:8080/live/freeworld/freeworld/786.ts
+#EXTINF:-1,Tele Universo
+http://alphastreams.live:8080/live/freeworld/freeworld/818.ts
+#EXTINF:-1,Tele Boston - Haiti
+http://alphastreams.live:8080/live/freeworld/freeworld/828.ts
+#EXTINF:-1,Tele Antillas
+http://alphastreams.live:8080/live/freeworld/freeworld/813.ts
+#EXTINF:-1,Tele Amiga
+http://alphastreams.live:8080/live/freeworld/freeworld/777.ts
+#EXTINF:-1,Sol TV Perú
+http://alphastreams.live:8080/live/freeworld/freeworld/805.ts
+#EXTINF:-1,SMOTV Positive Channel
+http://alphastreams.live:8080/live/freeworld/freeworld/751.ts
+#EXTINF:-1,RT en Español
+http://alphastreams.live:8080/live/freeworld/freeworld/865.ts
+#EXTINF:-1,RNN Canal 27
+http://alphastreams.live:8080/live/freeworld/freeworld/820.ts
+#EXTINF:-1,Red Guarani
+http://alphastreams.live:8080/live/freeworld/freeworld/743.ts
+#EXTINF:-1,Red Advenir
+http://alphastreams.live:8080/live/freeworld/freeworld/760.ts
+#EXTINF:-1,Real Madrid TV
+http://alphastreams.live:8080/live/freeworld/freeworld/727.ts
+#EXTINF:-1,RCG Televisión
+http://alphastreams.live:8080/live/freeworld/freeworld/835.ts
+#EXTINF:-1,RBC Online
+http://alphastreams.live:8080/live/freeworld/freeworld/809.ts
+#EXTINF:-1,Proyecto 40
+http://alphastreams.live:8080/live/freeworld/freeworld/842.ts
+#EXTINF:-1,Promar TV
+http://alphastreams.live:8080/live/freeworld/freeworld/789.ts
+#EXTINF:-1,PDVSA TV
+http://alphastreams.live:8080/live/freeworld/freeworld/787.ts
+#EXTINF:-1,PAT
+http://alphastreams.live:8080/live/freeworld/freeworld/759.ts
+#EXTINF:-1,Pacifico Television Virtual
+http://alphastreams.live:8080/live/freeworld/freeworld/812.ts
+#EXTINF:-1,Onda Cádiz TV
+http://alphastreams.live:8080/live/freeworld/freeworld/755.ts
+#EXTINF:-1,Ocho TV
+http://alphastreams.live:8080/live/freeworld/freeworld/765.ts
+#EXTINF:-1,Nos TV Bonaire
+http://alphastreams.live:8080/live/freeworld/freeworld/831.ts
+#EXTINF:-1,Niu TV
+http://alphastreams.live:8080/live/freeworld/freeworld/762.ts
+#EXTINF:-1,Navarra TV
+http://alphastreams.live:8080/live/freeworld/freeworld/739.ts
+#EXTINF:-1,Murcia TV 7
+http://alphastreams.live:8080/live/freeworld/freeworld/721.ts
+#EXTINF:-1,Milenio Televisión
+http://alphastreams.live:8080/live/freeworld/freeworld/837.ts
+#EXTINF:-1,Mega TV Peru
+http://alphastreams.live:8080/live/freeworld/freeworld/810.ts
+#EXTINF:-1,Mas TV Puerto Rico
+http://alphastreams.live:8080/live/freeworld/freeworld/746.ts
+#EXTINF:-1,Logos TV
+http://alphastreams.live:8080/live/freeworld/freeworld/724.ts
+#EXTINF:-1,Latina Network
+http://alphastreams.live:8080/live/freeworld/freeworld/806.ts
+#EXTINF:-1,Lancelot TV
+http://alphastreams.live:8080/live/freeworld/freeworld/736.ts
+#EXTINF:-1,La Sexta
+http://alphastreams.live:8080/live/freeworld/freeworld/720.ts
+#EXTINF:-1,ITV Patagonia
+http://alphastreams.live:8080/live/freeworld/freeworld/792.ts
+#EXTINF:-1,InterEconomia TV
+http://alphastreams.live:8080/live/freeworld/freeworld/737.ts
+#EXTINF:-1,Huelva Televisión
+http://alphastreams.live:8080/live/freeworld/freeworld/732.ts
+#EXTINF:-1,HCH TV
+http://alphastreams.live:8080/live/freeworld/freeworld/772.ts
+#EXTINF:-1,GolTV
+http://alphastreams.live:8080/live/freeworld/freeworld/861.ts
+#EXTINF:-1,Globo TV Honduras
+http://alphastreams.live:8080/live/freeworld/freeworld/774.ts
+#EXTINF:-1,Gayelle Trinidad
+http://alphastreams.live:8080/live/freeworld/freeworld/825.ts
+#EXTINF:-1,Galicia TV Europa
+http://alphastreams.live:8080/live/freeworld/freeworld/725.ts
+#EXTINF:-1,Galicia
+http://alphastreams.live:8080/live/freeworld/freeworld/735.ts
+#EXTINF:-1,Gala TV
+http://alphastreams.live:8080/live/freeworld/freeworld/845.ts
+#EXTINF:-1,Focus 49 Olelo
+http://alphastreams.live:8080/live/freeworld/freeworld/821.ts
+#EXTINF:-1,Euronews en Español
+http://alphastreams.live:8080/live/freeworld/freeworld/864.ts
+#EXTINF:-1,ETB Sat
+http://alphastreams.live:8080/live/freeworld/freeworld/728.ts
+#EXTINF:-1,El Tiempo Television
+http://alphastreams.live:8080/live/freeworld/freeworld/867.ts
+#EXTINF:-1,El Pinguino TV
+http://alphastreams.live:8080/live/freeworld/freeworld/795.ts
+#EXTINF:-1,DXTV
+http://alphastreams.live:8080/live/freeworld/freeworld/862.ts
+#EXTINF:-1,DW Latinoamerica
+http://alphastreams.live:8080/live/freeworld/freeworld/859.ts
+#EXTINF:-1,Cosmovision
+http://alphastreams.live:8080/live/freeworld/freeworld/778.ts
+#EXTINF:-1,CORtv mex
+http://alphastreams.live:8080/live/freeworld/freeworld/841.ts
+#EXTINF:-1,Colosal TV
+http://alphastreams.live:8080/live/freeworld/freeworld/752.ts
+#EXTINF:-1,Color Visión
+http://alphastreams.live:8080/live/freeworld/freeworld/814.ts
+#EXTINF:-1,Cinestream TV
+http://alphastreams.live:8080/live/freeworld/freeworld/829.ts
+#EXTINF:-1,CBA TV
+http://alphastreams.live:8080/live/freeworld/freeworld/830.ts
+#EXTINF:-1,Castilla la Mancha TV
+http://alphastreams.live:8080/live/freeworld/freeworld/731.ts
+#EXTINF:-1,Carolina TV
+http://alphastreams.live:8080/live/freeworld/freeworld/763.ts
+#EXTINF:-1,Capital TV
+http://alphastreams.live:8080/live/freeworld/freeworld/807.ts
+#EXTINF:-1,Capital 21 CDMX
+http://alphastreams.live:8080/live/freeworld/freeworld/839.ts
+#EXTINF:-1,Canalcosta Televisión
+http://alphastreams.live:8080/live/freeworld/freeworld/738.ts
+#EXTINF:-1,Canal Uno
+http://alphastreams.live:8080/live/freeworld/freeworld/781.ts
+#EXTINF:-1,Canal Sur Andalucía
+http://alphastreams.live:8080/live/freeworld/freeworld/729.ts
+#EXTINF:-1,Canal Orbe 21
+http://alphastreams.live:8080/live/freeworld/freeworld/801.ts
+#EXTINF:-1,Canal Once
+http://alphastreams.live:8080/live/freeworld/freeworld/843.ts
+#EXTINF:-1,Canal Extremadura
+http://alphastreams.live:8080/live/freeworld/freeworld/730.ts
+#EXTINF:-1,Canal Antiestrés
+http://alphastreams.live:8080/live/freeworld/freeworld/775.ts
+#EXTINF:-1,Canal 9 La Union
+http://alphastreams.live:8080/live/freeworld/freeworld/767.ts
+#EXTINF:-1,Canal 9 Argentina
+http://alphastreams.live:8080/live/freeworld/freeworld/745.ts
+#EXTINF:-1,Canal 45 TV
+http://alphastreams.live:8080/live/freeworld/freeworld/761.ts
+#EXTINF:-1,Canal 4 Argentina
+http://alphastreams.live:8080/live/freeworld/freeworld/800.ts
+#EXTINF:-1,Canal 3/24
+http://alphastreams.live:8080/live/freeworld/freeworld/722.ts
+#EXTINF:-1,Canal 3 Culiacan
+http://alphastreams.live:8080/live/freeworld/freeworld/838.ts
+#EXTINF:-1,Canal 26 Argentina
+http://alphastreams.live:8080/live/freeworld/freeworld/803.ts
+#EXTINF:-1,Canal 25
+http://alphastreams.live:8080/live/freeworld/freeworld/819.ts
+#EXTINF:-1,Canal 2 Nicaragua
+http://alphastreams.live:8080/live/freeworld/freeworld/748.ts
+#EXTINF:-1,Canal 17 El Salvador
+http://alphastreams.live:8080/live/freeworld/freeworld/832.ts
+#EXTINF:-1,Canal 13 Nicaragua
+http://alphastreams.live:8080/live/freeworld/freeworld/848.ts
+#EXTINF:-1,Campus TV
+http://alphastreams.live:8080/live/freeworld/freeworld/794.ts
+#EXTINF:-1,Cali TV
+http://alphastreams.live:8080/live/freeworld/freeworld/783.ts
+#EXTINF:-1,Cable Noticias
+http://alphastreams.live:8080/live/freeworld/freeworld/868.ts
+#EXTINF:-1,C7 Jalisco
+http://alphastreams.live:8080/live/freeworld/freeworld/754.ts
+#EXTINF:-1,C5N
+http://alphastreams.live:8080/live/freeworld/freeworld/853.ts
+#EXTINF:-1,ByuTV Internacional
+http://alphastreams.live:8080/live/freeworld/freeworld/856.ts
+#EXTINF:-1,Bolivia al Aire
+http://alphastreams.live:8080/live/freeworld/freeworld/749.ts
+#EXTINF:-1,Belarus 24
+http://alphastreams.live:8080/live/freeworld/freeworld/827.ts
+#EXTINF:-1,Azteca 13
+http://alphastreams.live:8080/live/freeworld/freeworld/844.ts
+#EXTINF:-1,ATB Bolivia
+http://alphastreams.live:8080/live/freeworld/freeworld/764.ts
+#EXTINF:-1,Agrotendencia TV
+http://alphastreams.live:8080/live/freeworld/freeworld/790.ts
+#EXTINF:-1,8 TV
+http://alphastreams.live:8080/live/freeworld/freeworld/740.ts
+#EXTINF:-1,7 TV Región de Murcia
+http://alphastreams.live:8080/live/freeworld/freeworld/741.ts
+#EXTINF:-1,360 TV
+http://alphastreams.live:8080/live/freeworld/freeworld/804.ts
+#EXTINF:-1,13TV
+http://alphastreams.live:8080/live/freeworld/freeworld/723.ts
+#EXTINF:-1,VIRGIN TV
+http://alphastreams.live:8080/live/freeworld/freeworld/965.ts
+#EXTINF:-1,VIAJAR HD
+http://alphastreams.live:8080/live/freeworld/freeworld/951.ts
+#EXTINF:-1,VH1
+http://alphastreams.live:8080/live/freeworld/freeworld/966.ts
+#EXTINF:-1,TVM3
+http://alphastreams.live:8080/live/freeworld/freeworld/967.ts
+#EXTINF:-1,TNT Spain
+http://alphastreams.live:8080/live/freeworld/freeworld/977.ts
+#EXTINF:-1,TELEDEPORTE HD
+http://alphastreams.live:8080/live/freeworld/freeworld/940.ts
+#EXTINF:-1,TELECINCO HD
+http://alphastreams.live:8080/live/freeworld/freeworld/891.ts
+#EXTINF:-1,TCM HD
+http://alphastreams.live:8080/live/freeworld/freeworld/914.ts
+#EXTINF:-1,SYFY HD
+http://alphastreams.live:8080/live/freeworld/freeworld/919.ts
+#EXTINF:-1,RADIO MONTE-CARLO TV
+http://alphastreams.live:8080/live/freeworld/freeworld/968.ts
+#EXTINF:-1,RADIO 105
+http://alphastreams.live:8080/live/freeworld/freeworld/969.ts
+#EXTINF:-1,PARAMOUNT
+http://alphastreams.live:8080/live/freeworld/freeworld/911.ts
+#EXTINF:-1,PANDA
+http://alphastreams.live:8080/live/freeworld/freeworld/958.ts
+#EXTINF:-1,ODISEA HD
+http://alphastreams.live:8080/live/freeworld/freeworld/953.ts
+#EXTINF:-1,NRJ12 MUSIC
+http://alphastreams.live:8080/live/freeworld/freeworld/970.ts
+#EXTINF:-1,NOVA
+http://alphastreams.live:8080/live/freeworld/freeworld/897.ts
+#EXTINF:-1,NON STOP PEOPLE
+http://alphastreams.live:8080/live/freeworld/freeworld/901.ts
+#EXTINF:-1,NICKELODEON HD
+http://alphastreams.live:8080/live/freeworld/freeworld/957.ts
+#EXTINF:-1,NEOX
+http://alphastreams.live:8080/live/freeworld/freeworld/894.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://alphastreams.live:8080/live/freeworld/freeworld/955.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://alphastreams.live:8080/live/freeworld/freeworld/956.ts
+#EXTINF:-1,MTV MUSIC
+http://alphastreams.live:8080/live/freeworld/freeworld/972.ts
+#EXTINF:-1,MOVISTAR XTRA HD
+http://alphastreams.live:8080/live/freeworld/freeworld/909.ts
+#EXTINF:-1,MOVISTAR SERIES Xtra HD
+http://alphastreams.live:8080/live/freeworld/freeworld/908.ts
+#EXTINF:-1,MOVISTAR SERIES HD
+http://alphastreams.live:8080/live/freeworld/freeworld/907.ts
+#EXTINF:-1,MOVISTAR F1
+http://alphastreams.live:8080/live/freeworld/freeworld/944.ts
+#EXTINF:-1,MOVISTAR ESTRENOS HD
+http://alphastreams.live:8080/live/freeworld/freeworld/906.ts
+#EXTINF:-1,MOVISTAR DCINE HD
+http://alphastreams.live:8080/live/freeworld/freeworld/905.ts
+#EXTINF:-1,MOVISTAR DCINE ESPANOL
+http://alphastreams.live:8080/live/freeworld/freeworld/910.ts
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://alphastreams.live:8080/live/freeworld/freeworld/904.ts
+#EXTINF:-1,MOVISTAR ACCION HD
+http://alphastreams.live:8080/live/freeworld/freeworld/903.ts
+#EXTINF:-1,MOTO GP
+http://alphastreams.live:8080/live/freeworld/freeworld/945.ts
+#EXTINF:-1,Mega
+http://alphastreams.live:8080/live/freeworld/freeworld/893.ts
+#EXTINF:-1,M6 MUSIC
+http://alphastreams.live:8080/live/freeworld/freeworld/975.ts
+#EXTINF:-1,M20
+http://alphastreams.live:8080/live/freeworld/freeworld/976.ts
+#EXTINF:-1,LALIGA BAR HD
+http://alphastreams.live:8080/live/freeworld/freeworld/925.ts
+#EXTINF:-1,LA SEXTA HD
+http://alphastreams.live:8080/live/freeworld/freeworld/892.ts
+#EXTINF:-1,LA 2
+http://alphastreams.live:8080/live/freeworld/freeworld/888.ts
+#EXTINF:-1,LA 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/887.ts
+#EXTINF:-1,KISS TV
+http://alphastreams.live:8080/live/freeworld/freeworld/964.ts
+#EXTINF:-1,IBERALIA TV
+http://alphastreams.live:8080/live/freeworld/freeworld/954.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://alphastreams.live:8080/live/freeworld/freeworld/912.ts
+#EXTINF:-1,HISTORIA
+http://alphastreams.live:8080/live/freeworld/freeworld/952.ts
+#EXTINF:-1,FOX LIFE HD
+http://alphastreams.live:8080/live/freeworld/freeworld/918.ts
+#EXTINF:-1,FOX HD
+http://alphastreams.live:8080/live/freeworld/freeworld/917.ts
+#EXTINF:-1,FDF
+http://alphastreams.live:8080/live/freeworld/freeworld/895.ts
+#EXTINF:-1,ENERGY
+http://alphastreams.live:8080/live/freeworld/freeworld/898.ts
+#EXTINF:-1,DIVINITY
+http://alphastreams.live:8080/live/freeworld/freeworld/896.ts
+#EXTINF:-1,DISNEY XD Spain
+http://alphastreams.live:8080/live/freeworld/freeworld/978.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://alphastreams.live:8080/live/freeworld/freeworld/960.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://alphastreams.live:8080/live/freeworld/freeworld/959.ts
+#EXTINF:-1,DISCOVERY CI
+http://alphastreams.live:8080/live/freeworld/freeworld/948.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://alphastreams.live:8080/live/freeworld/freeworld/950.ts
+#EXTINF:-1,CUATRO HD
+http://alphastreams.live:8080/live/freeworld/freeworld/890.ts
+#EXTINF:-1,COSMO HD
+http://alphastreams.live:8080/live/freeworld/freeworld/922.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://alphastreams.live:8080/live/freeworld/freeworld/921.ts
+#EXTINF:-1,CANAL COCINA
+http://alphastreams.live:8080/live/freeworld/freeworld/947.ts
+#EXTINF:-1,CANAL  TOROS
+http://alphastreams.live:8080/live/freeworld/freeworld/946.ts
+#EXTINF:-1,CANAL  GOLF
+http://alphastreams.live:8080/live/freeworld/freeworld/943.ts
+#EXTINF:-1,CANAL  FUTBOL HD
+http://alphastreams.live:8080/live/freeworld/freeworld/924.ts
+#EXTINF:-1,CANAL  DEPORTES HD
+http://alphastreams.live:8080/live/freeworld/freeworld/941.ts
+#EXTINF:-1,CANAL  DEPORTES 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/942.ts
+#EXTINF:-1,CALLE 13 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/920.ts
+#EXTINF:-1,BOING
+http://alphastreams.live:8080/live/freeworld/freeworld/961.ts
+#EXTINF:-1,BEIN SPORT ES
+http://alphastreams.live:8080/live/freeworld/freeworld/931.ts
+#EXTINF:-1,BEIN LA LIGA opp2
+http://alphastreams.live:8080/live/freeworld/freeworld/927.ts
+#EXTINF:-1,BEIN LA LIGA
+http://alphastreams.live:8080/live/freeworld/freeworld/926.ts
+#EXTINF:-1,BABY
+http://alphastreams.live:8080/live/freeworld/freeworld/962.ts
+#EXTINF:-1,AXN WHITE HD
+http://alphastreams.live:8080/live/freeworld/freeworld/916.ts
+#EXTINF:-1,AXN HD
+http://alphastreams.live:8080/live/freeworld/freeworld/915.ts
+#EXTINF:-1,ANTENA 3 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/889.ts
+#EXTINF:-1,ANDALUCIA TV
+http://alphastreams.live:8080/live/freeworld/freeworld/923.ts
+#EXTINF:-1,AMC HD
+http://alphastreams.live:8080/live/freeworld/freeworld/913.ts
+#EXTINF:-1,A3SERIES
+http://alphastreams.live:8080/live/freeworld/freeworld/900.ts
+#EXTINF:-1,A&E
+http://alphastreams.live:8080/live/freeworld/freeworld/949.ts
+#EXTINF:-1,40 TV
+http://alphastreams.live:8080/live/freeworld/freeworld/963.ts
+#EXTINF:-1,#O HD
+http://alphastreams.live:8080/live/freeworld/freeworld/902.ts
+#EXTINF:-1,Adult: REDLIGHT HD
+http://alphastreams.live:8080/live/freeworld/freeworld/631.ts
+#EXTINF:-1,RedLight HD 1
+http://alphastreams.live:8080/live/freeworld/freeworld/881.ts
+#EXTINF:-1,RedLight HD 2
+http://alphastreams.live:8080/live/freeworld/freeworld/882.ts
+#EXTINF:-1,RedLight HD 3
+http://alphastreams.live:8080/live/freeworld/freeworld/883.ts
+#EXTINF:-1,Blacked
+http://alphastreams.live:8080/live/freeworld/freeworld/884.ts
+#EXTINF:-1,Desire
+http://alphastreams.live:8080/live/freeworld/freeworld/886.ts
+#EXTINF:-1,Babestation Xtra
+http://alphastreams.live:8080/live/freeworld/freeworld/885.ts
+#EXTINF:-1,Adult: VIsit X TV
+http://alphastreams.live:8080/live/freeworld/freeworld/632.ts
+#EXTINF:-1,Adult: Viki Enjoy Premium HD
+http://alphastreams.live:8080/live/freeworld/freeworld/633.ts
+#EXTINF:-1,Adult: Venus
+http://alphastreams.live:8080/live/freeworld/freeworld/634.ts
+#EXTINF:-1,Adult: The O HD
+http://alphastreams.live:8080/live/freeworld/freeworld/635.ts
+#EXTINF:-1,Adult: Spice TV HD
+http://alphastreams.live:8080/live/freeworld/freeworld/636.ts
+#EXTINF:-1,Adult: Playy-19  HD
+http://alphastreams.live:8080/live/freeworld/freeworld/640.ts
+#EXTINF:-1,Adult: Playboy TV HD 18
+http://alphastreams.live:8080/live/freeworld/freeworld/641.ts
+#EXTINF:-1,Adult: Playboy TV Chat 1
+http://alphastreams.live:8080/live/freeworld/freeworld/643.ts
+#EXTINF:-1,Adult: Pink TV HD
+http://alphastreams.live:8080/live/freeworld/freeworld/644.ts
+#EXTINF:-1,Adult: Penthouse Asia 18   HD
+http://alphastreams.live:8080/live/freeworld/freeworld/645.ts
+#EXTINF:-1,Adult: Midnight HD
+http://alphastreams.live:8080/live/freeworld/freeworld/647.ts
+#EXTINF:-1,Adult: Jasmin TV
+http://alphastreams.live:8080/live/freeworld/freeworld/629.ts
+#EXTINF:-1,Adult: Hustler HD
+http://alphastreams.live:8080/live/freeworld/freeworld/648.ts
+#EXTINF:-1,Adult: HOT CLUB 2 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/650.ts
+#EXTINF:-1,Adult: HOT CLUB 1 HD
+http://alphastreams.live:8080/live/freeworld/freeworld/651.ts
+#EXTINF:-1,Adult: Hot
+http://alphastreams.live:8080/live/freeworld/freeworld/652.ts
+#EXTINF:-1,Adult: Honey 18   HD
+http://alphastreams.live:8080/live/freeworld/freeworld/653.ts
+#EXTINF:-1,Adult: Holland Hard
+http://alphastreams.live:8080/live/freeworld/freeworld/654.ts
+#EXTINF:-1,Adult: Girls 4U HD
+http://alphastreams.live:8080/live/freeworld/freeworld/655.ts
+#EXTINF:-1,Adult: But Go HD
+http://alphastreams.live:8080/live/freeworld/freeworld/657.ts
+#EXTINF:-1,Adult: 2
+http://alphastreams.live:8080/live/freeworld/freeworld/662.ts
+#EXTINF:-1,PLAYBOY TV
+http://alphastreams.live:8080/live/freeworld/freeworld/609.ts
+#EXTINF:-1,Adult HD 1
+http://alphastreams.live:8080/live/freeworld/freeworld/716.ts
+#EXTINF:-1,Adult HD 2
+http://alphastreams.live:8080/live/freeworld/freeworld/717.ts
+#EXTINF:-1,Adult HD 3
+http://alphastreams.live:8080/live/freeworld/freeworld/718.ts
+#EXTINF:-1,Adult HD 4
+http://alphastreams.live:8080/live/freeworld/freeworld/719.ts
 
 
