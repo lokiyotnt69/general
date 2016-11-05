@@ -1,126 +1,190 @@
-#EXTINF:-1, group-title=”España” tvg-logo=”a&e.png”,A&E
-http://stream.zetatv.cf/pw/AE_13mz39m/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”Canal+HD.png”,#0
-http://stream.zetatv.cf/pw/plus0_b0xk990/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”29vme6e.png”,Estrenos
-http://stream.zetatv.cf/pw/plusestrenos_ahnxk7j/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”caccion.png”,Acción
-http://stream.zetatv.cf/pw/accion_aqtvoax/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”cpcome.png”,Comedia
-http://stream.zetatv.cf/pw/comedia_b0dqg8y/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”500px-Canal+_DCine_2008.svg.png”,DCine
-http://stream.zetatv.cf/pw/dcine_aw3g20p/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”AMC.png”,AMC
-http://stream.zetatv.cf/pw/amc_aw3dyqm/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”Canal_Hollywood_HD.png”,HOLLYWOOD
-http://stream.zetatv.cf/pw/holliwood_bawwczi/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”tcm.png”,TCM
-http://stream.zetatv.cf/pw/amc_aw3dyqm/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”tnt hd.png”,TNT
-http://stream.zetatv.cf/pw/tnt_alwl3qm/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”fox classics.png”,Fox
-http://stream.zetatv.cf/pw/fox_alwk17k/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”axn hd.png”,AXN
-http://stream.zetatv.cf/pw/axn_alwla94/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”Calle 13.png”,Calle 13
-http://stream.zetatv.cf/pw/calle13_aw3fo9w/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”syfy.png”,SYFY
-http://stream.zetatv.cf/pw/syfy_aw3eq7m/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”mv2.png”,Series
-http://stream.zetatv.cf/pw/series_aw3d82v/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”mv2.png”,Series Xtra
-http://stream.zetatv.cf/pw/seriesxtra_axgtru5/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”AXN_White_HD.png”,Axn White
-http://stream.zetatv.cf/pw/axnwhite_aap5cqs/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”fox life.png”,Fox Life
-http://stream.zetatv.cf/pw/foxlive_au8xxzz/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”cosmo.png”,Cosmo
-http://stream.zetatv.cf/pw/cosmos_az4nm9g/chunklist.m3u8
-#EXTINF:1, group-title=”España” tvg-logo=”comedy.png”,Comedy Central
-http://stream.zetatv.cf/pw/camedycentral_aza0tov/chunklist.m3u8
-#EXTINF:-1, group-title=”España”,Paramount Channel España
-http://195.55.74.208/paramount/live/stream.m3u8?GKID=ea0085ba4d3111e69c3c00163e914f69
-#EXTINF:-1, group-title=”España” tvg-logo=”logo.png”,Discovery Max
-http://stream.zetatv.cf/pw/dismax_9c7n25t/chunklist.m3u8
-#EXTINF:-1, group-title=”España” cazaypesca-logo=”logo.png”,Caza y Pesca
-http://stream.zetatv.cf/pw/caza_aulqd78/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”natgeo.png”,Nat Geographic
-http://stream.zetatv.cf/pw/national_alwka53/chunklist.m3u8
-#EXTINF:-1 group-title=”España” tvg-logo=”natgeo-wild.png”,Nat Geo Wild
-http://stream.zetatv.cf/pw/natgeowill_azu3urx/chunklist.m3u8
-#EXTINF:-1 group-title=”España” tvg-logo=”discovery channel.png”,Discovery Channel
-http://stream.zetatv.cf/pw/discoverydino_9dm3fgv/chunklist.m3u8
-#EXTINF:-1 group-title=”España” tvg-logo=”history hd.png”,Historia
-http://stream.zetatv.cf/pw/historia_9dm8skt/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”odisea hd.png”,Odisea
-http://stream.zetatv.cf/pw/odiseass_ab1rhro/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”ci.png”,ci(crimen/Investigacion)
-http://stream.zetatv.cf/pw/ci_aaqtqg7/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”Canal-Cocina.png”,Canal Cocina
-http://stream.zetatv.cf/pw/cocina_am9cifh/chunklist.m3u8
-#EXTINF:-1 group-title=”España” tvg-logo=”travellogo.png”,Travel
-rtmp://$OPT:rtmp-raw=rtmp://87.106.219.140:1935/live playpath=myStream_2 swfUrl= live=1
-#EXTINF:-1, group-title=”MOPI+INFANTIL” tvg-logo=”Boing(1).png”,Boing
-http://cdn.sstream.pw/live/boing_aaquham/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”Formula 1.png”,La 1
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”La nueve.png”,LA 2
-http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3
-http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3 (Opción 2)
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1, tvg-id=”Antena 3″ tvg-name=”Antena 3″, Antena 3 (Opción 3)
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3 Series
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”Cuatro.png”,CUATRO
-http://stream.zetatv.cf/pw/cuatro_xrf2a3/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”Telecinco.png”,TELECINCO
-http://stream.zetatv.cf/pw/telecinco55_ao7nqiq/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”La Sexta.jpg”,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title=”España” tvg-logo=”La Sexta.jpg”,La Sexta (Opción 2)
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title=”España” tvg-logo=”mega.jpg”,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title=”España” tvg-logo=”Divinity.jpg”,Divinity
-http://stream.zetatv.cf/pw/diniiiii_9fil4ag/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”Energy.jpg”,Energy
-http://stream.zetatv.cf/pw/energy_azhls60/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”Energy.jpg”,Energy (Opción 2)
-http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”Bemad.jpg”,BE MAD
-http://stream.zetatv.cf/pw/bemad_azhj93f/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”ten.jpg”,TEN
-http://stream.zetatv.cf/pw/ten_azj987s/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”fdf.jpg”,FDF
-http://stream.zetatv.cf/pw/fdfhd_xrewtt/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”neox.jpg”,Neox
-http://stream.zetatv.cf/pw/neox_alwkw2n/chunklist.m3u8
-#EXTINF:-1, group-title=”España” tvg-logo=”Nova.jpg”,NOVA
-http://stream.zetatv.cf/pw/nova2_acolsfq/chunklist.m3u8
-#EXTINF:-1, group-title=”España”,Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1, group-title=”España”, Extremadura TV
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-#EXTINF:-1, group-title=”España”, La 2
-http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
-#EXTINF:-1, group-title=”España”,Fail TV
-http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
-#EXTINF:-1, group-title=”España”, Telemadrid
-http://telemadrid-live.hls.adaptive.level3.net:80/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
-#EXTINF:-1, group-title=”España”,Andalucia TV
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1, group-title=”España”, La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,La Sexta (Opción 2)
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title=”España”,Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title=”España”,Tv Galicia
-http://media3.crtvg.es/live/tvge/chunklist.m3u8
-#EXTINF:-1, group-title=”España”,24Horas
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1, group-title=”España”,Mediterraneo TV
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTM3U
+#EXTINF:3600,Challenge
+http://5.255.90.232:5000/play/a01i
+#EXTINF:1,,Crime+Inv
+http://5.255.90.232:5000/play/a00c
+#EXTINF:1,,Crime+Inv +1
+http://5.255.90.232:5000/play/a01e
+#EXTINF:1,,RT. One +1
+http://5.255.90.232:5000/play/a00t
+#EXTINF:1,,Nick Jr.
+http://5.255.90.232:5000/play/a010
+#EXTINF:1,,Forces TV
+http://5.255.90.232:5000/play/a01j
+#EXTINF:1,,Sky Sports Mix
+http://5.255.90.232:5000/play/a00u
+#EXTINF:1,,LFCTV
+http://5.255.90.232:5000/play/a01a
+#EXTINF:1,,GINXeSportsTV
+http://5.255.90.232:5000/play/a01c
+#EXTINF:1,,SkyNws Arabia
+http://5.255.90.232:5000/play/a00w
+#EXTINF:1,,QVC Extra
+http://5.255.90.232:5000/play/a015
+#EXTINF:1,,History +1 hour
+http://5.255.90.232:5000/play/a00i
+#EXTINF:1,,RT.jr
+http://5.255.90.232:5000/play/a00r
+#EXTINF:1,,H2
+http://5.255.90.232:5000/play/a00k
+#EXTINF:1,,Nickelodeon
+http://5.255.90.232:5000/play/a00x
+#EXTINF:1,,3e
+http://5.255.90.232:5000/play/a019
+#EXTINF:1,,Nicktoons
+http://5.255.90.232:5000/play/a00z
+#EXTINF:1,,Challenge+1
+http://5.255.90.232:5000/play/a01g
+#EXTINF:1,,History
+http://5.255.90.232:5000/play/a00a
+#EXTINF:1,,Nickelodeon+1
+http://5.255.90.232:5000/play/a00y
+#EXTINF:1,,TV3+1
+http://5.255.90.232:5000/play/a01k
+#EXTINF:1,,FOX News
+http://5.255.90.232:5000/play/a00b
+#EXTINF:1,,Oireachtas TV
+http://5.255.90.232:5000/play/a00s
+#EXTINF:1,,Challenge
+http://5.255.90.232:5000/play/a01h
+#EXTINF:1,,RT.2
+http://5.255.90.232:5000/play/a00o
+#EXTINF:1,,Real Lives
+http://5.255.90.232:5000/play/a00l
+#EXTINF:1,,Nat Geo+1hr
+http://5.255.90.232:5000/play/a00f
+#EXTINF:1,,UTV Ireland
+http://5.255.90.232:5000/play/a008
+#EXTINF:1,,MUTV
+http://5.255.90.232:5000/play/a00h
+#EXTINF:1,,Lifetime+1
+http://5.255.90.232:5000/play/a01d
+#EXTINF:1,,Sky Living+1
+http://5.255.90.232:5000/play/a012
+#EXTINF:1,,RT. One
+http://5.255.90.232:5000/play/a00n
+#EXTINF:1,,Real Lives+1
+http://5.255.90.232:5000/play/a01f
+#EXTINF:1,,At The Races
+http://5.255.90.232:5000/play/a00d
+#EXTINF:1,,Sky Sports Mix
+http://5.255.90.232:5000/play/a00v
+#EXTINF:1,,BabyTV
+http://5.255.90.232:5000/play/a011
+#EXTINF:1,,VICELAND
+http://5.255.90.232:5000/play/a01b
+#EXTINF:1,,RT. News Now
+http://5.255.90.232:5000/play/a00q
+#EXTINF:1,,TG4
+http://5.255.90.232:5000/play/a00p
+#EXTINF:1,,QVC Style
+http://5.255.90.232:5000/play/a016
+#EXTINF:1,,QVC Beauty
+http://5.255.90.232:5000/play/a017
+#EXTINF:1,,QVC
+http://5.255.90.232:5000/play/a014
+#EXTINF:1,,Nat Geo Wild
+http://5.255.90.232:5000/play/a00g
+#EXTINF:1,,Nat Geo
+http://5.255.90.232:5000/play/a00e
+
+#EXTM3U
+#EXTINF:6300,N24
+http://5.255.90.200:5000/play/a02l
+#EXTINF:1,,TV Paprika
+http://5.255.90.200:5000/play/a01m
+#EXTINF:1,,AXN CE
+http://5.255.90.200:5000/play/a004
+#EXTINF:1,,Discovery Science
+http://5.255.90.200:5000/play/a00r
+#EXTINF:1,,HBO
+http://5.255.90.200:5000/play/a01c
+#EXTINF:1,,HBO2
+http://5.255.90.200:5000/play/a00q
+#EXTINF:1,,TA3
+http://5.255.90.200:5000/play/a01i
+#EXTINF:1,,AXN Romania
+http://5.255.90.200:5000/play/a005
+#EXTINF:1,,m2 / Petofi
+http://5.255.90.200:5000/play/a016
+#EXTINF:1,,Animal Planet
+http://5.255.90.200:5000/play/a00p
+#EXTINF:1,,Disney Channel
+http://5.255.90.200:5000/play/a00o
+#EXTINF:1,,Eurosport 2
+http://5.255.90.200:5000/play/a010
+#EXTINF:1,,CT1
+http://5.255.90.200:5000/play/a01g
+#EXTINF:1,,RTS1
+http://5.255.90.200:5000/play/a00h
+#EXTINF:1,,TVSudEst
+http://5.255.90.200:5000/play/a007
+#EXTINF:1,,HirTV
+http://5.255.90.200:5000/play/a017
+#EXTINF:1,,OBN
+http://5.255.90.200:5000/play/a00g
+#EXTINF:1,,STORY5
+http://5.255.90.200:5000/play/a019
+#EXTINF:1,,Viasat3.
+http://5.255.90.200:5000/play/a011
+#EXTINF:1,,Spektrum
+http://5.255.90.200:5000/play/a01l
+#EXTINF:1,,Viasat6
+http://5.255.90.200:5000/play/a00z
+#EXTINF:1,,Discovery World
+http://5.255.90.200:5000/play/a00y
+#EXTINF:1,,m5
+http://5.255.90.200:5000/play/a02u
+#EXTINF:1,,TV Doma
+http://5.255.90.200:5000/play/a01k
+#EXTINF:1,,Prima TV
+http://5.255.90.200:5000/play/a01j
+#EXTINF:1,,Sport1
+http://5.255.90.200:5000/play/a01f
+#EXTINF:1,,DM-SAT
+http://5.255.90.200:5000/play/a00d
+#EXTINF:1,,Nat Geo Wild
+http://5.255.90.200:5000/play/a00v
+#EXTINF:1,,Auto Motor Sport
+http://5.255.90.200:5000/play/a015
+#EXTINF:1,,Happy 🙂
+http://5.255.90.200:5000/play/a00c
+#EXTINF:1,,VOJVODINA1
+http://5.255.90.200:5000/play/a00f
+#EXTINF:1,,AXN Black
+http://5.255.90.200:5000/play/a003
+#EXTINF:1,,CS Mini/CS Film/Horor Film
+http://5.255.90.200:5000/play/a01e
+#EXTINF:1,,B92
+http://5.255.90.200:5000/play/a00e
+#EXTINF:1,,NOVA Cinema
+http://5.255.90.200:5000/play/a01d
+#EXTINF:1,,AXN White
+http://5.255.90.200:5000/play/a002
+#EXTINF:1,,TV Sonce
+http://5.255.90.200:5000/play/a008
+#EXTINF:1,,Zu TV
+http://5.255.90.200:5000/play/a02p
+#EXTINF:1,,TVR 3
+http://5.255.90.200:5000/play/a02o
+#EXTINF:1,,Cinemax
+http://5.255.90.200:5000/play/a00t
+#EXTINF:1,,Extreme Sports Channel
+http://5.255.90.200:5000/play/a00m
+#EXTINF:1,,M3 Anno
+http://5.255.90.200:5000/play/a00s
+#EXTINF:1,,Boomerang
+http://5.255.90.200:5000/play/a00u
+#EXTINF:1,,TV Markiza
+http://5.255.90.200:5000/play/a01h
+#EXTINF:1,,RTS2
+http://5.255.90.200:5000/play/a00i
+#EXTINF:1,,m1
+http://5.255.90.200:5000/play/a014
+#EXTINF:1,,AMCHu
+http://5.255.90.200:5000/play/a013
+#EXTINF:1,,JimJam
+http://5.255.90.200:5000/play/a00n
+
+
+
