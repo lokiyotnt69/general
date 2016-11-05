@@ -42,7 +42,7 @@ http://stream.zetatv.cf/pw/camedycentral_aza0tov/chunklist.m3u8
 http://195.55.74.208/paramount/live/stream.m3u8?GKID=ea0085ba4d3111e69c3c00163e914f69
 #EXTINF:-0 group-title=”España” tvg-logo=”logo.png”,Discovery Max
 http://stream.zetatv.cf/pw/dismax_9c7n25t/chunklist.m3u8
-#EXTINF:-0 group-title=”España” cazaypesca-logo=”logo.png”,Caza y Pesca
+#EXTINF:-1 group-title=”España” cazaypesca-logo=”logo.png”,Caza y Pesca
 http://stream.zetatv.cf/pw/caza_aulqd78/chunklist.m3u8
 #EXTINF:-0 group-title=”España” tvg-logo=”natgeo.png”,Nat Geographic
 http://stream.zetatv.cf/pw/national_alwka53/chunklist.m3u8
@@ -52,53 +52,53 @@ http://stream.zetatv.cf/pw/natgeowill_azu3urx/chunklist.m3u8
 http://stream.zetatv.cf/pw/discoverydino_9dm3fgv/chunklist.m3u8
 #EXTINF:-0 group-title=”España” tvg-logo=”history hd.png”,Historia
 http://stream.zetatv.cf/pw/historia_9dm8skt/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”odisea hd.png”,Odisea
+#EXTINF:-1 group-title=”España” tvg-logo=”odisea hd.png”,Odisea
 http://stream.zetatv.cf/pw/odiseass_ab1rhro/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”ci.png”,ci(crimen/Investigacion)
+#EXTINF:-1 group-title=”España” tvg-logo=”ci.png”,ci(crimen/Investigacion)
 http://stream.zetatv.cf/pw/ci_aaqtqg7/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”Canal-Cocina.png”,Canal Cocina
+#EXTINF:-1 group-title=”España” tvg-logo=”Canal-Cocina.png”,Canal Cocina
 http://stream.zetatv.cf/pw/cocina_am9cifh/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”travellogo.png”,Travel
+#EXTINF:-1 group-title=”España” tvg-logo=”travellogo.png”,Travel
 rtmp://$OPT:rtmp-raw=rtmp://87.106.219.140:1935/live playpath=myStream_2 swfUrl= live=1
-#EXTINF:-0 group-title=”MOPI+INFANTIL” tvg-logo=”Boing(1).png”,Boing
+#EXTINF:-1 group-title=”MOPI+INFANTIL” tvg-logo=”Boing(1).png”,Boing
 http://cdn.sstream.pw/live/boing_aaquham/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”Formula 1.png”,La 1
+#EXTINF:-1 group-title=”España” tvg-logo=”Formula 1.png”,La 1
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”La nueve.png”,LA 2
+#EXTINF:-1 group-title=”España” tvg-logo=”La nueve.png”,LA 2
 http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3
+#EXTINF:-1 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3 (Opción 2)
+#EXTINF:-1 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3 (Opción 2)
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:-1, tvg-id=”Antena 3″ tvg-name=”Antena 3″, Antena 3 (Opción 3)
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3 Series
+#EXTINF:-1 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3 Series
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”Cuatro.png”,CUATRO
+#EXTINF:-1 group-title=”España” tvg-logo=”Cuatro.png”,CUATRO
 http://stream.zetatv.cf/pw/cuatro_xrf2a3/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”Telecinco.png”,TELECINCO
+#EXTINF:-1 group-title=”España” tvg-logo=”Telecinco.png”,TELECINCO
 http://stream.zetatv.cf/pw/telecinco55_ao7nqiq/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”La Sexta.jpg”,La Sexta
+#EXTINF:-1 group-title=”España” tvg-logo=”La Sexta.jpg”,La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title=”España” tvg-logo=”La Sexta.jpg”,La Sexta (Opción 2)
+#EXTINF:-1 group-title=”España” tvg-logo=”La Sexta.jpg”,La Sexta (Opción 2)
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title=”España” tvg-logo=”mega.jpg”,MEGA
+#EXTINF:-1 group-title=”España” tvg-logo=”mega.jpg”,MEGA
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title=”España” tvg-logo=”Divinity.jpg”,Divinity
+#EXTINF:-1 group-title=”España” tvg-logo=”Divinity.jpg”,Divinity
 http://stream.zetatv.cf/pw/diniiiii_9fil4ag/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”Energy.jpg”,Energy
+#EXTINF:-1 group-title=”España” tvg-logo=”Energy.jpg”,Energy
 http://stream.zetatv.cf/pw/energy_azhls60/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”Energy.jpg”,Energy (Opción 2)
+#EXTINF:-1 group-title=”España” tvg-logo=”Energy.jpg”,Energy (Opción 2)
 http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”Bemad.jpg”,BE MAD
+#EXTINF:-1 group-title=”España” tvg-logo=”Bemad.jpg”,BE MAD
 http://stream.zetatv.cf/pw/bemad_azhj93f/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”ten.jpg”,TEN
+#EXTINF:-1 group-title=”España” tvg-logo=”ten.jpg”,TEN
 http://stream.zetatv.cf/pw/ten_azj987s/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”fdf.jpg”,FDF
+#EXTINF:-1 group-title=”España” tvg-logo=”fdf.jpg”,FDF
 http://stream.zetatv.cf/pw/fdfhd_xrewtt/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”neox.jpg”,Neox
+#EXTINF:-1 group-title=”España” tvg-logo=”neox.jpg”,Neox
 http://stream.zetatv.cf/pw/neox_alwkw2n/chunklist.m3u8
-#EXTINF:-0 group-title=”España” tvg-logo=”Nova.jpg”,NOVA
+#EXTINF:-1 group-title=”España” tvg-logo=”Nova.jpg”,NOVA
 http://stream.zetatv.cf/pw/nova2_acolsfq/chunklist.m3u8
 #EXTINF:-1 group-title=”España”,Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
