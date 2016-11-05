@@ -1,191 +1,126 @@
-
-#EXTINF:-1,———- ESPANA ———-
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/1483.ts
-#EXTINF:-1,ES: LA 1 HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2031.ts
-#EXTINF:-1,ES: La 2
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2170.ts
-#EXTINF:-1,ES: Antenna 3 HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2171.ts
-#EXTINF:-1,ES: #0 HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2889.ts
-#EXTINF:-1,ES: Cuatro HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2172.ts
-#EXTINF:-1,ES: Telecinco HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2173.ts
-#EXTINF:-1,ES: La Sexta HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2174.ts
-#EXTINF:-1,ES: Clan TVE
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2178.ts
-#EXTINF:-1,ES: Canal Sur A.
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2180.ts
-#EXTINF:-1,ES: Nova
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2175.ts
-#EXTINF:-1,ES: Neox
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/3325.ts
-#EXTINF:-1,ES: SUNDANCE
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2890.ts
-#EXTINF:-1,ES: IBERALIA TV
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2887.ts
-#EXTINF:-1,ES: ENERGY
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2891.ts
-#EXTINF:-1,ES: DIVINITY
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2886.ts
-#EXTINF:-1,ES: Movistar Estrenos HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2181.ts
-#EXTINF:-1,ES: Movistar Series HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2184.ts
-#EXTINF:-1,ES: Calle 13 HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2192.ts
-#EXTINF:-1,ES: Movistar Xtra HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2188.ts
-#EXTINF:-1,ES: Canal Orbe 21
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2196.ts
-#EXTINF:-1,ES: Comedy Central HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2193.ts
-#EXTINF:-1,ES: Nonstopeople
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2198.ts
-#EXTINF:-1,ES: Movistar SERIES XTRA HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2183.ts
-#EXTINF:-1,ES: FOX HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2033.ts
-#EXTINF:-1,ES: Fox Life HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2189.ts
-#EXTINF:-1,ES: LTC
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2861.ts
-#EXTINF:-1,ES: Fox News
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2862.ts
-#EXTINF:-1,ES: Movistar DCINE HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2037.ts
-#EXTINF:-1,ES: Movistar Cine N
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2182.ts
-#EXTINF:-1,ES: Movistar COMEDIA HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2035.ts
-#EXTINF:-1,ES: AXN HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2042.ts
-#EXTINF:-1,ES: AXN White HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2190.ts
-#EXTINF:-1,ES: Movistar ACCI©N HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2038.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2032.ts
-#EXTINF:-1,ES: A & E
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2213.ts
-#EXTINF:-1,ES: AMC HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2185.ts
-#EXTINF:-1,ES: SYFY HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2191.ts
-#EXTINF:-1,ES: TCM HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2186.ts
-#EXTINF:-1,ES: FDF
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2195.ts
-#EXTINF:-1,ES: TNT HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2187.ts
-#EXTINF:-1,ES: 24 Horas
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2223.ts
-#EXTINF:-1,ES: Andalucia
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2176.ts
-#EXTINF:-1,ES: COSMO HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2194.ts
-#EXTINF:-1,ES: Teledeporte
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2206.ts
-#EXTINF:-1,ES: TV 3 Cat
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2209.ts
-#EXTINF:-1,ES: BEIN LaLiga HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2036.ts
-#EXTINF:-1,ES: LaLiga BAR HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/3146.ts
-#EXTINF:-1,ES: Gol
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2864.ts
-#EXTINF:-1,ES: Movistar Futbol HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/1478.ts
-#EXTINF:-1,ES: Movistar Deportes HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/1477.ts
-#EXTINF:-1,ES: Movistar Deportes 2 HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2207.ts
-#EXTINF:-1,ES: Toros HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/1480.ts
-#EXTINF:-1,ES: Movistar Golf HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2208.ts
-#EXTINF:-1,ES: Movistar F1 HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/1481.ts
-#EXTINF:-1,ES: Movistar Moto GP HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/1482.ts
-#EXTINF:-1,ES: Eurosport 1 HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2578.ts
-#EXTINF:-1,ES: Movistar Partidazo HD (event only)
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2034.ts
-#EXTINF:-1,ES: BEIN Sports HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/1476.ts
-#EXTINF:-1,ES: beIN LaLIga 1 (event only)
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/3307.ts
-#EXTINF:-1,ES: beIN LaLIga 2 (event only)
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/3308.ts
-#EXTINF:-1,ES: beIN LaLIga 3 (event only)
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/3309.ts
-#EXTINF:-1,ES: BEIN MAX 1
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2041.ts
-#EXTINF:-1,ES: BEIN MAX 2
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2040.ts
-#EXTINF:-1,ES: BEIN MAX 3
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2039.ts
-#EXTINF:-1,ES: BEIN MAX 4
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2199.ts
-#EXTINF:-1,ES: BEIN MAX 5
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2200.ts
-#EXTINF:-1,ES: BEIN MAX 6
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2201.ts
-#EXTINF:-1,ES: BEIN MAX 7
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2202.ts
-#EXTINF:-1,ES: BEIN MAX 8
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2203.ts
-#EXTINF:-1,ES: Real Madrid TV
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2205.ts
-#EXTINF:-1,ES: Barca TV
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2204.ts
-#EXTINF:-1,ES: Historia
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2215.ts
-#EXTINF:-1,ES: Crime Investigation
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2859.ts
-#EXTINF:-1,ES: Nat Geo HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2211.ts
-#EXTINF:-1,ES: Nat Geo Wild HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2212.ts
-#EXTINF:-1,ES: DISCOVERY
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2858.ts
-#EXTINF:-1,ES: Canal Cocina
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2219.ts
-#EXTINF:-1,ES: Canal Decasa
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2218.ts
-#EXTINF:-1,ES: Canal Odisea
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2216.ts
-#EXTINF:-1,ES: Caza y Pesca HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2217.ts
-#EXTINF:-1,ES: Viajar HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2214.ts
-#EXTINF:-1,ES: 40 TV
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2179.ts
-#EXTINF:-1,ES: Mezzo Live HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/3071.ts
-#EXTINF:-1,ES: Djazz TV HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/3140.ts
-#EXTINF:-1,ES: iConcerts HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2976.ts
-#EXTINF:-1,ES: MTV
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2863.ts
-#EXTINF:-1,ES: Salsat
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2210.ts
-#EXTINF:-1,ES: Nickelodeon HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/3072.ts
-#EXTINF:-1,ES: Disney Channel HD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2220.ts
-#EXTINF:-1,ES: Disney JR
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2221.ts
-#EXTINF:-1,ES: Disney XD
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2222.ts
-#EXTINF:-1,ES: BOING
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2888.ts
-#EXTINF:-1,ES: Canal Panda
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/3631.ts
-#EXTINF:-1,ES: Baby TV
-http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2642.ts
+#EXTINF:-0 group-title=”España” tvg-logo=”a&e.png”,A&E
+http://stream.zetatv.cf/pw/AE_13mz39m/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”Canal+HD.png”,#0
+http://stream.zetatv.cf/pw/plus0_b0xk990/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”29vme6e.png”,Estrenos
+http://stream.zetatv.cf/pw/plusestrenos_ahnxk7j/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”caccion.png”,Acción
+http://stream.zetatv.cf/pw/accion_aqtvoax/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”cpcome.png”,Comedia
+http://stream.zetatv.cf/pw/comedia_b0dqg8y/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”500px-Canal+_DCine_2008.svg.png”,DCine
+http://stream.zetatv.cf/pw/dcine_aw3g20p/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”AMC.png”,AMC
+http://stream.zetatv.cf/pw/amc_aw3dyqm/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”Canal_Hollywood_HD.png”,HOLLYWOOD
+http://stream.zetatv.cf/pw/holliwood_bawwczi/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”tcm.png”,TCM
+http://stream.zetatv.cf/pw/amc_aw3dyqm/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”tnt hd.png”,TNT
+http://stream.zetatv.cf/pw/tnt_alwl3qm/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”fox classics.png”,Fox
+http://stream.zetatv.cf/pw/fox_alwk17k/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”axn hd.png”,AXN
+http://stream.zetatv.cf/pw/axn_alwla94/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”Calle 13.png”,Calle 13
+http://stream.zetatv.cf/pw/calle13_aw3fo9w/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”syfy.png”,SYFY
+http://stream.zetatv.cf/pw/syfy_aw3eq7m/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”mv2.png”,Series
+http://stream.zetatv.cf/pw/series_aw3d82v/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”mv2.png”,Series Xtra
+http://stream.zetatv.cf/pw/seriesxtra_axgtru5/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”AXN_White_HD.png”,Axn White
+http://stream.zetatv.cf/pw/axnwhite_aap5cqs/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”fox life.png”,Fox Life
+http://stream.zetatv.cf/pw/foxlive_au8xxzz/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”cosmo.png”,Cosmo
+http://stream.zetatv.cf/pw/cosmos_az4nm9g/chunklist.m3u8
+#EXTINF:0 group-title=”España” tvg-logo=”comedy.png”,Comedy Central
+http://stream.zetatv.cf/pw/camedycentral_aza0tov/chunklist.m3u8
+#EXTINF:-1 group-title=”España”,Paramount Channel España
+http://195.55.74.208/paramount/live/stream.m3u8?GKID=ea0085ba4d3111e69c3c00163e914f69
+#EXTINF:-0 group-title=”España” tvg-logo=”logo.png”,Discovery Max
+http://stream.zetatv.cf/pw/dismax_9c7n25t/chunklist.m3u8
+#EXTINF:-0 group-title=”España” cazaypesca-logo=”logo.png”,Caza y Pesca
+http://stream.zetatv.cf/pw/caza_aulqd78/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”natgeo.png”,Nat Geographic
+http://stream.zetatv.cf/pw/national_alwka53/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”natgeo-wild.png”,Nat Geo Wild
+http://stream.zetatv.cf/pw/natgeowill_azu3urx/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”discovery channel.png”,Discovery Channel
+http://stream.zetatv.cf/pw/discoverydino_9dm3fgv/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”history hd.png”,Historia
+http://stream.zetatv.cf/pw/historia_9dm8skt/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”odisea hd.png”,Odisea
+http://stream.zetatv.cf/pw/odiseass_ab1rhro/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”ci.png”,ci(crimen/Investigacion)
+http://stream.zetatv.cf/pw/ci_aaqtqg7/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”Canal-Cocina.png”,Canal Cocina
+http://stream.zetatv.cf/pw/cocina_am9cifh/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”travellogo.png”,Travel
+rtmp://$OPT:rtmp-raw=rtmp://87.106.219.140:1935/live playpath=myStream_2 swfUrl= live=1
+#EXTINF:-0 group-title=”MOPI+INFANTIL” tvg-logo=”Boing(1).png”,Boing
+http://cdn.sstream.pw/live/boing_aaquham/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”Formula 1.png”,La 1
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”La nueve.png”,LA 2
+http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-0 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3 (Opción 2)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1, tvg-id=”Antena 3″ tvg-name=”Antena 3″, Antena 3 (Opción 3)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-0 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3 Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”Cuatro.png”,CUATRO
+http://stream.zetatv.cf/pw/cuatro_xrf2a3/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”Telecinco.png”,TELECINCO
+http://stream.zetatv.cf/pw/telecinco55_ao7nqiq/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”La Sexta.jpg”,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-0 group-title=”España” tvg-logo=”La Sexta.jpg”,La Sexta (Opción 2)
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-0 group-title=”España” tvg-logo=”mega.jpg”,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-0 group-title=”España” tvg-logo=”Divinity.jpg”,Divinity
+http://stream.zetatv.cf/pw/diniiiii_9fil4ag/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”Energy.jpg”,Energy
+http://stream.zetatv.cf/pw/energy_azhls60/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”Energy.jpg”,Energy (Opción 2)
+http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”Bemad.jpg”,BE MAD
+http://stream.zetatv.cf/pw/bemad_azhj93f/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”ten.jpg”,TEN
+http://stream.zetatv.cf/pw/ten_azj987s/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”fdf.jpg”,FDF
+http://stream.zetatv.cf/pw/fdfhd_xrewtt/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”neox.jpg”,Neox
+http://stream.zetatv.cf/pw/neox_alwkw2n/chunklist.m3u8
+#EXTINF:-0 group-title=”España” tvg-logo=”Nova.jpg”,NOVA
+http://stream.zetatv.cf/pw/nova2_acolsfq/chunklist.m3u8
+#EXTINF:-1 group-title=”España”,Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 group-title=”España”, Extremadura TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1 group-title=”España”, La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1 group-title=”España”,Fail TV
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
+#EXTINF:-1 group-title=”España”, Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net:80/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title=”España”,Andalucia TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 group-title=”España”, La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,La Sexta (Opción 2)
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=”España”,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=”España”,Tv Galicia
+http://media3.crtvg.es/live/tvge/chunklist.m3u8
+#EXTINF:-1 group-title=”España”,24Horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 group-title=”España”,Mediterraneo TV
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
