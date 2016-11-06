@@ -407,24 +407,6 @@ http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
-#EXTINF:-1,ФУТБОЛ 1
-http://80.77.52.6:8181/udp/230.0.11.1:12345
-#EXTINF:-1,ФУТБОЛ 3
-http://80.77.52.6:8181/udp/230.0.11.3:12345
-#EXTINF:-1,ФУТБОЛ 2
-http://80.77.52.6:8181/udp/230.0.11.2:12345
-#EXTINF:-1,МАТЧ! БОЕЦ
-http://80.77.52.6:8181/udp/230.0.11.4:12345
-#EXTINF:-1,МАТЧ! НАШ СПОРТ
-http://80.77.52.6:8181/udp/230.0.11.6:12345
-#EXTINF:-1,МАТЧ! АРЕНА
-http://80.77.52.6:8181/udp/230.0.11.5:12345
-#EXTINF:-1,МАТЧ ИГРА
-http://80.77.52.6:8181/udp/230.0.11.7:12345
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
 
 #EXTINF:-1,TVJ SPORTS JAMAICA (360p)
 http://univ-i.akamaihd.net/hls/live/222635/HLS12/chunklist.m3u8
@@ -975,33 +957,293 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HQ GERMANY
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
 
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/195.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/484.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: LA 3
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/485.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/486.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/472.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CALLE 13 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/471.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/422.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ ACCION HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/470.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ DCine
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/487.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ LIGA HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/197.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ COMEDIA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/423.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ DEPORTES HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/469.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ DEPORTE 2
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/601.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ FUTBOL HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/421.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ GOLF
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/483.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ TOROS
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/420.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ SERIES XTRA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/602.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ ESTRENOS
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/597.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: BEIN SPORTS
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/488.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/652.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/600.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: EUROSPORT 1
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/537.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/497.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: MOVISTAR MOTOGP
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/414.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: MOVISTAR F1
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/415.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: REAL MADRID
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/466.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/1057.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: LA SEXTA HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/196.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/416.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/417.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/538.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/419.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/418.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/412.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: AXN WHITE
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/413.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/467.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/468.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/491.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/489.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/490.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TV GALICIA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/592.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/593.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/594.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/595.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/596.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: BARCA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/598.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/599.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 
-#EXTINF:-1, SPORTTV 1 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
- 
-#EXTINF:-1, SPORTTV 2 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
 
-#EXTINF:0, KAZSPORT
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1, Sports Max
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+#EXTINF:-1,[COLOR white][I][B]------A Veces ON / OFF--------[/B][/I][/COLOR]
 
-#EXTINF:-1, Sports Night HD
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-
-#EXTINF:-1 tvg-logo="cdN.png", CDN Sports SD
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:-1, MMA BAY TV (poor quality)
-rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-
-#EXTINF:-1, SPORTSTV 
-http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-
-#EXTINF:-1, TileSport TV
-rtmp://tv1.streampulse.eu/tilesport/movie1
-
-#EXTINF:-1, TVA Sport Canada
-rtmp://104.91.167.97/live/event1@9756
+#EXTINF:-1,C+ DEPORT 2
+http://5.147.77.93:8001/1:0:1:760C:408:1:C00000:0:0:0:
+#EXTINF:-1,DCINE ESPANOL
+http://5.147.77.93:8001/1:0:1:7736:416:1:C00000:0:0:0:
+#EXTINF:-1,MOVISTAR F1
+http://5.147.77.93:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
+#EXTINF:-1,PARAMOUNT
+http://5.147.77.93:8001/1:0:1:75F9:408:1:C00000:0:0:0:
+#EXTINF:-1,C.ESTRELLAS
+http://5.147.77.93:8001/1:0:1:74A3:41C:1:C00000:0:0:0:
+#EXTINF:-1,C+ ESTRENOS
+http://5.147.77.93:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
+#EXTINF:-1,C+ PARTIDAZO
+http://5.147.77.93:8001/1:0:1:769C:41E:1:C00000:0:0:0:
+#EXTINF:-1,C+ SERIESXTRA
+http://5.147.77.93:8001/1:0:1:76CA:40E:1:C00000:0:0:0:
+#EXTINF:-1,CANAL COCINA
+http://5.147.77.93:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
+#EXTINF:-1,CANAL IBERIA
+http://5.147.77.93:8001/1:0:1:746A:3F0:1:C00000:0:0:0:
+#EXTINF:-1,CANAL ORBE21
+http://5.147.77.93:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
+#EXTINF:-1,CANAL SUR A.
+http://5.147.77.93:8001/1:0:1:7729:416:1:C00000:0:0:0:
+#EXTINF:-1,CANAL+ XTRA
+http://5.147.77.93:8001/1:0:1:77C6:40A:1:C00000:0:0:0:
+#EXTINF:-1,CAZA Y PESCA
+http://5.147.77.93:8001/1:0:1:772B:416:1:C00000:0:0:0:
+#EXTINF:-1,CLAN  TVE
+http://5.147.77.93:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
+#EXTINF:-1,DECASA
+http://5.147.77.93:8001/1:0:1:7795:424:1:C00000:0:0:0:
+#EXTINF:-1,DIVINITY
+http://5.147.77.93:8001/1:0:1:749A:41C:1:C00000:0:0:0:
+#EXTINF:-1,ENERGY
+http://5.147.77.93:8001/1:0:1:749F:41C:1:C00000:0:0:0:
+#EXTINF:-1,FDF
+http://5.147.77.93:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
+#EXTINF:-1,LA 2
+http://5.147.77.93:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
+#EXTINF:-1,NEOX
+http://5.147.77.93:8001/1:0:1:75FE:408:1:C00000:0:0:0:
+#EXTINF:-1,NONSTOPEOPLE
+http://5.147.77.93:8001/1:0:1:772E:416:1:C00000:0:0:0:
+#EXTINF:-1,NOVA
+http://5.147.77.93:8001/1:0:1:7469:3F0:1:C00000:0:0:0:
+#EXTINF:-1,SUNDANCE
+http://5.147.77.93:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
+#EXTINF:-1,TCM
+http://5.147.77.93:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
+#EXTINF:-1,TELECINCO
+http://5.147.77.93:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
+#EXTINF:-1,24 HORAS
+http://5.147.77.93:8001/1:0:1:7738:416:1:C00000:0:0:0:
+#EXTINF:-1,ARAGON TV
+http://5.147.77.93:8001/1:0:1:75FD:408:1:C00000:0:0:0:
+#EXTINF:-1,FOX NEWS
+http://5.147.77.93:8001/1:0:1:749B:41C:1:C00000:0:0:0:
+#EXTINF:-1,A&E
+http://5.147.77.93:8001/1:0:1:772D:416:1:C00000:0:0:0:
+#EXTINF:-1,CANAL ODISEA
+http://5.147.77.93:8001/1:0:1:778A:424:1:C00000:0:0:0:
+#EXTINF:-1,CRIMEN+INVES
+http://5.147.77.93:8001/1:0:1:7732:416:1:C00000:0:0:0:
+#EXTINF:-1,DISCOVERY
+http://5.147.77.93:8001/1:0:1:772F:416:1:C00000:0:0:0:
+#EXTINF:-1,HISTORIA
+http://5.147.77.93:8001/1:0:1:7731:416:1:C00000:0:0:0:
+#EXTINF:-1,VIAJAR
+http://5.147.77.93:8001/1:0:1:76C9:40E:1:C00000:0:0:0:
+#EXTINF:-1,BABY TV
+http://5.147.77.93:8001/1:0:1:749C:41C:1:C00000:0:0:0:
+#EXTINF:-1,BOING
+http://5.147.77.93:8001/1:0:1:749E:41C:1:C00000:0:0:0:
+#EXTINF:-1,CANAL PANDA
+http://5.147.77.93:8001/1:0:1:75FF:408:1:C00000:0:0:0:
+#EXTINF:-1,DISNEY JR
+http://5.147.77.93:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
+#EXTINF:-1,DISNEY XD
+http://5.147.77.93:8001/1:0:1:772A:416:1:C00000:0:0:0:
+#EXTINF:-1,Nick Jr
+http://5.147.77.93:8001/1:0:1:6FF5:42A:1:C00000:0:0:0:
+#EXTINF:-1,NICKELODEON Iberia
+http://5.147.77.93:8001/1:0:1:6FF4:42A:1:C00000:0:0:0:
+#EXTINF:-1,BARÇA TV
+http://5.147.77.93:8001/1:0:1:74A0:41C:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 4
+http://5.147.77.93:8001/1:0:1:757C:412:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 5
+http://5.147.77.93:8001/1:0:1:757D:412:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 6
+http://5.147.77.93:8001/1:0:1:769D:41E:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 7
+http://5.147.77.93:8001/1:0:1:769E:41E:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 8
+http://5.147.77.93:8001/1:0:1:7576:412:1:C00000:0:0:0:
+#EXTINF:-1,C+  TOROS
+http://5.147.77.93:8001/1:0:1:7570:412:1:C00000:0:0:0:
+#EXTINF:-1,C+ DEPORTES
+http://5.147.77.93:8001/1:0:1:778F:424:1:C00000:0:0:0:
+#EXTINF:-1,C+ FUTBOL
+http://5.147.77.93:8001/1:0:1:778E:424:1:C00000:0:0:0:
+#EXTINF:-1,EUROSPORT 2
+http://5.147.77.93:8001/1:0:1:760E:408:1:C00000:0:0:0:
+#EXTINF:-1,GOLF+
+http://5.147.77.93:8001/1:0:1:7789:424:1:C00000:0:0:0:
+#EXTINF:-1,M. MOTOGP
+http://5.147.77.93:8001/1:0:1:7739:416:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP. 5
+http://5.147.77.93:8001/1:0:1:7693:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP. 7
+http://5.147.77.93:8001/1:0:1:76A7:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP.1
+http://5.147.77.93:8001/1:0:1:756C:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP.2
+http://5.147.77.93:8001/1:0:1:756D:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP.3
+http://5.147.77.93:8001/1:0:1:7573:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP.4
+http://5.147.77.93:8001/1:0:1:7575:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP.6
+http://5.147.77.93:8001/1:0:1:7574:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEPORTE
+http://5.147.77.93:8001/1:0:1:7692:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 1
+http://5.147.77.93:8001/1:0:1:756E:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 2
+http://5.147.77.93:8001/1:0:1:7577:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 3
+http://5.147.77.93:8001/1:0:1:7578:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 4
+http://5.147.77.93:8001/1:0:1:7579:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 5
+http://5.147.77.93:8001/1:0:1:757E:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 6
+http://5.147.77.93:8001/1:0:1:76A6:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 7
+http://5.147.77.93:8001/1:0:1:769B:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 8
+http://5.147.77.93:8001/1:0:1:7690:41E:1:C00000:0:0:0:
+#EXTINF:-1,R. MADRID TV
+http://5.147.77.93:8001/1:0:1:7601:408:1:C00000:0:0:0:
+#EXTINF:-1,TELEDEPORTE
+http://5.147.77.93:8001/1:0:1:76CC:40E:1:C00000:0:0:0:
+#EXTINF:-1,40 TV
+http://5.147.77.93:8001/1:0:1:76C5:40E:1:C00000:0:0:0:
+#EXTINF:-1,CLASSICA
+http://5.147.77.93:8001/1:0:1:7602:408:1:C00000:0:0:0:
+#EXTINF:-1,MTV ESPANA
+http://5.147.77.93:8001/1:0:1:74A2:41C:1:C00000:0:0:0:
+#EXTINF:-1,SOL MUSICA
+http://5.147.77.93:8001/1:0:1:7797:424:1:C00000:0:0:0:
+#EXTINF:-1,LTC
+http://5.147.77.93:8001/1:0:1:749D:41C:1:C00000:0:0:0:
+#EXTINF:-1,PLAYBOY TV
+http://5.147.77.93:8001/1:0:1:778B:424:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X
+http://5.147.77.93:8001/1:0:1:7562:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X (1)
+http://5.147.77.93:8001/1:0:1:7571:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X (2)
+http://5.147.77.93:8001/1:0:1:7563:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X (3)
+http://5.147.77.93:8001/1:0:1:7572:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTICINE
+http://5.147.77.93:8001/1:0:1:7694:41E:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 1
+http://5.147.77.93:8001/1:0:1:768E:41E:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 2
+http://5.147.77.93:8001/1:0:1:768F:41E:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 5
+http://5.147.77.93:8001/1:0:1:7565:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 6
+http://5.147.77.93:8001/1:0:1:7566:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 3
+http://5.147.77.93:8001/1:0:1:7567:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 4
+http://5.147.77.93:8001/1:0:1:756F:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA X
+http://5.147.77.93:8001/1:0:1:7568:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA XX
+http://5.147.77.93:8001/1:0:1:7569:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQ XXHARD
+http://5.147.77.93:8001/1:0:1:756A:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA XY
+http://5.147.77.93:8001/1:0:1:7695:41E:1:C00000:0:0:0:
+#EXTINF:-1,LA 1
+http://5.147.77.93:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
+#EXTINF:-1,ANTENA 3
