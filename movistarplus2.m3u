@@ -11,67 +11,14 @@ http://5.255.90.194:3002/play/a00s
 http://5.255.90.194:3002/play/a01a
 #EXTINF:1,M. DEP 2
 http://5.255.90.194:3002/play/a00i
-#EXTINF:-1,PFC 2 Brasil
-http://31.204.152.6:8081/live/pfc2/playlist.m3u8
-#EXTINF:-1,PREMIER COMBATE Brasil
-http://213.163.65.9:8081/live/combatez/playlist.m3u8
-#EXTINF:-1,UseeTV Fight Sports Live (Public-Sports) (UK) (English)
-http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-#EXTINF:-1,Real Madrid Channel
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:-1,CBC Sport(Az)
-http://149.255.152.110/cbcsport/index.m3u8
-#EXTINF:-1,Sports TV HQ
-rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
-#EXTINF:-1,DeporTV
+#EXTINF:-1,NBA
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1,Gol TV HD
 http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
-#EXTINF:-1,Eurosport
-http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
-#EXTINF:-1,Fight Sports
-http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8
-#EXTINF:-1,[COLOR white][I][B]--------------- Please install f4mTester Addon for Kodi -------------------[/B][/I][/COLOR]
+#EXTINF:-1,ESP_Bein LaLiga
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/6042.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 
-
-#EXTINF:-1,LIGTV-1 HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7574.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,LIGTV-1 HD_CANLI
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7573.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,LIGTV-2 HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7575.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,TR_LIG_TV2
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1143.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,LIGTV-2 HD_CANLI
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7572.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,LIGTV-3 HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7576.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,LIGTV-3 HD_CANLI
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7571.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,LIGTV-4 HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7577.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,TR_TIVIBU_1
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,TR_TIVIBU_2
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/951.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,DSMART_1
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/184.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,DSMART_2
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/185.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,NBA
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1405.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,TR_EUROSPORT HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1135.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,TRT-SPOR HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1022.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,TR_A_SPOR_ HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1039.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,TR_NTV SPOR_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1028.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,GSTV HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7579.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,A_Spor
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1412.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,[COLOR white][I][B]---------------Canales Deportes  -------------------[/B][/I][/COLOR]
 #EXTINF:-1,sky-sport-news
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/94.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,sky-sport-1
@@ -82,50 +29,6 @@ plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/74.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,sky-sport-austria
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/95.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,BG_ARENASPORT 5
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1012.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,BG_ARENASPORT 4
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1013.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,BG_ARENASPORT 3
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1014.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,BG_ARENASPORT 2
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1015.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,BG_ARENASPORT 1
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1016.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_1_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7942.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_2_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7943.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_3_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7944.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_4_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7945.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_5_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7946.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_6_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7947.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_7_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7948.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_8_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7949.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_9_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7950.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_10_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7951.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_11_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7952.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_12_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7953.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_13_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7954.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_14_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7955.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_15_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7956.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_BEIN_SPORTS_16_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7957.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ESP_Bein LaLiga
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/6042.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,FR_BEIN-1
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5953.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,FR_BEIN-2
@@ -154,14 +57,6 @@ plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5942.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,AR_Bein_Sport_12_HD
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5943.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_Bein_Sport_13_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5944.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_Bein_Sport_14_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5945.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_Bein_Sport_15_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5946.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AR_ Bein_Sport_16_HD
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5947.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,AR_BEIN-SPORT-AlKASS-1-HD
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5948.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,AR_BEIN-SPORT-AlKASS-2-HD
@@ -174,12 +69,6 @@ plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5952.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,NL_Ziggo-Sport-Voetbal
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2861.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,NL_Ziggo-Sport-Select
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2860.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,NL_Ziggo-Sport-Golf
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2859.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,NL_FOX-SPORT-2NL
-plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2863.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,NL_Eurosport-2-NL
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2856.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,NL_Eurosport-1-NL
