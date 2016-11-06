@@ -1,120 +1,47 @@
 #EXTM3U
-#EXTINF:-1,ES: TVE1
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2144.ts
-
-#EXTINF:-1,ES: TV3 HD
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2145.ts
-
-#EXTINF:-1,ES: Telecinco
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/1774.ts
-
-#EXTINF:-1,ES: SYFY
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2153.ts
-
-#EXTINF:-1,ES: RT Español
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2151.ts
-
-#EXTINF:-1,ES: RealMadrid TV
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/1589.ts
-
-#EXTINF:-1,ES: Proyecto 40
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2150.ts
-
-#EXTINF:-1,ES: la sexta HD
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2154.ts
-
-#EXTINF:-1,ES: LA 2
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/1771.ts
-
-#EXTINF:-1,ES: LA 1
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/1770.ts
-
-#EXTINF:-1,ES: KISS TV
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2155.ts
-
-#EXTINF:-1,ES: Hollywood HD
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2156.ts
-
-#EXTINF:-1,ES: History
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2146.ts
-
-#EXTINF:-1,ES: Galicia TV
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2157.ts
-
-#EXTINF:-1,ES: FOX LIFE
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2158.ts
-
-#EXTINF:-1,ES: Fox Crime
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2159.ts
-
-#EXTINF:-1,ES: Fox
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2147.ts
-
-#EXTINF:-1,ES: Extremadura Tv
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2160.ts
-
-#EXTINF:-1,ES: EUROSPORT
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2161.ts
-
-#EXTINF:-1,ES: Disney Channel
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2162.ts
-
-#EXTINF:-1,ES: Cuatro
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/1773.ts
-
-#EXTINF:-1,ES: Canal Deportes
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2149.ts
-
-#EXTINF:-1,ES: Bein Sport Espagne
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2143.ts
-
-#EXTINF:-1,ES: Barca TV
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/1585.ts
-
-#EXTINF:-1,ES: Antena3
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2152.ts
-
-#EXTINF:-1,ES: Antena 3
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/1772.ts
-
-#EXTINF:-1,ES: Canal+ Liga
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/1587.ts
-
-#EXTINF:-1,ES: Canal+ Liga 2
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/1588.ts
-
-#EXTINF:-1,ES: Canal+ Futbol
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/1586.ts
-
-#EXTINF:-1,ES: REAL MADRID TV
-
-http://ksportiptv.com:1557/live/iptvdikrayaty/iptvdikrayaty/2148.ts
+#EXTINF:1,,BEIN_SPORTS_1_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-1/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_2_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-2/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_3_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-3/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_4_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-4/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_5_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-5/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_6_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-6/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_7_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-7/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_8_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-8/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_9_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-9/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_10_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-10/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_11_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-11/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_12_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-12/Strm/index.m3u8
+#EXTINF:1,,BEIN_SPORTS_13_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-13/Strm/index.m3u8
+#EXTINF:1,,BeinSportFR_1_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-1/Strm/index.m3u8
+#EXTINF:1,,BeinSportFR_2_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-2/Strm/index.m3u8
+#EXTINF:1,,BeinSportFR_3_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebhensp-3/Strm/index.m3u8
+#EXTINF:1,,BTSport_1_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebeETy-1/Strm/index.m3u8
+#EXTINF:1,,BTSport_2_HD
+http://149.202.207.8:8080/makAlH00ldiNgeebeETy-2/Strm/index.m3u8
+#EXTINF:1,,SkySports_1_HD
+http://149.202.207.8:8080/makAlH00ldiNgeesyjkiy-1/Strm/index.m3u8
+#EXTINF:1,,SkySports_2_HD
+http://149.202.207.8:8080/makAlH00ldiNgeesyjkiy-2/Strm/index.m3u8
+#EXTINF:1,,SkySports_3_HD
+http://149.202.207.8:8080/makAlH00ldiNgeesyjkiy-3/Strm/index.m3u8
+#EXTINF:1,,SkySports_4_HD
+http://149.202.207.8:8080/makAlH00ldiNgeesyjkiy-4/Strm/index.m3u8
+#EXTINF:1,,SkySports_5_HD
+http://149.202.207.8:8080/makAlH00ldiNgeesyjkiy-5/Strm/index.m3u8
