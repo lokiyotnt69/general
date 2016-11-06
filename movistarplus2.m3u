@@ -11,3 +11,1108 @@ http://5.255.90.194:3002/play/a00s
 http://5.255.90.194:3002/play/a01a
 #EXTINF:1,M. DEP 2
 http://5.255.90.194:3002/play/a00i
+#EXTINF:-1,PFC 2 Brasil
+http://31.204.152.6:8081/live/pfc2/playlist.m3u8
+#EXTINF:-1,PREMIER COMBATE Brasil
+http://213.163.65.9:8081/live/combatez/playlist.m3u8
+#EXTINF:-1,UseeTV Fight Sports Live (Public-Sports) (UK) (English)
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+#EXTINF:-1,Real Madrid Channel
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1,CBC Sport(Az)
+http://149.255.152.110/cbcsport/index.m3u8
+#EXTINF:-1,Sports TV HQ
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:-1,DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1,Gol TV HD
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:-1,Eurosport
+http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
+#EXTINF:-1,Fight Sports
+http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8
+#EXTINF:-1,[COLOR white][I][B]--------------- Please install f4mTester Addon for Kodi -------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,LIGTV-1 HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7574.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,LIGTV-1 HD_CANLI
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7573.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,LIGTV-2 HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7575.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,TR_LIG_TV2
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1143.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,LIGTV-2 HD_CANLI
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7572.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,LIGTV-3 HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7576.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,LIGTV-3 HD_CANLI
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7571.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,LIGTV-4 HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7577.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,TR_TIVIBU_1
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,TR_TIVIBU_2
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/951.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,DSMART_1
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/184.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,DSMART_2
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/185.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,NBA
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1405.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,TR_EUROSPORT HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1135.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,TRT-SPOR HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1022.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,TR_A_SPOR_ HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1039.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,TR_NTV SPOR_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1028.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,GSTV HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7579.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,A_Spor
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1412.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,sky-sport-news
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/94.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,sky-sport-1
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/84.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,sky-sport-2
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/85.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,sky-bundesliga-1
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/74.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,sky-sport-austria
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/95.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,BG_ARENASPORT 5
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1012.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,BG_ARENASPORT 4
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1013.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,BG_ARENASPORT 3
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1014.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,BG_ARENASPORT 2
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1015.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,BG_ARENASPORT 1
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1016.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_1_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7942.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_2_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7943.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_3_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7944.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_4_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7945.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_5_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7946.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_6_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7947.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_7_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7948.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_8_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7949.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_9_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7950.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_10_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7951.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_11_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7952.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_12_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7953.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_13_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7954.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_14_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7955.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_15_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7956.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN_SPORTS_16_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/7957.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ESP_Bein LaLiga
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/6042.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,FR_BEIN-1
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5953.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,FR_BEIN-2
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5954.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_01_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5932.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_ Bein_Sport_02_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5933.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_03_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5934.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_04_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5935.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_05_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5936.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_06_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5937.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_07_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5938.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_08_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5939.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_09_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5940.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_10_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5941.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_11_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5942.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_12_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5943.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_13_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5944.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_14_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5945.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_Bein_Sport_15_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5946.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_ Bein_Sport_16_HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5947.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN-SPORT-AlKASS-1-HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5948.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN-SPORT-AlKASS-2-HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5949.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN-SPORT-AlKASS-3-HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5950.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN-SPORT-AlKASS-4-HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5951.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,AR_BEIN-SPORT-AlKASS-5-HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/5952.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,NL_Ziggo-Sport-Voetbal
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2861.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,NL_Ziggo-Sport-Select
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2860.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,NL_Ziggo-Sport-Golf
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2859.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,NL_FOX-SPORT-2NL
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2863.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,NL_Eurosport-2-NL
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2856.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,NL_Eurosport-1-NL
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2857.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,NL_Edge-Sport
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/2858.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,BG_DIEMA SPORT 1HD
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1105.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,BG_NOVA SPORT
+plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/1117.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]------- SOMETIMES ON / OFF -------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR orange][I][B]--------- UK ---------[/B][/I][/COLOR]
+
+#EXTINF:-1,BT Sport Mosaic
+http://86.29.137.34:8001/1:0:85:C49A:811:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport Mosaic Extra
+http://86.29.137.34:8001/1:0:85:D031:909:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport Extra 1
+http://86.29.137.34:8001/1:0:85:C49B:811:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport Extra 2
+http://86.29.137.34:8001/1:0:85:CFE4:909:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport Extra 3
+http://86.29.137.34:8001/1:0:85:CFEE:909:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport Extra 4
+http://86.29.137.34:8001/1:0:85:CFF8:909:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport Extra 5
+http://86.29.137.34:8001/1:0:85:D002:909:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport Extra 6
+http://86.29.137.34:8001/1:0:85:D00C:909:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sp NewsHQ
+http://86.29.137.34:8001/1:0:1:132B:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 1
+http://86.29.137.34:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 2
+http://86.29.137.34:8001/1:0:1:1581:7EA:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 3
+http://86.29.137.34:8001/1:0:1:107B:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 4
+http://86.29.137.34:8001/1:0:1:1519:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 5
+http://86.29.137.34:8001/1:0:1:517:7DB:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports F1
+http://86.29.137.34:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,Sky SpN HQ HD
+http://86.29.137.34:8001/1:0:19:F4D:7D5:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 1 HD
+http://86.29.137.34:8001/1:0:19:EDA:7D5:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport 1
+http://86.29.137.34:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport 2
+http://86.29.137.34:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport 1 HD
+http://86.29.137.34:8001/1:0:19:EDC:7D8:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport 1
+http://86.29.137.34:8001/1:0:1:D7A5:840:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport 3
+http://86.29.137.34:8001/1:0:1:D7AB:840:2:11A0000:0:0:0:
+#EXTINF:-1,At The Races
+http://86.29.137.34:8001/1:0:1:12C4:7E9:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport 2
+http://86.29.137.34:8001/1:0:1:C4C7:811:2:11A0000:0:0:0:
+#EXTINF:-1,MUTV
+http://86.29.137.34:8001/1:0:1:12C8:7E9:2:11A0000:0:0:0:
+#EXTINF:-1,Chelsea TV
+http://86.29.137.34:8001/1:0:1:1655:7EA:2:11A0000:0:0:0:
+#EXTINF:-1,Chelsea TV HD
+http://86.29.137.34:8001/1:0:19:FC6:7F0:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport//ESPN
+http://86.29.137.34:8001/1:0:1:C4CC:811:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport 1 HD
+http://86.29.137.34:8001/1:0:19:C5E4:968:2:11A0000:0:0:0:
+#EXTINF:-1,Premier Sports
+http://86.29.137.34:8001/1:0:1:C7A9:817:2:11A0000:0:0:0:
+#EXTINF:-1,LFCTV
+http://86.29.137.34:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
+#EXTINF:-1,Racing UK
+http://86.29.137.34:8001/1:0:1:C7B0:817:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport 3 HD
+http://86.29.137.34:8001/1:0:19:C5F8:968:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 2 HD
+http://86.29.137.34:8001/1:0:19:F46:7F1:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 3 HD
+http://86.29.137.34:8001/1:0:19:EEE:7F2:2:11A0000:0:0:0:
+#EXTINF:-1,BoxNation
+http://86.29.137.34:8001/1:0:1:D368:830:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 4 HD
+http://86.29.137.34:8001/1:0:19:EF2:7F1:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 5 HD
+http://86.29.137.34:8001/1:0:19:FAA:7F7:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport 2 HD
+http://86.29.137.34:8001/1:0:19:F4E:7D8:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Spts F1 HD
+http://86.29.137.34:8001/1:0:19:EFB:7F2:2:11A0000:0:0:0:
+#EXTINF:-1,CNN HD
+http://86.29.137.34:8001/1:0:19:C472:813:2:11A0000:0:0:0:
+#EXTINF:-1,LFCTV HD
+http://86.29.137.34:8001/1:0:19:F05:7D2:2:11A0000:0:0:0:
+#EXTINF:-1,BTSpt//ESPNHD
+http://86.29.137.34:8001/1:0:19:D223:841:2:11A0000:0:0:0:
+#EXTINF:-1,Premier HD
+http://86.29.137.34:8001/1:0:19:CFA1:83A:2:11A0000:0:0:0:
+#EXTINF:-1,Bike
+http://86.29.137.34:8001/1:0:1:CC42:83D:2:11A0000:0:0:0:
+#EXTINF:-1,BoxNation HD
+http://86.29.137.34:8001/1:0:19:1BBC:7E2:2:11A0000:0:0:0:
+#EXTINF:-1,SkySpBoxOff
+http://86.29.137.34:8001/1:0:1:132A:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,SkySpBoxOffHD
+http://86.29.137.34:8001/1:0:19:40B:804:2:11A0000:0:0:0:
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR orange][I][B]--------- POLAND ---------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Eurosport 1
+http://www.przemek.acx.pl:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0:
+#EXTINF:-1,ESP2 Int'l
+http://www.przemek.acx.pl:8001/1:0:1:35E9:C8:13E:820000:0:0:0:
+#EXTINF:-1,Orange Sport
+http://www.przemek.acx.pl:8001/1:0:1:3D5F:2C88:13E:820000:0:0:0:
+#EXTINF:-1,TVP SPORT
+http://www.przemek.acx.pl:8001/1:0:1:1132:2AF8:13E:820000:0:0:0:
+#EXTINF:-1,Sport Klub
+http://www.przemek.acx.pl:8001/1:0:1:DC0:2D50:13E:820000:0:0:0:
+#EXTINF:-1,nSport+
+http://www.przemek.acx.pl:8001/1:0:1:3AB9:514:13E:820000:0:0:0:
+#EXTINF:-1,Polsat Sport
+http://www.przemek.acx.pl:8001/1:0:1:3330:3390:71:820000:0:0:0:
+#EXTINF:-1,Polsat Sport Extra
+http://www.przemek.acx.pl:8001/1:0:1:3331:3390:71:820000:0:0:0:
+#EXTINF:-1,Polsat Sport News 
+http://www.przemek.acx.pl:8001/1:0:1:1CC0:1CE8:71:820000:0:0:0:
+#EXTINF:-1,MuzoTV
+http://www.przemek.acx.pl:8001/1:0:1:4279:2BC0:13E:820000:0:0:0:
+#EXTINF:-1,Motowizja TV
+http://www.przemek.acx.pl:8001/1:0:1:DB4:2D50:13E:820000:0:0:0:
+#EXTINF:-1,nSport+
+http://www.przemek.acx.pl:8001/1:0:1:1138:2AF8:13E:820000:0:0:0:
+#EXTINF:-1,Canal Sat
+http://www.przemek.acx.pl:8001/1:64:12:0:0:0:0:0:0:0::Canal Sat
+#EXTINF:-1,CANAL+ SPORT
+http://www.przemek.acx.pl:8001/1:0:1:2020:430:1:C00000:0:0:0:
+
+
+#EXTINF:-1,[COLOR orange][I][B]--------- RUSSIA ---------[/B][/I][/COLOR]
+
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://78.58.35.33:8001/1:0:19:2F46:C:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://78.58.35.33:8001/1:0:19:3719:E:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://78.58.35.33:8001/1:0:19:579:E:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://78.58.35.33:8001/1:0:19:57A:E:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! HD
+http://78.58.35.33:8001/1:0:19:89C:16:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://78.58.35.33:8001/1:0:19:2F48:C:70:1680000:0:0:0:
+#EXTINF:-1,НАШ ФУТБОЛ HD
+http://78.58.35.33:8001/1:0:19:57B:E:70:1680000:0:0:0:
+#EXTINF:-1,EUROSPORT 1 HD
+http://78.58.35.33:8001/1:0:19:6591:9:70:1680000:0:0:0:
+#EXTINF:-1,Eurosport 2
+http://78.58.35.33:8001/1:0:16:2C2:7:70:1680000:0:0:0:
+#EXTINF:-1,Телеканал КХЛ HD
+http://78.58.35.33:8001/1:0:19:2F4A:C:70:1680000:0:0:0:
+#EXTINF:-1,Viasat Sport HD
+http://78.58.35.33:8001/1:0:19:42D2:11:70:1680000:0:0:0:
+#EXTINF:-1,Russian extreme TV
+http://78.58.35.33:8001/1:0:16:4AA6:13:70:1680000:0:0:0:
+#EXTINF:-1,Extreme Sports
+http://78.58.35.33:8001/1:0:1:5E3:F:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! ПЛАНЕТА
+http://78.58.35.33:8001/1:0:16:70:1:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! АРЕНА
+http://78.58.35.33:8001/1:0:16:515:D:70:1680000:0:0:0:
+#EXTINF:-1,Viasat Sport
+http://78.58.35.33:8001/1:0:16:4AA4:13:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://78.58.35.33:8001/1:0:16:519:D:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://78.58.35.33:8001/1:0:16:51A:D:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://78.58.35.33:8001/1:0:16:51B:D:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! НАШ СПОРТ
+http://78.58.35.33:8001/1:0:16:518:D:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ!
+http://78.58.35.33:8001/1:0:1:3EA:A:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://78.58.35.33:8001/1:0:16:516:D:70:1680000:0:0:0:
+#EXTINF:-1,НАШ ФУТБОЛ
+http://78.58.35.33:8001/1:0:16:522:D:70:1680000:0:0:0:
+#EXTINF:-1,МАТЧ! ИГРА
+http://78.58.35.33:8001/1:0:16:517:D:70:1680000:0:0:0:
+#EXTINF:-1,БОКС ТВ
+http://78.58.35.33:8001/1:0:16:1A6:4:70:1680000:0:0:0:
+#EXTINF:-1,Телеканал КХЛ
+http://78.58.35.33:8001/1:0:16:526:D:70:1680000:0:0:0:
+#EXTINF:-1,Eurosport 1
+http://78.58.35.33:8001/1:0:16:2C0:7:70:1680000:0:0:0:
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Arena Sport 1
+http://85.217.224.213:4080/udp/239.239.39.11:30000
+#EXTINF:-1,Arena Sport 2
+http://85.217.224.213:4080/udp/239.239.39.12:30000
+#EXTINF:-1,Arena Sport 4
+http://85.217.224.213:4080/udp/239.239.39.18:30000
+#EXTINF:-1,Arena Sport 5
+http://85.217.224.213:4080/udp/239.239.39.19:30000
+#EXTINF:-1,DIGI Sport 1 HU HD
+http://85.217.224.213:4080/udp/239.239.39.23:30000
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:0,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR orange][I][B]--------- SWEDEN ---------[/B][/I][/COLOR]
+
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1,Viasat Sport
+http://79.138.99.20:8001/1:0:1:3FC:23:A027:FFFF0000:0:0:0:
+#EXTINF:-1,Viasat Motor
+http://79.138.99.20:8001/1:0:1:445:22:A027:FFFF0000:0:0:0:
+#EXTINF:-1,Viasat Hockey
+http://79.138.99.20:8001/1:0:1:414:32:A027:FFFF0000:0:0:0:
+#EXTINF:-1,Viasat Fotboll
+http://79.138.99.20:8001/1:0:1:444:29:A027:FFFF0000:0:0:0:
+#EXTINF:-1,TV3 Sport HD
+http://79.138.99.20:8001/1:0:19:495:23:A027:FFFF0000:0:0:0:
+#EXTINF:-1,Viasat Sport Premium HD
+http://79.138.99.20:8001/1:0:19:496:33:A027:FFFF0000:0:0:0:
+#EXTINF:-1,TV4 Sport
+http://79.138.99.20:8001/1:0:1:3ED:2C:A027:FFFF0000:0:0:0:
+#EXTINF:-1,C More Live
+http://79.138.99.20:8001/1:0:1:527:27:A027:FFFF0000:0:0:0:
+#EXTINF:-1,C More Live 2
+http://79.138.99.20:8001/1:0:1:429:28:A027:FFFF0000:0:0:0:
+#EXTINF:-1,C More Live 3
+http://79.138.99.20:8001/1:0:1:42A:28:A027:FFFF0000:0:0:0:
+#EXTINF:-1,C More Live 4
+http://79.138.99.20:8001/1:0:1:42B:28:A027:FFFF0000:0:0:0:
+#EXTINF:-1,C More Sport
+http://79.138.99.20:8001/1:0:1:475:20:A027:FFFF0000:0:0:0:
+#EXTINF:-1,C More Hockey
+http://79.138.99.20:8001/1:0:1:402:21:A027:FFFF0000:0:0:0:
+#EXTINF:-1,C More Tennis
+http://79.138.99.20:8001/1:0:1:476:30:A027:FFFF0000:0:0:0:
+#EXTINF:-1,C More Golf
+http://79.138.99.20:8001/1:0:1:425:2F:A027:FFFF0000:0:0:0:
+#EXTINF:-1,C More Fotboll
+http://79.138.99.20:8001/1:0:1:401:30:A027:FFFF0000:0:0:0:
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 tvg-id="f4ab6ceb0bf3e7dae3e4128f4d690917",TRING SPORT NEWS
+http://bit.ly/2eXsmrM
+#EXTINF:-1 tvg-id="91e711b8b9e1dce14ff761c01b6b88a6",SPORT 1 HD
+http://bit.ly/2eME0Fy
+#EXTINF:-1 tvg-id="688e574f43723cc08c7b54568e3143f1",SPORT 2 HD
+http://bit.ly/2fnh3fC
+#EXTINF:-1 tvg-id="f4f97bde3063d5102545db894c8b5575",SPORT 3 HD
+http://bit.ly/2eDp2Ej
+#EXTINF:-1 tvg-id="4e4afafaa61d7afdd65c1b9b44e27fec",TELESPORT
+http://bit.ly/2eXszep
+#EXTINF:-1,Eurosport Deutschland
+http://bit.ly/2eMKgwZ
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Sky Sports 1
+http://85.144.191.197:8001/1:0:1:1332:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,SkyRyderCup
+http://85.144.191.197:8001/1:0:1:1519:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport 1
+http://85.144.191.197:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport 2
+http://85.144.191.197:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sp NewsHQ
+http://85.144.191.197:8001/1:0:1:132B:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,SP News
+http://85.144.191.197:8001/1:0:1:132C:7E7:2:11A0000:0:0:0:
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Sky Sports 1
+http://78.56.221.9:7059/skysp1
+#EXTINF:-1,Sky Sports 2
+http://78.56.221.9:7059/skysp2
+#EXTINF:-1,Sky Sports 3
+http://78.56.221.9:7059/skysp3
+#EXTINF:-1,Sky Sports 4
+http://78.56.221.9:7059/skysp4
+#EXTINF:-1,Sky Sports 5
+http://78.56.221.9:7059/skysp5
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,CT Sport
+http://95.82.155.132:8001/1:0:1:104:112:20CB:EEEE0000:0:0:0:
+#EXTINF:-1,TJK Sport
+http://tjktv.ercdn.net/tjktv.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,ФУТБОЛ 1
+http://80.77.52.6:8181/udp/230.0.11.1:12345
+#EXTINF:-1,ФУТБОЛ 3
+http://80.77.52.6:8181/udp/230.0.11.3:12345
+#EXTINF:-1,ФУТБОЛ 2
+http://80.77.52.6:8181/udp/230.0.11.2:12345
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://80.77.52.6:8181/udp/230.0.11.4:12345
+#EXTINF:-1,МАТЧ! НАШ СПОРТ
+http://80.77.52.6:8181/udp/230.0.11.6:12345
+#EXTINF:-1,МАТЧ! АРЕНА
+http://80.77.52.6:8181/udp/230.0.11.5:12345
+#EXTINF:-1,МАТЧ ИГРА
+http://80.77.52.6:8181/udp/230.0.11.7:12345
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,TVJ SPORTS JAMAICA (360p)
+http://univ-i.akamaihd.net/hls/live/222635/HLS12/chunklist.m3u8
+#EXTINF:-1,DXTX Argentina (432p)
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8
+#EXTINF:-1,RETE SPORT 8 (360p)
+http://rm-edge-1.cdn2.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
+#EXTINF:-1,TV ALL SPORT (720p)
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,TRT Spor HD (720p)
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,TV GUIDE
+rtmp://138.201.155.39:62468/tvguide/?channel1/myStream
+#EXTINF:-1,Fox Sports HD
+rtmp://138.201.155.39:62468/channel1/?channel1/myStream
+#EXTINF:-1,Motors TV UK
+rtmp://138.201.155.39:62468/channel2/?channel1/myStream
+#EXTINF:-1,Fox Sports 3HD
+rtmp://138.201.155.39:62468/channel3/?channel1/myStream
+#EXTINF:-1,Fox Sports HD
+rtmp://138.201.155.39:62468/channel4/?channel4/myStream
+#EXTINF:-1,Fox Sports 7HD
+rtmp://138.201.155.39:62468/channel7/?channel1/myStream
+#EXTINF:-1,Irish Horse TV
+rtmp://138.201.155.39:62468/channel11/?channel11/myStream
+#EXTINF:-1,Ziggo Sport Golf
+rtmp://138.201.155.39:62468/channel9/?channel1/myStream
+#EXTINF:-1,MOTORSPORT HD
+rtmp://138.201.155.39:62468/channel10/?channel1/myStream
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Viasat Sport Baltic
+http://88.223.26.13:4022/udp/239.255.19.46:26495?auth=yes?
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,LIVE MOTOR SPORT-7
+http://45.58.62.92:8080
+#EXTINF:-1,LIVE MOTOR SPORT
+http://45.58.62.92:8084
+#EXTINF:-1 tvg-logo="hctv.png" group-title="Arabic TV",Dubai Racing
+http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:0,CT4-SPORT
+http://gogo.jksw.cz:8014/
+#EXTINF:0,EuroSport
+http://gogo.jksw.cz:8012/
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Olympic Channel
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
+#EXTINF:-1,Olympics Channel 2 (sub channels)
+http://ocs-live.hls.adaptive.level3.net/ocs/channel02/NBC_OCS2_VIDEO_7_6064000.m3u8
+#EXTINF:-1,Olympics Channel 3 (sub channels)
+http://ocs-live.hls.adaptive.level3.net/ocs/channel03/NBC_OCS3_VIDEO_7_6064000.m3u8
+#EXTINF:-1,Olympics Channel 4 (sub channels)
+http://ocs-live.hls.adaptive.level3.net/ocs/channel04/NBC_OCS4_VIDEO_7_6064000.m3u8
+#EXTINF:-1,Olympics Channel 5 (sub channels)
+http://ocs-live.hls.adaptive.level3.net/ocs/channel05/NBC_OCS5_VIDEO_7_6064000.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1 group-title="Sports", VTC3 HD
+
+#EXTINF:-1 group-title="Sports",SUPERSPORTS
+http://92.222.205.40:8085/lighd
+#EXTINF:-1 group-title="Sports",Russia:ABTO 24
+http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8sd=10&rebase=on
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-b.m3u8sd=10&rebase=on
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-b.m3u8sd=10&rebase=on
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,GBI Racing SD
+rtmp://66.209.93.10/live/racing_uk_mp4_300
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,ITV
+http://94.20.74.243:4022/udp/239.254.10.2:1234
+#EXTINF:-1,AZTV
+http://94.20.74.243:4022/udp/239.254.10.1:1234
+#EXTINF:-1,IDMAN
+http://94.20.74.243:4022/udp/239.254.10.8:1234
+#EXTINF:-1,VIASAT SPORT
+http://94.20.74.243:4022/udp/239.254.10.18:1234
+#EXTINF:-1,BOXING
+http://94.20.74.243:4022/udp/239.254.10.21:1234
+#EXTINF:-1,EUROSPORT 1
+http://94.20.74.243:4022/udp/239.254.10.20:1234
+#EXTINF:-1,EUROSPORT 2
+http://94.20.74.243:4022/udp/239.254.10.22:1234
+#EXTINF:-1,KNX
+http://94.20.74.243:4022/udp/239.254.10.25:1234
+#EXTINF:-1,MAT4!
+http://94.20.74.243:4022/udp/239.254.10.26:1234
+#EXTINF:-1,CBC SPORT
+http://94.20.74.243:4022/udp/239.254.10.28:1234
+#EXTINF:-1,FUTBOL 1
+http://94.20.74.243:4022/udp/239.254.10.201:1234
+#EXTINF:-1,FUTBOL 2
+http://94.20.74.243:4022/udp/239.254.10.31:1234
+#EXTINF:-1,TELEKANAL FUTBOL
+http://94.20.74.243:4022/udp/239.254.10.32:1234
+#EXTINF:-1,Spor canali
+http://94.20.74.243:4022/udp/239.254.10.121:1234
+#EXTINF:-1,TV TENNIS
+http://94.20.74.243:4022/udp/239.254.10.151:1234
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Eurosport
+http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
+#EXTINF:-1,Fight Sports
+http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Automoto Tv
+rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3
+
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1,Gol TV HD
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:0,Galli Lucha Libre
+http://198.179.31.197/live/3158.high.stream/playlist.m3u8
+#EXTINF:0,GFL Combat Sports
+http://198.179.31.197/live/3251.high.stream/playlist.m3u8
+#EXTINF:0,Football Heroes
+http://198.179.31.197/live/3557.high.stream/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Dubai Racing
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Sail TV
+http://88.208.233.3:1935/live/smil:insportv11.smil/manifest.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,PFC 2 Brasil
+http://31.204.152.6:8081/live/pfc2/playlist.m3u8
+#EXTINF:-1,PREMIER COMBATE Brasil
+http://213.163.65.9:8081/live/combatez/playlist.m3u8
+#EXTINF:-1,UseeTV Fight Sports Live (Public-Sports) (UK) (English)
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+#EXTINF:-1,Real Madrid Channel
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1,CBC Sport(Az)
+http://149.255.152.110/cbcsport/index.m3u8
+#EXTINF:-1,Sports TV HQ
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:0,TRT Spor
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1250_av-p.m3u8sd=10&rebase=on
+#EXTINF:0,TRT Spor
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_800_av-b.m3u8sd=10&rebase=on
+#EXTINF:0,Turkmen Sport
+http://tv.online.tm/hls/ch004_md/index.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Super Sport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,Super Sport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,Super Sport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://81.7.13.162/hls/ss4/index.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Teleromagna Sport
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Jordan Sports TV
+http://64.251.19.236:1935/sports/s1/playlist.m3u8
+#EXTINF:-1,Jordan Sports TV
+http://64.251.19.236:1935/sports/s2/playlist.m3u8
+#EXTINF:-1,Jordan Sports TV
+http://64.251.19.236:1935/sports/s3/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 group-title=”Sports”,TRUE SPORT HD2 s1
+rtmp://216.185.103.158/live2/chthaipremier11
+#EXTINF:-1 group-title="Sports",Thai:TRUESPORT2
+rtmp://216.185.103.158/live2/chthaipremier31
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow]---★ International Sports Channels ★---[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1, Nova Sport 1
+http://213.81.153.241/live001/channel028_p3.stream/chunklist_w1268025928_DVR.m3u8
+
+#EXTINF:-1, Red Bull TV HD
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:-1, TyC Sports HD
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
+
+#EXTINF:-1, Licey tv Sports Latino
+http://ss6.domint.net:1936/ly_edge/licey/chunklist_w1254078113.m3u8
+
+#EXTINF:-1, CDN Sports Max (DO)
+http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w32181520.m3u8
+
+#EXTINF:-1, SPORT 1 UKR
+http://193.176.251.228:8000/Sport1 
+
+#EXTINF:-1, SPORT 2 UKR
+http://91.244.24.86:9999/udp/239.255.250.39:1234 
+
+#EXTINF:0, WIN SPORTS Latino
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+
+#EXTINF:0, Versus HD (US)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1, Football Report
+http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_h.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL Now SD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_d.m3u8
+
+#EXTINF:-1, 11 SPORT POL
+rtmp://144.76.154.14/live/elevensport
+#EXTINF:-1, N SPORT POL
+rtmp://85.10.208.218/live/n2sport
+
+#EXTINF:0, Canal del Deporte Olimpico - CDO
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+
+#EXTINF:-1 tvg-logo="UFC china.png" group-title=“DESPORTO”, UFC (CHI)
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
+
+#EXTINF:-1, FIGHT Sport
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="bongda_tv.png" group-title=“DESPORTO”, BONGDA TV (VIE)
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-logo="thethao.png" group-title=“DESPORTO”, THETHAO TV (VIE)
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1, Dolce Sport 1
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+#EXTINF:-1, Dolce Sport 2
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:-1, Dolce Sport 3
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
+
+#EXTINF:-1, Dubai Racing
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1, Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+#EXTINF:0, Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:0, Eurosport CZ
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/202/0.k.m3u8
+
+#EXTINF:0, Eurosport 2 CZ
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/901/83/0.k.m3u8
+
+#EXTINF:0, Eurosport News RU
+http://178.165.0.14:4022/udp/239.0.0.219:1234
+
+#EXTINF:-1, Lig TV TUR
+http://92.222.205.40:8080/superlig
+
+#EXTINF:-1, Viasat Sport Baltic
+http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="bigpond-sport.png" group-title=“SPORT”, BIGPOND SPORTS (AUS)  
+mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high
+
+#EXTINF:-1, Rete Sport 8 IT (Low)
+http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
+
+#EXTINF:-1, Rai Sport 1 IT
+http://212.162.68.163/raisport+
+
+#EXTINF:-1, Sport Italia
+http://spi.hystream.com:1935/spilive/spistream_480/playlist.m3u8
+
+#EXTINF:-1, TRT SPOR SD 
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+
+#EXTINF:-1, NBC Sports Golf 720p 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, NBC Sports Golf 1080p 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, Golf Meca
+http://123.108.164.71/etv2sb/phd929/chunklist_w1032135463.m3u8
+
+#EXTINF:-1, Sharjah Sport
+rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p
+
+#EXTINF:-1, USA-PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1, TRT 1 HD Turkey 
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#‎EXTINF‬:-1, DXTV Sport
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1, DUBAI SPORTS 3
+http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
+
+#EXTINF:-1, AD SPORTS1
+http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
+
+#EXTINF:-1, YAS SPORTS
+http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
+
+#EXTINF:-1, BAHRAIN SPORTS
+rtmp://alayam.netromedia.net/btv3/btv3
+
+#EXTINF:-1, koweit_sport HD
+http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
+
+#EXTINF:-1, koweit_sport plus
+http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
+
+#EXTINF:-1, Bahrain_sport
+rtmp://iaa.flashmediacast.com:2387/live// playpath=Sports swfUrl=http://www.primcast.com/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://www.bna.bh/portal/tv/sports
+
+#EXTINF:-1, NILE Sport
+rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.phpch=sport
+
+#EXTINF:-1, NILE Sport (opt2)
+rtmp://web4.iptv-planet.com/live playpath=Hi_nilesportkey=077111110032078111118032049054032048056032049055 swfUrl=http://embed.iptv-planet.com/swfs/player.swf live=1 pageUrl=http://embed.iptv-planet.com/embed.phpid=Hi_nilesport&width=600&height=400
+
+#EXTINF:-1, Iraqiya Sport
+http://212.7.205.5:1935/sport/live/BratuMarian.m3u8
+
+#EXTINF:-1, Al-Kass One HD
+http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s12.m3u8
+
+#EXTINF:0, Slovak Sport 2
+rtmp://195.168.51.178/live/ss2hd
+
+#EXTINF:-1, Dubai Racing (Horses)
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1, Tile Sport SD
+rtmp://78.47.151.114/tilesport playpath=movie1 swfUrl=http://www.tilesport.tv/jwplayer/player.swf live=1 pageUrl=http://tv-live.in/wp-content/uploads/tv-online/Channel/Greek/channel/TileSport%20TV%20-%20link2.htm
+
+#EXTINF:-1, Iraq Sport SD
+http://212.7.205.5:1935/sport/live/chunklist_w156395309.m3u8
+
+#EXTINF:-1, PTV Sports SD
+http://109.123.70.72:1935/live/ptvsports/samitv.m3u8
+
+#EXTINF:-1, KUWAIT 3 SPORT
+http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
+
+#EXTINF:0, Спорт 1 RU
+http://178.49.204.227:81/udp/239.1.12.7:1234
+
+#EXTINF:0, Football 1 RU
+http://178.165.0.14:4022/udp/239.0.0.214:1234
+
+#EXTINF:-1, Telekanal Futbol RU
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+
+#EXTINF:0, Телеканал Футбол RU (opt2)
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:0, Авто Плюс RU
+http://178.165.0.14:4022/udp/239.0.0.221:1234
+
+#EXTINF:0, NTV PLUS BASKETBOL RU
+http://j.mp/T_NTVPLUSBASKETBOL_sly?.m3u8
+
+#EXTINF:-1, M4 Sport
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
+
+#EXTINF:-1, Brodilo TV Russia
+http://j.mp/BRODILOHD_sly?.m3u8
+
+#EXTINF:-1, TRT SPOR TK
+http://hdtvizle.ru/14452/71930/71968/trts.m3u8
+#EXTINF:-1, A SPOR TK
+http://hdtvizle.ru/14452/71930/71968/aspor1.m3u8
+#EXTINF:-1, NTV SPOR TK
+http://hdtvizle.ru/14452/71930/71968/ntvs.m3u8
+#EXTINF:-1, SPORTS TV TK
+http://hdtvizle.ru/14452/71930/71968/sports.m3u8
+
+#EXTINF:-1, TRT SPOR 2 TK
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1, NTV SPOR TK
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1, FANATIK TV TK
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+#EXTINF:-1, SPORTS TV TK
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:-1, BURSASPOR TV TK
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+#EXTINF:-1, Turkmen Sport TK (low)
+rtmp://217.174.227.20/webtv/ch004_sd
+
+#EXTINF:-1, Fox Sports 506 HD
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1, Fox Sports 1 HD NL
+http://bit.ly/1XxOerx
+
+#EXTINF:-1, Fox Sports 2 HD NL
+http://bit.ly/1RciKYh
+
+#EXTINF:-1, Fox Sports 3 NL
+http://bit.ly/1TdiYgg
+
+#EXTINF:-1, Auto Moto TV Gaz (RU)
+mms://100automoto.tv/100gaz
+
+#EXTINF:-1, PORSCHE CHANNEL
+mms://100automoto.tv/channel_porsche
+
+#EXTINF:-1, Electric
+mms://100automoto.tv/channel_electric
+
+#EXTINF:-1, AutoSport TV
+mms://100automoto.tv/100livesport
+
+#EXTINF:-1, BMW CHANNEL Italia
+mms://100automoto.tv/bmw
+
+#EXTINF:0, Mercedes-Benz Channel
+mms://100automoto.tv/channel_mercedes
+
+#EXTINF:0, Auto Italia Channel
+mms://100automoto.tv/channel_italy
+
+#EXTINF:0, Cars & Sports
+mms://100automoto.tv/100livesport
+
+#EXTINF:-1 tvg-logo="BTN.png" group-title="All Sports", Big Ten Network HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1,SPORT TIME TV (US)
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV - SPORTS MUSIC GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 2HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 3HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HD  GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+
+#EXTINF:-1, SPORTTV 1 Portugal
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
+ 
+#EXTINF:-1, SPORTTV 2 Portugal
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
+
+#EXTINF:0, KAZSPORT
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
+#EXTINF:-1, Sports Max
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+
+#EXTINF:-1, Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+
+#EXTINF:-1 tvg-logo="cdN.png", CDN Sports SD
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:-1, MMA BAY TV (poor quality)
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+
+#EXTINF:-1, SPORTSTV 
+http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
+
+#EXTINF:-1, TileSport TV
+rtmp://tv1.streampulse.eu/tilesport/movie1
+
+#EXTINF:-1, TVA Sport Canada
+rtmp://104.91.167.97/live/event1@9756
