@@ -19,25 +19,15 @@
 </item> 	   
 
  
+ 
 
 <item>
-<title>-[COLOR white]2500 peliculas[/COLOR]</title>
+<title>-[COLOR orange] Canales Online Peques [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://14575-presscdn-0-73.pagely.netdna-cdn.com/wp-content/uploads/2013/04/CineEnFamilia_logo_438x198.jpg</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/lokiyotnt2.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/pequescanalesonline.m3u</externallink>	
 </item> 
-
-
-
-<item>
-<title>-[COLOR yellow] Peliculas Peques [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51mZx5xms5L._AC_UL320_SR288,320_.jpg</thumbnail>
-<fanart>http://espaciocoruna.es/wp-content/uploads/2016/03/espacio-peques-2.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/peliculaspeques.m3u</externallink>	
-</item>  
-
 
 	   
 <item>
@@ -99,6 +89,23 @@
 </item> 
 
 
+<item>
+<title>-[COLOR white]2500 peliculas Latino[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://14575-presscdn-0-73.pagely.netdna-cdn.com/wp-content/uploads/2013/04/CineEnFamilia_logo_438x198.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/lokiyotnt2.m3u</externallink>	
+</item> 
+
+
+
+<item>
+<title>-[COLOR white] Peliculas Peques Latino[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51mZx5xms5L._AC_UL320_SR288,320_.jpg</thumbnail>
+<fanart>http://espaciocoruna.es/wp-content/uploads/2016/03/espacio-peques-2.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/peliculaspeques.m3u</externallink>	
+</item> 
 
 
 
