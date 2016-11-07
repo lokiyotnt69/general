@@ -6,33 +6,33 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF: -1, La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,—- Fase 1 —-
-EXTINF:1,,Rai 1 HD
+EXTINF:1,Rai 1 HD
 http://falcon.proff.co:8000/live/albert/albert/20414.ts
-#EXTINF:1,,Rai 2 HD
+#EXTINF:1,Rai 2 HD
 http://falcon.proff.co:8000/live/albert/albert/20415.ts
-#EXTINF:1,,Rai 3 HD
+#EXTINF:1,Rai 3 HD
 http://falcon.proff.co:8000/live/albert/albert/20416.ts
-#EXTINF:1,,Rete 4 HD
+#EXTINF:1,Rete 4 HD
 http://falcon.proff.co:8000/live/albert/albert/20417.ts
-#EXTINF:1,,Canale 5 HD
+#EXTINF:1,Canale 5 HD
 http://falcon.proff.co:8000/live/albert/albert/20418.ts
-#EXTINF:1,,Italia 1 HD
+#EXTINF:1,Italia 1 HD
 http://falcon.proff.co:8000/live/albert/albert/20419.ts
-#EXTINF:1,,Mediaset Italia 2
+#EXTINF:1,Mediaset Italia 2
 http://falcon.proff.co:8000/live/albert/albert/20426.ts
-#EXTINF:1,,Mediaset Extra
+#EXTINF:1,Mediaset Extra
 http://falcon.proff.co:8000/live/albert/albert/20429.ts
-#EXTINF:1,,Rai 4 HD
+#EXTINF:1,Rai 4 HD
 http://falcon.proff.co:8000/live/albert/albert/20567.ts
-#EXTINF:1,,Rai 5
+#EXTINF:1,Rai 5
 http://falcon.proff.co:8000/live/albert/albert/20421.ts
-#EXTINF:1,,Rai Movie HD
+#EXTINF:1,Rai Movie HD
 http://falcon.proff.co:8000/live/albert/albert/28594.ts
-#EXTINF:1,,Rai Premium HD
+#EXTINF:1,Rai Premium HD
 http://falcon.proff.co:8000/live/albert/albert/35174.ts
-#EXTINF:1,,La5
+#EXTINF:1,La5
 http://falcon.proff.co:8000/live/albert/albert/20430.ts
-#EXTINF:1,,La7 HD
+#EXTINF:1,La7 HD
 http://falcon.proff.co:8000/live/albert/albert/20422.ts
-#EXTINF:1,,La7D HD
+#EXTINF:1,La7D HD
 http://falcon.proff.co:8000/live/albert/albert/31087.ts
