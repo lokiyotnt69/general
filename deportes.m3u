@@ -7,98 +7,192 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 #EXTINF:-1,***** SPAIN *****
-http://149.202.78.137:8080/live/5454/5454/2669.ts
-#EXTINF:-1,SP | FDF
-http://149.202.78.137:8080/live/5454/5454/2650.ts
-#EXTINF:-1,SP | La Sexta HD
-http://149.202.78.137:8080/live/5454/5454/2649.ts
-#EXTINF:-1,SP | DCINE
-http://149.202.78.137:8080/live/5454/5454/2651.ts
-#EXTINF:-1,SP | TV3 CAT
-http://149.202.78.137:8080/live/5454/5454/2645.ts
-#EXTINF:-1,SP | CANAL SERIES
-http://149.202.78.137:8080/live/5454/5454/2655.ts
-#EXTINF:-1,SP | CANAL HOLLYWOOD
-http://149.202.78.137:8080/live/5454/5454/2656.ts
-#EXTINF:-1,SP | CUATRO
-http://149.202.78.137:8080/live/5454/5454/2652.ts
-#EXTINF:-1,SP | TVE 2 HD
-http://149.202.78.137:8080/live/5454/5454/2660.ts
-#EXTINF:-1,SP | Antena 3 HD
-http://149.202.78.137:8080/live/5454/5454/2659.ts
-#EXTINF:-1,SP | MOVISTAR MOTO GP HD
-http://149.202.78.137:8080/live/5454/5454/2664.ts
-#EXTINF:-1,SP | Barca TV
-http://149.202.78.137:8080/live/5454/5454/2665.ts
-#EXTINF:-1,SP | TELEVISA HD
-http://149.202.78.137:8080/live/5454/5454/2646.ts
-#EXTINF:-1,SP | CANAL+ DEPORTES
-http://149.202.78.137:8080/live/5454/5454/2661.ts
-#EXTINF:-1,SP | Real Madrid tv
-http://149.202.78.137:8080/live/5454/5454/2648.ts
-#EXTINF:-1,SP | Teledeporte
-http://149.202.78.137:8080/live/5454/5454/2647.ts
-#EXTINF:-1,SP | CAZA Y PESCA
-http://149.202.78.137:8080/live/5454/5454/2653.ts
-#EXTINF:-1,SP | CANAL+ TOROS
-http://149.202.78.137:8080/live/5454/5454/2654.ts
-#EXTINF:-1,SP | CANAL ESTRENOS
-http://149.202.78.137:8080/live/5454/5454/2657.ts
-#EXTINF:-1,SP | CALLE 13
-http://149.202.78.137:8080/live/5454/5454/2658.ts
-#EXTINF:-1,SP | CANAL+ FUTBOL
-http://149.202.78.137:8080/live/5454/5454/2662.ts
-#EXTINF:-1,SP | CANAL+ COMEDIA HD
-http://149.202.78.137:8080/live/5454/5454/2640.ts
-#EXTINF:-1,SP | NEOX
-http://149.202.78.137:8080/live/5454/5454/2641.ts
-#EXTINF:-1,SP | NOVA
-http://149.202.78.137:8080/live/5454/5454/2642.ts
-#EXTINF:-1,SP | BEIN SPORT ES
-http://149.202.78.137:8080/live/5454/5454/2639.ts
-#EXTINF:-1,SP | TVE 1 HD
-http://149.202.78.137:8080/live/5454/5454/2666.ts
-#EXTINF:-1,SP | A&E
-http://149.202.78.137:8080/live/5454/5454/2667.ts
-#EXTINF:-1,SP | Canal+ Accion HD
-http://149.202.78.137:8080/live/5454/5454/2668.ts
-#EXTINF:-1,SP | CANAL+ LIGA HD
-http://149.202.78.137:8080/live/5454/5454/2663.ts
-#EXTINF:-1,SP | PARAMOUNT CH
-http://149.202.78.137:8080/live/5454/5454/2643.ts
-#EXTINF:-1,SP | CANAL+ DEPORTES 2
-http://149.202.78.137:8080/live/5454/5454/2644.ts
 
-
-
-
-EXTINF:1,Rai 1 HD
-http://falcon.proff.co:8000/live/albert/albert/20414.ts
-#EXTINF:1,Rai 2 HD
-http://falcon.proff.co:8000/live/albert/albert/20415.ts
-#EXTINF:1,Rai 3 HD
-http://falcon.proff.co:8000/live/albert/albert/20416.ts
-#EXTINF:1,Rete 4 HD
-http://falcon.proff.co:8000/live/albert/albert/20417.ts
-#EXTINF:1,Canale 5 HD
-http://falcon.proff.co:8000/live/albert/albert/20418.ts
-#EXTINF:1,Italia 1 HD
-http://falcon.proff.co:8000/live/albert/albert/20419.ts
-#EXTINF:1,Mediaset Italia 2
-http://falcon.proff.co:8000/live/albert/albert/20426.ts
-#EXTINF:1,Mediaset Extra
-http://falcon.proff.co:8000/live/albert/albert/20429.ts
-#EXTINF:1,Rai 4 HD
-http://falcon.proff.co:8000/live/albert/albert/20567.ts
-#EXTINF:1,Rai 5
-http://falcon.proff.co:8000/live/albert/albert/20421.ts
-#EXTINF:1,Rai Movie HD
-http://falcon.proff.co:8000/live/albert/albert/28594.ts
-#EXTINF:1,Rai Premium HD
-http://falcon.proff.co:8000/live/albert/albert/35174.ts
-#EXTINF:1,La5
-http://falcon.proff.co:8000/live/albert/albert/20430.ts
-#EXTINF:1,La7 HD
-http://falcon.proff.co:8000/live/albert/albert/20422.ts
-#EXTINF:1,La7D HD
-http://falcon.proff.co:8000/live/albert/albert/31087.ts
+#EXTINF:-1,AR | beIN Sports 9 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/38.ts
+#EXTINF:-1,AR | beIN Sports 8 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/37.ts
+#EXTINF:-1,AR | beIN Sports 7 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/36.ts
+#EXTINF:-1,AR | beIN Sports 6 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/35.ts
+#EXTINF:-1,AR | beIN Sports 5 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/34.ts
+#EXTINF:-1,AR | beIN Sports 4 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/33.ts
+#EXTINF:-1,AR | beIN Sports 3 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/32.ts
+#EXTINF:-1,AR | beIN Sports 2 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/31.ts
+#EXTINF:-1,AR | Bein Sports 17 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/46.ts
+#EXTINF:-1,AR | Bein Sports 16 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/45.ts
+#EXTINF:-1,AR | Bein Sports 15 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/44.ts
+#EXTINF:-1,AR | beIN Sports 14 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/43.ts
+#EXTINF:-1,AR | beIN Sports 13 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/42.ts
+#EXTINF:-1,AR | beIN Sports 12 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/41.ts
+#EXTINF:-1,AR | beIN Sports 11 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/40.ts
+#EXTINF:-1,AR | beIN Sports 10 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/39.ts
+#EXTINF:-1,AR | beIN Sports 1 HD
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/30.ts
+#EXTINF:-1,AR | beIN SPorts
+http://iptvfree1.com:6969/live/AppsVilla1/TYkQ5kwKlI/29.ts
+#EXTINF:-1,---Bein-Sp-----------------------
+http://esiptv.tn:7500/live/ahmed1/ahmed1/885.ts
+#EXTINF:-1,BeinSport-HD1
+http://esiptv.tn:7500/live/ahmed1/ahmed1/1033.ts
+#EXTINF:-1,BeinSport-HD2
+http://esiptv.tn:7500/live/ahmed1/ahmed1/1031.ts
+#EXTINF:-1,BeinSport-HD3
+http://esiptv.tn:7500/live/ahmed1/ahmed1/1030.ts
+#EXTINF:-1,BeinSport-HD4
+http://esiptv.tn:7500/live/ahmed1/ahmed1/1029.ts
+#EXTINF:-1,BeinSport-HD5
+http://esiptv.tn:7500/live/ahmed1/ahmed1/1028.ts
+#EXTINF:-1,BeinSport-HD6
+http://esiptv.tn:7500/live/ahmed1/ahmed1/1027.ts
+#EXTINF:-1,BeinSport-HD7
+http://esiptv.tn:7500/live/ahmed1/ahmed1/1026.ts
+#EXTINF:-1,BeinSport-HD8
+http://esiptv.tn:7500/live/ahmed1/ahmed1/1025.ts
+#EXTINF:-1,BeinSport-HD9
+http://esiptv.tn:7500/live/ahmed1/ahmed1/1024.ts
+#EXTINF:-1,BeinSport-HD10
+http://esiptv.tn:7500/live/ahmed1/ahmed1/1032.ts
+#EXTINF:-1,BEIN-S1
+http://esiptv.tn:7500/live/ahmed1/ahmed1/528.ts
+#EXTINF:-1,BEIN-S2
+http://esiptv.tn:7500/live/ahmed1/ahmed1/529.ts
+#EXTINF:-1,BEIN-S3
+http://esiptv.tn:7500/live/ahmed1/ahmed1/530.ts
+#EXTINF:-1,BEIN-S4
+http://esiptv.tn:7500/live/ahmed1/ahmed1/531.ts
+#EXTINF:-1,BEIN-S5
+http://esiptv.tn:7500/live/ahmed1/ahmed1/532.ts
+#EXTINF:-1,BEIN-S6
+http://esiptv.tn:7500/live/ahmed1/ahmed1/533.ts
+#EXTINF:-1,BEIN-S7
+http://esiptv.tn:7500/live/ahmed1/ahmed1/534.ts
+#EXTINF:-1,BEIN-S8
+http://esiptv.tn:7500/live/ahmed1/ahmed1/535.ts
+#EXTINF:-1,BEIN-S9
+http://esiptv.tn:7500/live/ahmed1/ahmed1/536.ts
+#EXTINF:-1,BEIN-S10
+http://esiptv.tn:7500/live/ahmed1/ahmed1/537.ts
+#EXTINF:-1,BEIN_MOVIES_1HD
+http://esiptv.tn:7500/live/ahmed1/ahmed1/952.ts
+#EXTINF:-1,BEIN_MOVIES_2HD
+http://esiptv.tn:7500/live/ahmed1/ahmed1/953.ts
+#EXTINF:-1,Bein-Sport1
+http://esiptv.tn:7500/live/ahmed1/ahmed1/603.ts
+#EXTINF:-1,Bein-Sport2
+http://esiptv.tn:7500/live/ahmed1/ahmed1/604.ts
+#EXTINF:-1,Bein-Sport3
+http://esiptv.tn:7500/live/ahmed1/ahmed1/605.ts
+#EXTINF:-1,Alkass-sport1
+http://esiptv.tn:7500/live/ahmed1/ahmed1/815.ts
+#EXTINF:-1,Alkass-sport2
+http://esiptv.tn:7500/live/ahmed1/ahmed1/816.ts
+#EXTINF:-1,Alkass-sport3
+http://esiptv.tn:7500/live/ahmed1/ahmed1/817.ts
+#EXTINF:-1,Alkass-sport4
+http://esiptv.tn:7500/live/ahmed1/ahmed1/818.ts
+#EXTINF:-1,BEIN-News
+http://esiptv.tn:7500/live/ahmed1/ahmed1/526.ts
+#EXTINF:-1,AR:BeinSport-News
+http://151.80.31.94:12580/live/55E2D/553ED/2772.ts
+#EXTINF:-1,AR:beIN_Sports_1_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2280.ts
+#EXTINF:-1,AR:beIN_Sports_2_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2281.ts
+#EXTINF:-1,AR:beIN_Sports_3_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2282.ts
+#EXTINF:-1,AR:beIN_Sports_4_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2283.ts
+#EXTINF:-1,AR:beIN_Sports_5_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2284.ts
+#EXTINF:-1,AR:beIN_Sports_6_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2285.ts
+#EXTINF:-1,AR:beIN_Sports_7_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2286.ts
+#EXTINF:-1,AR:beIN_Sports_8_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2287.ts
+#EXTINF:-1,AR:beIN_Sports_9_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2288.ts
+#EXTINF:-1,AR:beIN_Sports_10_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2312.ts
+#EXTINF:-1,AR:beIN_Sports_11_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2313.ts
+#EXTINF:-1,AR:beIN_Sports_12_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2314.ts
+#EXTINF:-1,AR:beIN_Sports_13_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2410.ts
+#EXTINF:-1,AR:beIN_Sports_14_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2411.ts
+#EXTINF:-1,AR:beIN_Sports_15_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2412.ts
+#EXTINF:-1,AR:beIN_Sports_16_HD
+http://151.80.31.94:12580/live/55E2D/553ED/2413.ts
+#EXTINF:-1,AR:BeinSport-HD1-B2
+http://151.80.31.94:12580/live/55E2D/553ED/2773.ts
+#EXTINF:-1,AR:BeinSport-HD2-B2
+http://151.80.31.94:12580/live/55E2D/553ED/2774.ts
+#EXTINF:-1,AR:BeinSport-HD3-B2
+http://151.80.31.94:12580/live/55E2D/553ED/2775.ts
+#EXTINF:-1,AR:BeinSport-HD4-B2
+http://151.80.31.94:12580/live/55E2D/553ED/2776.ts
+#EXTINF:-1,AR:BeinSport-HD5-B2
+http://151.80.31.94:12580/live/55E2D/553ED/2777.ts
+#EXTINF:-1,AR:BeinSport-HD6-B2
+http://151.80.31.94:12580/live/55E2D/553ED/2778.ts
+#EXTINF:-1,AR:BeinSport-HD7-B2
+http://151.80.31.94:12580/live/55E2D/553ED/2779.ts
+#EXTINF:-1,AR:BeinSport-HD8-B2
+http://151.80.31.94:12580/live/55E2D/553ED/2780.ts
+#EXTINF:-1,AR:BeinSport-HD9-B2
+http://151.80.31.94:12580/live/55E2D/553ED/2781.ts
+#EXTINF:-1,AR:BeinSport-HD10-B2
+http://151.80.31.94:12580/live/55E2D/553ED/2782.ts
+#EXTINF:-1,AR | beIN Sports 9 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/38.ts
+#EXTINF:-1,AR | beIN Sports 8 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/37.ts
+#EXTINF:-1,AR | beIN Sports 7 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/36.ts
+#EXTINF:-1,AR | beIN Sports 6 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/35.ts
+#EXTINF:-1,AR | beIN Sports 5 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/34.ts
+#EXTINF:-1,AR | beIN Sports 4 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/33.ts
+#EXTINF:-1,AR | beIN Sports 3 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/32.ts
+#EXTINF:-1,AR | beIN Sports 2 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/31.ts
+#EXTINF:-1,AR | Bein Sports 17 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/46.ts
+#EXTINF:-1,AR | Bein Sports 16 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/45.ts
+#EXTINF:-1,AR | Bein Sports 15 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/44.ts
+#EXTINF:-1,AR | beIN Sports 14 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/43.ts
+#EXTINF:-1,AR | beIN Sports 13 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/42.ts
+#EXTINF:-1,AR | beIN Sports 12 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/41.ts
+#EXTINF:-1,AR | beIN Sports 11 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/40.ts
+#EXTINF:-1,AR | beIN Sports 10 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/39.ts
+#EXTINF:-1,AR | beIN Sports 1 HD
+http://iptvfree1.com:6969/live/ahmed/ahmed/30.ts
+#EXTINF:-1,AR | beIN SPorts
+http://iptvfree1.com:6969/live/ahmed/ahmed/29.ts
