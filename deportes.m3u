@@ -1,2 +1,87 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red][I][B] ACTUALIZANDO MOVISTAR EN BREVE LO TENEMOS [/B][/I][/COLOR]
+#EXTINF:-1,[COLOR red][I][B] ACTUALIZANDO  [/B][/I][/COLOR]
+
+#EXTINF: -1, Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF: -1, La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 site_id="tv-p.-asturias" tvg-logo="http://corporativo.rtpa.es/img/logotipo_rtpa_top.png",TV.p Asturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,—- LATINO —-
+http://51.255.88.234:8080/live/amir2/amir2/6317.m3u8
+#EXTINF:-1,Latino: Fox Sport HD
+http://51.255.88.234:8080/live/amir2/amir2/10220.m3u8
+#EXTINF:-1,Latino: FOX SPORTS 1
+http://51.255.88.234:8080/live/amir2/amir2/10439.m3u8
+#EXTINF:-1,Latino: FOX SPORTS 2
+http://51.255.88.234:8080/live/amir2/amir2/10440.m3u8
+#EXTINF:-1,Latino: WIN SPORT
+http://51.255.88.234:8080/live/amir2/amir2/10437.m3u8
+#EXTINF:-1,Latino: ESPN PLUS
+http://51.255.88.234:8080/live/amir2/amir2/10500.m3u8
+#EXTINF:-1,Latino: ESPN HD
+http://51.255.88.234:8080/live/amir2/amir2/10441.m3u8
+#EXTINF:-1,Latino: ESPN 2
+http://51.255.88.234:8080/live/amir2/amir2/10442.m3u8
+#EXTINF:-1,Latino: ESPN 3
+http://51.255.88.234:8080/live/amir2/amir2/10443.m3u8
+#EXTINF:-1,Latino: Space HD
+http://51.255.88.234:8080/live/amir2/amir2/10444.m3u8
+#EXTINF:-1,Latino: WARNER CHANNEL
+http://51.255.88.234:8080/live/amir2/amir2/10446.m3u8
+#EXTINF:-1,Latino: UNIVERSAL CHANNEL
+http://51.255.88.234:8080/live/amir2/amir2/10453.m3u8
+#EXTINF:-1,Latino: AXN
+http://51.255.88.234:8080/live/amir2/amir2/10476.m3u8
+#EXTINF:-1,Latino: CINECANAL HD
+http://51.255.88.234:8080/live/amir2/amir2/10463.m3u8
+#EXTINF:-1,Latino: FOX HD
+http://51.255.88.234:8080/live/amir2/amir2/10445.m3u8
+#EXTINF:-1,Latino: FOX 1
+http://51.255.88.234:8080/live/amir2/amir2/10454.m3u8
+#EXTINF:-1,Latino: FOX MOVIES
+http://51.255.88.234:8080/live/amir2/amir2/10460.m3u8
+#EXTINF:-1,Latino: FOX ACTION
+http://51.255.88.234:8080/live/amir2/amir2/10449.m3u8
+#EXTINF:-1,Latino: FOX CINEMA
+http://51.255.88.234:8080/live/amir2/amir2/10472.m3u8
+#EXTINF:-1,Latino: FX
+http://51.255.88.234:8080/live/amir2/amir2/10459.m3u8
+#EXTINF:-1,Latino: DISCOVERY TLC
+http://51.255.88.234:8080/live/amir2/amir2/10478.m3u8
+#EXTINF:-1,Latino: Unicable HD
+http://51.255.88.234:8080/live/amir2/amir2/10455.m3u8
+#EXTINF:-1,Latino: Comedy Central
+http://51.255.88.234:8080/live/amir2/amir2/10447.m3u8
+#EXTINF:-1,Latino: AZ Clic!
+http://51.255.88.234:8080/live/amir2/amir2/10491.m3u8
+#EXTINF:-1,Latino: A&E
+http://51.255.88.234:8080/live/amir2/amir2/10465.m3u8
+#EXTINF:-1,Latino: Discovery Civilization
+http://51.255.88.234:8080/live/amir2/amir2/10452.m3u8
+#EXTINF:-1,Latino: Tru tv
+http://51.255.88.234:8080/live/amir2/amir2/10480.m3u8
+#EXTINF:-1,Latino: F1 HD
+http://51.255.88.234:8080/live/amir2/amir2/10456.m3u8
+#EXTINF:-1,Latino: E
+http://51.255.88.234:8080/live/amir2/amir2/10485.m3u8
+#EXTINF:-1,Latino: TNT Series HD
+http://51.255.88.234:8080/live/amir2/amir2/10477.m3u8
+#EXTINF:-1,Latino: DIS TURBO
+http://51.255.88.234:8080/live/amir2/amir2/10490.m3u8
+#EXTINF:-1,Latino: DISCOVERY TEATHER
+http://51.255.88.234:8080/live/amir2/amir2/10473.m3u8
+#EXTINF:-1,Latino: DISCOVERY KIDS
+http://51.255.88.234:8080/live/amir2/amir2/10489.m3u8
+#EXTINF:-1,Latino: DISCOVERY CHANNEL
+http://51.255.88.234:8080/live/amir2/amir2/10451.m3u8
+#EXTINF:-1,Latino: Dis ID
+http://51.255.88.234:8080/live/amir2/amir2/10488.m3u8
+#EXTINF:-1,Latino: CANAL 5 HD
+http://51.255.88.234:8080/live/amir2/amir2/10482.m3u8
+#EXTINF:-1,Latino: ANIMAL PLANET
+http://51.255.88.234:8080/live/amir2/amir2/10493.m3u8
+#EXTINF:-1,Latino: 8TV
+http://51.255.88.234:8080/live/amir2/amir2/9118.m3u8
+#EXTINF:-1,Latino: Discovery MAX
+http://51.255.88.234:8080/live/amir2/amir2/9387.m3u8
