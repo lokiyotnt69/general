@@ -1,49 +1,5 @@
 #EXTM3U
-#EXTINF:-1,#[COLOR yellow] CANALES SIN ACTUALIZAR POCOS FUNCIONAN!    MIRAR ABAJO DEL TODO!!! !!!!!  [/COLOR]
-#EXTINF:1,beIN Sport 1
-http://74.208.147.165:1935/live/bein1/chunks.m3u8
-#EXTINF:1,beIN Sport 2
-http://74.208.147.165:1935/live/bein2/chunks.m3u8
-#EXTINF:-1,SkyUKSport1HD
-http://149.202.77.226:7500/live/biro/biro/859.ts
-#EXTINF:-1,SkyUKSport2HD
-http://149.202.77.226:7500/live/biro/biro/858.ts
-#EXTINF:-1,SkyUKSport3HD
-http://149.202.77.226:7500/live/biro/biro/857.ts
-#EXTINF:-1,SkyUKSport4HD
-http://149.202.77.226:7500/live/biro/biro/856.ts
-#EXTINF:-1,SkyUKSport5HD
-http://149.202.77.226:7500/live/biro/biro/855.ts
-#EXTINF:-1,Skyde-sport1
-http://149.202.77.226:7500/live/biro/biro/992.ts
-#EXTINF:-1,SkySport2HD
-http://149.202.77.226:7500/live/biro/biro/834.ts
-#EXTINF:-1,Sky-BundesLiga1HD
-http://149.202.77.226:7500/live/biro/biro/824.ts
-#EXTINF:-1,Sky-Sport1
-http://149.202.77.226:7500/live/biro/biro/651.ts
-#EXTINF:-1,Sky-Sport2
-http://149.202.77.226:7500/live/biro/biro/652.ts
-#EXTINF:-1,BeinSport-HD1
-http://149.202.77.226:7500/live/biro/biro/1033.ts
-#EXTINF:-1,BeinSport-HD2
-http://149.202.77.226:7500/live/biro/biro/1031.ts
-#EXTINF:-1,BeinSport-HD3
-http://149.202.77.226:7500/live/biro/biro/1030.ts
-#EXTINF:-1,BeinSport-HD4
-http://149.202.77.226:7500/live/biro/biro/1029.ts
-#EXTINF:-1,BeinSport-HD5
-http://149.202.77.226:7500/live/biro/biro/1028.ts
-#EXTINF:-1,BeinSport-HD6
-http://149.202.77.226:7500/live/biro/biro/1027.ts
-#EXTINF:-1,BeinSport-HD7
-http://149.202.77.226:7500/live/biro/biro/1026.ts
-#EXTINF:-1,BeinSport-HD8
-http://149.202.77.226:7500/live/biro/biro/1025.ts
-#EXTINF:-1,BeinSport-HD9
-http://149.202.77.226:7500/live/biro/biro/1024.ts
-#EXTINF:-1,BeinSport-HD10
-http://149.202.77.226:7500/live/biro/biro/1032.ts
+#EXTINF:-1,#[COLOR yellow] SIN ACTUALIZAR POCOS FUNCIONAN!MIRAR ABAJO DEL TODO!!! !!!!!  [/COLOR]
 #EXTINF:-1,sky-sport-news
 plugin://plugin.video.f4mTester/?url=http://tre3.enndy75.com:2015/live/Ax501232/K8pqEXGSuM/94.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.1 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,sky-sport-1
