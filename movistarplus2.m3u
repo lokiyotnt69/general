@@ -1240,15 +1240,15 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 
 
-#EXTINF:0, Formula 1
+#EXTINF:-1, Formula 1
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL511/PROFILE05.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="DEPORTES", ESPN+
+#EXTINF:-1, tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="DEPORTES", ESPN+
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/deportes/3.png" group-title="DEPORTES", ESPN
+#EXTINF:-1, tvg-logo="http://www.totalplay.com.mx/images/logos/canales/deportes/3.png" group-title="DEPORTES", ESPN
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/deportes/5.png" group-title="DEPORTES", ESPN 2
+#EXTINF:-1, tvg-logo="http://www.totalplay.com.mx/images/logos/canales/deportes/5.png" group-title="DEPORTES", ESPN 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/33.png" group-title="DEPORTES", ESPN 3
+#EXTINF:-1, tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/33.png" group-title="DEPORTES", ESPN 3
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/31.png" group-title="DEPORTES", Fox Sport
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
@@ -2160,4 +2160,30 @@ http://latino-webtv.ml:8880/gx/tv-tyc/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-logo="http://tt/logs.png" , SUDAMERICA VOLVER
 http://latino-webtv.ml:8880/gx/tv-volver/playlist.m3u8
 
+EXTINF:v0 tvg-logo="http://www.adweek.com/files/imagecache/node-detail/news_article/disney-hed-2014.jpg",Disney Channel
+http://vod.cdn.iutpcdn.com/LIVE/H01/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:0 tvg-logo="http://wallpapercave.com/wp/AoOONGl.png",Disney JR
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:0 tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/Disney-XD-logo.png",Disney XD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/boomerang.png",Boomerang
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:-1 tvg-logo="http://i62.tinypic.com/4ug93n.jpg",Cartoon Network
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/cbeebies.png",Cbeebies
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/discovery%20kids.png",Discovery Kids
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/tiin.png",Tiin
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/tooncast.png",Tooncast
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/nick%20hd.png",Nick HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/nickelodeon%20(nick).png",Nickelodeon
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/nick%20jr.png",Nick Jr
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
+#EXTINF:-1, tvg-logo="http://tecnotv.info/logo/nicktoons.png",Nicktoons
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
 
