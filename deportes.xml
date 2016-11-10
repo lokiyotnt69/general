@@ -11,7 +11,7 @@ http://5.255.90.194:3002/play/a00a
 http://5.255.90.194:3002/play/a00h
 #EXTINF:1,CANAL PANDA
 http://5.255.90.194:3002/play/a00k
-#EXTINF:1,#0
+#EXTINF:1,#1
 http://5.255.90.194:3002/play/a01g
 #EXTINF:1,DISNEY JR
 http://5.255.90.194:3002/play/a01c
@@ -101,7 +101,7 @@ http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2031.ts
 http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2170.ts
 #EXTINF:-1,ES: Antenna 3 HD
 http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2171.ts
-#EXTINF:-1,ES: #0 HD
+#EXTINF:-1,ES: #1 HD
 http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2889.ts
 #EXTINF:-1,ES: Cuatro HD
 http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2172.ts
@@ -283,6 +283,5 @@ http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2888.ts
 http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/3631.ts
 #EXTINF:-1,ES: Baby TV
 http://offside.uk.to:11118/live/K_A_J_G_A_N_A/K_A_J_G_A_N_A/2642.ts
-
 
 
