@@ -2168,21 +2168,21 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8?/PROFILE00-400/Tecno
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logo/boomerang.png",Boomerang
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/4ug93n.jpg",Cartoon Network
+#EXTINF:-1, tvg-logo="http://i62.tinypic.com/4ug93n.jpg",Cartoon Network
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/cbeebies.png",Cbeebies
+#EXTINF:-1, tvg-logo="http://tecnotv.info/logo/cbeebies.png",Cbeebies
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/discovery%20kids.png",Discovery Kids
+#EXTINF:-1, tvg-logo="http://tecnotv.info/logo/discovery%20kids.png",Discovery Kids
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/tiin.png",Tiin
+#EXTINF:-1, tvg-logo="http://tecnotv.info/logo/tiin.png",Tiin
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/tooncast.png",Tooncast
+#EXTINF:-1, tvg-logo="http://tecnotv.info/logo/tooncast.png",Tooncast
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/nick%20hd.png",Nick HD
+#EXTINF:-1, tvg-logo="http://tecnotv.info/logo/nick%20hd.png",Nick HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/nickelodeon%20(nick).png",Nickelodeon
+#EXTINF:-1, tvg-logo="http://tecnotv.info/logo/nickelodeon%20(nick).png",Nickelodeon
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logo/nick%20jr.png",Nick Jr
+#EXTINF:-1, tvg-logo="http://tecnotv.info/logo/nick%20jr.png",Nick Jr
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
 #EXTINF:-1, tvg-logo="http://tecnotv.info/logo/nicktoons.png",Nicktoons
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8?/PROFILE00-400/Tecnotv.ts
