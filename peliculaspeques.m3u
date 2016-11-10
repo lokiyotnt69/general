@@ -1,358 +1,315 @@
-EXTINF:-1 tvg-logo="infantiles.png",101 DALMATAS (1961)
-http://iptvcanales.com/xw/pinfantiles.php?movie=001
-#EXTINF:-1 tvg-logo="infantiles.png",101 DÁLMATAS 2: UNA AVENTURA EN LONDRES (2003)
-http://iptvcanales.com/xw/pinfantiles.php?movie=002
-#EXTINF:-1 tvg-logo="infantiles.png",101 DÁLMATAS: ¡AHORA LA MAGIA ES REAL! (1996)
-http://iptvcanales.com/xw/pinfantiles.php?movie=003
-#EXTINF:-1 tvg-logo="infantiles.png",ALADDIN 1
-http://iptvcanales.com/xw/pinfantiles.php?movie=004
-#EXTINF:-1 tvg-logo="infantiles.png",ALADDIN 2
-http://iptvcanales.com/xw/pinfantiles.php?movie=005
-#EXTINF:-1 tvg-logo="infantiles.png",ALADDIN Y EL REY DE LOS LADRONES
-http://iptvcanales.com/xw/pinfantiles.php?movie=006
-#EXTINF:-1 tvg-logo="infantiles.png",ALICIA EN EL PAIS DE LAS MARAVILLAS
-http://iptvcanales.com/xw/pinfantiles.php?movie=007
-#EXTINF:-1 tvg-logo="infantiles.png",ANASTASIA
-http://iptvcanales.com/xw/pinfantiles.php?movie=008
-#EXTINF:-1 tvg-logo="infantiles.png",ATLANTIS: EL IMPERIO PERDIDO (2001)
-http://iptvcanales.com/xw/pinfantiles.php?movie=009
-#EXTINF:-1 tvg-logo="infantiles.png",ATLANTIS 2: EL REGRESO DE MILO (2003)
-http://iptvcanales.com/xw/pinfantiles.php?movie=010
-#EXTINF:-1 tvg-logo="infantiles.png",AVIONES (2013)
-http://iptvcanales.com/xw/pinfantiles.php?movie=011
-#EXTINF:-1 tvg-logo="infantiles.png",AVIONES 2: EQUIPO DE RESCATE (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=012
-#EXTINF:-1 tvg-logo="infantiles.png",BAMBI (1942)
-http://iptvcanales.com/xw/pinfantiles.php?movie=013
-#EXTINF:-1 tvg-logo="infantiles.png",BAMBI 2 (2006)
-http://iptvcanales.com/xw/pinfantiles.php?movie=014
-#EXTINF:-1 tvg-logo="infantiles.png",BERNARDO Y BIANCA (1977)
-http://iptvcanales.com/xw/pinfantiles.php?movie=016
-#EXTINF:-1 tvg-logo="infantiles.png",BERNARDO Y BIANCA EN CANGUROLANDIA (1990)
-http://iptvcanales.com/xw/pinfantiles.php?movie=017
-#EXTINF:-1 tvg-logo="infantiles.png",BICHOS (1998)
-http://iptvcanales.com/xw/pinfantiles.php?movie=018
-#EXTINF:-1 tvg-logo="infantiles.png",BLANCANIEVES Y LOS SIETE ENANITOS
-http://iptvcanales.com/xw/pinfantiles.php?movie=019
-#EXTINF:-1 tvg-logo="infantiles.png",BOLT: UN PERRO FUERA DE SERIE (2008)
-http://iptvcanales.com/xw/pinfantiles.php?movie=020
-#EXTINF:-1 tvg-logo="infantiles.png",BUDDIES: CACHORROS EMBRUJADOS (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=021
-#EXTINF:-1 tvg-logo="infantiles.png",BUDDIES: CAZADORES DE TESOROS (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=022
-#EXTINF:-1 tvg-logo="infantiles.png",BUSCANDO A NEMO (2003)
-http://iptvcanales.com/xw/pinfantiles.php?movie=023
-#EXTINF:-1 tvg-logo="infantiles.png",CARS (2006)
-http://iptvcanales.com/xw/pinfantiles.php?movie=024
-#EXTINF:-1 tvg-logo="infantiles.png",CARS 2 (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=025
-#EXTINF:-1 tvg-logo="infantiles.png",CHICKEN LITTLE (2005)
-http://iptvcanales.com/xw/pinfantiles.php?movie=026
-#EXTINF:-1 tvg-logo="infantiles.png",DUMBO (1941)
-http://iptvcanales.com/xw/pinfantiles.php?movie=027
-#EXTINF:-1 tvg-logo="infantiles.png",EL CALDERO MÁGICO (1985)
-http://iptvcanales.com/xw/pinfantiles.php?movie=028
-#EXTINF:-1 tvg-logo="infantiles.png",EL EXTRAÑO MUNDO DE JACK (1993)
-http://iptvcanales.com/xw/pinfantiles.php?movie=029
-#EXTINF:-1 tvg-logo="infantiles.png",EL JOROBADO DE NOTRE DAME (1996)
-http://iptvcanales.com/xw/pinfantiles.php?movie=031
-#EXTINF:-1 tvg-logo="infantiles.png",EL LIBRO DE LA SELVA (1967)
-http://iptvcanales.com/xw/pinfantiles.php?movie=032
-#EXTINF:-1 tvg-logo="infantiles.png",EL LIBRO DE LA SELVA 2 (2003)
-http://iptvcanales.com/xw/pinfantiles.php?movie=033
-#EXTINF:-1 tvg-logo="infantiles.png",EL LIBRO DE LA VIDA (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=034
-#EXTINF:-1 tvg-logo="infantiles.png",EL PLANETA DEL TESORO (2002)
-http://iptvcanales.com/xw/pinfantiles.php?movie=035
-#EXTINF:-1 tvg-logo="infantiles.png",EL ZORRO Y EL SABUESO (1981)
-http://iptvcanales.com/xw/pinfantiles.php?movie=036
-#EXTINF:-1 tvg-logo="infantiles.png",EL ZORRO Y EL SABUESO 2 (2006)
-http://iptvcanales.com/xw/pinfantiles.php?movie=037
-#EXTINF:-1 tvg-logo="infantiles.png",ENREDADOS
-http://iptvcanales.com/xw/pinfantiles.php?movie=038
-#EXTINF:-1 tvg-logo="infantiles.png",FANTASÍA (1940)
-http://iptvcanales.com/xw/pinfantiles.php?movie=040
-#EXTINF:-1 tvg-logo="infantiles.png",FANTASÍA 2000 (1999)
-http://iptvcanales.com/xw/pinfantiles.php?movie=041
-#EXTINF:-1 tvg-logo="infantiles.png",FRANKENWEENIE (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=042
-#EXTINF:-1 tvg-logo="infantiles.png",FROZEN: UNA AVENTURA CONGELADA
-http://iptvcanales.com/xw/pinfantiles.php?movie=043
-#EXTINF:-1 tvg-logo="infantiles.png",GRANDES HÉROES (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=044
-#EXTINF:-1 tvg-logo="infantiles.png",HÉRCULES (1997)
-http://iptvcanales.com/xw/pinfantiles.php?movie=045
-#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA DURMIENTE
-http://iptvcanales.com/xw/pinfantiles.php?movie=048
-#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA Y LA BESTIA
-http://iptvcanales.com/xw/pinfantiles.php?movie=049
-#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA Y LA BESTIA 2
-http://iptvcanales.com/xw/pinfantiles.php?movie=050
-#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA 1
-http://iptvcanales.com/xw/pinfantiles.php?movie=051
-#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA 2
-http://iptvcanales.com/xw/pinfantiles.php?movie=052
-#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA 3
-http://iptvcanales.com/xw/pinfantiles.php?movie=053
-#EXTINF:-1 tvg-logo="infantiles.png",LA DAMA Y EL VAGABUNDO 2 (1955)
-http://iptvcanales.com/xw/pinfantiles.php?movie=054
-#EXTINF:-1 tvg-logo="infantiles.png",LA DAMA Y EL VAGABUNDO 2 (2001)
-http://iptvcanales.com/xw/pinfantiles.php?movie=055
-#EXTINF:-1 tvg-logo="infantiles.png",LA ESPADA EN LA PIEDRA (1963)
-http://iptvcanales.com/xw/pinfantiles.php?movie=056
-#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA SOFIA: ERASE UNA VEZ UNA PRINCESA
-http://iptvcanales.com/xw/pinfantiles.php?movie=057
-#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA SOFIA: UN PALACIO EN EL AGUA
-http://iptvcanales.com/xw/pinfantiles.php?movie=058
-#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA Y EL SAPO
-http://iptvcanales.com/xw/pinfantiles.php?movie=059
-#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA 1
-http://iptvcanales.com/xw/pinfantiles.php?movie=060
-#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA 2
-http://iptvcanales.com/xw/pinfantiles.php?movie=061
-#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA 3
-http://iptvcanales.com/xw/pinfantiles.php?movie=062
-#EXTINF:-1 tvg-logo="infantiles.png",LAS AVENTURAS DE PEABODY Y SHERMAN (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=063
-#EXTINF:-1 tvg-logo="infantiles.png",LILO Y STITCH (2002)
-http://iptvcanales.com/xw/pinfantiles.php?movie=064
-#EXTINF:-1 tvg-logo="infantiles.png",LILO Y STITCH: STITCH EN CORTOCIRCUITO (2005)
-http://iptvcanales.com/xw/pinfantiles.php?movie=065
-#EXTINF:-1 tvg-logo="infantiles.png",LOS ARISTOGATOS (1970)
-http://iptvcanales.com/xw/pinfantiles.php?movie=066
-#EXTINF:-1 tvg-logo="infantiles.png",LOS FANTASMAS DE SCROOGE (2009)
-http://iptvcanales.com/xw/pinfantiles.php?movie=067
-#EXTINF:-1 tvg-logo="infantiles.png",LOS INCREÍBLES (2004)
-http://iptvcanales.com/xw/pinfantiles.php?movie=068
-#EXTINF:-1 tvg-logo="infantiles.png",LOS MINIONS 2015
-http://iptvcanales.com/xw/pinfantiles.php?movie=069
-#EXTINF:-1 tvg-logo="infantiles.png",MARTE NECESITA MAMÁS (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=070
-#EXTINF:-1 tvg-logo="infantiles.png",MONSTERS, INC. (2001)
-http://iptvcanales.com/xw/pinfantiles.php?movie=073
-#EXTINF:-1 tvg-logo="infantiles.png",MONSTERS UNIVERSITY (2013)
-http://iptvcanales.com/xw/pinfantiles.php?movie=074
-#EXTINF:-1 tvg-logo="infantiles.png",MULAN
-http://iptvcanales.com/xw/pinfantiles.php?movie=075
-#EXTINF:-1 tvg-logo="infantiles.png",MUPPETS (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=076
-#EXTINF:-1 tvg-logo="infantiles.png",MUPPETS 2: LOS MÁS BUSCADOS (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=077
-#EXTINF:-1 tvg-logo="infantiles.png",PETER PAN (1953)
-http://iptvcanales.com/xw/pinfantiles.php?movie=079
-#EXTINF:-1 tvg-logo="infantiles.png",PETER PAN 2: EL REGRESO AL PAÍS DE NUNCA JAMÁS (2002)
-http://iptvcanales.com/xw/pinfantiles.php?movie=080
-#EXTINF:-1 tvg-logo="infantiles.png",PINOCHO (1940)
-http://iptvcanales.com/xw/pinfantiles.php?movie=081
-#EXTINF:-1 tvg-logo="infantiles.png",POCAHONTAS 1
-http://iptvcanales.com/xw/pinfantiles.php?movie=082
-#EXTINF:-1 tvg-logo="infantiles.png",POCAHONTAS 2
-http://iptvcanales.com/xw/pinfantiles.php?movie=083
-#EXTINF:-1 tvg-logo="infantiles.png",POLICÍAS Y RATONES (1986)
-http://iptvcanales.com/xw/pinfantiles.php?movie=084
-#EXTINF:-1 tvg-logo="infantiles.png",RALPH, EL DEMOLEDOR (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=085
-#EXTINF:-1 tvg-logo="infantiles.png",RATATOUILLE (2007)
-http://iptvcanales.com/xw/pinfantiles.php?movie=086
-#EXTINF:-1 tvg-logo="infantiles.png",SALUDOS AMIGOS (1942)
-http://iptvcanales.com/xw/pinfantiles.php?movie=087
-#EXTINF:-1 tvg-logo="infantiles.png",SANTA BUDDIES (2009)
-http://iptvcanales.com/xw/pinfantiles.php?movie=088
-#EXTINF:-1 tvg-logo="infantiles.png",SANTA CLAUSULA (1994)
-http://iptvcanales.com/xw/pinfantiles.php?movie=089
-#EXTINF:-1 tvg-logo="infantiles.png",SANTA CLÁUSULA 2 (2002)
-http://iptvcanales.com/xw/pinfantiles.php?movie=090
-#EXTINF:-1 tvg-logo="infantiles.png",SANTA CLÁUSULA 3 (2006)
-http://iptvcanales.com/xw/pinfantiles.php?movie=091
-#EXTINF:-1 tvg-logo="infantiles.png",SANTA PAWS: EN BUSCA DE SANTA CLAUS (2010)
-http://iptvcanales.com/xw/pinfantiles.php?movie=092
-#EXTINF:-1 tvg-logo="infantiles.png",SANTA PAWS 2: LOS CACHORROS DE SANTA (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=093
-#EXTINF:-1 tvg-logo="infantiles.png",SNOW BUDDIES: CACHORROS EN LA NIEVE (2008)
-http://iptvcanales.com/xw/pinfantiles.php?movie=094
-#EXTINF:-1 tvg-logo="infantiles.png",SUPER BUDDIES (2013)
-http://iptvcanales.com/xw/pinfantiles.php?movie=095
-#EXTINF:-1 tvg-logo="infantiles.png",SUPERCAN (2007)
-http://iptvcanales.com/xw/pinfantiles.php?movie=096
-#EXTINF:-1 tvg-logo="infantiles.png",VALIENTE
-http://iptvcanales.com/xw/pinfantiles.php?movie=097
-#EXTINF:-1 tvg-logo="infantiles.png",SÚPER ESCUELA DE HÉROES (2005)
-http://iptvcanales.com/xw/pinfantiles.php?movie=098
-#EXTINF:-1 tvg-logo="infantiles.png",TARZÁN (1999)
-http://iptvcanales.com/xw/pinfantiles.php?movie=099
-#EXTINF:-1 tvg-logo="infantiles.png",TARZÁN 2 (2005)
-http://iptvcanales.com/xw/pinfantiles.php?movie=100
-#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL (2008)
-http://iptvcanales.com/xw/pinfantiles.php?movie=102
-#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL Y EL TESORO PERDIDO (2009)
-http://iptvcanales.com/xw/pinfantiles.php?movie=103
-#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL, HADAS AL RESCATE (2010)
-http://iptvcanales.com/xw/pinfantiles.php?movie=104
-#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL: HADAS Y PIRATAS (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=105
-#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL: EL SECRETO DE LAS HADAS (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=106
-#EXTINF:-1 tvg-logo="infantiles.png",TINKER BELL Y LA BESTIA DE NUNCA JAMÁS (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=107
-#EXTINF:-1 tvg-logo="infantiles.png",TOY STORY (1995)
-http://iptvcanales.com/xw/pinfantiles.php?movie=108
-#EXTINF:-1 tvg-logo="infantiles.png",TOY STORY 2 (1999)
-http://iptvcanales.com/xw/pinfantiles.php?movie=109
-#EXTINF:-1 tvg-logo="infantiles.png",TOY STORY 3 (2010)
-http://iptvcanales.com/xw/pinfantiles.php?movie=110
-#EXTINF:-1 tvg-logo="infantiles.png",TIERRA DE OSOS (2003)
-http://iptvcanales.com/xw/pinfantiles.php?movie=111
-#EXTINF:-1 tvg-logo="infantiles.png",TIERRA DE OSOS 2 (2006)
-http://iptvcanales.com/xw/pinfantiles.php?movie=112
-#EXTINF:-1 tvg-logo="infantiles.png",UNA CHIHUAHUA EN BEVERLY HILLS (2008)
-http://iptvcanales.com/xw/pinfantiles.php?movie=113
-#EXTINF:-1 tvg-logo="infantiles.png",UNA CHIHUAHUA EN BEVERLY HILLS 2 (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=114
-#EXTINF:-1 tvg-logo="infantiles.png",UNA CHIHUAHUA EN BEVERLY HILLS 3 (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=115
-#EXTINF:-1 tvg-logo="infantiles.png",UNA NIÑERA A PRUEBA DE BALAS (2005)
-http://iptvcanales.com/xw/pinfantiles.php?movie=116
-#EXTINF:-1 tvg-logo="infantiles.png",UN GOLPE DE TALENTO (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=117
-#EXTINF:-1 tvg-logo="infantiles.png",UN PAPÁ CON POCAS PULGAS (2006)
-http://iptvcanales.com/xw/pinfantiles.php?movie=118
-#EXTINF:-1 tvg-logo="infantiles.png",UN VIERNES DE LOCOS (2003)
-http://iptvcanales.com/xw/pinfantiles.php?movie=119
-#EXTINF:-1 tvg-logo="infantiles.png",UP, UNA AVENTURA DE ALTURA (2009)
-http://iptvcanales.com/xw/pinfantiles.php?movie=120
-#EXTINF:-1 tvg-logo="infantiles.png",VACAS VAQUERAS (2004)
-http://iptvcanales.com/xw/pinfantiles.php?movie=121
-#EXTINF:-1 tvg-logo="infantiles.png",WALL-E (2008)
-http://iptvcanales.com/xw/pinfantiles.php?movie=122
-#EXTINF:-1 tvg-logo="infantiles.png",WINNIE THE POOH (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=123
-#EXTINF:-1 tvg-logo="infantiles.png",WINNIE POOH Y EL PEQUEÑO EFELANTE (2005)
-http://iptvcanales.com/xw/pinfantiles.php?movie=124
-#EXTINF:-1 tvg-logo="infantiles.png",ALADDÍN (1992)
-http://iptvcanales.com/xw/pinfantiles.php?movie=125
-#EXTINF:-1 tvg-logo="infantiles.png",ALADDÍN 2: EL RETORNO DE JAFAR (1994)
-http://iptvcanales.com/xw/pinfantiles.php?movie=126
-#EXTINF:-1 tvg-logo="infantiles.png",ALADDÍN Y EL REY DE LOS LADRONES (1996)
-http://iptvcanales.com/xw/pinfantiles.php?movie=127
-#EXTINF:-1 tvg-logo="infantiles.png",ALICIA EN EL PAÍS DE LAS MARAVILLAS (1951)
-http://iptvcanales.com/xw/pinfantiles.php?movie=128
-#EXTINF:-1 tvg-logo="infantiles.png",ALICIA EN EL PAÍS DE LAS MARAVILLAS (2010)
-http://iptvcanales.com/xw/pinfantiles.php?movie=129
-#EXTINF:-1 tvg-logo="infantiles.png",BLANCA NIEVES Y LOS SIETE ENANOS (1937)
-http://iptvcanales.com/xw/pinfantiles.php?movie=130
-#EXTINF:-1 tvg-logo="infantiles.png",ENREDADOS (2010)
-http://iptvcanales.com/xw/pinfantiles.php?movie=131
-#EXTINF:-1 tvg-logo="infantiles.png",FROZEN: UNA AVENTURA CONGELADA (2013)
-http://iptvcanales.com/xw/pinfantiles.php?movie=132
-#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA DURMIENTE (1959)
-http://iptvcanales.com/xw/pinfantiles.php?movie=133
-#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA Y LA BESTIA (1991)
-http://iptvcanales.com/xw/pinfantiles.php?movie=134
-#EXTINF:-1 tvg-logo="infantiles.png",LA BELLA Y LA BESTIA 2: UNA NAVIDAD ENCANTADA (1997)
-http://iptvcanales.com/xw/pinfantiles.php?movie=135
-#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA (1950)
-http://iptvcanales.com/xw/pinfantiles.php?movie=136
-#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA 2: UN SUEÑO HECHO REALIDAD (2002)
-http://iptvcanales.com/xw/pinfantiles.php?movie=137
-#EXTINF:-1 tvg-logo="infantiles.png",LA CENICIENTA 3: QUÉ PASARÍA SI… (2007)
-http://iptvcanales.com/xw/pinfantiles.php?movie=138
-#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA SOFÍA: ÉRASE UNA VEZ UNA PRINCESA (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=139
-#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA SOFÍA: UN PALACIO EN EL AGUA (2013)
-http://iptvcanales.com/xw/pinfantiles.php?movie=140
-#EXTINF:-1 tvg-logo="infantiles.png",LA PRINCESA Y EL SAPO (2009)
-http://iptvcanales.com/xw/pinfantiles.php?movie=141
-#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA (1989)
-http://iptvcanales.com/xw/pinfantiles.php?movie=142
-#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA 2: REGRESO AL MAR (2000)
-http://iptvcanales.com/xw/pinfantiles.php?movie=143
-#EXTINF:-1 tvg-logo="infantiles.png",LA SIRENITA 3: LOS COMIENZOS DE ARIEL (2008)
-http://iptvcanales.com/xw/pinfantiles.php?movie=144
-#EXTINF:-1 tvg-logo="infantiles.png",MULÁN (1998)
-http://iptvcanales.com/xw/pinfantiles.php?movie=145
-#EXTINF:-1 tvg-logo="infantiles.png",MULÁN 2 (2004)
-http://iptvcanales.com/xw/pinfantiles.php?movie=146
-#EXTINF:-1 tvg-logo="infantiles.png",POCAHONTAS (1995)
-http://iptvcanales.com/xw/pinfantiles.php?movie=147
-#EXTINF:-1 tvg-logo="infantiles.png",POCAHONTAS 2 (1998)
-http://iptvcanales.com/xw/pinfantiles.php?movie=148
-#EXTINF:-1 tvg-logo="infantiles.png",VALIENTE (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=149
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN EL CASCANUECES (2001)
-http://iptvcanales.com/xw/pinfantiles.php?movie=150
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE COMO RAPUNZEL (2002)
-http://iptvcanales.com/xw/pinfantiles.php?movie=151
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN EL LAGO DE LOS CISNES (2003
-http://iptvcanales.com/xw/pinfantiles.php?movie=152
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN LA PRINCESA Y LA PLEBEYA (2004)
-http://iptvcanales.com/xw/pinfantiles.php?movie=153
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE FAIRYTOPIA (2005)
-http://iptvcanales.com/xw/pinfantiles.php?movie=154
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE Y LA MAGIA DE PEGASO (2005)
-http://iptvcanales.com/xw/pinfantiles.php?movie=155
-#EXTINF:-1 tvg-logo="infantiles.png",EL DIARIO DE BARBIE (2006)
-http://iptvcanales.com/xw/pinfantiles.php?movie=156
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE FAIRYTOPIA: MERMAIDIA (2006)
-http://iptvcanales.com/xw/pinfantiles.php?movie=157
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN LAS 12 PRINCESAS BAILARINAS (2006)
-http://iptvcanales.com/xw/pinfantiles.php?movie=158
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE FAIRYTOPIA: LA MAGIA DEL ARCO IRIS (2007)
-http://iptvcanales.com/xw/pinfantiles.php?movie=159
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE COMO LA PRINCESA DE LA ISLA (2007)
-http://iptvcanales.com/xw/pinfantiles.php?movie=160
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE MARIPOSA (2008)
-http://iptvcanales.com/xw/pinfantiles.php?movie=161
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN EL CASTILLO DE DIAMANTES (2008)
-http://iptvcanales.com/xw/pinfantiles.php?movie=162
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN UN CUENTO DE NAVIDAD (2008)
-http://iptvcanales.com/xw/pinfantiles.php?movie=163
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE PULGARCITA (2009)
-http://iptvcanales.com/xw/pinfantiles.php?movie=164
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE Y LAS TRES MOSQUETERAS (2009)
-http://iptvcanales.com/xw/pinfantiles.php?movie=165
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN UNA AVENTURA DE SIRENAS (2010)
-http://iptvcanales.com/xw/pinfantiles.php?movie=166
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: MODA MÁGICA EN PARÍS (2010)
-http://iptvcanales.com/xw/pinfantiles.php?movie=167
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: EL SECRETO DE LA HADAS (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=168
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: ESCUELA DE PRINCESAS (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=169
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: UNA NAVIDAD PERFECTA (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=170
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE EN UNA AVENTURA DE SIRENAS 2 (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=171
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: LA PRINCESA Y LA ESTRELLA DEL POP (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=172
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE Y LAS ZAPATILLA MÁGICAS (2013)
-http://iptvcanales.com/xw/pinfantiles.php?movie=173
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE MARIPOSA Y LA PRINCESA DE LA HADAS (2013)
-http://iptvcanales.com/xw/pinfantiles.php?movie=174
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE Y SUS HERMANAS EN UNA HISTORIA DE PONIS (2013)
-http://iptvcanales.com/xw/pinfantiles.php?movie=175
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE: LA PRINCESA DE LAS PERLAS (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=176
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE Y LA PUERTA SECRETA (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=177
-#EXTINF:-1 tvg-logo="infantiles.png",BARBIE SÚPER PRINCESA (2015)
-http://iptvcanales.com/xw/pinfantiles.php?movie=178
-#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: LA TIERRA (2007)
-http://iptvcanales.com/xw/pinfantiles.php?movie=179
-#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: EL MISTERIO DE LOS FLAMENCOS (2008)
-http://iptvcanales.com/xw/pinfantiles.php?movie=180
-#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: FELINOS DE ÁFRICA (2011)
-http://iptvcanales.com/xw/pinfantiles.php?movie=181
-#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: CHIMPANCÉS (2012)
-http://iptvcanales.com/xw/pinfantiles.php?movie=182
-#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: ALAS DE LA VIDA (2013)
-http://iptvcanales.com/xw/pinfantiles.php?movie=183
-#EXTINF:-1 tvg-logo="infantiles.png",DISNEYNATURE: OSOS (2014)
-http://iptvcanales.com/xw/pinfantiles.php?movie=184
-#EXTINF:-1 tvg-logo="infantiles.png",LA ERA DE HIELO 1
-http://iptvcanales.com/xw/pinfantiles.php?movie=185
-#EXTINF:-1 tvg-logo="infantiles.png",LA ERA DE HIELO 2
-http://iptvcanales.com/xw/pinfantiles.php?movie=186
-#EXTINF:-1 tvg-logo="infantiles.png",LA ERA DE HIELO 3
-http://iptvcanales.com/xw/pinfantiles.php?movie=187
-#EXTINF:-1 tvg-logo="infantiles.png",LA ERA DE HIELO 4
-http://iptvcanales.com/xw/pinfantiles.php?movie=188
+#EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL CALDERO MÁGICO (1985)
+http://www.spruto.tv/get_file/7/3324dda38b6071a6ba070f2eaad0ced6/76000/76338/76338.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL DIARIO DE LA PRINCESA (2001)
+http://www.spruto.tv/get_file/7/ca20410702db2880bcfeafb698c3e47d/76000/76789/76789.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL DIARIO DE LA PRINCESA 2 (2004)
+http://www.spruto.tv/get_file/7/7dbb1d129acf1aac82542c944913c0df/76000/76790/76790.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL EXTRAÑO MUNDO DE JACK (1993)
+http://www.spruto.tv/get_file/7/e59043e25e61fb3ecff993bb4d2484fc/76000/76339/76339.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL GUARDIAN DEL ZOOLOGICO
+http://www.spruto.tv/get_file/5/1c88902145180aba5d3c2f6b30d5901f/117000/117502/117502.mp4
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL HOMBRE DE ACERO
+http://www.spruto.tv/get_file/5/cc2a24f35ec7c725969e48a275d2a814/109000/109085/109085.mp4
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL INCREIBLE CASTILLO VAGABUNDO (2004)
+http://www.spruto.tv/get_file/7/318f9a2e8cd4c23cd39a08a67e4fcd0d/78000/78239/78239.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL JOROBADO DE NOTRE DAME (1996)
+http://www.spruto.tv/get_file/7/39f828c763b05ca96cd0490cb2d70a97/76000/76348/76348.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL JOVEN CORCEL NEGRO (2003)
+http://www.spruto.tv/get_file/7/4469a61826225469285fa6d67ad80a2a/76000/76919/76919.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL LLANERO SOLITARIO (2013)
+http://www.spruto.tv/get_file/7/c659aa63613e72ab314fd14a0cf32def/76000/76353/76353.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL LIBRO DE LA SELVA (1967)
+http://www.spruto.tv/get_file/7/237e80ed033fa81ca258f0bef317ad5d/76000/76351/76351.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL LIBRO DE LA SELVA 2 (2003)
+http://www.spruto.tv/get_file/7/2f69be24e28919e809654871bb0e732e/76000/76860/76860.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL LIBRO DE LA VIDA (2014)
+http://www.spruto.tv/get_file/2/de5191e94478cc57ef20ad3638eeaffd/97000/97817/97817.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL MISTERIO DE LOS EXCAVADORES (2003)
+http://www.spruto.tv/get_file/7/1a65805dc207e3ebfda2cf1d5a76bfd3/76000/76999/76999.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL MUNDO MÁGICO DE TERABITHIA (2005)
+http://www.spruto.tv/get_file/7/c9aead193208cd41ddca0b7e153b3123/77000/77008/77008.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL PLANETA DEL TESORO (2002)
+http://www.spruto.tv/get_file/7/8231a379cc14dc49d1ad499140995837/76000/76354/76354.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL PRÍNCIPE DE PERSIA: LAS ARENAS DEL TIEMPO (2010)
+http://www.spruto.tv/get_file/7/d700826ffda527c5764bd04d0e63dc02/76000/76358/76358.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL REY LEÓN (1994) HD
+http://st98.u1.videomega.tv/v/00422bc48d6905089097f631870a2734.mp4?st=z_Iy2mFOA7tDpKZJDRs6Hg&hash=Kh9GEcqh_WsYUYd1jRqlcA
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL REY LEÓN 2: EL REINO DE SIMBA (1998) HD
+http://st146.u1.videomega.tv/v/b112237943026defd8cebcb89cd5c7e4.mp4?st=spXb_Mek5Xi980xoEXG1dA&hash=hYhxgzIH9UFvz4s_6BvK8w
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL REY LEÓN 3: HAKUNA MATATA (2004) HD
+http://st95.u1.videomega.tv/v/a0fbe08f936560e7fe6dc63a450ae1fc.mp4?st=70bc7j7ZT0C8bmFGV5IGcw&hash=xeRf-Yaeqnfi6cdS2TXUcg
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL REY LEÓN (1994) INGLES HD
+http://st301.u1.videomega.tv/v/37ec74dbb78f7c71d53528ec81dbb5d4.mp4?st=kKAkCXkyDhpZBpb6gDQ9vg&hash=_eMH5YpfDVvrQbv3FakeYQ
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL REY LEÓN 2: EL REINO DE SIMBA (1998) INGLES HD
+http://st144.u1.videomega.tv/v/3004a200c0b810643ca7f82db62b8016.mp4?st=Wg_X-z0ZTmYJlBKm6CUUfw&hash=nCTQFWxLD8uVtGCRFToRPw
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL REY LEÓN 3: HAKUNA MATATA (2004) INGLES HD
+http://st308.u1.videomega.tv/v/54aa4c60b93e64f79241c1a0a1b58636.mp4?st=tHaLNqiY66YUQ3sUQP1E1A&hash=hLSjYNPwFnMRquXXZiRyYQ
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL RITUAL
+http://www.spruto.tv/get_file/1/bf6524f4bf8a27f4fd22679c3ab63e5d/86000/86768/86768.mp4
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL SECRETO DE LA CALABAZA MÁGICA (2009)
+http://www.spruto.tv/get_file/7/c38edfaf65738e5c6d086c2e83743440/76000/76991/76991.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL SUEÑO DE WALT (2013)
+http://www.spruto.tv/get_file/7/7a19fcd03aeadc84539192c364c16172/78000/78193/78193.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL VIAJE DE SHIHIRO (2001)
+http://www.spruto.tv/get_file/7/a48c27258965392e289fe62b34ade115/78000/78241/78241.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL ZORRO Y EL SABUESO (1981)
+http://www.spruto.tv/get_file/7/b6655ab4482d211348e64d47bc5d7054/76000/76361/76361.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL ZORRO Y EL SABUESO 2 (2006)
+http://www.spruto.tv/get_file/7/9a6f7f01577d64bc083d263205505a58/76000/76867/76867.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EN EL BOSQUE (2014)
+http://www.spruto.tv/get_file/2/a8e15c6de4cc0aae30d10083d42dc62e/105000/105413/105413.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EN EL BOSQUE (INTO THE WOODS)
+http://www.spruto.tv/get_file/2/6bb416dfe3a1c559930905f48c528ba9/104000/104812/104812.mp4
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",ENCANTADA (2007)
+http://www.spruto.tv/get_file/7/01ed52ca0b7b509cd1216fcb063d03c0/76000/76362/76362.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",ENREDADOS
+http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA BELLA DURMIENTE
+http://www.spruto.tv/get_file/1/5a1b0057367871e647217efa738e97be/80000/80736/80736.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA BELLA Y LA BESTIA
+http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA BELLA Y LA BESTIA 2
+http://www.spruto.tv/get_file/5/db0dd392dbcd04d1d5e6190a22443734/110000/110192/110192.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA CENICIENTA 1
+http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA CENICIENTA 2
+http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA CENICIENTA 3
+http://www.spruto.tv/get_file/5/e503c7667fd1552077a930cb476548b4/110000/110194/110194.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA DAMA Y EL VAGABUNDO 2 (1955)
+http://www.spruto.tv/get_file/7/be0ffba16aa360e43309f6028a80307f/76000/76377/76377.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA DAMA Y EL VAGABUNDO 2 (2001)
+http://www.spruto.tv/get_file/7/b6cec38caa4926fd50acc87313eea111/76000/76873/76873.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA PRINCESA SOFIA: ERASE UNA VEZ UNA PRINCESA
+http://www.spruto.tv/get_file/5/593ab7a4e734a6ec09e5cabf06798aeb/110000/110201/110201.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA PRINCESA SOFIA: UN PALACIO EN EL AGUA
+http://www.spruto.tv/get_file/5/27ffbde5055018126b083d4eb4f2eb3a/110000/110203/110203.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA PRINCESA Y EL SAPO
+http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA SIRENITA 1
+http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA SIRENITA 2
+http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA SIRENITA 3
+http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LOS MINIONS 2015
+http://www.spruto.tv/get_file/8/bfa94494494dce8d2d94a2ac17df3a7b/120000/120766/120766.mp4
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LOS TRES CABALLEROS (1944)
+http://www.spruto.tv/get_file/7/fb250641fc32db7c7a4e99a1f25cc056/77000/77013/77013.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MALDITOS VECINOS
+http://www.spruto.tv/get_file/2/d54fc4a1c763d0e0755c756a210cf8a4/105000/105286/105286.mp4
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MALÉFICA (2014)
+http://www.spruto.tv/get_file/1/dbd60d5cfb11e7fe6c5f7c7708ba40ba/82000/82002/82002.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MARTE NECESITA MAMÁS (2011)
+http://www.spruto.tv/get_file/7/1bcbea4a5db48c5fd04cf49499253a1d/76000/76390/76390.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MARY POPPINS (1964)
+http://www.spruto.tv/get_file/7/a629e9cd77e9a366886615e0f888e906/76000/76391/76391.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MCFARLAND
+http://st118.u1.videomega.tv/v/a18ede5d2c56c124d3a5b9ff7c6e3451.mp4?st=InwH8QCNXBF5UjgAh9tWAg&hash=Ndoa6_tZhsCtyduGfeMLPQ
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MEGAMENTE (2010)
+http://www.spruto.tv/get_file/7/b0ef3e0a64ba87a3110fd8424e9bc709/78000/78295/78295.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MENTES PELIGROSAS
+https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",METE GOL (2013)
+http://www.spruto.tv/get_file/7/4dfaa78a382f1e2e8f54e1331bda526d/78000/78264/78264.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MI ENCUENTRO CONMIGO (2000)
+http://www.spruto.tv/get_file/7/805dd7c634e4991b70b423e9c88399bd/76000/76921/76921.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MIL PALABRAS
+http://www.spruto.tv/get_file/1/9423b9ab396003b187bfe797cf0fa1ee/88000/88598/88598.mp4
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MONSTERS
+http://www.spruto.tv/get_file/7/3cd83fe45672db90a7710991cac0683c/76000/76395/76395.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MONSTERS UNIVERSITY (2013)
+http://www.spruto.tv/get_file/7/bc17b16a00111a562282b494f29b7e2a/76000/76393/76393.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MULAN
+http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MUPPETS (2011)
+http://www.spruto.tv/get_file/7/3b4a6c65b087cf486c356c4424b5f7b2/76000/76388/76388.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MUPPETS 2: LOS MÁS BUSCADOS (2014)
+http://www.spruto.tv/get_file/1/da3b58cf27522afb88387d5238a468de/80000/80618/80618.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TARZÁN (1999)
+http://www.spruto.tv/get_file/7/e0d1472e7206593d41bf24d0ebeb0276/76000/76671/76671.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TARZÁN 2 (2005)
+http://www.spruto.tv/get_file/7/a8d34a6fe9a7f1e2e8007d130fc71302/76000/76858/76858.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TARZÁN Y JANE (2002)
+http://www.spruto.tv/get_file/7/b64721eabcddc9f25b02e8fb69e1a0ed/78000/78289/78289.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TINKER BELL (2008)
+http://www.spruto.tv/get_file/7/6c8f9728d0c00f7a64ba9810d88b20b4/76000/76713/76713.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TINKER BELL Y EL TESORO PERDIDO (2009)
+http://www.spruto.tv/get_file/7/71b87244efee571d729261758dc03e3c/76000/76714/76714.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TINKER BELL
+http://www.spruto.tv/get_file/7/2cea72eb7ddf23d292eaf862d76af12e/76000/76715/76715.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TINKER BELL: HADAS Y PIRATAS (2014)
+http://www.spruto.tv/get_file/7/9e390dffb164b431ac8799b6c18b4478/77000/77221/77221.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TINKER BELL: EL SECRETO DE LAS HADAS (2012)
+http://www.spruto.tv/get_file/7/babe2a187cdab279ea4a463619eb7ca0/76000/76716/76716.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TINKER BELL Y LA BESTIA DE NUNCA JAMÁS (2014)
+http://www.spruto.tv/get_file/2/c6ec3f842bd8a9bf40a3472c40d7fca8/101000/101836/101836.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TOY STORY (1995)
+http://www.spruto.tv/get_file/7/4c846c5cab0d713e7f5e71ad21fb42e6/76000/76710/76710.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TOY STORY 2 (1999)
+http://www.spruto.tv/get_file/7/7820069c62f027283fbf46bb7554ba3e/76000/76711/76711.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TOY STORY 3 (2010)
+http://www.spruto.tv/get_file/7/5dc7235c1ffd3ae44fa5b8910d7fa68f/76000/76712/76712.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TRON: EL LEGADO (2010)
+http://www.spruto.tv/get_file/7/b423f014c2415802116bc91675438dfd/76000/76795/76795.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TIERRA DE OSOS (2003)
+http://www.spruto.tv/get_file/7/80a9cda70d717bb43db922748f83d8d1/76000/76672/76672.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",TIERRA DE OSOS 2 (2006)
+http://www.spruto.tv/get_file/7/5ec2021b49bcd2e5bfeb34fddf1b5518/76000/76794/76794.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",UNA CHIHUAHUA EN BEVERLY HILLS (2008)
+http://www.spruto.tv/get_file/7/6a0b314930fb67f6cb5a17cd0f7da5fc/76000/76754/76754.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",UNA CHIHUAHUA EN BEVERLY HILLS 2 (2011)
+http://www.spruto.tv/get_file/7/d0ef00b480c38a6e8f5f14090034d610/76000/76741/76741.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",UNA CHIHUAHUA EN BEVERLY HILLS 3 (2012)
+http://www.spruto.tv/get_file/7/c2b194d2f3d8d25fa6ccf7da0d87f3df/76000/76742/76742.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",UNA NIÑERA A PRUEBA DE BALAS (2005)
+http://www.spruto.tv/get_file/7/0fe167f5c1f4c5af0fd192ba69deb99b/76000/76703/76703.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",UN GOLPE DE TALENTO (2014)
+http://www.spruto.tv/get_file/1/33c9ff846b086894fff296005063e462/85000/85864/85864.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",UN PAPÁ CON POCAS PULGAS (2006)
+http://www.spruto.tv/get_file/7/5f48d099b11fefe20056a82b60a9098d/77000/77005/77005.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",UN VIERNES DE LOCOS (2003)
+http://www.spruto.tv/get_file/7/c2ac666e9b2587f8a116587a1ae48ff5/76000/76706/76706.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",UP
+http://www.spruto.tv/get_file/7/3a20e200ae63199bb7e5a657748c6b7d/76000/76707/76707.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",VACAS VAQUERAS (2004)
+http://www.spruto.tv/get_file/7/7abde1fd1e4eea29db3c665442fccb0c/76000/76702/76702.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",VIDA SALVAJE (2006)
+http://www.spruto.tv/get_file/7/9dcc99ff19bf2fbd9c0dfd237a281508/76000/76701/76701.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",VOLUNTAD DE HIERRO (1994)
+http://www.spruto.tv/get_file/7/66b445e7afbffcd49df5bd21d57497d8/76000/76925/76925.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",WALL-E (2008)
+http://www.spruto.tv/get_file/7/603bb1ae3c8a48701013eb2b3e3a2e2f/76000/76708/76708.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",WINNIE THE POOH (2011)
+http://www.spruto.tv/get_file/7/148dbac143eb6444faf01d38416b63ec/76000/76322/76322.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",WINNIE POOH Y EL PEQUEÑO EFELANTE (2005)
+http://www.spruto.tv/get_file/7/5f64f7e77762730d535e03670710aada/76000/76323/76323.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",ALADDÍN (1992)
+http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",ALADDÍN 2: EL RETORNO DE JAFAR (1994)
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",ALADDÍN Y EL REY DE LOS LADRONES (1996)
+http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",ALICIA EN EL PAÍS DE LAS MARAVILLAS (1951)
+http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",ALICIA EN EL PAÍS DE LAS MARAVILLAS (2010)
+http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BLANCA NIEVES Y LOS SIETE ENANOS (1937)
+http://www.spruto.tv/get_file/1/3a864a8bc2a6f68742ddff892b6a8e1a/80000/80738/80738.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",ENREDADOS (2010)
+http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",FROZEN: UNA AVENTURA CONGELADA (2013)
+http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA BELLA DURMIENTE (1959)
+http://www.spruto.tv/get_file/1/5a1b0057367871e647217efa738e97be/80000/80736/80736.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA BELLA Y LA BESTIA (1991)
+http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA BELLA Y LA BESTIA 2: UNA NAVIDAD ENCANTADA (1997)
+http://www.spruto.tv/get_file/5/db0dd392dbcd04d1d5e6190a22443734/110000/110192/110192.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA CENICIENTA (1950)
+http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA CENICIENTA 2: UN SUEÑO HECHO REALIDAD (2002)
+http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA CENICIENTA 3: QUÉ PASARÍA SI… (2007)
+http://www.spruto.tv/get_file/5/e503c7667fd1552077a930cb476548b4/110000/110194/110194.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA PRINCESA SOFÍA: ÉRASE UNA VEZ UNA PRINCESA (2012)
+http://www.spruto.tv/get_file/5/593ab7a4e734a6ec09e5cabf06798aeb/110000/110201/110201.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA PRINCESA SOFÍA: UN PALACIO EN EL AGUA (2013)
+http://www.spruto.tv/get_file/5/27ffbde5055018126b083d4eb4f2eb3a/110000/110203/110203.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA PRINCESA Y EL SAPO (2009)
+http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA SIRENITA (1989)
+http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA SIRENITA 2: REGRESO AL MAR (2000)
+http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA SIRENITA 3: LOS COMIENZOS DE ARIEL (2008)
+http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MULÁN (1998)
+http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",MULÁN 2 (2004)
+http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",POCAHONTAS (1995)
+http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",POCAHONTAS 2 (1998)
+http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",VALIENTE (2012)
+http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE EN EL CASCANUECES (2001)
+http://www.spruto.tv/get_file/7/6392a07b00120b6dfa70e4e69c66c81b/75000/75691/75691.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE COMO RAPUNZEL (2002)
+http://www.spruto.tv/get_file/7/a1fa59b2047de2ad8029288d26322b96/75000/75744/75744.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE EN EL LAGO DE LOS CISNES (2003
+http://www.spruto.tv/get_file/7/4352721134100a941439c643b0b0ad55/75000/75745/75745.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE EN LA PRINCESA Y LA PLEBEYA (2004)
+http://www.spruto.tv/get_file/7/c906dc298dba98b476f59ae626cccb54/75000/75746/75746.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE FAIRYTOPIA (2005)
+http://www.spruto.tv/get_file/7/73bc49b9176d78162126bf99c97ea4c8/75000/75747/75747.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE Y LA MAGIA DE PEGASO (2005)
+http://www.spruto.tv/get_file/7/6d8b83bf7a871681f47603b234a8829d/75000/75748/75748.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",EL DIARIO DE BARBIE (2006)
+http://www.spruto.tv/get_file/7/cc4f044e39c7d3ffb31494deb84389be/75000/75749/75749.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE FAIRYTOPIA: MERMAIDIA (2006)
+http://www.spruto.tv/get_file/7/59716dc9773a26809a07144ddc54f2b2/75000/75750/75750.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE EN LAS 12 PRINCESAS BAILARINAS (2006)
+http://www.spruto.tv/get_file/7/225ca2a2d12f05d3b1ca8c2d97ce8cdf/75000/75751/75751.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE FAIRYTOPIA: LA MAGIA DEL ARCO IRIS (2007)
+http://www.spruto.tv/get_file/7/ce3022c3870830b2b7bf4131abf433dc/75000/75754/75754.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE COMO LA PRINCESA DE LA ISLA (2007)
+http://www.spruto.tv/get_file/7/89d09d01e5aae033fef1b8e192945764/75000/75752/75752.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE MARIPOSA (2008)
+http://www.spruto.tv/get_file/7/859ed332e242bc043e12420752e6cebc/75000/75753/75753.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE EN EL CASTILLO DE DIAMANTES (2008)
+http://www.spruto.tv/get_file/7/49ba8b762db42c7fb7f244b4ef65cbe3/75000/75757/75757.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE EN UN CUENTO DE NAVIDAD (2008)
+http://www.spruto.tv/get_file/7/d14cbb0488d5fe4c5ab834fd45215dc4/75000/75758/75758.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE PULGARCITA (2009)
+http://www.spruto.tv/get_file/7/7cd893d2f35a6de11f0333fd39e06e2b/75000/75761/75761.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE Y LAS TRES MOSQUETERAS (2009)
+http://www.spruto.tv/get_file/7/dd9f2e27246b74c173d75296330c2714/75000/75765/75765.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE EN UNA AVENTURA DE SIRENAS (2010)
+http://www.spruto.tv/get_file/7/5c7a57857b8d85142ec9c93a93796111/75000/75766/75766.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE: MODA MÁGICA EN PARÍS (2010)
+http://www.spruto.tv/get_file/7/e10b82a947c533768641a32571e3b7f7/75000/75769/75769.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE: EL SECRETO DE LA HADAS (2011)
+http://www.spruto.tv/get_file/7/fdb651665f1431478b72eef7a37a4e61/75000/75770/75770.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE: ESCUELA DE PRINCESAS (2011)
+http://www.spruto.tv/get_file/7/f0deaca2139b0041107ee434daaba452/75000/75771/75771.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE: UNA NAVIDAD PERFECTA (2011)
+http://www.spruto.tv/get_file/7/629ac34ec346fa1c070729f775b21001/75000/75772/75772.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE EN UNA AVENTURA DE SIRENAS 2 (2012)
+http://www.spruto.tv/get_file/7/f39ff377acd5999d1fe6e33027b7c3d2/75000/75776/75776.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE: LA PRINCESA Y LA ESTRELLA DEL POP (2012)
+http://www.spruto.tv/get_file/7/231bc787fa958ba56c1957524a7f253b/75000/75779/75779.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE Y LAS ZAPATILLA MÁGICAS (2013)
+http://www.spruto.tv/get_file/7/ef27f353cd8d783e799a095feee03a79/75000/75780/75780.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE MARIPOSA Y LA PRINCESA DE LA HADAS (2013)
+http://www.spruto.tv/get_file/7/11c0b9efa9adc9bfeafad157aa3bf4c8/75000/75782/75782.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE Y SUS HERMANAS EN UNA HISTORIA DE PONIS (2013)
+http://www.spruto.tv/get_file/7/c73833ccd0a34face1c07af811d3dd9b/75000/75784/75784.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE: LA PRINCESA DE LAS PERLAS (2014)
+http://www.spruto.tv/get_file/7/a4b60ae86beda2d24b626e295106eb2d/75000/75840/75840.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE Y LA PUERTA SECRETA (2014)
+http://www.spruto.tv/get_file/1/688f00032dedd940ad06005785bf4f2a/82000/82907/82907.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",BARBIE SÚPER PRINCESA (2015)
+http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",DISNEYNATURE: LA TIERRA (2007)
+http://www.spruto.tv/get_file/7/f34bb000fb1f4ae6035e044da03063a5/76000/76325/76325.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",DISNEYNATURE: EL MISTERIO DE LOS FLAMENCOS (2008)
+http://www.spruto.tv/get_file/7/88b9eaa080a43e1939a7ca2cd452916e/76000/76329/76329.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",DISNEYNATURE: FELINOS DE ÁFRICA (2011)
+http://www.spruto.tv/get_file/7/32fc167e3609f60a4da17cfb12dff632/76000/76330/76330.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",DISNEYNATURE: CHIMPANCÉS (2012)
+http://www.spruto.tv/get_file/7/2d05b87efd5128d8c18b7a2d2375b4d8/76000/76328/76328.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",DISNEYNATURE: ALAS DE LA VIDA (2013)
+http://www.spruto.tv/get_file/7/9a736e114fe9513665371c64163ff0d2/76000/76717/76717.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",DISNEYNATURE: OSOS (2014)
+http://www.spruto.tv/get_file/1/046b94e730f032e799e94e0cd2d59729/81000/81600/81600.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA ERA DE HIELO 1
+http://www.spruto.tv/get_file/7/a713f64d3b63c79115d0e02a192dd9bf/77000/77737/77737.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA ERA DE HIELO 2
+http://www.spruto.tv/get_file/7/8573cad7f270185c42234f3f5e06c4b0/77000/77735/77735.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA ERA DE HIELO 3
+http://www.spruto.tv/get_file/7/b87164d9bdbeb605d4300439829b589f/77000/77736/77736.mp4?start=0
+#EXTINF:-1  tvg-logo="" group-title="Peliculas",LA ERA DE HIELO 4
+http://www.spruto.tv/get_file/7/208da846b2d5dc686ed2aa5d06544302/77000/77738/77738.mp4?start=0
