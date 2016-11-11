@@ -1,66 +1,5 @@
 #EXTM3U
 #EXTINF:-1,***** SPAIN *****
-http://149.202.78.137:8080/live/5454/5454/2669.ts
-#EXTINF:-1,SP | FDF
-http://149.202.78.137:8080/live/5454/5454/2650.ts
-#EXTINF:-1,SP | La Sexta HD
-http://149.202.78.137:8080/live/5454/5454/2649.ts
-#EXTINF:-1,SP | DCINE
-http://149.202.78.137:8080/live/5454/5454/2651.ts
-#EXTINF:-1,SP | TV3 CAT
-http://149.202.78.137:8080/live/5454/5454/2645.ts
-#EXTINF:-1,SP | CANAL SERIES
-http://149.202.78.137:8080/live/5454/5454/2655.ts
-#EXTINF:-1,SP | CANAL HOLLYWOOD
-http://149.202.78.137:8080/live/5454/5454/2656.ts
-#EXTINF:-1,SP | CUATRO
-http://149.202.78.137:8080/live/5454/5454/2652.ts
-#EXTINF:-1,SP | TVE 2 HD
-http://149.202.78.137:8080/live/5454/5454/2660.ts
-#EXTINF:-1,SP | Antena 3 HD
-http://149.202.78.137:8080/live/5454/5454/2659.ts
-#EXTINF:-1,SP | MOVISTAR MOTO GP HD
-http://149.202.78.137:8080/live/5454/5454/2664.ts
-#EXTINF:-1,SP | Barca TV
-http://149.202.78.137:8080/live/5454/5454/2665.ts
-#EXTINF:-1,SP | TELEVISA HD
-http://149.202.78.137:8080/live/5454/5454/2646.ts
-#EXTINF:-1,SP | CANAL+ DEPORTES
-http://149.202.78.137:8080/live/5454/5454/2661.ts
-#EXTINF:-1,SP | Real Madrid tv
-http://149.202.78.137:8080/live/5454/5454/2648.ts
-#EXTINF:-1,SP | Teledeporte
-http://149.202.78.137:8080/live/5454/5454/2647.ts
-#EXTINF:-1,SP | CAZA Y PESCA
-http://149.202.78.137:8080/live/5454/5454/2653.ts
-#EXTINF:-1,SP | CANAL+ TOROS
-http://149.202.78.137:8080/live/5454/5454/2654.ts
-#EXTINF:-1,SP | CANAL ESTRENOS
-http://149.202.78.137:8080/live/5454/5454/2657.ts
-#EXTINF:-1,SP | CALLE 13
-http://149.202.78.137:8080/live/5454/5454/2658.ts
-#EXTINF:-1,SP | CANAL+ FUTBOL
-http://149.202.78.137:8080/live/5454/5454/2662.ts
-#EXTINF:-1,SP | CANAL+ COMEDIA HD
-http://149.202.78.137:8080/live/5454/5454/2640.ts
-#EXTINF:-1,SP | NEOX
-http://149.202.78.137:8080/live/5454/5454/2641.ts
-#EXTINF:-1,SP | NOVA
-http://149.202.78.137:8080/live/5454/5454/2642.ts
-#EXTINF:-1,SP | BEIN SPORT ES
-http://149.202.78.137:8080/live/5454/5454/2639.ts
-#EXTINF:-1,SP | TVE 1 HD
-http://149.202.78.137:8080/live/5454/5454/2666.ts
-#EXTINF:-1,SP | A&E
-http://149.202.78.137:8080/live/5454/5454/2667.ts
-#EXTINF:-1,SP | Canal+ Accion HD
-http://149.202.78.137:8080/live/5454/5454/2668.ts
-#EXTINF:-1,SP | CANAL+ LIGA HD
-http://149.202.78.137:8080/live/5454/5454/2663.ts
-#EXTINF:-1,SP | PARAMOUNT CH
-http://149.202.78.137:8080/live/5454/5454/2643.ts
-#EXTINF:-1,SP | CANAL+ DEPORTES 2
-http://149.202.78.137:8080/live/5454/5454/2644.ts
 #EXTINF:-1,AR: MBC PRO SPORTS 4
 http://iptvfree1.com:6969/live/5/www.iptvrestream.net/4281.ts
 #EXTINF:-1,AR: AD Sports 6 HD
@@ -483,7 +422,7 @@ http://iptvfree1.com:6969/live/5/www.iptvrestream.net/2706.ts
 http://iptvfree1.com:6969/live/5/www.iptvrestream.net/2705.ts
 #EXTINF:-1,ES:ANTENA 3 HD
 http://iptvfree1.com:6969/live/5/www.iptvrestream.net/2721.ts
-#EXTINF:-1,ES 0 HD
+#EXTINF:-1,ES 1 HD
 http://iptvfree1.com:6969/live/5/www.iptvrestream.net/2729.ts
 #EXTINF:-1,AR_TUNESSIA_NATIONAL2
 http://iptvfree1.com:6969/live/5/www.iptvrestream.net/1517.ts
@@ -708,3 +647,185 @@ http://iptvfree1.com:6969/live/5/www.iptvrestream.net/1000.ts
 #EXTINF:-1,AR - Al Jazeera Documentary
 http://iptvfree1.com:6969/live/5/www.iptvrestream.net/1001.ts
  
+#EXTINF:1,ES: TVE1
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2144.ts
+#EXTINF:1,ES: TVE LA 1
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3629.ts
+#EXTINF:1,ES: TVE LA 1 HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1770.ts
+#EXTINF:1,ES: TVE LA 2
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1771.ts
+#EXTINF:1,ES: TV3 HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2145.ts
+#EXTINF:1,ES: Antena 3
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1772.ts
+#EXTINF:1,ES: N Cuatro SD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1773.ts
+#EXTINF:1,ES: N Cuatro HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2152.ts
+#EXTINF:1,ES: Telecinco HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3630.ts
+#EXTINF:1,ES: Telecinco
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1774.ts
+#EXTINF:1,ES: la sexta HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2154.ts
+#EXTINF:1,ES: Baby TV
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3651.ts
+#EXTINF:1,ES: BOING
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3650.ts
+#EXTINF:1,ES: Anima Tv
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3674.ts
+#EXTINF:1,ES: Disney XD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3654.ts
+#EXTINF:1,ES: Disney Junior
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3653.ts
+#EXTINF:1,ES: Cartoon Network
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3652.ts
+#EXTINF:1,ES: Nickelodeon
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3687.ts
+#EXTINF:1,ES: Disney Channel
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2162.ts
+#EXTINF:1,ES: SYFY
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2153.ts
+#EXTINF:1,ES: FOX LIFE
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2158.ts
+#EXTINF:1,ES: FOX Life HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3642.ts
+#EXTINF:1,ES: FOX HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3641.ts
+#EXTINF:1,ES: Fox
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2147.ts
+#EXTINF:1,ES: Fox SD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2159.ts
+#EXTINF:1,ES: AXN White HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3648.ts
+#EXTINF:1,ES: AXN
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3649.ts
+#EXTINF:1,ES: Calle 13 HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3643.ts
+#EXTINF:1,ES: Movistar Accion
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3632.ts
+#EXTINF:1,ES: Movistar Comedia
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3633.ts
+#EXTINF:1,ES: Movistar DCine
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3631.ts
+#EXTINF:1,ES: Movistar Xtra
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3635.ts
+#EXTINF:1,ES: Movistar Series Xtra
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3637.ts
+#EXTINF:1,ES: Movistar Series
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3636.ts
+#EXTINF:1,ES: Movistar Estrenos
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3634.ts
+#EXTINF:1,ES: Movistar Cine N
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3639.ts
+#EXTINF:1,ES: Canal HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3638.ts
+#EXTINF:1,ES: TNT
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3646.ts
+#EXTINF:1,ES: Comedy Central
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3640.ts
+#EXTINF:1,ES: Paramount Channel
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3673.ts
+#EXTINF:1,ES: Hollywood SD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3645.ts
+#EXTINF:1,ES: Hollywood HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3644.ts
+#EXTINF:1,ES: Factoria de Ficcion
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3678.ts
+#EXTINF:1,ES: Televisa HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3679.ts
+#EXTINF:1,ES: RT Español
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2151.ts
+#EXTINF:1,ES: Energy
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3675.ts
+#EXTINF:1,ES: TVE Clan
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3647.ts
+#EXTINF:1,ES: TVE 24H
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3669.ts
+#EXTINF:1,ES: Euronews Espanol
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3685.ts
+#EXTINF:1,ES: Neox Tv
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3672.ts
+#EXTINF:1,ES: National Geographic
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3676.ts
+#EXTINF:1,ES: Nat Geo Wild
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3677.ts
+#EXTINF:1,ES: History
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2146.ts
+#EXTINF:1,ES: Historia
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3682.ts
+#EXTINF:1,ES: Toros Tv
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3668.ts
+#EXTINF:1,ES: Viajar HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3683.ts
+#EXTINF:1,ES: Odisea Tv
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3671.ts
+#EXTINF:1,ES: Nova
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3667.ts
+#EXTINF:1,ES: Mega
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3691.ts
+#EXTINF:1,ES: MTV es
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3690.ts
+#EXTINF:1,ES: Proyecto 40
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2150.ts
+#EXTINF:1,ES: Crimen Investigation
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3689.ts
+#EXTINF:1,ES: Cosmo HD
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3688.ts
+#EXTINF:1,ES: Canal+ DeCasa
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3686.ts
+#EXTINF:1,ES: Canal Cocina
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3684.ts
+#EXTINF:1,ES: Movistar MotoGP
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3680.ts
+#EXTINF:1,ES: Movistar F1
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3681.ts
+#EXTINF:1,ES: Andalucia Tv
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3670.ts
+#EXTINF:1,ES: RealMadrid TV
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1589.ts
+#EXTINF:1,ES: Taquilla 1
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2628.ts
+#EXTINF:1,ES: Taquilla 2
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2629.ts
+#EXTINF:1,ES: Taquilla 3
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2630.ts
+#EXTINF:1,ES: Taquilla 4
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2631.ts
+#EXTINF:1,ES: Taquilla 5
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3655.ts
+#EXTINF:1,ES: Taquilla 6
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2632.ts
+#EXTINF:1,ES: Taquilla 7
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3656.ts
+#EXTINF:1,ES: Taquilla 8
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2633.ts
+#EXTINF:1,ES: Taquilla 9
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3657.ts
+#EXTINF:1,ES: Taquilla 10
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3658.ts
+#EXTINF:1,ES: Salas de Cine 1
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3659.ts
+#EXTINF:1,ES: Salas de Cine 2
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3660.ts
+#EXTINF:1,ES: Salas de Cine 3
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3661.ts
+#EXTINF:1,ES: Salas de Cine 4
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3662.ts
+#EXTINF:1,ES: Salas de Cine 5
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3663.ts
+#EXTINF:1,ES: Salas de Cine 6
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3664.ts
+#EXTINF:1,ES: Salas de Cine 7
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3665.ts
+#EXTINF:1,ES: Salas de Cine 8
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/3666.ts
+#EXTINF:1,ES: EUROSPORT
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2161.ts
+#EXTINF:1,ES: Canal  Deportes
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2149.ts
+#EXTINF:1,ES: Bein Sport Espagne
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/2143.ts
+#EXTINF:1,ES: Barca TV
+http://ksportiptv.com:1557/live/ALL5/1/ZG1gZksU6q/1585.t
