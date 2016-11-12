@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,***** SPAIN *****
-##EXTINF:-1,projecto1
+#EXTINF:-1,projecto1
 http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php
 #EXTINF:-1,AR: MBC PRO SPORTS 4
 http://iptvfree1.com:6969/live/5/www.iptvrestream.net/4281.ts
