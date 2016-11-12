@@ -70,17 +70,7 @@
 
 
 <item>
-<title>-[COLOR orange] TDT  en prueva [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/hinojosa.m3u</externallink>	
-</item> 
-
-
-
-<item>
-<title>-[COLOR blue] Canales Paises[/COLOR]</title>
+<title>-[COLOR blue] movistar [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -89,7 +79,7 @@
 
 
 <item>
-<title>-[COLOR orange] Movistar Plus [/COLOR]</title>
+<title>-[COLOR orange] canales paises [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -126,6 +116,14 @@
 </item> 
 
 
+
+<item>
+<title>-[COLOR orange] TDT  en prueva [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/hinojosa.m3u</externallink>	
+</item>
 
 
 
