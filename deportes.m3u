@@ -128,3 +128,1399 @@ http://media3.crtvg.es/live/tvge/chunklist.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title=”España”,Mediterraneo TV
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/472.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ DCine
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/487.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ LIGA HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/197.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ GOLF
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/483.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ SERIES XTRA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/602.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ ESTRENOS
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/597.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/652.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: REAL MADRID
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/466.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: LA SEXTA HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/196.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/416.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/419.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/418.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/412.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/468.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/491.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/490.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TV GALICIA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/592.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/593.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/596.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/andrea/andrea/599.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/195.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/472.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ DCine
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/487.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ LIGA HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/197.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ GOLF
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/483.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ SERIES XTRA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/602.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CANAL+ ESTRENOS
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/597.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/652.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: REAL MADRID
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/466.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: LA SEXTA HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/196.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/416.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/419.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/418.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/412.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/468.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/491.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/490.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: TV GALICIA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/592.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/593.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/596.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/599.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]------A Veces ON / OFF--------[/B][/I][/COLOR]
+
+#EXTINF:-1,C+ DEPORT 2
+http://5.147.77.93:8001/1:0:1:760C:408:1:C00000:0:0:0:
+#EXTINF:-1,DCINE ESPANOL
+http://5.147.77.93:8001/1:0:1:7736:416:1:C00000:0:0:0:
+#EXTINF:-1,MOVISTAR F1
+http://5.147.77.93:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
+#EXTINF:-1,PARAMOUNT
+http://5.147.77.93:8001/1:0:1:75F9:408:1:C00000:0:0:0:
+#EXTINF:-1,C.ESTRELLAS
+http://5.147.77.93:8001/1:0:1:74A3:41C:1:C00000:0:0:0:
+#EXTINF:-1,C+ ESTRENOS
+http://5.147.77.93:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
+#EXTINF:-1,C+ PARTIDAZO
+http://5.147.77.93:8001/1:0:1:769C:41E:1:C00000:0:0:0:
+#EXTINF:-1,C+ SERIESXTRA
+http://5.147.77.93:8001/1:0:1:76CA:40E:1:C00000:0:0:0:
+#EXTINF:-1,CANAL COCINA
+http://5.147.77.93:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
+#EXTINF:-1,CANAL IBERIA
+http://5.147.77.93:8001/1:0:1:746A:3F0:1:C00000:0:0:0:
+#EXTINF:-1,CANAL ORBE21
+http://5.147.77.93:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
+#EXTINF:-1,CANAL SUR A.
+http://5.147.77.93:8001/1:0:1:7729:416:1:C00000:0:0:0:
+#EXTINF:-1,CANAL+ XTRA
+http://5.147.77.93:8001/1:0:1:77C6:40A:1:C00000:0:0:0:
+#EXTINF:-1,CAZA Y PESCA
+http://5.147.77.93:8001/1:0:1:772B:416:1:C00000:0:0:0:
+#EXTINF:-1,CLAN  TVE
+http://5.147.77.93:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
+#EXTINF:-1,DECASA
+http://5.147.77.93:8001/1:0:1:7795:424:1:C00000:0:0:0:
+#EXTINF:-1,DIVINITY
+http://5.147.77.93:8001/1:0:1:749A:41C:1:C00000:0:0:0:
+#EXTINF:-1,ENERGY
+http://5.147.77.93:8001/1:0:1:749F:41C:1:C00000:0:0:0:
+#EXTINF:-1,FDF
+http://5.147.77.93:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
+#EXTINF:-1,LA 2
+http://5.147.77.93:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
+#EXTINF:-1,NEOX
+http://5.147.77.93:8001/1:0:1:75FE:408:1:C00000:0:0:0:
+#EXTINF:-1,NONSTOPEOPLE
+http://5.147.77.93:8001/1:0:1:772E:416:1:C00000:0:0:0:
+#EXTINF:-1,NOVA
+http://5.147.77.93:8001/1:0:1:7469:3F0:1:C00000:0:0:0:
+#EXTINF:-1,SUNDANCE
+http://5.147.77.93:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
+#EXTINF:-1,TCM
+http://5.147.77.93:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
+#EXTINF:-1,TELECINCO
+http://5.147.77.93:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
+#EXTINF:-1,24 HORAS
+http://5.147.77.93:8001/1:0:1:7738:416:1:C00000:0:0:0:
+#EXTINF:-1,ARAGON TV
+http://5.147.77.93:8001/1:0:1:75FD:408:1:C00000:0:0:0:
+#EXTINF:-1,FOX NEWS
+http://5.147.77.93:8001/1:0:1:749B:41C:1:C00000:0:0:0:
+#EXTINF:-1,A&E
+http://5.147.77.93:8001/1:0:1:772D:416:1:C00000:0:0:0:
+#EXTINF:-1,CANAL ODISEA
+http://5.147.77.93:8001/1:0:1:778A:424:1:C00000:0:0:0:
+#EXTINF:-1,CRIMEN+INVES
+http://5.147.77.93:8001/1:0:1:7732:416:1:C00000:0:0:0:
+#EXTINF:-1,DISCOVERY
+http://5.147.77.93:8001/1:0:1:772F:416:1:C00000:0:0:0:
+#EXTINF:-1,HISTORIA
+http://5.147.77.93:8001/1:0:1:7731:416:1:C00000:0:0:0:
+#EXTINF:-1,VIAJAR
+http://5.147.77.93:8001/1:0:1:76C9:40E:1:C00000:0:0:0:
+#EXTINF:-1,BABY TV
+http://5.147.77.93:8001/1:0:1:749C:41C:1:C00000:0:0:0:
+#EXTINF:-1,BOING
+http://5.147.77.93:8001/1:0:1:749E:41C:1:C00000:0:0:0:
+#EXTINF:-1,CANAL PANDA
+http://5.147.77.93:8001/1:0:1:75FF:408:1:C00000:0:0:0:
+#EXTINF:-1,DISNEY JR
+http://5.147.77.93:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
+#EXTINF:-1,DISNEY XD
+http://5.147.77.93:8001/1:0:1:772A:416:1:C00000:0:0:0:
+#EXTINF:-1,Nick Jr
+http://5.147.77.93:8001/1:0:1:6FF5:42A:1:C00000:0:0:0:
+#EXTINF:-1,NICKELODEON Iberia
+http://5.147.77.93:8001/1:0:1:6FF4:42A:1:C00000:0:0:0:
+#EXTINF:-1,BARÇA TV
+http://5.147.77.93:8001/1:0:1:74A0:41C:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 4
+http://5.147.77.93:8001/1:0:1:757C:412:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 5
+http://5.147.77.93:8001/1:0:1:757D:412:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 6
+http://5.147.77.93:8001/1:0:1:769D:41E:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 7
+http://5.147.77.93:8001/1:0:1:769E:41E:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 8
+http://5.147.77.93:8001/1:0:1:7576:412:1:C00000:0:0:0:
+#EXTINF:-1,C+  TOROS
+http://5.147.77.93:8001/1:0:1:7570:412:1:C00000:0:0:0:
+#EXTINF:-1,C+ DEPORTES
+http://5.147.77.93:8001/1:0:1:778F:424:1:C00000:0:0:0:
+#EXTINF:-1,C+ FUTBOL
+http://5.147.77.93:8001/1:0:1:778E:424:1:C00000:0:0:0:
+#EXTINF:-1,EUROSPORT 2
+http://5.147.77.93:8001/1:0:1:760E:408:1:C00000:0:0:0:
+#EXTINF:-1,GOLF+
+http://5.147.77.93:8001/1:0:1:7789:424:1:C00000:0:0:0:
+#EXTINF:-1,M. MOTOGP
+http://5.147.77.93:8001/1:0:1:7739:416:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP. 5
+http://5.147.77.93:8001/1:0:1:7693:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP. 7
+http://5.147.77.93:8001/1:0:1:76A7:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP.1
+http://5.147.77.93:8001/1:0:1:756C:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP.2
+http://5.147.77.93:8001/1:0:1:756D:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP.3
+http://5.147.77.93:8001/1:0:1:7573:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP.4
+http://5.147.77.93:8001/1:0:1:7575:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEP.6
+http://5.147.77.93:8001/1:0:1:7574:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIDEPORTE
+http://5.147.77.93:8001/1:0:1:7692:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 1
+http://5.147.77.93:8001/1:0:1:756E:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 2
+http://5.147.77.93:8001/1:0:1:7577:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 3
+http://5.147.77.93:8001/1:0:1:7578:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 4
+http://5.147.77.93:8001/1:0:1:7579:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 5
+http://5.147.77.93:8001/1:0:1:757E:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 6
+http://5.147.77.93:8001/1:0:1:76A6:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 7
+http://5.147.77.93:8001/1:0:1:769B:41E:1:C00000:0:0:0:
+#EXTINF:-1,MULTIFUT. 8
+http://5.147.77.93:8001/1:0:1:7690:41E:1:C00000:0:0:0:
+#EXTINF:-1,R. MADRID TV
+http://5.147.77.93:8001/1:0:1:7601:408:1:C00000:0:0:0:
+#EXTINF:-1,TELEDEPORTE
+http://5.147.77.93:8001/1:0:1:76CC:40E:1:C00000:0:0:0:
+#EXTINF:-1,40 TV
+http://5.147.77.93:8001/1:0:1:76C5:40E:1:C00000:0:0:0:
+#EXTINF:-1,CLASSICA
+http://5.147.77.93:8001/1:0:1:7602:408:1:C00000:0:0:0:
+#EXTINF:-1,MTV ESPANA
+http://5.147.77.93:8001/1:0:1:74A2:41C:1:C00000:0:0:0:
+#EXTINF:-1,SOL MUSICA
+http://5.147.77.93:8001/1:0:1:7797:424:1:C00000:0:0:0:
+#EXTINF:-1,LTC
+http://5.147.77.93:8001/1:0:1:749D:41C:1:C00000:0:0:0:
+#EXTINF:-1,PLAYBOY TV
+http://5.147.77.93:8001/1:0:1:778B:424:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X
+http://5.147.77.93:8001/1:0:1:7562:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X (1)
+http://5.147.77.93:8001/1:0:1:7571:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X (2)
+http://5.147.77.93:8001/1:0:1:7563:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTI-X (3)
+http://5.147.77.93:8001/1:0:1:7572:412:1:C00000:0:0:0:
+#EXTINF:-1,MULTICINE
+http://5.147.77.93:8001/1:0:1:7694:41E:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 1
+http://5.147.77.93:8001/1:0:1:768E:41E:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 2
+http://5.147.77.93:8001/1:0:1:768F:41E:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 5
+http://5.147.77.93:8001/1:0:1:7565:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 6
+http://5.147.77.93:8001/1:0:1:7566:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 3
+http://5.147.77.93:8001/1:0:1:7567:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA 4
+http://5.147.77.93:8001/1:0:1:756F:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA X
+http://5.147.77.93:8001/1:0:1:7568:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA XX
+http://5.147.77.93:8001/1:0:1:7569:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQ XXHARD
+http://5.147.77.93:8001/1:0:1:756A:412:1:C00000:0:0:0:
+#EXTINF:-1,TAQUILLA XY
+http://5.147.77.93:8001/1:0:1:7695:41E:1:C00000:0:0:0:
+#EXTINF:-1,LA 1
+http://5.147.77.93:8001/1:0:1:77C0:40A:1:C00000:0:0:0:
+#EXTINF:-1,ANTENA 3
+http://5.147.77.93:8001/1:0:1:7604:408:1:C00000:0:0:0:
+#EXTINF:-1,HOLLYWOOD
+http://5.147.77.93:8001/1:0:1:77C1:40A:1:C00000:0:0:0:
+#EXTINF:-1,AMC
+http://5.147.77.93:8001/1:0:1:76CF:40E:1:C00000:0:0:0:
+#EXTINF:-1,AXN
+http://5.147.77.93:8001/1:0:1:7477:3F0:1:C00000:0:0:0:
+#EXTINF:-1,AXN WHITE
+http://5.147.77.93:8001/1:0:1:7471:3F0:1:C00000:0:0:0:
+#EXTINF:-1,CALLE 13
+http://5.147.77.93:8001/1:0:1:7790:424:1:C00000:0:0:0:
+#EXTINF:-1,Canal+ Series
+http://5.147.77.93:8001/1:0:1:7696:41E:1:C00000:0:0:0:
+#EXTINF:-1,COMEDY CENTRAL
+http://5.147.77.93:8001/1:0:1:76C8:40E:1:C00000:0:0:0:
+#EXTINF:-1,COSMO
+http://5.147.77.93:8001/1:0:1:7730:416:1:C00000:0:0:0:
+#EXTINF:-1,CUATRO
+http://5.147.77.93:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
+#EXTINF:-1,FOX
+http://5.147.77.93:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
+#EXTINF:-1,FOX LIVE
+http://5.147.77.93:8001/1:0:1:7468:3F0:1:C00000:0:0:0:
+#EXTINF:-1,SYFY
+http://5.147.77.93:8001/1:0:1:7796:424:1:C00000:0:0:0:
+#EXTINF:-1,TNT
+http://5.147.77.93:8001/1:0:1:77C9:40A:1:C00000:0:0:0:
+#EXTINF:-1,NAT GEO WILD
+http://5.147.77.93:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
+#EXTINF:-1,NAT GEOGRAPHIC
+http://5.147.77.93:8001/1:0:1:778D:424:1:C00000:0:0:0:
+#EXTINF:-1,DISNEY CH.
+http://5.147.77.93:8001/1:0:1:76C3:40E:1:C00000:0:0:0:
+#EXTINF:-1,MEZZO
+http://5.147.77.93:8001/1:0:1:7699:41E:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 1
+http://5.147.77.93:8001/1:0:1:769F:41E:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 2
+http://5.147.77.93:8001/1:0:1:757A:412:1:C00000:0:0:0:
+#EXTINF:-1,BEIN MAX 3
+http://5.147.77.93:8001/1:0:1:757F:412:1:C00000:0:0:0:
+#EXTINF:-1,BEIN SPORTS
+http://5.147.77.93:8001/1:0:1:757B:412:1:C00000:0:0:0:
+#EXTINF:-1,CANAL+ LIGA
+http://5.147.77.93:8001/1:0:1:7793:424:1:C00000:0:0:0:
+#EXTINF:-1,EUROSPORT 1
+http://5.147.77.93:8001/1:0:1:74A1:41C:1:C00000:0:0:0:
+#EXTINF:-1,LA SEXTA
+http://5.147.77.93:8001/1:0:1:77BF:40A:1:C00000:0:0:0:
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,La 1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8 #La 1
+#EXTINF:-1,La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8 #La 2
+#EXTINF:-1,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8 #Antena 3
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8 #La Sexta
+#EXTINF:-1,Atres3Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8 #Atres3Series
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8 #Mega
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8 #Neox
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8 #Nova
+#EXTINF:-1,TeleDeporte
+http://hlslive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8 #TeleDeporte
+#EXTINF:-1,RealMadridTV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8 #RealMadridTV
+#EXTINF:-1,8tv
+http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8 #8tv
+#EXTINF:-1,C7Murcia
+http://flash0.80670-live0.dna.qbrick.com%3a1935/80670-live0/murciatv/playlist.m3u8 #C7Murcia
+#EXTINF:-1,CastillaLaMancha
+http://live.rtvcm.stream.flumotion.com/rtvcm/live.flv.m3u
+#EXTINF:-1,ExtremaduraTV
+http://tinyurl.com/onwfjoh
+#EXTINF:-1,CanalSur
+http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u
+#EXTINF:-1,CanalSur 2
+http://eventos.rtva.stream.flumotion.com/rtva/eventos.flv.m3u8 #CanalSur 2
+#EXTINF:-1,CanalSur 3
+http://champions.rtva.stream.flumotion.com/rtva/champions.flv.m3u
+#EXTINF:-1,8CadizTV
+http://cls.todostreaming.eu/unatv/live/playlist.m3u8 #8CadizTV
+#EXTINF:-1,Esport3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp%3aes3_web/chunklist_b798000_DVR.m3u8 #Esport3
+#EXTINF:-1,TV3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp%3atv3_web/chunklist_b798000.m3u8 #TV3
+#EXTINF:-1,3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3a324_web/chunklist_b798000.m3u8 #3/24
+#EXTINF:-1,ETB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8 #ETB
+#EXTINF:-1,TVCanarias
+http://bit.ly/1Nwh4ZW
+#EXTINF:-1,LancelotTV
+rtmp://62.210.141.18%3a1935/directo/lancelot.television:LancelotTV
+#EXTINF:-1,TindayaTV
+http://188.165.135.22/tindayatv/livestream/playlist.m3u8 #TindayaTV
+#EXTINF:-1,DiaTenerife
+http://teledifusion.tv%3a1935/dia/dia/playlist.m3u8 #DiaTenerife
+#EXTINF:-1,Mediterraneo TV
+http://tinyurl.com/pdb6r9j
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8 #IB3
+#EXTINF:-1,Telemadrid
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8 #Telemadrid
+#EXTINF:-1,TV Galicia
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8 #TV Galicia
+#EXTINF:-1,Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live:Kiss TV
+#EXTINF:-1,13TV
+http://streaming.enetres.net%3a80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8 #13TV
+#EXTINF:-1,MalagaTV
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8 #MalagaTV
+#EXTINF:-1,Jaen
+http://servers10.com%3a1935/canal45tv/canal45tv/chunklist_w961719399.m3u8 #Jaen
+#EXTINF:-1,TV Elche
+rtmp://teledifusion.tv/teleelx/teleelxlive
+#EXTINF:-1,Canal Rioja
+http://teledifusion.tv%3a1935/rioja/rioja/playlist.m3u8 #Canal Rioja
+#EXTINF:-1,TV8
+rtmp://91.121.143.193%3a1935/liverepeater/8TV/8aldia-directe
+#EXTINF:-1,Girona TV
+rtmp://tvgirona.dnssw.net/live/Icontouch
+#EXTINF:-1,Andorra
+rtmp://194.158.80.31/live/web
+#EXTINF:-1,Marbella TV
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8 #Marbella TV
+#EXTINF:-1,Huelva Costa
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8 #Huelva Costa
+#EXTINF:-1,Levante
+http://teledifusion.tv%3a1935/levantetvlive/levantetvlive/playlist.m3u8 #Levante
+#EXTINF:-1,Rioja TV
+mms://87.106.208.121/stv
+#EXTINF:-1,Ferrol
+rtsp://streaming.arsenet.com/tvf
+#EXTINF:-1,Tele Badalona
+rtmp://directe.tvbadalona.cat/live/myStream.sdp
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 channelId="1320", La 1 
+http://comunidadiptv.org/online/estable/?sintonizador=TVE1 
+#EXTINF:-1 channelId="1321", La 2 
+http://comunidadiptv.org/online/estable/?sintonizador=TVE2 
+#EXTINF:-1 channelId="2124", Antena 3 
+http://comunidadiptv.org/online/estable/?sintonizador=A3HD 
+#EXTINF:-1 channelId="1678", Cuatro 
+http://comunidadiptv.org/online/estable/?sintonizador=Cuatro 
+#EXTINF:-1 channelId="2527", Telecinco 
+http://comunidadiptv.org/online/estable/?sintonizador=Telecinco 
+#EXTINF:-1 channelId="1692", La Sexta 
+http://comunidadiptv.org/online/estable/?sintonizador=LaSextaHD 
+#EXTINF:-1 channelId="1323", 24 Horas 
+http://comunidadiptv.org/online/estable/?sintonizador=TVE24HHD 
+#EXTINF:-1 channelId="1322", Teledeporte 
+http://comunidadiptv.org/online/estable/?sintonizador=TeledeporteHD 
+#EXTINF:-1 channelId="1691", Intereconomia Television 
+http://comunidadiptv.org/online/estable/?sintonizador=IntereconomiaTV 
+#EXTINF:-1 channelId="1695", Neox 
+http://comunidadiptv.org/online/estable/?sintonizador=Neox 
+#EXTINF:-1 channelId="2125", Nova 
+http://comunidadiptv.org/online/estable/?sintonizador=Nova 
+#EXTINF:-1 channelId="2819", Mega 
+http://comunidadiptv.org/online/estable/?sintonizador=Mega 
+#EXTINF:-1 channelId="-1", A3Series 
+http://comunidadiptv.org/online/estable/?sintonizador=A3Series 
+#EXTINF:-1 channelId="1682", Divinity 
+http://comunidadiptv.org/online/estable/?sintonizador=Divinity 
+#EXTINF:-1 channelId="1683", Energy 
+http://comunidadiptv.org/online/estable/?sintonizador=Energy 
+#EXTINF:-1 channelId="1332", Realmadrid TV 
+http://comunidadiptv.org/online/estable/?sintonizador=RealMadridTVHD 
+#EXTINF:-1 channelId="-1", La Regional CLM 
+http://comunidadiptv.org/online/estable/?sintonizador=LaRegionalCLM 
+#EXTINF:-1 channelId="-1", Ribera TV 
+http://comunidadiptv.org/online/estable/?sintonizador=RiberaTV 
+#EXTINF:-1 channelId="-1", TV Galicia 
+http://comunidadiptv.org/online/estable/?sintonizador=TVGalicia 
+#EXTINF:-1 channelId="-1", TV Galicia America 
+http://comunidadiptv.org/online/estable/?sintonizador=TVGaliciaAmerica 
+#EXTINF:-1 channelId="-1", Canal Extremadura 
+http://comunidadiptv.org/online/estable/?sintonizador=ExtremaduraTV 
+#EXTINF:-1 channelId="1693", Levante TV 
+http://comunidadiptv.org/online/estable/?sintonizador=LevanteTV 
+#EXTINF:-1 channelId="-1", El Dia TV 
+http://comunidadiptv.org/online/estable/?sintonizador=ElDiaTV 
+#EXTINF:-1 channelId="-1", RTV Andorra 
+http://comunidadiptv.org/online/estable/?sintonizador=Andorra10TV 
+#EXTINF:-1 channelId="2663", teleSUR 
+http://comunidadiptv.org/online/estable/?sintonizador=VenezuelaTelesur 
+#EXTINF:-1 channelId="-1", Telefuturo Canal 23 
+http://comunidadiptv.org/online/estable/?sintonizador=TFCanal23 
+#EXTINF:-1 channelId="-1", Guatevision TV 
+http://comunidadiptv.org/online/estable/?sintonizador=GuatevisionTV 
+#EXTINF:-1 channelId="-1", El Correo TV 
+http://comunidadiptv.org/online/estable/?sintonizador=ElCorreoTV 
+#EXTINF:-1 channelId="-1", BYU TV 
+http://comunidadiptv.org/online/estable/?sintonizador=BYUTV 
+#EXTINF:-1 channelId="-1", RTPAsturias 
+http://comunidadiptv.org/online/estable/?sintonizador=RTPAsturias 
+#EXTINF:-1 channelId="-1", Canal Costa 
+http://comunidadiptv.org/online/estable/?sintonizador=CanalCostaHuelva 
+#EXTINF:-1 channelId="1661", 13 TV 
+http://comunidadiptv.org/online/estable/?sintonizador=13TV 
+#EXTINF:-1 channelId="1382", Canal Parlamento 
+http://comunidadiptv.org/online/estable/?sintonizador=CanalParlamento 
+#EXTINF:-1 channelId="-1", Tateti 
+http://comunidadiptv.org/online/estable/?sintonizador=TaTeTi 
+#EXTINF:-1 channelId="2817", TV8 
+http://comunidadiptv.org/online/estable/?sintonizador=TV8 
+#EXTINF:-1 channelId="-1", BTV 
+http://comunidadiptv.org/online/estable/?sintonizador=BTV 
+#EXTINF:-1 channelId="1670", Canal Sur 
+http://comunidadiptv.org/online/estable/?sintonizador=CanarSurAndalucia 
+#EXTINF:-1 channelId="-1", ATV Cadiz 
+http://comunidadiptv.org/online/estable/?sintonizador=ATVCadiz 
+#EXTINF:-1 channelId="1719", Paramount Channel 
+http://comunidadiptv.org/online/estable/?sintonizador=ParamountChannel 
+#EXTINF:-1 channelId="-1", EITB 
+http://comunidadiptv.org/online/estable/?sintonizador=EITBEus 
+#EXTINF:-1 channelId="1690", IB3 Televisio 
+http://comunidadiptv.org/online/estable/?sintonizador=IB 
+#EXTINF:-1 channelId="-1", Ol Cadiz 
+http://comunidadiptv.org/online/estable/?sintonizador=OlCadiz 
+#EXTINF:-1 channelId="-1", Ol Costa 
+http://comunidadiptv.org/online/estable/?sintonizador=OlCosta 
+#EXTINF:-1 channelId="-1", Ol Marbella 
+http://comunidadiptv.org/online/estable/?sintonizador=OlMarbella 
+#EXTINF:-1 channelId="-1", Ol Isla 
+http://comunidadiptv.org/online/estable/?sintonizador=OlIsla 
+#EXTINF:-1 channelId="-1", Ol Sevilla 
+http://comunidadiptv.org/online/estable/?sintonizador=OlSevilla 
+#EXTINF:-1 channelId="-1", Ol Sierra 
+http://comunidadiptv.org/online/estable/?sintonizador=OlSierra 
+#EXTINF:-1 channelId="-1", Ol Malaga 
+http://comunidadiptv.org/online/estable/?sintonizador=OlMalaga 
+#EXTINF:-1 channelId="-1", Ol Ronda 
+http://comunidadiptv.org/online/estable/?sintonizador=OlRonda 
+#EXTINF:-1 channelId="-1", RTVCanarias 
+http://comunidadiptv.org/online/estable/?sintonizador=RTVCanarias 
+#EXTINF:-1 channelId="-1", Girona TV 
+http://comunidadiptv.org/online/estable/?sintonizador=GironaTV 
+#EXTINF:-1 channelId="1664", Aragon TV 
+http://comunidadiptv.org/online/estable/?sintonizador=AragonTV 
+#EXTINF:-1 channelId="-1", Mirame TV 
+http://comunidadiptv.org/online/estable/?sintonizador=MirameTV 
+#EXTINF:-1 channelId="-1", Mijas 340 TV 
+http://comunidadiptv.org/online/estable/?sintonizador=Mijas340TV 
+#EXTINF:-1 channelId="-1", Canal 7 Murcia 
+http://comunidadiptv.org/online/estable/?sintonizador=La7RMurcia 
+#EXTINF:-1 channelId="1689", Huelva TV 
+http://comunidadiptv.org/online/estable/?sintonizador=HuelvaTV 
+#EXTINF:-1 channelId="-1", Onda Azul 
+http://comunidadiptv.org/online/estable/?sintonizador=OndaAzul 
+#EXTINF:-1 channelId="-1", Ceuta TV 
+http://comunidadiptv.org/online/estable/?sintonizador=CeutaTV 
+#EXTINF:-1 channelId="-1", TV Melilla 
+http://comunidadiptv.org/online/estable/?sintonizador=TVMelilla 
+#EXTINF:-1 channelId="1675", Castilla-La Mancha 
+http://comunidadiptv.org/online/estable/?sintonizador=CLM 
+#EXTINF:-1 channelId="-1", Informacion TV 
+http://comunidadiptv.org/online/estable/?sintonizador=InformacionTV 
+#EXTINF:-1 channelId="-1", TeleB 
+http://comunidadiptv.org/online/estable/?sintonizador=TeleB 
+#EXTINF:-1 channelId="-1", Huesca TV 
+http://comunidadiptv.org/online/estable/?sintonizador=HuescaTV 
+#EXTINF:-1 channelId="-1", Popular TV 
+http://comunidadiptv.org/online/estable/?sintonizador=PopularTVCantabria 
+#EXTINF:-1 channelId="-1", Marbella TV 
+http://comunidadiptv.org/online/estable/?sintonizador=MarbellaTV 
+#EXTINF:-1 channelId="-1", M1 Maresme 
+http://comunidadiptv.org/online/estable/?sintonizador=M1Maresme 
+#EXTINF:-1 channelId="-1", TeleBilbao 
+http://comunidadiptv.org/online/estable/?sintonizador=TeleBilbao 
+#EXTINF:-1 channelId="-1", TeleDonosti 
+http://comunidadiptv.org/online/estable/?sintonizador=TeleDonosti 
+#EXTINF:-1 channelId="-1", RTVCE 
+http://comunidadiptv.org/online/estable/?sintonizador=RTVCeuta 
+#EXTINF:-1 channelId="-1", TerrassaValles 
+http://comunidadiptv.org/online/estable/?sintonizador=TerrassaValles 
+#EXTINF:-1 channelId="-1", Lancetot TV 
+http://comunidadiptv.org/online/estable/?sintonizador=LancetotTV 
+#EXTINF:-1 channelId="-1", Onda Jaen 
+http://comunidadiptv.org/online/estable/?sintonizador=OndaJaen 
+#EXTINF:-1 channelId="-1", Sevilla FC 
+http://comunidadiptv.org/online/estable/?sintonizador=SevillaFC 
+#EXTINF:-1 channelId="-1", Castilla y Leon TV 
+http://comunidadiptv.org/online/estable/?sintonizador=CYL 
+#EXTINF:-1 channelId="-1", RTVida 
+http://comunidadiptv.org/online/estable/?sintonizador=RTVida 
+#EXTINF:-1 channelId="19", Disney Channel 
+http://comunidadiptv.org/online/estable/?sintonizador=DisneyChannel 
+#EXTINF:-1 channelId="-1", Libertad Digital 
+http://comunidadiptv.org/online/estable/?sintonizador=LibertadDigital 
+#EXTINF:-1 channelId="-1", OndaCadiz 
+http://comunidadiptv.org/online/estable/?sintonizador=OndaCadiz 
+#EXTINF:-1 channelId="-1", Navarra TV 
+http://comunidadiptv.org/online/estable/?sintonizador=NavarraTV 
+#EXTINF:-1 channelId="-1", TVA 
+http://comunidadiptv.org/online/estable/?sintonizador=TVA 
+#EXTINF:-1 channelId="-1", TV4 
+http://comunidadiptv.org/online/estable/?sintonizador=TV4 
+#EXTINF:-1 channelId="-1", IMas TV 
+http://comunidadiptv.org/online/estable/?sintonizador=IMasTV 
+#EXTINF:-1 channelId="-1", LebrijaTV 
+http://comunidadiptv.org/online/estable/?sintonizador=LebrijaTV 
+#EXTINF:-1 channelId="-1", PeritaTV 
+http://comunidadiptv.org/online/estable/?sintonizador=PeritaTV 
+#EXTINF:-1 channelId="-1", Mola TV 
+http://comunidadiptv.org/online/estable/?sintonizador=MolaTV 
+#EXTINF:-1 channelId="-1", VallesOrientalTV 
+http://comunidadiptv.org/online/estable/?sintonizador=VallesOrientalTV 
+#EXTINF:-1 channelId="-1", InterComarcal 
+http://comunidadiptv.org/online/estable/?sintonizador=InterComarcal 
+#EXTINF:-1 channelId="-1", 101 TV 
+http://comunidadiptv.org/online/estable/?sintonizador=TV101 
+#EXTINF:-1 channelId="-1", Canal 25 
+http://comunidadiptv.org/online/estable/?sintonizador=C25 
+#EXTINF:-1 channelId="-1", TV Elche 
+http://comunidadiptv.org/online/estable/?sintonizador=TeleElx 
+#EXTINF:-1 channelId="-1", 25 TV 
+http://comunidadiptv.org/online/estable/?sintonizador=TV25 
+#EXTINF:-1 channelId="-1", TCS 
+http://comunidadiptv.org/online/estable/?sintonizador=TVCS 
+#EXTINF:-1 channelId="-1", ZTV 
+http://comunidadiptv.org/online/estable/?sintonizador=ZTV 
+#EXTINF:-1 channelId="-1", AS 
+http://comunidadiptv.org/online/estable/?sintonizador=TeleAsturiasDigital 
+#EXTINF:-1 channelId="-1", Canal Diocesano 
+http://comunidadiptv.org/online/estable/?sintonizador=Diocesano 
+#EXTINF:-1 channelId="-1", Hit TV 
+http://comunidadiptv.org/online/estable/?sintonizador=HitTV 
+#EXTINF:-1 channelId="-1", Willax 
+http://comunidadiptv.org/online/estable/?sintonizador=WillaxTV 
+#EXTINF:-1 channelId="255", Azteca 7 
+http://comunidadiptv.org/online/estable/?sintonizador=Azteca7 
+#EXTINF:-1 channelId="1971", Azteca 13 
+http://comunidadiptv.org/online/estable/?sintonizador=Azteca13 
+#EXTINF:-1 channelId="-1", Azteca Noticias 
+http://comunidadiptv.org/online/estable/?sintonizador=AztecaNoticias 
+#EXTINF:-1 channelId="-1", TVN 
+http://comunidadiptv.org/online/estable/?sintonizador=TVNChile 
+#EXTINF:-1 channelId="-1", LatinaTV 
+http://comunidadiptv.org/online/estable/?sintonizador=LatinaTV 
+#EXTINF:-1 channelId="-1", TVP Argentina 
+http://comunidadiptv.org/online/estable/?sintonizador=TVPublica 
+#EXTINF:-1 channelId="-1", Telemetro 
+http://comunidadiptv.org/online/estable/?sintonizador=Telemetro 
+#EXTINF:-1 channelId="2533", RT Español 
+http://comunidadiptv.org/online/estable/?sintonizador=RTSpanish 
+#EXTINF:-1 channelId="2689", Proyecto 40 
+http://comunidadiptv.org/online/estable/?sintonizador=ProyectoCuarenta 
+#EXTINF:-1 channelId="-1", TV Chile 
+http://comunidadiptv.org/online/estable/?sintonizador=TVChile 
+#EXTINF:-1 channelId="-1", Orbe21 
+http://comunidadiptv.org/online/estable/?sintonizador=Orbe21 
+#EXTINF:-1 channelId="-1", ATV Peru 
+http://comunidadiptv.org/online/estable/?sintonizador=ATVPeru 
+#EXTINF:-1 channelId="-1", TN Noticias 
+http://comunidadiptv.org/online/estable/?sintonizador=TNNoticias 
+#EXTINF:-1 channelId="1709", Viajar 
+http://comunidadiptv.org/online/estable/?sintonizador=Viajar 
+#EXTINF:-1 channelId="-1", Vevo EU 
+http://comunidadiptv.org/online/estable/?sintonizador=VevoEU 
+#EXTINF:-1 channelId="-1", Vevo Flow 
+http://comunidadiptv.org/online/estable/?sintonizador=VevoFlow 
+#EXTINF:-1 channelId="-1", Vevo Hits 
+http://comunidadiptv.org/online/estable/?sintonizador=VevoHits 
+#EXTINF:-1 channelId="-1", Vevo Country 
+http://comunidadiptv.org/online/estable/?sintonizador=VevoCountry 
+#EXTINF:-1 channelId="1929", C5N 
+http://comunidadiptv.org/online/estable/?sintonizador=C5N 
+#EXTINF:-1 channelId="328", Foro TV 
+http://comunidadiptv.org/online/estable/?sintonizador=ForoTV 
+#EXTINF:-1 channelId="-1", CanalI 
+http://comunidadiptv.org/online/estable/?sintonizador=CanalI 
+#EXTINF:-1 channelId="1710", Virgin TV 
+http://comunidadiptv.org/online/estable/?sintonizador=VirginTV 
+#EXTINF:-1 channelId="1954", Canal De Las Estrellas 
+http://comunidadiptv.org/online/estable/?sintonizador=CanalDeLasEstrellas 
+#EXTINF:-1 channelId="1930", 360 TV 
+http://comunidadiptv.org/online/estable/?sintonizador=TV360 
+#EXTINF:-1 channelId="-1", Canal 9 Argentina 
+http://comunidadiptv.org/online/estable/?sintonizador=Canal9Ar 
+#EXTINF:-1 channelId="-1", La Red 
+http://comunidadiptv.org/online/estable/?sintonizador=LaRedTV 
+#EXTINF:-1 channelId="293", Efekto TV 
+http://comunidadiptv.org/online/estable/?sintonizador=EfektoTV 
+#EXTINF:-1 channelId="-1", Miami TV 
+http://comunidadiptv.org/online/estable/?sintonizador=MiamiTV 
+#EXTINF:-1 channelId="-1", Miami TV Life 
+http://comunidadiptv.org/online/estable/?sintonizador=MiamiTVLife 
+#EXTINF:-1 channelId="-1", RTS Ecuador 
+http://comunidadiptv.org/online/estable/?sintonizador=RTSEcuador 
+#EXTINF:-1 channelId="-1", TeleCaribe 
+http://comunidadiptv.org/online/estable/?sintonizador=TeleCaribe 
+#EXTINF:-1 channelId="2499", El Trece 
+http://comunidadiptv.org/online/estable/?sintonizador=ElTrece 
+#EXTINF:-1 channelId="-1", Culiacan 
+http://comunidadiptv.org/online/estable/?sintonizador=Culiacan 
+#EXTINF:-1 channelId="-1", Mazatlan 
+http://comunidadiptv.org/online/estable/?sintonizador=Mazatlan 
+#EXTINF:-1 channelId="-1", Los Mochis 
+http://comunidadiptv.org/online/estable/?sintonizador=LosMochis 
+#EXTINF:-1 channelId="-1", Obregon 
+http://comunidadiptv.org/online/estable/?sintonizador=Obregon 
+#EXTINF:-1 channelId="-1", 1HD Music TV 
+http://comunidadiptv.org/online/estable/?sintonizador=R1HD 
+#EXTINF:-1 channelId="-1", 8TV 
+http://comunidadiptv.org/online/estable/?sintonizador=OchoTV 
+#EXTINF:-1 channelId="368", Cuba vision 
+http://comunidadiptv.org/online/estable/?sintonizador=Cubavision 
+#EXTINF:-1 channelId="-1", A24 
+http://comunidadiptv.org/online/estable/?sintonizador=A24 
+#EXTINF:-1 channelId="-1", TYC Sports 
+http://comunidadiptv.org/online/estable/?sintonizador=TYCSports 
+#EXTINF:-1 channelId="-1", DXTV 
+http://comunidadiptv.org/online/estable/?sintonizador=DXTV 
+#EXTINF:-1 channelId="2497", TVMÁS 
+http://comunidadiptv.org/online/estable/?sintonizador=TVMas 
+#EXTINF:-1 channelId="-1", Canal 26 
+http://comunidadiptv.org/online/estable/?sintonizador=Canal26 
+#EXTINF:-1 channelId="2284", Onda Latina 
+http://comunidadiptv.org/online/estable/?sintonizador=OndaLatina 
+#EXTINF:-1 channelId="-1", TVES 
+http://comunidadiptv.org/online/estable/?sintonizador=TVES 
+#EXTINF:-1 channelId="-1", Chapin TV C3 
+http://comunidadiptv.org/online/estable/?sintonizador=ChapinTVC3 
+#EXTINF:-1 channelId="-1", Chapin TV C7 
+http://comunidadiptv.org/online/estable/?sintonizador=ChapinTVC7 
+#EXTINF:-1 channelId="-1", Chapin TV C23 
+http://comunidadiptv.org/online/estable/?sintonizador=ChapinTVC23 
+#EXTINF:-1 channelId="-1", SNT 
+http://comunidadiptv.org/online/estable/?sintonizador=SNT 
+#EXTINF:-1 channelId="-1", Una Voz Con Todos 
+http://comunidadiptv.org/online/estable/?sintonizador=UnaVozConTodos 
+#EXTINF:-1 channelId="-1", Canal 12 
+http://comunidadiptv.org/online/estable/?sintonizador=Canal12 
+#EXTINF:-1 channelId="-1", Condavision 
+http://comunidadiptv.org/online/estable/?sintonizador=Condavision 
+#EXTINF:-1 channelId="-1", CDN 
+http://comunidadiptv.org/online/estable/?sintonizador=CDN 
+#EXTINF:-1 channelId="-1", CDN Sports Max 
+http://comunidadiptv.org/online/estable/?sintonizador=CDNSportsMax 
+#EXTINF:-1 channelId="1324", Telemadrid 
+http://comunidadiptv.org/online/estable/?sintonizador=TeleMadrid 
+#EXTINF:-1 channelId="2528", LaOtra 
+http://comunidadiptv.org/online/estable/?sintonizador=LaOtra 
+#EXTINF:-1 channelId="-1", STV Rioja 
+http://comunidadiptv.org/online/estable/?sintonizador=STVRioja 
+#EXTINF:-1 channelId="-1", Canal 13 Nicaragua 
+http://comunidadiptv.org/online/estable/?sintonizador=Canal13Nicaragua 
+#EXTINF:-1 channelId="-1", TV Ferrol 
+http://comunidadiptv.org/online/estable/?sintonizador=TVF 
+#EXTINF:-1 channelId="-1", PTV Malaga 
+http://comunidadiptv.org/online/estable/?sintonizador=PTVMalaga 
+#EXTINF:-1 channelId="-1", PTV Cordoba 
+http://comunidadiptv.org/online/estable/?sintonizador=PTVCordoba 
+#EXTINF:-1 channelId="-1", QMusica TV 
+http://comunidadiptv.org/online/estable/?sintonizador=QMusicaTV 
+#EXTINF:-1 channelId="-1", Teleantillas 
+http://comunidadiptv.org/online/estable/?sintonizador=Teleantillas 
+#EXTINF:-1 channelId="352", DWTV 
+http://comunidadiptv.org/online/estable/?sintonizador=DW 
+#EXTINF:-1 channelId="57", Discovery Channel 
+http://comunidadiptv.org/online/estable/?sintonizador=DiscoveryChannel 
+#EXTINF:-1 channelId="-1", TeleSistema 11 
+http://comunidadiptv.org/online/estable/?sintonizador=Telesistema11 
+#EXTINF:-1 channelId="2488", Señal Colombia 
+http://comunidadiptv.org/online/estable/?sintonizador=SColombia 
+#EXTINF:-1 channelId="1949", For Music TV 
+http://comunidadiptv.org/online/estable/?sintonizador=FORMusicTV 
+#EXTINF:-1 channelId="-1", Enlace TV 
+http://comunidadiptv.org/online/estable/?sintonizador=EnlaceTV 
+#EXTINF:-1 channelId="-1", Enlace Juvenil 
+http://comunidadiptv.org/online/estable/?sintonizador=EnlaceJV 
+#EXTINF:-1 channelId="-1", Exa TV 
+http://comunidadiptv.org/online/estable/?sintonizador=ExaTV 
+#EXTINF:-1 channelId="-1", Canal 13 Digital 
+http://comunidadiptv.org/online/estable/?sintonizador=Canal13Digital 
+#EXTINF:-1 channelId="-1", Aliento Vision 
+http://comunidadiptv.org/online/estable/?sintonizador=AlientoVision 
+#EXTINF:-1 channelId="-1", Canal 44 
+http://comunidadiptv.org/online/estable/?sintonizador=Canal44 
+#EXTINF:-1 channelId="-1", El Pinguino 
+http://comunidadiptv.org/online/estable/?sintonizador=ElPinguino 
+#EXTINF:-1 channelId="2800", Travel TV 
+http://comunidadiptv.org/online/estable/?sintonizador=TravelTV 
+#EXTINF:-1 channelId="-1", Canal 45 
+http://comunidadiptv.org/online/estable/?sintonizador=Canal45TV 
+#EXTINF:-1 channelId="217", Euronews 
+http://comunidadiptv.org/online/estable/?sintonizador=EuroNewsES 
+#EXTINF:-1 channelId="2814", TV3 Spain 
+http://comunidadiptv.org/online/estable/?sintonizador=TV3 
+#EXTINF:-1 channelId="2818", 324 
+http://comunidadiptv.org/online/estable/?sintonizador=3-24 
+#EXTINF:-1 channelId="2530", Super3 
+http://comunidadiptv.org/online/estable/?sintonizador=Super3-33 
+#EXTINF:-1 channelId="1684", Esport3 
+http://comunidadiptv.org/online/estable/?sintonizador=Esport3 
+#EXTINF:-1 channelId="1688", Canal Hollywood 
+http://comunidadiptv.org/online/inestable/?sintonizador=CHollywood 
+#EXTINF:-1 channelId="1591", beIN Sports 1 
+http://comunidadiptv.org/online/inestable/?sintonizador=BeinSports 
+#EXTINF:-1 channelId="56", National Geographic Channel 
+http://comunidadiptv.org/online/inestable/?sintonizador=NationalGeographic 
+#EXTINF:-1 channelId="1346", Canal+ HD 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlus 
+#EXTINF:-1 channelId="1359", Canal+ Acción 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlusAccion 
+#EXTINF:-1 channelId="1361", Canal+ DCine 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlusDCine 
+#EXTINF:-1 channelId="1360", Canal+ Comedia 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlusComedia 
+#EXTINF:-1 channelId="1365", Canal+ Deportes 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlusDeportes 
+#EXTINF:-1 channelId="1374", Canal+ Fútbol HD 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlusFutbol 
+#EXTINF:-1 channelId="1373", Canal+ Liga HD 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlusLiga 
+#EXTINF:-1 channelId="1353", Canal+ Séries 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlusSeries 
+#EXTINF:-1 channelId="-1", Canal+ Extrenos 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlusExtrenos 
+#EXTINF:-1 channelId="1369", Canal+ Golf 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlusGolf 
+#EXTINF:-1 channelId="-1", Canal XTra 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalXtra 
+#EXTINF:-1 channelId="2826", Historia 
+http://comunidadiptv.org/online/inestable/?sintonizador=Historia 
+#EXTINF:-1 channelId="1573", AXN 
+http://comunidadiptv.org/online/inestable/?sintonizador=AXN 
+#EXTINF:-1 channelId="-1", Movistar F1 
+http://comunidadiptv.org/online/inestable/?sintonizador=MovistarF1 
+#EXTINF:-1 channelId="1669", Canal Cocina 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalCocina 
+#EXTINF:-1 channelId="178", Fox Life 
+http://comunidadiptv.org/online/inestable/?sintonizador=FoxLife 
+#EXTINF:-1 channelId="177", Fox 
+http://comunidadiptv.org/online/inestable/?sintonizador=Fox 
+#EXTINF:-1 channelId="1380", Clan 
+http://comunidadiptv.org/online/inestable/?sintonizador=Clan 
+#EXTINF:-1 channelId="1574", AXN White 
+http://comunidadiptv.org/online/inestable/?sintonizador=AXNWhite 
+#EXTINF:-1 channelId="73", Syfy 
+http://comunidadiptv.org/online/inestable/?sintonizador=Syfy 
+#EXTINF:-1 channelId="1370", Canal+ Toros 
+http://comunidadiptv.org/online/inestable/?sintonizador=CanalPlusToros
+
+
+
+#EXTINF:-1,[COLOR yellow]---★ CANALES DE ESPANA ★---[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:0070 group-title=”Español” , TVE 1 (La1)
+http://api.iptv.ink/pl.m3u8?ch=35452405
+#EXTINF:0070 group-title=”Español” , TVE 2 (La2)
+http://api.iptv.ink/pl.m3u8?ch=91170153
+#EXTINF:0070 group-title=”Español” , TVE 24
+http://api.iptv.ink/pl.m3u8?ch=92978413
+#EXTINF:0070 group-title=”Español” , MEGA HD
+http://api.iptv.ink/pl.m3u8?ch=58315547
+#EXTINF:0070 group-title=”Español” , LA RED EN VIVO HD
+http://api.iptv.ink/pl.m3u8?ch=14527508
+#EXTINF:0070 group-title=”Español” , TV Galicia
+http://api.iptv.ink/pl.m3u8?ch=18178909
+#EXTINF:0070 group-title=”Español” , LA SEXTA HD
+http://api.iptv.ink/pl.m3u8?ch=88365689
+#EXTINF:0070 group-title=”Español” , ANTENA 3 HD
+http://api.iptv.ink/pl.m3u8?ch=62326989
+#EXTINF:0070 group-title=”Español” , Russia Today HD
+http://api.iptv.ink/pl.m3u8?ch=84555053
+#EXTINF:0070 group-title=”Español” , TELESUR
+http://api.iptv.ink/pl.m3u8?ch=79272030
+
+
+#EXTINF:-1,Redbull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+
+#EXTINF:-1,Kiss tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1,A-ONE
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?-1332%2F1499-20150816T153535..m3u8=-1
+
+#EXTINF:-1,VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?-1332%2F1499-20150816T153535..m3u8=-1
+
+#EXTINF:-1,VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?-1332%2F1499-20150816T153535..m3u8=-1
+
+#EXTINF:-1,VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?-1332%2F1499-20150816T153535..m3u8=-1
+
+#EXTINF:-1,MTV LIVE HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535..m3u8=-1
+
+#EXTINF:-1,Telehit HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535..m3u8=-1
+
+#EXTINF:-1,VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535..m3u8=-1
+
+#EXTINF:-1,MTV HD
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535..m3u8=-1
+
+#EXTINF:-1,MTV HITS HD
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535..m3u8=-1
+
+#EXTINF:-1,1CLASSICS HD
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535..m3u8=-1
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+
+#EXTINF:-1, [COLOR golden]------Cine Latinoamericano------[/COLOR]
+http://?
+
+#EXTINF:-1, doriano max 2015
+https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!107&authkey=!AEMysKzq6Wemb-U&ithint=file%2cmkv
+#EXTINF:-1, Poltergeist Latino
+https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!110&authkey=!AICYek9DfCi0oB8&ithint=file%2cmkv
+#EXTINF:-1, Poltergeist Subtitulada
+https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!108&authkey=!AHiH5DJB8xmyTb8&ithint=file%2cmkv
+#EXTINF:-1, Amenaza Red
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!135&authkey=!ABC6TrspLhFSq54&ithint=file%2cmkv
+#EXTINF:-1, Apartamento 5
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!111&authkey=!AL7faVmgfFj5a3I&ithint=file%2cmkv
+#EXTINF:-1, RESUCITADOS
+https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
+#EXTINF:-1, *Ex-Machina*
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!176&authkey=!AIRwBJU0o_MhpvQ&ithint=file%2cmkv
+#EXTINF:-1, Bienvenidos al Ayer*
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!174&authkey=!AKAn1h6osTFl6bo&ithint=file%2cmkv
+#EXTINF:-1, *La Dama de Negro*
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!177&authkey=!AMo7scXSn9uN8vw&ithint=file%2cmkv
+#EXTINF:-1, El Cuarto Contacto
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!175&authkey=!AKXyRZbeVHorkbk&ithint=video%2cavi
+#EXTINF:-1, Gnomeo y Julieta
+http://www.spruto.tv/get_file/7/4aec99b76a012347d0fbffbefa066e3f/78000/78054/78054.mp4
+#EXTINF:-1, Guardianes de la galaxia Sub y 3D
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2455&authkey=!ACj3KPjTneKwMnY&ithint=file%2cmkv
+#EXTINF:-1, Dioses y reyes 3D y SUB
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2457&authkey=!AESp6JPfrT7R7CY&ithint=file%2cmkv
+#EXTINF:-1, Infernal
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2451&authkey=!AIepExCIehamN4A&ithint=video%2cmp4
+#EXTINF:-1, El experimento de la QUIJA 2 sub
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2450&authkey=!AF7G4ZbSdU3D420&ithint=video%2cmp4
+#EXTINF:-1, The Gambler SUBTITULADA
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2454&authkey=!AE2KTz2rJDp70tA&ithint=file%2cmkv
+#EXTINF:-1, Survivor
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2449&authkey=!AD1O3Od95uKTY-w&ithint=file%2cmkv
+#EXTINF:-1, We are still Here
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2448&authkey=!APjzTu7GtTz6lsU&ithint=file%2cmkv
+#EXTINF:-1, INSIDIOUS III
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1152&authkey=!ADWSZBzoNvD1Ok0&ithint=video%2cmp4
+#EXTINF:-1, TITANIC
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1148&authkey=!AJ-o1Hy47aeMgZk&ithint=video%2cmp4
+#EXTINF:-1, El conjuro
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1147&authkey=!ADRe_Le39Oru38w&ithint=video%2cmp4
+#EXTINF:-1, Avenger 2 Subtitulada
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1143&authkey=!AMboOQkcc6UMhIM&ithint=file%2cmkv
+#EXTINF:-1, Austin Power 1
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1142&authkey=!AJtosBGUIqMvVBo&ithint=video%2cmp4
+#EXTINF:-1, Austin Power 2
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1145&authkey=!ABNcPVtgsvDWSss&ithint=video%2cmp4
+#EXTINF:-1, Austin Power 3
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1144&authkey=!ACsWdU4LIGicVuk&ithint=video%2cmp4
+#EXTINF:-1, Transcendence
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1141&authkey=!AIxkpPC-qxPB_iU&ithint=video%2cmp4
+#EXTINF:-1, Vatican Exorcism
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1138&authkey=!AGScB_k-LZwxqf8&ithint=video%2cmp4
+#EXTINF:-1, Birdman
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!128&authkey=!AAwSV_Y3StoXnJo&ithint=file%2cmp4
+#EXTINF:-1, Negocios Fuera de Control
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!115&authkey=!AP9bcrKZxPVw2fY&ithint=file%2cmkv
+#EXTINF:-1, SAN ANDRES 2015
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2447&authkey=!AMJkVqQNejwk2wc&ithint=video%2cMP4
+#EXTINF:-1, KINGSMAN EL SERVICIO SECRETO
+https://onedrive.live.com/download.aspx?resid=2007D2A43F96AD1F!573&authkey=!AKUy3JW79sOWB28&ithint=video%2cmp4
+#EXTINF:-1, OBLIVION
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!169&authkey=!ALlQcEBQSgTfj30&ithint=file%2cmkv
+#EXTINF:-1, EX-MACHINA
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!176&authkey=!AIRwBJU0o_MhpvQ&ithint=file%2cmkv
+#EXTINF:-1, BIENVENIDOS AL AYER
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!174&authkey=!AKAn1h6osTFl6bo&ithint=file%2cmk
+#EXTINF:-1, UNA NOCHE EN EL MUSEO 3
+https://onedrive.live.com/download.aspx?resid=56ec193eb89f537!173&authkey=!AMX3kSBcw9Z8bLU&ithint=file%2cmkv
+#EXTINF:-1, MORTDECAI
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!170&authkey=!APC7EGmdKSrx4y0&ithint=file%2cmkv
+#EXTINF:-1, LA PIRAMIDE
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!166&authkey=!ABOyn1AqFuEwlAU&ithint=file%2cmkv
+#EXTINF:-1, LOS PINGUINOS DE PAPA
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!165&authkey=!ALtS6Q01iJDCmic&ithint=video%2cavi
+#EXTINF:-1, ESCOBAR PARAISO PERDIDO
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!163&authkey=!AC5OXxOqfIxDgEI&ithint=video%2cavi
+#EXTINF:-1, AVENTURA DE DOS NOCHES
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!162&authkey=!AGLx4bo2_juhVak&ithint=video%2cavi
+#EXTINF:-1, SHERLOCK HOLMES: JUEGO DE SOMBRAS
+https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!227&authkey=!AIilksgTxykonvY&ithint=file%2cmkv
+#EXTINF:-1, CERCANA OBSESION
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!115&authkey=!AFcURIAaITWRrGI&ithint=video%2cavi
+#EXTINF:-1, INTRUSOS
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!113&authkey=!AJmQ6ABSiAnTNVk&ithint=video%2cavi
+#EXTINF:-1, ALQUILER DE PADRINOS
+https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73727&authkey=!AMUxFf8m6pkCPnA&ithint=file%2cmkv
+#EXTINF:-1, EL SEPTIMO HIJO
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!116&authkey=!AALBgGqd1MyixpE&ithint=file%2cmkv
+#EXTINF:-1, EL MARINO 4
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!114&authkey=!ANn_mNMIQUNHBaA&ithint=file%2cmkv
+#EXTINF:-1, INTERESTELAR 2015
+https://onedrive.live.com/download.aspx?resid=bbc1d5e9f7f2ac26!108&authkey=!AOH1NR5IV8rGDSA&ithint=file%2cmkv
+
+
+
+#EXTINF:-1,[COLOR yellow]------LOS SIMPSON------[/COLOR]
+http://?
+
+
+#EXTINF:-1, ESPECIAL DE NAVIDAD	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!109&authkey=!AINuHZ3-Uv9zxoM&ithint=video%2cmp4	 
+
+#EXTINF:-1, BART ES UN GENIO	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!112&authkey=!AKlQKQqQjjR6iIs&ithint=video%2cmp4	 
+
+#EXTINF:-1, LA ODISEA DE HOMERO	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!114&authkey=!ADYmInSbyvFZbT8&ithint=video%2cmp4	 
+
+#EXTINF:-1, UNA FAMILIA MODELO	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!115&authkey=!ACGe_f1yJBQ9nm8&ithint=video%2cmp4	 
+
+#EXTINF:-1, EL GENERAL BART	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!116&authkey=!AIpGMGOxbrrMf8o&ithint=video%2cmp4	 
+
+#EXTINF:-1, EL BLUES DE LISA	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!117&authkey=!AAxiywsn3vxIC7Q&ithint=video%2cmp4	 
+
+#EXTINF:-1, LA LLAdorianoA DE LOS SIMPSONS	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!118&authkey=!AENErOdqTTz18s8&ithint=video%2cmp4	 
+
+#EXTINF:-1, EL HEROE SIN CABEZA	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!120&authkey=!ANMg3LumSviTi6k&ithint=video%2cmp4	 
+
+
+#EXTINF:-1, UN MOMENTO DE DESICION	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!121&authkey=!AHEBFYROKrO3gw4&ithint=video%2cmp4	 
+
+#EXTINF:-1, LA CORRERIA DE HOMERO	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!108&authkey=!ABlHtioocXPkxXQ&ithint=video%2cmp4	 
+
+#EXTINF:-1, INTERCAMBIO CULTURAL	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!110&authkey=!ACAvOmiahNq4zuY&ithint=video%2cmp4	 
+
+#EXTINF:-1, KRUSTY VA A LA CARCEL	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!113&authkey=!ADhxK0skBO9E46s&ithint=video%2cmp4	 
+
+#EXTINF:-1, LA BABYSISTER ATACA DE NUEVO	 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!111&authkey=!AD35Tv_m1_UEPH0&ithint=video%2cmp4 
+
+#EXTINF:-1, BART REPRUEBA 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!124&authkey=!APv34ONLtGbae8c&ithint=video%2cmp4 
+
+#EXTINF:-1, SIMPSONS Y DALILA 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!125&authkey=!AKNRPxt1EWXuOF4&ithint=video%2cmp4 
+
+#EXTINF:-1, ESPECIAL NOCHE DE BRUJA DE LOS SIMPSONS 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!123&authkey=!AMtAkQh4MdcWYgw&ithint=video%2cmp4 
+
+#EXTINF:-1, DOS AUTOS EN CADA GARAGE, TRES OJOS EN CADA PEZ 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!126&authkey=!ABY_1Vk3n6BoaCs&ithint=video%2cmp4 
+
+#EXTINF:-1, HOMERO EL ANIdorianoOR 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!128&authkey=!ADsjVo7oNLUBtY0&ithint=video%2cmp4 
+
+#EXTINF:-1, LA SOCIEDAD DE LOS GOLFISTAS MUERTOS 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!127&authkey=!ADQs5abHALlgkBo&ithint=video%2cmp4 
+
+#EXTINF:-1, BART CONTRA EL DIA DE GRACIAS 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!131&authkey=!AIsISQXwM1DoTwI&ithint=video%2cmp4 
+
+#EXTINF:-1, BART EL TEMERARIO 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!129&authkey=!AHg1a19upzlWXH4&ithint=video%2cmp4 
+
+#EXTINF:-1, TOMY, DALY Y MARGE 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!130&authkey=!APBriDNA8VWfDB8&ithint=video%2cmp4 
+
+#EXTINF:-1, BART ES ATROPELLADO 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!133&authkey=!AA9npzQof3UooqQ&ithint=video%2cmp4 
+
+#EXTINF:-1, AVISO DE MUERTE 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!132&authkey=!AKO3BNFSsULyEJM&ithint=video%2cmp4 
+
+#EXTINF:-1, LOS AOS FELICES 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!138&authkey=!AFdGdrRNn2j8ERE&ithint=video%2cmp4 
+
+#EXTINF:-1, PINCELES CON ALMA 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!140&authkey=!AGn47oDzRP4OQHE&ithint=video%2cmp4 
+
+#EXTINF:-1, EL SUSTITUTO DE LISA 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!141&authkey=!ANle0GfpeW932cY&ithint=video%2cmp4 
+
+#EXTINF:-1, LA GUERRA DE LOS SIMPSONS 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!144&authkey=!AM4YR_xdHY7VnBg&ithint=video%2cmp4 
+
+#EXTINF:-1, TRES HOMBRES Y UNA HISTORIETA 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!142&authkey=!AGws4hzFxKVDZ74&ithint=video%2cmp4 
+
+#EXTINF:-1, SANGRE NUEVA 
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!145&authkey=!ADYrexb-kjlyBdk&ithint=video%2cmp4 
+
+
+
+#EXTINF:-1,[COLOR blue]------PADRE DE FAMILIA------[/COLOR]
+http://?
+
+
+#EXTINF:-1, EL DESEMPLEADO
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!147&authkey=!ALh5tVexpMPxGaA&ithint=video%2cmp4
+
+#EXTINF:-1, EL TELEADICTO
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!154&authkey=!AEg3847wklwTBRU&ithint=file%2cflv
+
+#EXTINF:-1, EL CUMPLEA�OS DE STEWI
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!149&authkey=!AI8V6WYuL9R2_is&ithint=video%2cmp4
+
+#EXTINF:-1, LA MAQUINA DEL TIEMPO
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!148&authkey=!AGWx1In8m1UBJzc&ithint=video%2cmp4
+
+#EXTINF:-1, MI VECINO EL HEROE SENTADO
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!152&authkey=!AEheMfcp3ilyhXE&ithint=video%2cmp4
+
+#EXTINF:-1, LOS HIJOS TAMBIEN DIBUJAN
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!150&authkey=!AIrqsdwrst-C3e4&ithint=video%2cmp4
+
+#EXTINF:-1, BRIAN RETRATO DE UN PERRO
+https://onedrive.live.com/download.aspx?resid=E0B2DE8A40913B32!153&authkey=!AK1m3HTmcNZFrgc&ithint=video%2cmp4
+
+
+
+
+#EXTINF:-1,[COLOR yellow]--- CANALES ESPANA ---[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1, NEOX
+http://a3live-lh.akamaihd.net/i/neox/neox_1@35261/master.m3u8
+
+#EXTINF:-0 tvg-name="La 1" tvg-logo="http://www.plus.es/recorte/m-NEO/ficha/NEOX.png" group-title="Televisión Digital Terreste",NEOX
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel03/index.m3u8
+ 
+#EXTINF:-0 tvg-name="La 1" tvg-logo="http://www.plus.es/recorte/m-NEO/ficha/ANTV.png" group-title="Televisión Digital Terreste",ANDALUCIA TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+ 
+#EXTINF:-0 tvg-name="La 1" tvg-logo="http://www.plus.es/recorte/m-NEO/ficha/ENERGY.png" group-title="Televisión Digital Terreste",ENERGY
+http://mdsiosgeo0-lh.akamaihd.net/i/mitele/esmedia_01@175317/index_0_av-b.m3u8
+
+
+#EXTINF:-1,[COLOR blue]--- NOTICIAS ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,TN
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1 group-title="Noticias",C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 group-title="Noticias",Canal 26 Noticias
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+#EXTINF:-1 group-title="Noticias",A24
+http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",360TV
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1 group-title="Noticias",Canal Rural
+rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
+#EXTINF:-1 group-title="Noticias",CNN en español
+http://187.247.255.139/Apple/CNNEspanol1200.m3u8
+#EXTINF:-1 group-title="Noticias",Cable Noticias
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+#EXTINF:-1 group-title="Variedades",H13 Noticias
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+#EXTINF:-1 group-title="Noticias",El Tiempo Televisión
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+#EXTINF:-1 group-title="Noticias",TeleSur
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
+#EXTINF:-1 group-title="Noticias",Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 group-title="Noticias",Canal 24 horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+#EXTINF:-1 group-title="Variedades",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",Euronews en Español
+http://149.11.34.78:1935/live/euronewses.stream/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]--- Playas de España ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Isla del Ciervo - Cartagena
+rtmp://cam2.spotfav.com/live playpath=HvXnveYnMeFCKlMLtwfeBMHlL pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Es Barcarés - Alcúdia
+rtmp://cam2.spotfav.com/live playpath=rRYiVlbOqyqMaadLdBtiMUVue pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Valdevaqueros Tangana - Tarifa
+rtmp://cam2.spotfav.com/live playpath=EfiKsiPywcLsbDDRuoJMJNwoy pageUrl=http://www.spotfav.com/
+#EXTINF:-1,El Palmar - Vejer de la Frontera
+rtmp://cam2.spotfav.com/live playpath=qZOzJboCUPxjzzMNITVYKdOdm pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Los Caños de Meca - Barbate
+rtmp://cam3.spotfav.com/live playpath=OxjAEFKSDKmszmngFVKVDzvci pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Club de Playa Almerimar -El Ejido
+rtmp://cam5.spotfav.com/live playpath=kxDrqoJmUxhSVDlqGUAiOqhiQ pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Balneario - Tarifa
+rtmp://cam5.spotfav.com/live playpath=gqRhAKtskBLKJqJRnYvdRvmBT pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Tarifa - Cadiz
+rtmp://cam3.spotfav.com/live playpath=bcvfqZQxIOnmUWgTbGVRNPIFl pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Punta Umbría - Huelva
+rtmp://cam3.spotfav.com/live playpath=KDmAFiPpDPFGqJHogkKpbZrui pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Punta Umbria Canaleta, Spain
+rtmp://cam3.spotfav.com/live playpath=eUPvtgBOMTVjFNsjwBMPeCpCQ pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Las palmerillas - Roquetas de Mar
+rtmp://cam3.spotfav.com/live playpath=YlFUjpqfcwQjuuPQlmqkTZzAU pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Pozo Izquierdo - Las Palmas de Gran Canaria
+rtmp://cam5.spotfav.com/live playpath=qJzSHUUCGkkWBVZqQvLIOPrNb pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Corralejo - Oliva Gran Canaria
+rtmp://cam2.spotfav.com/live playpath=bGXeUKKJHIwRhJJxyApnLFTFK pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Mareny Blau - Valencia
+rtmp://cam3.spotfav.com/live playpath=AXdxIFfGsgilyQKNfAmvhdzSD pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Denia Deveses Riomar , Alicante
+rtmp://cam3.spotfav.com/live playpath=iJrwiLuZldeZKiqlExPZlwOgz pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Castelldefels Zona Kitesurf
+rtmp://cam2.spotfav.com/live playpath=bgRjpBMeglEHPwSOBUqqVDdjh pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Sant Pere Pescador Catalunya
+rtmp://cam3.spotfav.com/live playpath=TCyTbiSiRhfsuGfXtxayXCVBT pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Platja de la Mar Bella - Barcelona
+rtmp://cam2.spotfav.com/live playpath=zCeJFVUkARvhhdNKeoOORBrOw pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Mundaka - Gernika
+rtmp://cam5.spotfav.com/live playpath=FSnwvKqLdLWKRemfTInRkQqVf pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Zarautz - Euskadi
+rtmp://cam5.spotfav.com/live playpath=dIshVWCergFtCdzTBFzqyxRgG pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Sopelana - Euskadi
+rtmp://cam5.spotfav.com/live playpath=vDOOhgtVXQRUjkturrMBeyRcQ pageUrl=http://www.spotfav.com/
+#EXTINF:-1,Lloret-De-Mar
+http://cdn-03.whatsupcams.com/hls/es_lmar1.m3u8
+#EXTINF:-1,Conil-De-La-Frontera
+http://cdn-03.whatsupcams.com/hls/es_conil01.m3u8
+#EXTINF:-1,Costa Brava - La Perola Beach
+http://cdn-03.whatsupcams.com/hls/es_roses01.m3u8
+#EXTINF:-1,Tenerife - Playa Ajabo, Callo Salvaje
+http://cdn-03.whatsupcams.com/hls/es_tenerife02.m3u8
+#EXTINF:-1,Fishing Port of Roses and the Bay
+http://cdn-03.whatsupcams.com/hls/es_roses02.m3u8
+#EXTINF:-1,Tenerife - San Miguel de Tajao
+http://cdn-03.whatsupcams.com/hls/es_tenerife04.m3u8
+#EXTINF:-1,Tenerife - Port de Las Galletas
+http://cdn-03.whatsupcams.com/hls/es_tenerife05.m3u8
+#EXTINF:-1,Benidorm - Levante Beach
+http://cdn-01.whatsupcams.com/hls/es_beni02/es_beni02.m3u8
+#EXTINF:-1,SANTA MARIA DEL MAR CADIZ
+http://cdn-03.whatsupcams.com/hls/es_cadiz1.m3u8
+#EXTINF:-1,Playa y Castillo Sancti Petri - Chiclana CADIZ
+http://cdn-03.whatsupcams.com/hls/es_chiclana04.m3u8
+#EXTINF:-1,Puerto de Sancti Petri (Chiclana) CADIZ
+http://cdn-03.whatsupcams.com/hls/es_chiclana01.m3u8
+#EXTINF:-1,Playa de La Barrosa (1) - Chiclana CADIZ
+http://cdn-03.whatsupcams.com/hls/es_chiclana02.m3u8
+#EXTINF:-1,Playa de La Barrosa (2) - Chiclana
+http://cdn-03.whatsupcams.com/hls/es_chiclana03.m3u8
+#EXTINF:-1,Barbate (Playa del Carmen) CADIZ
+http://cdn-03.whatsupcams.com/hls/es_barbate01.m3u8
+#EXTINF:-1,Barbate (Playa del Carmen) CADIZ 2
+http://cdn-03.whatsupcams.com/hls/es_barbate02.m3u8
+#EXTINF:-1,Casco Histórico de Vejer CADIZ
+http://cdn-03.whatsupcams.com/hls/es_vejer01.m3u8
+#EXTINF:-1,vistas al castillo de Vejer CADIZ
+http://cdn-03.whatsupcams.com/hls/es_vejer02.m3u8
+#EXTINF:-1,Fuengirola - Paseo Maritimo
+http://cdn-03.whatsupcams.com/hls/es_fuengirola1.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]--- OTROS ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, UNIVISION/ TDN DEPORTES 
+http://50.7.69.170:443/live/vhx96yckmpaxpq5/index.m3u8 
+#EXTINF:-1,Lancelot TV Las Palmas España
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:-1,TV Canarias España
+http://streamrtvcdrb.doriano.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8
+#EXTINF:-1,Balears TV España
+rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live/streamib3
+#EXTINF:-1,Mijas TV Málaga
+rtmp://teledifusion.tv/mijastv/mijastvlive
+#EXTINF:-1,TeleBahia España
+http://62.42.17.93:1935/live/Live/playlist.m3u8
+#EXTINF:-1,ARAGON TV
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+#EXTINF:-1,Libertad Digital TV
+http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8
+#EXTINF:-1,PTV Cordoba
+http://212.225.255.241:1111
+#EXTINF:-1,ANTENA 3 HD(FULL HD)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,LA 1 
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8 
+#EXTINF:-1,LA 2 
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8 
+#EXTINF:-1,La Sexta
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,LaSexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,GUATEVISION TV
+http://bravo967.sysvirtuales.com/live/stream1.sdp/hasbahca.m3u8
+#EXTINF:-1,HOGAR UTIL
+http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN%2011,9,900,117&r=JRBLZ&g=LBXIUFRGSVGB
+#EXTINF:-1,Local Sevilla
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:-1,CANAL DIOCESANO
+http://flash3.todostreaming.es/edesco/livestream/hasbahca.m3u8
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,Teledorianorid
+http://iphone.teledorianorid.es.edgesuite.net/teledorianoridsat_iphone.m3u8
+#EXTINF:-1,24horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+#EXTINF:-1,24 Horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TVG America
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+#EXTINF:-1,TV GALICIA
+http://media3.crtvg.es/live/tvge/hasbahca.m3u8
+
+#EXTINF:-1,LA RED EN VIVO
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+#EXTINF:-1,STV Rioja mms
+mms://87.106.208.121/stv
+#EXTINF:-1,Gotica tv (musica)
+rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://tvonlineapp.com/player/jwplayer/player.swf live=1 pageUrl=http://tvonlineapp.com/app/containerEmbed.php?p=11641
+#EXTINF:-1,Libertad Digital TV
+rtmp://149.11.34.6/live playpath=ldtv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?155 live=1 pageUrl=http://lasteles.com/es/directo/LIBERTAD-DIGITAL/
+#EXTINF:-1,PARTY TV-(Musica)
+rtmp://149.11.34.6/live playpath=partytv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?729 live=1 pageUrl=http://www.lasteles.com/es/directo/PARTY-TV/video/Party-TV/10870
+#EXTINF:-1,Cine chileno
+rtmp://149.11.34.6/live playpath=sesioncontinuatv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?35 live=1 pageUrl=http://lasteles.com/es/directo/SESI%C3%93N-CONT%C3%8DNUA-TV/
+#EXTINF:-1,STAGE TV-(musica) 24 horas de los mejores Directos
+rtmp://149.11.34.6/live playpath=stagetv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?922 live=1 pageUrl=http://www.lasteles.com/es/directo/STAGE-TV/
+#EXTINF:-1,UNLOVE TV-(Musica)
+rtmp://149.11.34.6/live playpath=unlovechannel.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?171 live=1 pageUrl=http://lasteles.com/es/directo/UNLOVE-TV/video/Unlove-TV/7313
+#EXTINF:-1,Euronews
+rtmp://149.11.34.78/live playpath=euronewses.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?82 live=1 pageUrl=http://www.lasteles.com/es/directo/INTERNACIONALES/video/Euronews/10235
+#EXTINF:-1,Imprescindibles TV(ROCK)-azboz
+rtmp://149.11.34.78/live playpath=imprestv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?861 live=1 pageUrl=http://www.lasteles.com/es/musica/ROCK/
+#EXTINF:-1,JAZZ TV (MUSICA)?
+rtmp://149.11.34.78/live playpath=jazztv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?426 live=1 pageUrl=http://lasteles.com/es/directo/
+#EXTINF:-1,LOBAS TV(musica)
+rtmp://149.11.34.78/live playpath=lobas.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?191live=1 pageUrl=http://www.lasteles.com/es/directo/LOBAS-TV/video/LOBAS-TV/1159
+#EXTINF:-1,NewsPeople tv
+rtmp://149.11.34.78/live playpath=newspeopletv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?25 live=1 pageUrl=http://lasteles.com/es/directo/NEWS-PEOPLE/
+#EXTINF:-1,Single TV
+rtmp://149.11.34.78/live playpath=singletv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?153 live=1 pageUrl=http://www.lasteles.com/es/musica/SENCILLOS/
+#EXTINF:-1,Aragon tv
+rtmp://aragontvlivefs.fplive.net/aragontvlive-live playpath=stream_normal_abt swfUrl=http://alacarta.aragontelevision.es/streaming/flowplayer.commercial-3.2.7.swf live=1 pageUrl=http://alacarta.aragontelevision.es/streaming/streaming.html --live
+#EXTINF:-1,TV Extredorianoura
+rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextredorianoura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextredorianoura.es/alacarta/tv/directo
+#EXTINF:-1,IB3 Islas Baleares TV
+rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live playpath=streamib3 swfUrl=http://www.jaxe.net/player/player-o...&skin=http://www.jaxe.net/player/dangdang.swflive=1 pageUrl=http://www.tutvendirecto.com/2013/01/ver-ib3-islas-baleares-tv-online-en.html
+#EXTINF:-1,TOPHITS MUSIC
+rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.63.swf?bLd=0&sVersion=4%2E2%2E63&sDescription=&sTitle= live=1 pageUrl=http://static.infomaniak.ch/configvideo/rougetv/rouge_tv_live_2011/live.html
+#EXTINF:-1,TV MELILLA
+rtmp://$OPT:rtmp-raw=rtmp://stream.tvmelilla.es:1935/tvmelilla playpath=live swfUrl=http://tvmelilla.es/jwplayer/player.swf live=1 pageUrl=http://tvmelilla.es/directo.html
+#EXTINF:-1,Localia tv
+rtmp://$OPT:rtmp-raw=rtmp://streaming2.radiohuesca.com/live/ playpath=huescatv swfUrl=http://www.lookfortv.com/player22.swf live=1 pageUrl=http://www.lookfortv.com/es/countmedia.php?c=2974 --live
+#EXTINF:-1,Levante Tv
+rtmp://teledifusion.tv:1935/levantetvlive playpath=levantetvlive swfUrl=http://www.levantetv.es//servicios/...evantetvlive&autostart=true&wmode=transparent live=1 pageUrl=http://www.levantetv.es//servicios/...evantetvlive&autostart=true&wmode=transparent --live
+#EXTINF:-1,Kiss tv (Musica)
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf live=vcx7
+#EXTINF:-1,First Music HD 1080p
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,CLUB DIRECTO TV
+rtmp://87.106.183.39/live/myStream_2
+#EXTINF:-1,Travel TV
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1,VIT Channel 4
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1,VIT Channel 3
+rtmp://87.106.232.7/live/myStream_2
+#EXTINF:-1,VIT Channel 1
+rtmp://87.106.244.74/live/myStream_2
+#EXTINF:-1,CANAL DDIOCESANO
+rtmp://flash3.todostreaming.es/edesco/livestream
+#EXTINF:-1,Huesca TV
+rtmp://streaming2.radiohuesca.com/live/huescatv
+#EXTINF:-1,Kiss tv (Musica)
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,TV3
+rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_TV3_FLV
+#EXTINF:-1,IBIZA ON TV
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+#EXTINF:-1,TV Vida
+rtsp://flash3.todostreaming.es/radiovida/mobile
+#EXTINF:-1,Alfa TV
+rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
