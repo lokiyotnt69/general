@@ -296,3 +296,98 @@ rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 rtsp://flash3.todostreaming.es/radiovida/mobile
 #EXTINF:-1,Alfa TV
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,La 1
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8 #La 1
+#EXTINF:-1,La 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8 #La 2
+#EXTINF:-1,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8 #Antena 3
+#EXTINF:-1,La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8 #La Sexta
+#EXTINF:-1,Atres3Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8 #Atres3Series
+#EXTINF:-1,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8 #Mega
+#EXTINF:-1,Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8 #Neox
+#EXTINF:-1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8 #Nova
+#EXTINF:-1,TeleDeporte
+http://hlslive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8 #TeleDeporte
+#EXTINF:-1,RealMadridTV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8 #RealMadridTV
+#EXTINF:-1,8tv
+http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8 #8tv
+#EXTINF:-1,C7Murcia
+http://flash0.80670-live0.dna.qbrick.com%3a1935/80670-live0/murciatv/playlist.m3u8 #C7Murcia
+#EXTINF:-1,CastillaLaMancha
+http://live.rtvcm.stream.flumotion.com/rtvcm/live.flv.m3u
+#EXTINF:-1,ExtremaduraTV
+http://tinyurl.com/onwfjoh
+#EXTINF:-1,CanalSur
+http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u
+#EXTINF:-1,CanalSur 2
+http://eventos.rtva.stream.flumotion.com/rtva/eventos.flv.m3u8 #CanalSur 2
+#EXTINF:-1,CanalSur 3
+http://champions.rtva.stream.flumotion.com/rtva/champions.flv.m3u
+#EXTINF:-1,8CadizTV
+http://cls.todostreaming.eu/unatv/live/playlist.m3u8 #8CadizTV
+#EXTINF:-1,Esport3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp%3aes3_web/chunklist_b798000_DVR.m3u8 #Esport3
+#EXTINF:-1,TV3
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp%3atv3_web/chunklist_b798000.m3u8 #TV3
+#EXTINF:-1,3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3a324_web/chunklist_b798000.m3u8 #3/24
+#EXTINF:-1,ETB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8 #ETB
+#EXTINF:-1,TVCanarias
+http://bit.ly/1Nwh4ZW
+#EXTINF:-1,LancelotTV
+rtmp://62.210.141.18%3a1935/directo/lancelot.television:LancelotTV
+#EXTINF:-1,TindayaTV
+http://188.165.135.22/tindayatv/livestream/playlist.m3u8 #TindayaTV
+#EXTINF:-1,DiaTenerife
+http://teledifusion.tv%3a1935/dia/dia/playlist.m3u8 #DiaTenerife
+#EXTINF:-1,Mediterraneo TV
+http://tinyurl.com/pdb6r9j
+#EXTINF:-1,IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8 #IB3
+#EXTINF:-1,Telemadrid
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8 #Telemadrid
+#EXTINF:-1,TV Galicia
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8 #TV Galicia
+#EXTINF:-1,Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live:Kiss TV
+#EXTINF:-1,13TV
+http://streaming.enetres.net%3a80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8 #13TV
+#EXTINF:-1,MalagaTV
+http://cls.todostreaming.eu/101tv/livestream2/chunklist.m3u8 #MalagaTV
+#EXTINF:-1,Jaen
+http://servers10.com%3a1935/canal45tv/canal45tv/chunklist_w961719399.m3u8 #Jaen
+#EXTINF:-1,TV Elche
+rtmp://teledifusion.tv/teleelx/teleelxlive
+#EXTINF:-1,Canal Rioja
+http://teledifusion.tv%3a1935/rioja/rioja/playlist.m3u8 #Canal Rioja
+#EXTINF:-1,TV8
+rtmp://91.121.143.193%3a1935/liverepeater/8TV/8aldia-directe
+#EXTINF:-1,Girona TV
+rtmp://tvgirona.dnssw.net/live/Icontouch
+#EXTINF:-1,Andorra
+rtmp://194.158.80.31/live/web
+#EXTINF:-1,Marbella TV
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8 #Marbella TV
+#EXTINF:-1,Huelva Costa
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8 #Huelva Costa
+#EXTINF:-1,Levante
+http://teledifusion.tv%3a1935/levantetvlive/levantetvlive/playlist.m3u8 #Levante
+#EXTINF:-1,Rioja TV
+mms://87.106.208.121/stv
+#EXTINF:-1,Ferrol
+rtsp://streaming.arsenet.com/tvf
+#EXTINF:-1,Tele Badalona
+rtmp://directe.tvbadalona.cat/live/myStream.sdp
+
