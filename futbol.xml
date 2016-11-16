@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1,#[COLOR yellow] Fecha Clave 19 Noviembre!!!Actualizandolo!!!  [/COLOR]
+#EXTINF:-1,ES: CANAL+ LIGA HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/197.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ES: REAL MADRID
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/466.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,C+ DEPORT 2
+http://5.147.77.93:8001/1:0:1:760C:408:1:C00000:0:0:0:
+#EXTINF:-1,C+ PARTIDAZO
+http://5.147.77.93:8001/1:0:1:769C:41E:1:C00000:0:0:0:
+#EXTINF:-1,C+ DEPORTES
+http://5.147.77.93:8001/1:0:1:778F:424:1:C00000:0:0:0:
+#EXTINF:-1,C+ FUTBOL
+http://5.147.77.93:8001/1:0:1:778E:424:1:C00000:0:0:0:
+#EXTINF:-1,EUROSPORT 2
+http://5.147.77.93:8001/1:0:1:760E:408:1:C00000:0:0:0:
