@@ -17,7 +17,17 @@
 <fanart>http://kinirokay.com/wp-content/uploads/2016/01/Soy-adicto-a-una-serie.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
 </item> 	   
- 
+
+
+
+
+<item>
+<title>-[COLOR yellow] FUTBOL+[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/futbol.xml</externallink>	
+</item> 
  
 
 <item>
@@ -136,13 +146,4 @@
 </item>
 
 
-
-
-<item>
-<title>-[COLOR yellow] FUTBOL+[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/futbol.xml</externallink>	
-</item>
 
