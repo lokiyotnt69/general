@@ -58,8 +58,6 @@
 </item> 
 
 
-
-
 <item>
 <title>-[COLOR purple] Más  Peliculas [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -68,15 +66,6 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarpruebas.m3u</externallink>	
 </item> 
 
-
-
-<item>
-<title>-[COLOR blue] movistar [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/deportes.m3u</externallink>	
-</item> 
 
 
 <item>
@@ -154,4 +143,13 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/movistarplus2.m3u</externallink>	
 </item> 
 
+
+
+<item>
+<title>-[COLOR blue] movistar [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/deportes.m3u</externallink>	
+</item> 
 
