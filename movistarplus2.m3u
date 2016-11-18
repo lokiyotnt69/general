@@ -254,406 +254,638 @@ http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
 http://213.81.153.241/live001/channel014_p2.stream/DVR.m3u8
 
 #EXTINF:-1,[000] Movistar+
-http://83.58.164.250:4022/udp/239.0.0.77:8208
+http://83.58.164.250:4022/udp/239.1.1.77:8208
 #EXTINF:-1,[000] Movistar+ HD
-http://83.58.164.250:4022/udp/239.0.5.185:8208
+http://83.58.164.250:4022/udp/239.1.5.185:8208
 #EXTINF:-1,[001] TVE 1
-http://83.58.164.250:4022/udp/239.0.0.76:8208
+http://83.58.164.250:4022/udp/239.1.1.76:8208
 #EXTINF:-1,[001] TVE 1 HD
-http://83.58.164.250:4022/udp/239.0.0.185:8208
+http://83.58.164.250:4022/udp/239.1.1.185:8208
 #EXTINF:-1,[002] TVE 2
-http://83.58.164.250:4022/udp/239.0.0.2:8208
+http://83.58.164.250:4022/udp/239.1.1.2:8208
 #EXTINF:-1,[003] Antena 3
-http://83.58.164.250:4022/udp/239.0.0.3:8208
+http://83.58.164.250:4022/udp/239.1.1.3:8208
 #EXTINF:-1,[003] Antena 3 HD
-http://83.58.164.250:4022/udp/239.0.0.186:8208
+http://83.58.164.250:4022/udp/239.1.1.186:8208
 #EXTINF:-1,[004] Cuatro
-http://83.58.164.250:4022/udp/239.0.0.4:8208
+http://83.58.164.250:4022/udp/239.1.1.4:8208
 #EXTINF:-1,[004] Cuatro HD
-http://83.58.164.250:4022/udp/239.0.0.177:8208
+http://83.58.164.250:4022/udp/239.1.1.177:8208
 #EXTINF:-1,[005] Telecinco
-http://83.58.164.250:4022/udp/239.0.0.5:8208
+http://83.58.164.250:4022/udp/239.1.1.5:8208
 #EXTINF:-1,[005] Telecinco HD
-http://83.58.164.250:4022/udp/239.0.0.176:8208
+http://83.58.164.250:4022/udp/239.1.1.176:8208
 #EXTINF:-1,[006] La Sexta
-http://83.58.164.250:4022/udp/239.0.0.58:8208
+http://83.58.164.250:4022/udp/239.1.1.58:8208
 #EXTINF:-1,[006] La Sexta HD
-http://83.58.164.250:4022/udp/239.0.0.187:8208
-#EXTINF:-1,[007] #0
-http://83.58.164.250:4022/udp/239.0.0.108:8208
-#EXTINF:-1,[007] #0 HD
-http://83.58.164.250:4022/udp/239.0.5.187:8208
+http://83.58.164.250:4022/udp/239.1.1.187:8208
+#EXTINF:-1,[007] #1
+http://83.58.164.250:4022/udp/239.1.1.108:8208
+#EXTINF:-1,[007] #1 HD
+http://83.58.164.250:4022/udp/239.1.5.187:8208
 #EXTINF:-1,[008] 7 Region de Murcia
-http://83.58.164.250:4022/udp/239.0.0.87:8208
+http://83.58.164.250:4022/udp/239.1.1.87:8208
 #EXTINF:-1,[008] Aragon TV
-http://83.58.164.250:4022/udp/239.0.0.88:8208
+http://83.58.164.250:4022/udp/239.1.1.88:8208
 #EXTINF:-1,[008] Canal Sur
-http://83.58.164.250:4022/udp/239.0.0.49:8208
+http://83.58.164.250:4022/udp/239.1.1.49:8208
 #EXTINF:-1,[008] Castilla y Leon 7
-http://83.58.164.250:4022/udp/239.0.0.109:8208
+http://83.58.164.250:4022/udp/239.1.1.109:8208
 #EXTINF:-1,[008] CMT
-http://83.58.164.250:4022/udp/239.0.0.55:8208
+http://83.58.164.250:4022/udp/239.1.1.55:8208
 #EXTINF:-1,[008] ETB 1
-http://83.58.164.250:4022/udp/239.0.0.35:8208
+http://83.58.164.250:4022/udp/239.1.1.35:8208
 #EXTINF:-1,[008] Extremadura TV
-http://83.58.164.250:4022/udp/239.0.0.73:8208
+http://83.58.164.250:4022/udp/239.1.1.73:8208
 #EXTINF:-1,[008] IB3
-http://83.58.164.250:4022/udp/239.0.0.56:8208
+http://83.58.164.250:4022/udp/239.1.1.56:8208
 #EXTINF:-1,[008] Telemadrid
-http://83.58.164.250:4022/udp/239.0.0.25:8208
+http://83.58.164.250:4022/udp/239.1.1.25:8208
 #EXTINF:-1,[008] TV Canaria
-http://83.58.164.250:4022/udp/239.0.0.54:8208
+http://83.58.164.250:4022/udp/239.1.1.54:8208
 #EXTINF:-1,[008] TV Galicia
-http://83.58.164.250:4022/udp/239.0.0.53:8208
+http://83.58.164.250:4022/udp/239.1.1.53:8208
 #EXTINF:-1,[008] TV Mediterraneo
-http://83.58.164.250:4022/udp/239.0.3.34:8208
+http://83.58.164.250:4022/udp/239.1.3.34:8208
 #EXTINF:-1,[008] TV Princ de Asturias
-http://83.58.164.250:4022/udp/239.0.0.86:8208
+http://83.58.164.250:4022/udp/239.1.1.86:8208
 #EXTINF:-1,[008] TV3
-http://83.58.164.250:4022/udp/239.0.0.23:8208
+http://83.58.164.250:4022/udp/239.1.1.23:8208
 #EXTINF:-1,[008] TV3 HD
-http://83.58.164.250:4022/udp/239.0.5.186:8208
+http://83.58.164.250:4022/udp/239.1.5.186:8208
 #EXTINF:-1,[009] 8 TV
-http://83.58.164.250:4022/udp/239.0.0.82:8208
+http://83.58.164.250:4022/udp/239.1.1.82:8208
 #EXTINF:-1,[009] Canal Sur 2
-http://83.58.164.250:4022/udp/239.0.0.50:8208
+http://83.58.164.250:4022/udp/239.1.1.50:8208
 #EXTINF:-1,[009] ETB 2
-http://83.58.164.250:4022/udp/239.0.0.36:8208
+http://83.58.164.250:4022/udp/239.1.1.36:8208
 #EXTINF:-1,[009] La Otra
-http://83.58.164.250:4022/udp/239.0.0.26:8208
+http://83.58.164.250:4022/udp/239.1.1.26:8208
 #EXTINF:-1,[010] Series
-http://83.58.164.250:4022/udp/239.0.3.32:8208
+http://83.58.164.250:4022/udp/239.1.3.32:8208
 #EXTINF:-1,[010] Series HD
-http://83.58.164.250:4022/udp/239.0.0.184:8208
+http://83.58.164.250:4022/udp/239.1.1.184:8208
 #EXTINF:-1,[011] Movistar Series
-http://83.58.164.250:4022/udp/239.0.5.4:8208
+http://83.58.164.250:4022/udp/239.1.5.4:8208
 #EXTINF:-1,[011] Movistar Series HD
-http://83.58.164.250:4022/udp/239.0.5.250:8208
+http://83.58.164.250:4022/udp/239.1.5.250:8208
 #EXTINF:-1,[012] Movistar Series Xtra
-http://83.58.164.250:4022/udp/239.0.3.20:8208
+http://83.58.164.250:4022/udp/239.1.3.20:8208
 #EXTINF:-1,[012] Movistar Series Xtra HD
-http://83.58.164.250:4022/udp/239.0.5.83:8208
+http://83.58.164.250:4022/udp/239.1.5.83:8208
 #EXTINF:-1,[013] FOX
-http://83.58.164.250:4022/udp/239.0.0.74:8208
+http://83.58.164.250:4022/udp/239.1.1.74:8208
 #EXTINF:-1,[013] FOX HD
-http://83.58.164.250:4022/udp/239.0.9.134:8208
+http://83.58.164.250:4022/udp/239.1.9.134:8208
 #EXTINF:-1,[014] AXN
-http://83.58.164.250:4022/udp/239.0.0.14:8208
+http://83.58.164.250:4022/udp/239.1.1.14:8208
 #EXTINF:-1,[014] AXN HD
-http://83.58.164.250:4022/udp/239.0.9.131:8208
+http://83.58.164.250:4022/udp/239.1.9.131:8208
 #EXTINF:-1,[015] TNT
-http://83.58.164.250:4022/udp/239.0.0.44:8208
+http://83.58.164.250:4022/udp/239.1.1.44:8208
 #EXTINF:-1,[015] TNT HD
-http://83.58.164.250:4022/udp/239.0.5.87:8208
+http://83.58.164.250:4022/udp/239.1.5.87:8208
 #EXTINF:-1,[016] Comedy Central
-http://83.58.164.250:4022/udp/239.0.0.68:8208
+http://83.58.164.250:4022/udp/239.1.1.68:8208
 #EXTINF:-1,[016] Comedy Central HD
-http://83.58.164.250:4022/udp/239.0.0.174:8208
+http://83.58.164.250:4022/udp/239.1.1.174:8208
 #EXTINF:-1,[017] Calle 13
-http://83.58.164.250:4022/udp/239.0.0.13:8208
+http://83.58.164.250:4022/udp/239.1.1.13:8208
 #EXTINF:-1,[017] Calle 13 HD
-http://83.58.164.250:4022/udp/239.0.5.74:8208
+http://83.58.164.250:4022/udp/239.1.5.74:8208
 #EXTINF:-1,[018] Cosmo
-http://83.58.164.250:4022/udp/239.0.0.15:8208
+http://83.58.164.250:4022/udp/239.1.1.15:8208
 #EXTINF:-1,[018] Cosmo HD
-http://83.58.164.250:4022/udp/239.0.5.71:8208
+http://83.58.164.250:4022/udp/239.1.5.71:8208
 #EXTINF:-1,[019] AMC
-http://83.58.164.250:4022/udp/239.0.0.8:8208
+http://83.58.164.250:4022/udp/239.1.1.8:8208
 #EXTINF:-1,[019] AMC HD
-http://83.58.164.250:4022/udp/239.0.9.132:8208
+http://83.58.164.250:4022/udp/239.1.9.132:8208
 #EXTINF:-1,[020] FOX Life
-http://83.58.164.250:4022/udp/239.0.0.112:8208
+http://83.58.164.250:4022/udp/239.1.1.112:8208
 #EXTINF:-1,[020] FOX Life HD
-http://83.58.164.250:4022/udp/239.0.5.86:8208
+http://83.58.164.250:4022/udp/239.1.5.86:8208
 #EXTINF:-1,[021] AXN White
-http://83.58.164.250:4022/udp/239.0.0.62:8208
+http://83.58.164.250:4022/udp/239.1.1.62:8208
 #EXTINF:-1,[021] AXN White HD
-http://83.58.164.250:4022/udp/239.0.5.79:8208
+http://83.58.164.250:4022/udp/239.1.5.79:8208
 #EXTINF:-1,[022] SyFy
-http://83.58.164.250:4022/udp/239.0.0.111:8208
+http://83.58.164.250:4022/udp/239.1.1.111:8208
 #EXTINF:-1,[022] SyFy HD
-http://83.58.164.250:4022/udp/239.0.5.75:8208
+http://83.58.164.250:4022/udp/239.1.5.75:8208
 #EXTINF:-1,[023] Non Stop People
-http://83.58.164.250:4022/udp/239.0.0.212:8208
+http://83.58.164.250:4022/udp/239.1.1.212:8208
 #EXTINF:-1,[023] Non Stop People HD
-http://83.58.164.250:4022/udp/239.0.5.170:8208
+http://83.58.164.250:4022/udp/239.1.5.170:8208
 #EXTINF:-1,[024] MTV
-http://83.58.164.250:4022/udp/239.0.0.211:8208
+http://83.58.164.250:4022/udp/239.1.1.211:8208
 #EXTINF:-1,[025] FDF
-http://83.58.164.250:4022/udp/239.0.0.84:8208
+http://83.58.164.250:4022/udp/239.1.1.84:8208
 #EXTINF:-1,[026] Neox
-http://83.58.164.250:4022/udp/239.0.0.107:8208
+http://83.58.164.250:4022/udp/239.1.1.107:8208
 #EXTINF:-1,[027] Atreseries
-http://83.58.164.250:4022/udp/239.0.3.29:8208
+http://83.58.164.250:4022/udp/239.1.3.29:8208
 #EXTINF:-1,[027] Atreseries HD
-http://83.58.164.250:4022/udp/239.0.0.181:8208
+http://83.58.164.250:4022/udp/239.1.1.181:8208
 #EXTINF:-1,[030] Cine
-http://83.58.164.250:4022/udp/239.0.3.30:8208
+http://83.58.164.250:4022/udp/239.1.3.30:8208
 #EXTINF:-1,[030] Cine HD
-http://83.58.164.250:4022/udp/239.0.0.178:8208
+http://83.58.164.250:4022/udp/239.1.1.178:8208
 #EXTINF:-1,[031] Movistar Estrenos
-http://83.58.164.250:4022/udp/239.0.3.40:8208
+http://83.58.164.250:4022/udp/239.1.3.40:8208
 #EXTINF:-1,[031] Movistar Estrenos HD
-http://83.58.164.250:4022/udp/239.0.5.111:8208
+http://83.58.164.250:4022/udp/239.1.5.111:8208
 #EXTINF:-1,[032] Movistar Xtra
-http://83.58.164.250:4022/udp/239.0.3.41:8208
+http://83.58.164.250:4022/udp/239.1.3.41:8208
 #EXTINF:-1,[032] Movistar Xtra HD
-http://83.58.164.250:4022/udp/239.0.5.112:8208
+http://83.58.164.250:4022/udp/239.1.5.112:8208
 #EXTINF:-1,[033] Movistar Accion
-http://83.58.164.250:4022/udp/239.0.3.42:8208
+http://83.58.164.250:4022/udp/239.1.3.42:8208
 #EXTINF:-1,[033] Movistar Accion HD
-http://83.58.164.250:4022/udp/239.0.5.113:8208
+http://83.58.164.250:4022/udp/239.1.5.113:8208
 #EXTINF:-1,[034] Movistar Comedia
-http://83.58.164.250:4022/udp/239.0.3.43:8208
+http://83.58.164.250:4022/udp/239.1.3.43:8208
 #EXTINF:-1,[034] Movistar Comedia HD
-http://83.58.164.250:4022/udp/239.0.5.114:8208
+http://83.58.164.250:4022/udp/239.1.5.114:8208
 #EXTINF:-1,[035] Movistar DCine
-http://83.58.164.250:4022/udp/239.0.3.44:8208
+http://83.58.164.250:4022/udp/239.1.3.44:8208
 #EXTINF:-1,[035] Movistar DCine HD
-http://83.58.164.250:4022/udp/239.0.5.115:8208
+http://83.58.164.250:4022/udp/239.1.5.115:8208
 #EXTINF:-1,[036] DCine Espanol
-http://83.58.164.250:4022/udp/239.0.3.45:8208
+http://83.58.164.250:4022/udp/239.1.3.45:8208
 #EXTINF:-1,[037] TCM
-http://83.58.164.250:4022/udp/239.0.6.5:8208
+http://83.58.164.250:4022/udp/239.1.6.5:8208
 #EXTINF:-1,[037] TCM HD
-http://83.58.164.250:4022/udp/239.0.5.89:8208
+http://83.58.164.250:4022/udp/239.1.5.89:8208
 #EXTINF:-1,[038] Hollywood
-http://83.58.164.250:4022/udp/239.0.0.16:8208
+http://83.58.164.250:4022/udp/239.1.1.16:8208
 #EXTINF:-1,[038] Hollywood HD
-http://83.58.164.250:4022/udp/239.0.5.76:8208
+http://83.58.164.250:4022/udp/239.1.5.76:8208
 #EXTINF:-1,[039] Sundance
-http://83.58.164.250:4022/udp/239.0.0.102:8208
+http://83.58.164.250:4022/udp/239.1.1.102:8208
 #EXTINF:-1,[039] Sundance HD
-http://83.58.164.250:4022/udp/239.0.5.72:8208
+http://83.58.164.250:4022/udp/239.1.5.72:8208
 #EXTINF:-1,[040] Paramount
-http://83.58.164.250:4022/udp/239.0.0.90:8208
+http://83.58.164.250:4022/udp/239.1.1.90:8208
 #EXTINF:-1,[041] 13 TV
-http://83.58.164.250:4022/udp/239.0.0.91:8208
+http://83.58.164.250:4022/udp/239.1.1.91:8208
 #EXTINF:-1,[042] Ten
-http://83.58.164.250:4022/udp/239.0.0.34:8208
+http://83.58.164.250:4022/udp/239.1.1.34:8208
 #EXTINF:-1,[044] Deportes
-http://83.58.164.250:4022/udp/239.0.3.33:8208
+http://83.58.164.250:4022/udp/239.1.3.33:8208
 #EXTINF:-1,[044] Deportes HD
-http://83.58.164.250:4022/udp/239.0.0.180:8208
+http://83.58.164.250:4022/udp/239.1.1.180:8208
 #EXTINF:-1,[045] Movistar Futbol
-http://83.58.164.250:4022/udp/239.0.6.8:8208
+http://83.58.164.250:4022/udp/239.1.6.8:8208
 #EXTINF:-1,[045] Movistar Futbol HD
-http://83.58.164.250:4022/udp/239.0.6.14:8208
+http://83.58.164.250:4022/udp/239.1.6.14:8208
 #EXTINF:-1,[046] Movistar Partidazo
-http://83.58.164.250:4022/udp/239.0.4.129:8208
+http://83.58.164.250:4022/udp/239.1.4.129:8208
 #EXTINF:-1,[046] Movistar Partidazo HD
-http://83.58.164.250:4022/udp/239.0.5.84:8208
+http://83.58.164.250:4022/udp/239.1.5.84:8208
 #EXTINF:-1,[047] beIN La Liga
-http://83.58.164.250:4022/udp/239.0.0.46:8208
+http://83.58.164.250:4022/udp/239.1.1.46:8208
 #EXTINF:-1,[047] beIN La Liga HD
-http://83.58.164.250:4022/udp/239.0.5.106:8208
+http://83.58.164.250:4022/udp/239.1.5.106:8208
 #EXTINF:-1,[048] beIN La Liga 1
-http://83.58.164.250:4022/udp/239.0.0.47:8208
+http://83.58.164.250:4022/udp/239.1.1.47:8208
 #EXTINF:-1,[048] beIN La Liga 1 HD
-http://83.58.164.250:4022/udp/239.0.5.179:8208
+http://83.58.164.250:4022/udp/239.1.5.179:8208
 #EXTINF:-1,[049] beIN La Liga 2
-http://83.58.164.250:4022/udp/239.0.0.67:8208
+http://83.58.164.250:4022/udp/239.1.1.67:8208
 #EXTINF:-1,[049] beIN La Liga 2 HD
-http://83.58.164.250:4022/udp/239.0.5.180:8208
+http://83.58.164.250:4022/udp/239.1.5.180:8208
 #EXTINF:-1,[050] beIN SPORTS
-http://83.58.164.250:4022/udp/239.0.3.100:8208
+http://83.58.164.250:4022/udp/239.1.3.100:8208
 #EXTINF:-1,[050] beIN SPORTS HD
-http://83.58.164.250:4022/udp/239.0.9.80:8208
+http://83.58.164.250:4022/udp/239.1.9.80:8208
 #EXTINF:-1,[050] Futbol Replay
-http://83.58.164.250:4022/udp/239.0.0.97:8208
+http://83.58.164.250:4022/udp/239.1.1.97:8208
 #EXTINF:-1,[051] beIN MAX 1
-http://83.58.164.250:4022/udp/239.0.6.7:8208
+http://83.58.164.250:4022/udp/239.1.6.7:8208
 #EXTINF:-1,[051] beIN MAX 1 HD
-http://83.58.164.250:4022/udp/239.0.5.177:8208
+http://83.58.164.250:4022/udp/239.1.5.177:8208
 #EXTINF:-1,[052] beIN MAX 2
-http://83.58.164.250:4022/udp/239.0.6.13:8208
+http://83.58.164.250:4022/udp/239.1.6.13:8208
 #EXTINF:-1,[055] Movistar Deportes 1
-http://83.58.164.250:4022/udp/239.0.4.193:8208
+http://83.58.164.250:4022/udp/239.1.4.193:8208
 #EXTINF:-1,[055] Movistar Deportes 1 HD
-http://83.58.164.250:4022/udp/239.0.5.248:8208
+http://83.58.164.250:4022/udp/239.1.5.248:8208
 #EXTINF:-1,[056] Movistar Deportes 2
-http://83.58.164.250:4022/udp/239.0.5.5:8208
+http://83.58.164.250:4022/udp/239.1.5.5:8208
 #EXTINF:-1,[056] Movistar Deportes 2 HD
-http://83.58.164.250:4022/udp/239.0.5.245:8208
+http://83.58.164.250:4022/udp/239.1.5.245:8208
 #EXTINF:-1,[057] Movistar F1
-http://83.58.164.250:4022/udp/239.0.0.210:8208
+http://83.58.164.250:4022/udp/239.1.1.210:8208
 #EXTINF:-1,[057] Movistar F1 HD
-http://83.58.164.250:4022/udp/239.0.5.246:8208
+http://83.58.164.250:4022/udp/239.1.5.246:8208
 #EXTINF:-1,[058] Movistar MotoGP
-http://83.58.164.250:4022/udp/239.0.3.38:8208
+http://83.58.164.250:4022/udp/239.1.3.38:8208
 #EXTINF:-1,[058] Movistar MotoGP HD
-http://83.58.164.250:4022/udp/239.0.5.107:8208
+http://83.58.164.250:4022/udp/239.1.5.107:8208
 #EXTINF:-1,[059] Movistar Golf
-http://83.58.164.250:4022/udp/239.0.5.2:8208
+http://83.58.164.250:4022/udp/239.1.5.2:8208
 #EXTINF:-1,[059] Movistar Golf HD
-http://83.58.164.250:4022/udp/239.0.5.249:8208
+http://83.58.164.250:4022/udp/239.1.5.249:8208
 #EXTINF:-1,[060] EuroSport
-http://83.58.164.250:4022/udp/239.0.0.18:8208
+http://83.58.164.250:4022/udp/239.1.1.18:8208
 #EXTINF:-1,[060] EuroSport HD New
-http://83.58.164.250:4022/udp/239.0.9.144:8208
+http://83.58.164.250:4022/udp/239.1.9.144:8208
 #EXTINF:-1,[060] EuroSport HD Old
-http://83.58.164.250:4022/udp/239.0.9.135:8208
+http://83.58.164.250:4022/udp/239.1.9.135:8208
 #EXTINF:-1,[061] EuroSport 2
-http://83.58.164.250:4022/udp/239.0.0.37:8208
+http://83.58.164.250:4022/udp/239.1.1.37:8208
 #EXTINF:-1,[061] EuroSport 2 HD
-http://83.58.164.250:4022/udp/239.0.5.105:8208
+http://83.58.164.250:4022/udp/239.1.5.105:8208
 #EXTINF:-1,[063] Teledeporte
-http://83.58.164.250:4022/udp/239.0.0.79:8208
+http://83.58.164.250:4022/udp/239.1.1.79:8208
 #EXTINF:-1,[063] Teledeporte HD
-http://83.58.164.250:4022/udp/239.0.0.188:8208
+http://83.58.164.250:4022/udp/239.1.1.188:8208
 #EXTINF:-1,[066] Iberalia
-http://83.58.164.250:4022/udp/239.0.5.6:8208
+http://83.58.164.250:4022/udp/239.1.5.6:8208
 #EXTINF:-1,[068] Multideporte 1
-http://83.58.164.250:4022/udp/239.0.7.1:8208
+http://83.58.164.250:4022/udp/239.1.7.1:8208
 #EXTINF:-1,[070] National Geographic
-http://83.58.164.250:4022/udp/239.0.0.103:8208
+http://83.58.164.250:4022/udp/239.1.1.103:8208
 #EXTINF:-1,[070] National Geographic HD
-http://83.58.164.250:4022/udp/239.0.5.78:8208
+http://83.58.164.250:4022/udp/239.1.5.78:8208
 #EXTINF:-1,[071] Nat Geo Wild
-http://83.58.164.250:4022/udp/239.0.0.89:8208
+http://83.58.164.250:4022/udp/239.1.1.89:8208
 #EXTINF:-1,[071] Nat Geo Wild HD
-http://83.58.164.250:4022/udp/239.0.9.136:8208
+http://83.58.164.250:4022/udp/239.1.9.136:8208
 #EXTINF:-1,[072] Historia
-http://83.58.164.250:4022/udp/239.0.0.19:8208
+http://83.58.164.250:4022/udp/239.1.1.19:8208
 #EXTINF:-1,[073] Discovery Channel
-http://83.58.164.250:4022/udp/239.0.0.21:8208
+http://83.58.164.250:4022/udp/239.1.1.21:8208
 #EXTINF:-1,[073] Discovery Channel HD
-http://83.58.164.250:4022/udp/239.0.5.77:8208
+http://83.58.164.250:4022/udp/239.1.5.77:8208
 #EXTINF:-1,[074] Odisea
-http://83.58.164.250:4022/udp/239.0.0.22:8208
+http://83.58.164.250:4022/udp/239.1.1.22:8208
 #EXTINF:-1,[074] Odisea HD
-http://83.58.164.250:4022/udp/239.0.5.82:8208
+http://83.58.164.250:4022/udp/239.1.5.82:8208
 #EXTINF:-1,[075] A&ampE
-http://83.58.164.250:4022/udp/239.0.0.38:8208
+http://83.58.164.250:4022/udp/239.1.1.38:8208
 #EXTINF:-1,[076] Viajar
-http://83.58.164.250:4022/udp/239.0.0.20:8208
+http://83.58.164.250:4022/udp/239.1.1.20:8208
 #EXTINF:-1,[076] Viajar HD
-http://83.58.164.250:4022/udp/239.0.5.73:8208
+http://83.58.164.250:4022/udp/239.1.5.73:8208
 #EXTINF:-1,[077] Discovery MAX
-http://83.58.164.250:4022/udp/239.0.0.32:8208
+http://83.58.164.250:4022/udp/239.1.1.32:8208
 #EXTINF:-1,[079] CCTV-E
-http://83.58.164.250:4022/udp/239.0.0.65:8208
+http://83.58.164.250:4022/udp/239.1.1.65:8208
 #EXTINF:-1,[080] Cocina
-http://83.58.164.250:4022/udp/239.0.0.27:8208
+http://83.58.164.250:4022/udp/239.1.1.27:8208
 #EXTINF:-1,[081] Decasa
-http://83.58.164.250:4022/udp/239.0.0.71:8208
+http://83.58.164.250:4022/udp/239.1.1.71:8208
 #EXTINF:-1,[082] Crimen e Investigacion
-http://83.58.164.250:4022/udp/239.0.0.57:8208
+http://83.58.164.250:4022/udp/239.1.1.57:8208
 #EXTINF:-1,[083] Divinity
-http://83.58.164.250:4022/udp/239.0.0.48:8208
+http://83.58.164.250:4022/udp/239.1.1.48:8208
 #EXTINF:-1,[084] Nova
-http://83.58.164.250:4022/udp/239.0.0.106:8208
+http://83.58.164.250:4022/udp/239.1.1.106:8208
 #EXTINF:-1,[085] MEGA
-http://83.58.164.250:4022/udp/239.0.3.31:8208
+http://83.58.164.250:4022/udp/239.1.3.31:8208
 #EXTINF:-1,[086] Energy
-http://83.58.164.250:4022/udp/239.0.0.59:8208
+http://83.58.164.250:4022/udp/239.1.1.59:8208
 #EXTINF:-1,[087] Garage TV
-http://83.58.164.250:4022/udp/239.0.0.99:8208
+http://83.58.164.250:4022/udp/239.1.1.99:8208
 #EXTINF:-1,[090] Baby TV
-http://83.58.164.250:4022/udp/239.0.0.113:8208
+http://83.58.164.250:4022/udp/239.1.1.113:8208
 #EXTINF:-1,[091] Disney Junior
-http://83.58.164.250:4022/udp/239.0.0.10:8208
+http://83.58.164.250:4022/udp/239.1.1.10:8208
 #EXTINF:-1,[092] Canal Panda
-http://83.58.164.250:4022/udp/239.0.0.117:8208
+http://83.58.164.250:4022/udp/239.1.1.117:8208
 #EXTINF:-1,[093] Nick Jr
-http://83.58.164.250:4022/udp/239.0.0.115:8208
+http://83.58.164.250:4022/udp/239.1.1.115:8208
 #EXTINF:-1,[094] Nickelodeon
-http://83.58.164.250:4022/udp/239.0.0.69:8208
+http://83.58.164.250:4022/udp/239.1.1.69:8208
 #EXTINF:-1,[095] Disney XD
-http://83.58.164.250:4022/udp/239.0.0.11:8208
+http://83.58.164.250:4022/udp/239.1.1.11:8208
 #EXTINF:-1,[096] Disney Channel
-http://83.58.164.250:4022/udp/239.0.0.64:8208
+http://83.58.164.250:4022/udp/239.1.1.64:8208
 #EXTINF:-1,[096] Disney Channel HD
-http://83.58.164.250:4022/udp/239.0.0.173:8208
+http://83.58.164.250:4022/udp/239.1.1.173:8208
 #EXTINF:-1,[097] Boing
-http://83.58.164.250:4022/udp/239.0.0.66:8208
+http://83.58.164.250:4022/udp/239.1.1.66:8208
 #EXTINF:-1,[098] Clan TVE
-http://83.58.164.250:4022/udp/239.0.0.80:8208
+http://83.58.164.250:4022/udp/239.1.1.80:8208
 #EXTINF:-1,[103] 40 TV
-http://83.58.164.250:4022/udp/239.0.0.12:8208
+http://83.58.164.250:4022/udp/239.1.1.12:8208
 #EXTINF:-1,[104] Sol Musica
-http://83.58.164.250:4022/udp/239.0.0.39:8208
+http://83.58.164.250:4022/udp/239.1.1.39:8208
 #EXTINF:-1,[105] VH1
-http://83.58.164.250:4022/udp/239.0.0.75:8208
+http://83.58.164.250:4022/udp/239.1.1.75:8208
 #EXTINF:-1,[112] Canal 24 Horas
-http://83.58.164.250:4022/udp/239.0.0.78:8208
+http://83.58.164.250:4022/udp/239.1.1.78:8208
 #EXTINF:-1,[113] BBC world
-http://83.58.164.250:4022/udp/239.0.0.30:8208
+http://83.58.164.250:4022/udp/239.1.1.30:8208
 #EXTINF:-1,[114] CNN International
-http://83.58.164.250:4022/udp/239.0.0.40:8208
+http://83.58.164.250:4022/udp/239.1.1.40:8208
 #EXTINF:-1,[115] Fox News
-http://83.58.164.250:4022/udp/239.0.7.65:8208
+http://83.58.164.250:4022/udp/239.1.7.65:8208
 #EXTINF:-1,[116] Euronews
-http://83.58.164.250:4022/udp/239.0.0.28:8208
+http://83.58.164.250:4022/udp/239.1.1.28:8208
 #EXTINF:-1,[117] Al Jazeera
-http://83.58.164.250:4022/udp/239.0.7.66:8208
+http://83.58.164.250:4022/udp/239.1.7.66:8208
 #EXTINF:-1,[118] France 24
-http://83.58.164.250:4022/udp/239.0.7.67:8208
+http://83.58.164.250:4022/udp/239.1.7.67:8208
 #EXTINF:-1,[119] Russia Today
-http://83.58.164.250:4022/udp/239.0.7.68:8208
+http://83.58.164.250:4022/udp/239.1.7.68:8208
 #EXTINF:-1,[120] CNBC Europe
-http://83.58.164.250:4022/udp/239.0.7.69:8208
+http://83.58.164.250:4022/udp/239.1.7.69:8208
 #EXTINF:-1,[122] TV5 Monde Europe
-http://83.58.164.250:4022/udp/239.0.0.31:8208
+http://83.58.164.250:4022/udp/239.1.1.31:8208
 #EXTINF:-1,[123] Bloomberg
-http://83.58.164.250:4022/udp/239.0.0.29:8208
+http://83.58.164.250:4022/udp/239.1.1.29:8208
 #EXTINF:-1,[124] Intereconomia TV
-http://83.58.164.250:4022/udp/239.0.0.63:8208
+http://83.58.164.250:4022/udp/239.1.1.63:8208
 #EXTINF:-1,[128] I24 News
-http://83.58.164.250:4022/udp/239.0.0.220:8208
+http://83.58.164.250:4022/udp/239.1.1.220:8208
 #EXTINF:-1,[129] CNC World
-http://83.58.164.250:4022/udp/239.0.0.221:8208
+http://83.58.164.250:4022/udp/239.1.1.221:8208
 #EXTINF:-1,[133] Canal Orbe 21
-http://83.58.164.250:4022/udp/239.0.0.45:8208
+http://83.58.164.250:4022/udp/239.1.1.45:8208
 #EXTINF:-1,[150] Andalucia TV
-http://83.58.164.250:4022/udp/239.0.0.1:8208
+http://83.58.164.250:4022/udp/239.1.1.1:8208
 #EXTINF:-1,[151] Galicia TV Europa
-http://83.58.164.250:4022/udp/239.0.3.37:8208
+http://83.58.164.250:4022/udp/239.1.3.37:8208
 #EXTINF:-1,[153] TV3CAT
-http://83.58.164.250:4022/udp/239.0.3.36:8208
+http://83.58.164.250:4022/udp/239.1.3.36:8208
 #EXTINF:-1,[154] ETB Sat
-http://83.58.164.250:4022/udp/239.0.0.60:8208
+http://83.58.164.250:4022/udp/239.1.1.60:8208
 #EXTINF:-1,[155] Aragon TV Int
-http://83.58.164.250:4022/udp/239.0.0.81:8208
+http://83.58.164.250:4022/udp/239.1.1.81:8208
 #EXTINF:-1,[156] Super 3/33
-http://83.58.164.250:4022/udp/239.0.0.24:8208
+http://83.58.164.250:4022/udp/239.1.1.24:8208
 #EXTINF:-1,[157] Esport3
-http://83.58.164.250:4022/udp/239.0.0.51:8208
+http://83.58.164.250:4022/udp/239.1.1.51:8208
 #EXTINF:-1,[158] 3/24
-http://83.58.164.250:4022/udp/239.0.0.61:8208
+http://83.58.164.250:4022/udp/239.1.1.61:8208
 #EXTINF:-1,[159] Xarxa Televisions
-http://83.58.164.250:4022/udp/239.0.0.9:8208
+http://83.58.164.250:4022/udp/239.1.1.9:8208
 #EXTINF:-1,[176] Multifutbol 1
-http://83.58.164.250:4022/udp/239.0.0.92:8208
+http://83.58.164.250:4022/udp/239.1.1.92:8208
 #EXTINF:-1,[177] Multifutbol 2
-http://83.58.164.250:4022/udp/239.0.0.93:8208
+http://83.58.164.250:4022/udp/239.1.1.93:8208
 #EXTINF:-1,[178] Multifutbol 3
-http://83.58.164.250:4022/udp/239.0.0.94:8208
+http://83.58.164.250:4022/udp/239.1.1.94:8208
 #EXTINF:-1,[179] Multifutbol 4
-http://83.58.164.250:4022/udp/239.0.0.95:8208
+http://83.58.164.250:4022/udp/239.1.1.95:8208
 #EXTINF:-1,[180] Multifutbol 5
-http://83.58.164.250:4022/udp/239.0.0.96:8208
+http://83.58.164.250:4022/udp/239.1.1.96:8208
 #EXTINF:-1,[181] beIN La Liga 3
-http://83.58.164.250:4022/udp/239.0.0.70:8208
+http://83.58.164.250:4022/udp/239.1.1.70:8208
 #EXTINF:-1,[181] beIN La Liga 3 HD
-http://83.58.164.250:4022/udp/239.0.5.181:8208
+http://83.58.164.250:4022/udp/239.1.5.181:8208
 #EXTINF:-1,[182] beIN La Liga 4
-http://83.58.164.250:4022/udp/239.0.0.72:8208
+http://83.58.164.250:4022/udp/239.1.1.72:8208
 #EXTINF:-1,[186] beIN MAX 3
-http://83.58.164.250:4022/udp/239.0.0.216:8208
+http://83.58.164.250:4022/udp/239.1.1.216:8208
 #EXTINF:-1,[187] beIN MAX 4
-http://83.58.164.250:4022/udp/239.0.0.217:8208
+http://83.58.164.250:4022/udp/239.1.1.217:8208
 #EXTINF:-1,[192] Multideporte 2
-http://83.58.164.250:4022/udp/239.0.7.2:8208
+http://83.58.164.250:4022/udp/239.1.7.2:8208
 #EXTINF:-1,[193] Multideporte 3
-http://83.58.164.250:4022/udp/239.0.7.3:8208
+http://83.58.164.250:4022/udp/239.1.7.3:8208
 #EXTINF:-1,[194] Multideporte 4
-http://83.58.164.250:4022/udp/239.0.7.4:8208
+http://83.58.164.250:4022/udp/239.1.7.4:8208
 #EXTINF:-1,[195] Multideporte 5
-http://83.58.164.250:4022/udp/239.0.7.5:8208
+http://83.58.164.250:4022/udp/239.1.7.5:8208
 #EXTINF:-1,[196] Multideporte 6
-http://83.58.164.250:4022/udp/239.0.7.132:8208
+http://83.58.164.250:4022/udp/239.1.7.132:8208
 #EXTINF:-1,[197] Multideporte 7
-http://83.58.164.250:4022/udp/239.0.7.133:8208
+http://83.58.164.250:4022/udp/239.1.7.133:8208
 #EXTINF:-1,[200] La Tienda en Casa
-http://83.58.164.250:4022/udp/239.0.0.98:8208
+http://83.58.164.250:4022/udp/239.1.1.98:8208
+
+#EXTM3U
+
+
+#EXTINF:1,SPORT TV 1
+plugin://program.plexus/?mode=1&url=acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6&mode=1&name=acestream&mode=1&name=SPORT TV 1
+#EXTINF:1,SPORT TV 2
+plugin://program.plexus/?mode=1&url=acestream://ed5acde0ca3f6092b278e4e705cdd1002ebb1ff2&mode=1&name=acestream&mode=1&name=SPORT TV 2
+#EXTINF:1,SPORT TV 3
+plugin://program.plexus/?mode=1&url=acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1&mode=1&name=acestream&mode=1&name=SPORT TV 3
+#EXTINF:1,SPORT TV 4
+plugin://program.plexus/?mode=1&url=acestream://0e9bac041c943b759e65c28631d79376b5392460&mode=1&name=acestream&mode=1&name=SPORT TV 4
+#EXTINF:1,SPORT TV 5
+plugin://program.plexus/?mode=1&url=acestream://bf41112287550c64b2e18e81706e10356dbb8bbc&mode=1&name=acestream&mode=1&name=SPORT TV 5
+#EXTINF:1,BENFICA TV 1 HD
+plugin://program.plexus/?mode=1&url=acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415&mode=1&name=acestream&mode=1&name=BENFICA TV 1
+#EXTINF:1,BENFICA TV 2
+plugin://program.plexus/?mode=1&url=acestream://c1646f459c86ab24533650333957a57b457d80c1&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+
+
+#EXTINF:1,ARENA SPORT 1
+plugin://program.plexus/?mode=1&url=acestream://b645fe042866dbf89c8ee03d7e64bc801fb0ef0d&mode=1&name=acestream&mode=1&name=ARENA SPORT 1
+#EXTINF:1,ARENA SPORT 2
+plugin://program.plexus/?mode=1&url=acestream://3cae225c84c4f4235f761ed659a61309d4afd21a&mode=1&name=acestream&mode=1&name=ARENA SPORT 2
+#EXTINF:1,ARENAVISION 1
+plugin://program.plexus/?mode=1&url=acestream://2335205c8f0149afbb1647fd335141a2cf76452a&mode=1&name=acestream&mode=1&name=ARENAVISION 1
+#EXTINF:1,ARENAVISION 2
+plugin://program.plexus/?mode=1&url=acestream://c77a290466bc21e0cc4f1d7ffbe642fc6f352de1&mode=1&name=acestream&mode=1&name=ARENAVISION 2
+#EXTINF:1,ARENAVISION 3
+plugin://program.plexus/?mode=1&url=acestream://a6ddd96c4f0276f732fdd6a6ab803cc60ad4c06e&mode=1&name=acestream&mode=1&name=ARENAVISION 3
+#EXTINF:1,ARENAVISION 4
+plugin://program.plexus/?mode=1&url=acestream://a1aacdea9b71380049c802e085c0ff218855cc2d&mode=1&name=acestream&mode=1&name=ARENAVISION 4
+#EXTINF:1,ARENAVISION 5
+plugin://program.plexus/?mode=1&url=acestream://dcfeccfb1f68132d3da6770d95143329e785ac4a&mode=1&name=acestream&mode=1&name=ARENAVISION 5
+#EXTINF:1,ARENAVISION 6
+plugin://program.plexus/?mode=1&url=acestream://3174a339cba12830b9e16bfea0db441ceb21e21c&mode=1&name=acestream&mode=1&name=ARENAVISION 6
+#EXTINF:1,ARENAVISION 7
+plugin://program.plexus/?mode=1&url=acestream://d671a8abbe45c2b104f9e95d8e78cbab5c9fae18&mode=1&name=acestream&mode=1&name=ARENAVISION 7
+#EXTINF:1,ARENAVISION 8
+plugin://program.plexus/?mode=1&url=acestream://36bd5070834ebbf68ebb5cad35342e82a5f419fb&mode=1&name=acestream&mode=1&name=ARENAVISION 8
+#EXTINF:1,ARENAVISION 9
+plugin://program.plexus/?mode=1&url=acestream://09530b15d23cfd6fb5ce51dcc99d2c875bd8306c&mode=1&name=acestream&mode=1&name=ARENAVISION 9
+#EXTINF:1,ARENAVISION 10
+plugin://program.plexus/?mode=1&url=acestream://b6959b47381e2dfadf89f6c9f2d5883657502062&mode=1&name=acestream&mode=1&name=ARENAVISION 10
+#EXTINF:1,ARENAVISION 11
+plugin://program.plexus/?mode=1&url=acestream://1344d603229b76a48be28912092f27d6c013c03f&mode=1&name=acestream&mode=1&name=ARENAVISION 11
+#EXTINF:1,ARENAVISION 12
+plugin://program.plexus/?mode=1&url=acestream://8307047017cf2f68aee840c2b26c39159613cde2&mode=1&name=acestream&mode=1&name=ARENAVISION 12
+#EXTINF:1,ARENAVISION 13
+plugin://program.plexus/?mode=1&url=acestream://feb84abca428b17189a0b8034018192d89d8cebd&mode=1&name=acestream&mode=1&name=ARENAVISION 13
+#EXTINF:1,ARENAVISION 14
+plugin://program.plexus/?mode=1&url=acestream://465d486b8ffa0f7b6db0abbe7104901f3b3bd17c&mode=1&name=acestream&mode=1&name=ARENAVISION 14
+#EXTINF:1,ARENAVISION 15
+plugin://program.plexus/?mode=1&url=acestream://152655134e5113d905e55edfe5b8bf02629cd8b7&mode=1&name=acestream&mode=1&name=ARENAVISION 15
+#EXTINF:1,ARENAVISION 16
+plugin://program.plexus/?mode=1&url=acestream://1336b12c5564da5c23de50c33d03e7119f480731&mode=1&name=acestream&mode=1&name=ARENAVISION 16
+#EXTINF:1,ARENAVISION 17
+plugin://program.plexus/?mode=1&url=acestream://71637efae2cb4b507eafe2231e8e2bdd4e496162&mode=1&name=acestream&mode=1&name=ARENAVISION 17
+#EXTINF:1,ARENAVISION 18
+plugin://program.plexus/?mode=1&url=acestream://71637efae2cb4b507eafe2231e8e2bdd4e496162&mode=1&name=acestream&mode=1&name=ARENAVISION 18
+#EXTINF:1,ARENAVISION 19
+plugin://program.plexus/?mode=1&url=acestream://71637efae2cb4b507eafe2231e8e2bdd4e496162&mode=1&name=acestream&mode=1&name=ARENAVISION 19
+#EXTINF:1,ARENAVISION 20
+plugin://program.plexus/?mode=1&url=acestream://71637efae2cb4b507eafe2231e8e2bdd4e496162&mode=1&name=acestream&mode=1&name=ARENAVISION 20
+#EXTINF:1,BBC ONE
+plugin://program.plexus/?mode=1&url=acestream://6efb0e89c5322d6aa05176d3c277ba9e9d2189e3&mode=1&name=acestream&mode=1&name=BBC ONE
+#EXTINF:1,BBC TWO
+plugin://program.plexus/?mode=1&url=acestream://25e9e953af00fcfe73cbadfc29b618d85f0db2c7&mode=1&name=acestream&mode=1&name=BBC TWO
+#EXTINF:1,BBC WORLD NEWS
+plugin://program.plexus/?mode=1&url=acestream://653f6a234e5b2f8d95c057eb0045a9e1691c45d7&mode=1&name=acestream&mode=1&name=BBC WORLD NEWS
+#EXTINF:1,BEIN SPORTS 3 HD FRANCE
+plugin://program.plexus/?mode=1&url=acestream://7d7261067924099c96c9b5e149a31f835908fff0&mode=1&name=acestream&mode=1&name=BEIN SPORTS 3 HD FRANCE
+#EXTINF:1,BLOOMBERG
+plugin://program.plexus/?mode=1&url=acestream://d120571b8fa97c69a62fb44cf5a15dc450bb8abc&mode=1&name=acestream&mode=1&name=BLOOMBERG
+#EXTINF:1,BT SPORT 1
+plugin://program.plexus/?mode=1&url=acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce&mode=1&name=acestream&mode=1&name=BT SPORT 1
+#EXTINF:1,BT SPORT 2
+plugin://program.plexus/?mode=1&url=acestream://553471b270891712541fc2fe4794f46279e2384d&mode=1&name=acestream&mode=1&name=BT SPORT 2
+#EXTINF:1,BT SPORT ESPN
+plugin://program.plexus/?mode=1&url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream&mode=1&name=BT SPORT ESPN
+#EXTINF:1,C MORE TENNIS
+plugin://program.plexus/?mode=1&url=acestream://dc82c4d0b1a0aec6029cafe8ea330e80b0292e4c&mode=1&name=acestream&mode=1&name=C MORE TENNIS
+#EXTINF:1,CANAL+ DESPORTES
+plugin://program.plexus/?mode=1&url=acestream://a994a04ff801f11872fc1e89258d53c5601ccfbd&mode=1&name=acestream&mode=1&name=CANAL+ DESPORTES
+#EXTINF:1,CANAL+ DESPORTES 2
+plugin://program.plexus/?mode=1&url=acestream://7a3408bafc83d13ec6ecd8dcbc1d0511d4032963&mode=1&name=acestream&mode=1&name=CANAL+ DESPORTES 2
+#EXTINF:1,CANAL+ FUTBOL
+plugin://program.plexus/?mode=1&url=acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852&mode=1&name=acestream&mode=1&name=CANAL+ FUTBOL
+#EXTINF:1,CANAL+ LIGA
+plugin://program.plexus/?mode=1&url=acestream://da01482344b8ea93c8388d4d708b0d27db8774b4&mode=1&name=acestream&mode=1&name=CANAL+ LIGA
+#EXTINF:1,CANAL+ LIGA 2
+plugin://program.plexus/?mode=1&url=acestream://d7586f582a41990286d438894bfe67dd0f961b18&mode=1&name=acestream&mode=1&name=CANAL+ LIGA 2
+#EXTINF:1,CANAL+ SPORT FRANCE HD
+plugin://program.plexus/?mode=1&url=acestream://0be05e6112cb98a1799105f6c3e4348914a39080&mode=1&name=acestream&mode=1&name=CANAL+ SPORT FRANCE HD
+#EXTINF:1,CANAL+ SPORT HD
+plugin://program.plexus/?mode=1&url=acestream://07fb7d0131663a5daef420fd75acb5731b1c6585&mode=1&name=acestream&mode=1&name=CANAL+ SPORT HD
+#EXTINF:1,CNN
+plugin://program.plexus/?mode=1&url=acestream://a7553f38fe013e1d0a4a2921fe0b0e4aded7e25f&mode=1&name=acestream&mode=1&name=CNN
+#EXTINF:1,DIEMA SPORT HD
+plugin://program.plexus/?mode=1&url=acestream://10dde1b905d2aadd1c8683379740233f91f41d1d&mode=1&name=acestream&mode=1&name=DIEMA SPORT HD
+#EXTINF:1,DIGI SPORT 1
+plugin://program.plexus/?mode=1&url=acestream://7525fc778e3f751b430d4cf626e187268e67a1d5&mode=1&name=acestream&mode=1&name=DIGI SPORT 1
+#EXTINF:1,DIGI SPORT 2
+plugin://program.plexus/?mode=1&url=acestream://843675d1c8f68003732db7d73557155dafc5ba03&mode=1&name=acestream&mode=1&name=DIGI SPORT 2
+#EXTINF:1,DISCOVERY CHANNEL HD
+plugin://program.plexus/?mode=1&url=acestream://ec55ab91a4abb53292ebcdfdbecc80fabc7ecccd&mode=1&name=acestream&mode=1&name=DISCOVERY CHANNEL HD
+#EXTINF:1,DISCOVERY SCIENCE
+plugin://program.plexus/?mode=1&url=acestream://343091aef7f5a9557fa0e5e11fae30c50700c474&mode=1&name=acestream&mode=1&name=DISCOVERY SCIENCE
+#EXTINF:1,ESPN 1
+plugin://program.plexus/?mode=1&url=acestream://46e1153bc7a25228f502df3cbcbc88a24a4f99d0&mode=1&name=acestream&mode=1&name=ESPN 1
+#EXTINF:1,ESPN 2
+plugin://program.plexus/?mode=1&url=acestream://b675e49fae3ed789f97f287a86ab7b1f16eaabcc&mode=1&name=acestream&mode=1&name=ESPN 2
+#EXTINF:1,EUROSPORT 1
+plugin://program.plexus/?mode=1&url=acestream://e023777eb7583e6a573fc7e36dfe550745331b49&mode=1&name=acestream&mode=1&name=EUROSPORT 1
+#EXTINF:1,EUROSPORT 1 HD
+plugin://program.plexus/?mode=1&url=acestream://102c4a7e304871c9471df1bfeda348566d4d6322&mode=1&name=acestream&mode=1&name=EUROSPORT 1 HD
+#EXTINF:1,EUROSPORT 2
+plugin://program.plexus/?mode=1&url=acestream://35cc8a8c526ed08a05d6c6f534d9d7437035fd6f&mode=1&name=acestream&mode=1&name=EUROSPORT 2
+#EXTINF:1,EUROSPORT 2 HD
+plugin://program.plexus/?mode=1&url=acestream://c0f56cebd553bd935b3453bd8a3b72d4366c3df6&mode=1&name=acestream&mode=1&name=EUROSPORT 2 HD
+#EXTINF:1,EUROSPORT 2 NORTH-EAST
+plugin://program.plexus/?mode=1&url=acestream://4b71476f6930076f6e474a520c206fdfd6c33b20&mode=1&name=acestream&mode=1&name=EUROSPORT 2 NORTH-EAST
+#EXTINF:1,EUROSPORT 2 NORTH-EAST HD 
+plugin://program.plexus/?mode=1&url=acestream://9ab089645c4fc0845594c063b3f372e842c806a0&mode=1&name=acestream&mode=1&name=EUROSPORT 2 NORTH-EAST HD
+#EXTINF:1,EXTREME SPORTS
+plugin://program.plexus/?mode=1&url=acestream://c612272dbce5420cdefa2e97425b696a60610447&mode=1&name=acestream&mode=1&name=EXTREME SPORTS
+#EXTINF:1,FASHION BOX HD
+plugin://program.plexus/?mode=1&url=acestream://9d9a38bee23df4bc79de348f53edb38ef94632e4&mode=1&name=acestream&mode=1&name=FASHION BOX HD
+#EXTINF:1,FIGHT BOX HD
+plugin://program.plexus/?mode=1&url=acestream://e26d61526b439e376dcd6b3c7bc17b5dce34d65e&mode=1&name=acestream&mode=1&name=FIGHT BOX HD
+#EXTINF:1,FOOD NETWORK HD
+plugin://program.plexus/?mode=1&url=acestream://d21fb6f1f4eea1721d7fd89a3fbd564299279aab&mode=1&name=acestream&mode=1&name=FOOD NETWORK HD
+#EXTINF:1,FOX HD
+plugin://program.plexus/?mode=1&url=acestream://37427870ac38330ff01bc80b2cb6d0fd28afaff8&mode=1&name=acestream&mode=1&name=FOX HD
+#EXTINF:1,FOX LIFE HD
+plugin://program.plexus/?mode=1&url=acestream://a626f4c7f6d6ed828941e9aa9cae7bc21733702f&mode=1&name=acestream&mode=1&name=FOX LIFE HD
+#EXTINF:1,FUTBOL 1
+plugin://program.plexus/?mode=1&url=acestream://24b2e33593c6425bb66a1237e2e967ca51d197c6&mode=1&name=acestream&mode=1&name=FUTBOL 1
+#EXTINF:1,FUTBOL 2 HD
+plugin://program.plexus/?mode=1&url=acestream://d440101d2eb0ebdfc245cfc4757587eed1169653&mode=1&name=acestream&mode=1&name=FUTBOL 2 HD
+#EXTINF:1,MOTORS TV
+plugin://program.plexus/?mode=1&url=acestream://3e8d43d648d29abf6d10575ac3facded18488190&mode=1&name=acestream&mode=1&name=MOTORS TV
+#EXTINF:1,MOTORSPORT 
+plugin://program.plexus/?mode=1&url=acestream://78e3496e60eb6531f1335639f84b28d712874ae3&mode=1&name=acestream&mode=1&name=MOTORSPORT
+#EXTINF:1,MOVISTAR F1
+plugin://program.plexus/?mode=1&url=acestream://9f5ffaecd6957cc1f4cd2ed91386419e623c04f6&mode=1&name=acestream&mode=1&name=MOVISTAR F1
+#EXTINF:1,MOVISTAR MOTO GP
+plugin://program.plexus/?mode=1&url=acestream://7c01784bfeba11565fce3626e155da1fcdb45976&mode=1&name=acestream&mode=1&name=MOVISTAR MOTO GP
+#EXTINF:1,MTV HITS
+plugin://program.plexus/?mode=1&url=acestream://0735776d281d43e2e5ec7564ae054f1bd96d13bc&mode=1&name=acestream&mode=1&name=MTV HITS
+#EXTINF:1,MTV ROCKS
+plugin://program.plexus/?mode=1&url=acestream://10b3ab7b1e7f136ab48e6ecfcf7ae34a5999c2f0&mode=1&name=acestream&mode=1&name=MTV ROCKS
+#EXTINF:1,MUSIC
+plugin://program.plexus/?mode=1&url=acestream://c92a9b24d96c6dc9a8e88e2de4fa126edd3ed7c3&mode=1&name=acestream&mode=1&name=MUSIC
+#EXTINF:1,NATIONAL GEOGRAPHIC HD
+plugin://program.plexus/?mode=1&url=acestream://03fce0dfc5c17cdf5e2f4b1711fb9849929be213&mode=1&name=acestream&mode=1&name=NATIONAL GEOGRAPHIC HD
+#EXTINF:1,NBA TV
+plugin://program.plexus/?mode=1&url=acestream://3462fdb26e872914ecc30572f3d06d391dbb16a9&mode=1&name=acestream&mode=1&name=NBA TV
+#EXTINF:1,NOVA SPORT
+plugin://program.plexus/?mode=1&url=acestream://2dd6f07b0f6b600ee0ced7e9e8af352939b0d2e9&mode=1&name=acestream&mode=1&name=NOVA SPORT
+#EXTINF:1,NOVA SPORT BG
+plugin://program.plexus/?mode=1&url=acestream://7437157eccc3c23fef405bf277e0d635329428cf&mode=1&name=acestream&mode=1&name=NOVA SPORT BG
+#EXTINF:1,NSPORT+ HD
+plugin://program.plexus/?mode=1&url=acestream://a1647d300e3e1de2844a8b7bfa33f32ed3d288c9&mode=1&name=acestream&mode=1&name=NSPORT+ HD
+#EXTINF:1,NTV+ FOOTBALL 1
+plugin://program.plexus/?mode=1&url=acestream://4ada28841b9a6e77a3f1f8fd093b6f9c6cb9ee1e&mode=1&name=acestream&mode=1&name=NTV+ FOOTBALL 1
+#EXTINF:1,NTV+ FUTBOL 1 HD
+plugin://program.plexus/?mode=1&url=acestream://5efb318d89ca6cc2bb3fd63994273082d6d7d5a5&mode=1&name=acestream&mode=1&name=NTV+ FUTBOL 1 HD
+#EXTINF:1,NTV+ FOOTBALL 2
+plugin://program.plexus/?mode=1&url=acestream://0157fa9dbe76774531f639cdb5a65f78b30532e5&mode=1&name=acestream&mode=1&name=NTV+ FOOTBALL 2
+#EXTINF:1,NTV+ FOOTBALL 2 HD
+plugin://program.plexus/?mode=1&url=acestream://4e9b24432608cf8e9f6a71d202430cf3cffa2f41&mode=1&name=acestream&mode=1&name=NTV+ FOOTBALL 2 HD
+#EXTINF:1,NTV+ FOOTBALL 3
+plugin://program.plexus/?mode=1&url=acestream://436426922fffeb08c06b4227042785d5c7d93735&mode=1&name=acestream&mode=1&name=NTV+ FOOTBALL 3
+#EXTINF:1,NTV+ FOOTBALL 3 HD
+plugin://program.plexus/?mode=1&url=acestream://b85f8e2dc02b039dc958724810614405d989dbd4&mode=1&name=acestream&mode=1&name=NTV+ FOOTBALL 3 HD
+#EXTINF:1,POLSAT SPORT EXTRA HD
+plugin://program.plexus/?mode=1&url=acestream://ed20cc93e89e6b232ee9e515b7cdeed57fd773b5&mode=1&name=acestream&mode=1&name=POLSAT SPORT EXTRA HD
+#EXTINF:1,POLSAT SPORT HD
+plugin://program.plexus/?mode=1&url=acestream://efffc8024effa9696a67ef93b967fb31664d67f4&mode=1&name=acestream&mode=1&name=POLSAT SPORT HD
+#EXTINF:1,POLSAT SPORT NEWS
+plugin://program.plexus/?mode=1&url=acestream://e3be8b6bf5439c7600319ccf782b612d5f4c450e&mode=1&name=acestream&mode=1&name=POLSAT SPORT NEWS
+#EXTINF:1,PREMIER SPORTS
+plugin://program.plexus/?mode=1&url=acestream://16466b42bfd48309ea0418bb77dcfb80ac6e90ee&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
+#EXTINF:1,SETANTA SPORTS + EURASIA HD
+plugin://program.plexus/?mode=1&url=acestream://4f341d4014b588016bdc636b906b880af6a26e63&mode=1&name=acestream&mode=1&name=SETANTA SPORTS + EURASIA HD
+#EXTINF:1,SETANTA SPORTS + HD
+plugin://program.plexus/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream&mode=1&name=SETANTA SPORTS + HD
+#EXTINF:1,SKY BUNDESLIGA 1
+plugin://program.plexus/?mode=1&url=acestream://4c1892087557c93e612fb0896fd4a341753700a0&mode=1&name=acestream&mode=1&name=SKY BUNDESLIGA 1
+#EXTINF:1,SKY SPORT HD 1
+plugin://program.plexus/?mode=1&url=acestream://f5ad291930308ed2125b164e6c48c2f0ec404325&mode=1&name=acestream&mode=1&name=SKY SPORT HD 1
+#EXTINF:1,SKY SPORTS 1
+plugin://program.plexus/?mode=1&url=acestream://3dec27f191922f42f6ff91a0f1641d15cba80d5e&mode=1&name=acestream&mode=1&name=SKY SPORTS 1
+#EXTINF:1,SKY SPORTS 2
+plugin://program.plexus/?mode=1&url=acestream://9435a603b27813c91af7bedca56d09859dae1751&mode=1&name=acestream&mode=1&name=SKY SPORTS 2
+#EXTINF:1,SKY SPORTS 3
+plugin://program.plexus/?mode=1&url=acestream://790ae5bc4ef54c62c55b68957bdd51769cbf8d55&mode=1&name=acestream&mode=1&name=SKY SPORTS 3
+#EXTINF:1,SKY SPORTS 4
+plugin://program.plexus/?mode=1&url=acestream://98021702106c7d6df60dcf0921ca5223dd22109f&mode=1&name=acestream&mode=1&name=SKY SPORTS 4
+#EXTINF:1,SKY SPORTS 5
+plugin://program.plexus/?mode=1&url=acestream://47eeb48b1ad7039ca55bf2917adfb5a1de8f7de6&mode=1&name=acestream&mode=1&name=SKY SPORTS 5
+#EXTINF:1,SKY SPORTS F1
+plugin://program.plexus/?mode=1&url=acestream://2eb1213b1fac44657589abe75ef690fdec04ca9b&mode=1&name=acestream&mode=1&name=SKY SPORTS F1
+#EXTINF:1,SKY SPORTS F1 HD
+plugin://program.plexus/?mode=1&url=acestream://77892d93c38311c60ae827c9ec13afc9d2c402c9&mode=1&name=acestream&mode=1&name=SKY SPORTS F1 HD
+#EXTINF:1,SPORT 1 DE
+plugin://program.plexus/?mode=1&url=acestream://0589bc6406c57b6646f4958ea479aac6921ec0b0&mode=1&name=acestream&mode=1&name=SPORT 1 DE
+#EXTINF:1,SPORT 1 CZ
+plugin://program.plexus/?mode=1&url=acestream://565fdf3c5b32c20b68ef404caf184dff245e809f&mode=1&name=acestream&mode=1&name=SPORT 1 CZ
+#EXTINF:1,SPORT 2 CZ
+plugin://program.plexus/?mode=1&url=acestream://dcf625e66752563f04f2977e4673e6988978851a&mode=1&name=acestream&mode=1&name=SPORT 2 CZ
+#EXTINF:1,SPORT 2 DE HD
+plugin://program.plexus/?mode=1&url=acestream://98447e85da7aacd8f43a33edb7e41cc250c8a031&mode=1&name=acestream&mode=1&name=SPORT 2 DE HD
+#EXTINF:1,SPORTMANIA
+plugin://program.plexus/?mode=1&url=acestream://49087edf62ebd59739a1a71ab47a2389c8f632df&mode=1&name=acestream&mode=1&name=SPORTMANIA
+#EXTINF:1,SUPER TENNIS HD
+plugin://program.plexus/?mode=1&url=acestream://bb5c904f9e68035bdb5b4654a6b171600e62a0b0&mode=1&name=acestream&mode=1&name=SUPER TENNIS HD
+#EXTINF:1,TELEDEPORTE
+plugin://program.plexus/?mode=1&url=acestream://c3ac9481ac78317ef4880d822fb44c0a3b858f0e&mode=1&name=acestream&mode=1&name=TELEDEPORTE
+#EXTINF:1,VIASAT HOCKEY
+plugin://program.plexus/?mode=1&url=acestream://b5ce7e00ec6e0b6076827720bbeb6ea36054bd19&mode=1&name=acestream&mode=1&name=VIASAT HOCKEY
+#EXTINF:1,VIASAT MOTOR
+plugin://program.plexus/?mode=1&url=acestream://b70983ba89591f00e2602a35e957a2d856a6d58c&mode=1&name=acestream&mode=1&name=VIASAT MOTOR
+#EXTINF:1,VIASAT SPORT
+plugin://program.plexus/?mode=1&url=acestream://f1ad35176050dfb899bd8065cc44754c4ae7b175&mode=1&name=acestream&mode=1&name=VIASAT SPORT
+#EXTINF:1,VIASAT SPORT BALTIC
+plugin://program.plexus/?mode=1&url=acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10&mode=1&name=acestream&mode=1&name=VIASAT SPORT BALTIC
+#EXTINF:1,VIASAT SPORT HD
+plugin://program.plexus/?mode=1&url=acestream://fa00f2699740e21983b9cbf630aa86d19108eba9&mode=1&name=acestream&mode=1&name=VIASAT SPORT HD
+#EXTINF:1,VIASAT SPORT SVERIGE
+plugin://program.plexus/?mode=1&url=acestream://ac7db4c644c21ca9d72c6724fcb206883a87fbbd&mode=1&name=acestream&mode=1&name=VIASAT SPORT SVERIGE
