@@ -1,67 +1,5 @@
 #EXTM3U
-#EXTINF:-1,#[COLOR yellow] no FUNCIONAN!!!!!!  [/COLOR]
-#EXTINF:-1,#[COLOR yellow] no FUNCIONAN!!!!!!  [/COLOR]
-#EXTM3U
-#EXTINF:-1,Sky Sports 1 SD
-http://78.56.221.9:7059/skysp1
-#EXTINF:-1,Sky Sports 2 SD
-http://78.56.221.9:7059/skysp2
-#EXTINF:-1,Sky Sports 3 SD
-http://78.56.221.9:7059/skysp3
-#EXTINF:-1,Sky Sports F1 SD
-http://78.56.221.9:7059/skyspf1
-#EXTINF:-1,Silk Sports
-http://94.43.239.178:8080/CHANNEL813/bitrates.m3u8
-#EXTINF:-1,Silk Sports 1
-http://94.43.239.178:8080/CHANNEL527/bitrates.m3u8
-#EXTINF:-1,Silk Sports 2
-http://94.43.239.178:8080/CHANNEL532/bitrates.m3u8
-#EXTINF:-1,Silk Sports 3
-http://94.43.239.178:8080/CHANNEL634/bitrates.m3u8
-#EXTINF:-1,Silk Sports
-http://188.169.178.234:8080/CHANNEL527/BITRATE1/playlist.m3u8
-#EXTINF:-1,Silk Sports 1
-http://188.169.178.234:8080/CHANNEL527/BITRATE1/playlist.m3u8
-#EXTINF:-1,Silk Sports 2
-http://188.169.178.234:8080/CHANNEL532/BITRATE1/playlist.m3u8
-#EXTINF:-1,Silk Sports 3
-http://188.169.178.234:8080/CHANNEL634/BITRATE1/playlist.m3u8
-#EXTINF:-1,Sports Stream HD (Stream Switches Channels)
-http://46.105.161.243:8085/lighd
-#EXTINF:-1,Ten Sports SD Shows Prem
-http://5.254.101.203:1935/tensports/tensports/playlist.m3u8
-#EXTINF:-1,Football 1
-http://77.120.118.230:8000/1
-#EXTINF:-1,Football 2
-http://77.120.118.230:8000/2
-#EXTINF:-1,WWE Network
-http://stream.strah.tv:666/live/wwe/playlist.m3u8
-#EXTINF:-1,Nash Football
-http://eter.noip.me:8080/live/only-in-moskvatv.com/fytfiugiohvrexrtyf78tyfygjgb/188.m3u8
-#EXTINF:-1,Match TV
-http://eter.noip.me:8080/live/only-in-moskvatv.com/fytfiugiohvrexrtyf78tyfygjgb/151.m3u8
-#EXTINF:-1,Sport 2
-http://eter.noip.me:8080/live/only-in-moskvatv.com/fytfiugiohvrexrtyf78tyfygjgb/150.m3u8
-#EXTINF:-1,LIG TV 1 HD
-http://51qya.streamgo1.stream:1935/edge/ch104/playlist.m3u8
-#EXTINF:-1,LIG TV 2 HD
-http://51qya.streamgo1.stream:1935/edge/ch105/playlist.m3u8
-#EXTINF:-1,LIG TV 3 HD
-http://51qya.streamgo1.stream:1935/edge/ch106/playlist.m3u8
-#EXTINF:-1,LIG TV 3
-http://vp4ki.streamgo1.stream:1935/edge/ch106/playlist.m3u8
-#EXTINF:-1,LIG TV 4 HD
-http://51qya.streamgo1.stream:1935/edge/ch115/playlist.m3u8
-#EXTINF:-1,Arena Sport 1
-http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
-#EXTINF:-1,Arena Sport 2
-http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8
-#EXTINF:-1,Arena Sport 3
-http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8
-#EXTINF:-1,Arena Sport 4
-http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8
-#EXTINF:-1,Arena Sport 5
-http://93.87.85.70/PLTV/88888888/224/3221226665/04.m3u8
+#EXTINF:-1,#[COLOR blue]  FUNCIONAN!!!!!!  [/COLOR]
 #EXTINF:-1,Superport 1
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1,Superport 2
@@ -76,83 +14,16 @@ http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
 http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
 #EXTINF:-1,IDMAN
 http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8
-#EXTINF:-1,Sky Sport Austria
-http://198.16.76.122:8000/194/OLOYOFOY97DHK832
-#EXTINF:-1,Sky Sport 2
-http://198.16.76.122:8000/201/OLOYOFOY97DHK832
-#EXTINF:-1,Sky Sport 1 Deutschland
-http://198.16.76.122:8000/211/OLOYOFOY97DHK832
-#EXTINF:-1,Sport 1 HD Deutschland
-http://198.16.76.122:8000/467/OLOYOFOY97DHK832
-#EXTINF:-1,Sky Bundesliga 1
-http://198.16.76.122:8000/212/OLOYOFOY97DHK832
-#EXTINF:-1,Sky Sport Austria HD
-http://198.16.76.122:8000/218/OLOYOFOY97DHK832
-#EXTINF:-1,Orange sport Polska
-http://198.16.76.122:8000/428/OLOYOFOY97DHK832
-#EXTINF:-1,Polsat Sport HD
-http://198.16.76.122:8000/511/OLOYOFOY97DHK832
-#EXTINF:-1,Polsat Sport Extra HD
-http://198.16.76.122:8000/514/OLOYOFOY97DHK832
-#EXTINF:-1,Canal + Sport HD
-http://198.16.76.122:8000/552/OLOYOFOY97DHK832
-#EXTINF:-1,Canal+ Sport 2 HD
-http://198.16.76.122:8000/609/OLOYOFOY97DHK832
-#EXTINF:-1,Eleven Sports Polska HD
-http://198.16.76.122:8000/554/OLOYOFOY97DHK832
 #EXTINF:-1,Dubai Sports 3
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Dubai Sports 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,Dubai Sports 4 HD
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,CCTV5+ HD
-http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv05plus/.m3u8
-#EXTINF:-1,Win Sports
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-#EXTINF:-1,AyM Sports
-http://190.57.234.166/V3/5/1.m3u8
-#EXTINF:-1,FIGHT SPORTS
-http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8
-#EXTINF:-1,X Sport
-http://94.158.80.100:9000/play/ch_576_1
-#EXTINF:-1,Kaz Sport
-http://vs8.cdn.ott.otautv.kz/dtv/id14_KTR_SG–KazSport/01/plst.m3u8
-#EXTINF:-1,M4 SPORT
-http://37.220.128.130:9100/21
-#EXTINF:-1,ALL Sports
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1,MLS/NBA HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1,NFL Now SD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:-1,NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1,Pac 12 (Bay Area)
-http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_2328_av-p.m3u8
-#EXTINF:-1,Pac 12 (Arizona)
-http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_2328_av-p.m3u8
-#EXTINF:-1,Pac 12 (Los Angeles)
-http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_2328_av-p.m3u8
-#EXTINF:-1,Pac 12 (Mountain)
-http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_2328_av-p.m3u8
-#EXTINF:-1,Pac 12 (Network)
-http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8
-#EXTINF:-1,Eurosport 1
-http://93.87.85.70/PLTV/88888888/224/3221226583/04.m3u8
-#EXTINF:-1,Eurosport 2
-http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8
-#EXTINF:-1,Turkmenistan Sport
-http://217.174.225.146/legacyhls/ch004.m3u8
-#EXTINF:-1,TRT SPOR
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-#EXTINF:-1,Tivibu Spor 1 HD
-http://mq0n6.streamgo1.stream:1935/edge/ch107/playlist.m3u8
-#EXTINF:-1,Tivibu Spor 2 HD
-http://mq0n6.streamgo1.stream:1935/edge/ch108/playlist.m3u8
-#EXTINF:-1,TURK-BURSASPOR TV
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-
 #EXTINF:-1,TV GUIDE
 rtmp://138.201.155.39:62468/tvguide/?channel1/myStream
 #EXTINF:-1,Fox Sports HD
@@ -171,6 +42,12 @@ rtmp://138.201.155.39:62468/channel11/?channel11/myStream
 rtmp://138.201.155.39:62468/channel9/?channel1/myStream
 #EXTINF:-1,MOTORSPORT HD
 rtmp://138.201.155.39:62468/channel10/?channel1/myStream
+
+#EXTINF:-1,#[COLOR yellow] no FUNCIONAN!!!!!!  [/COLOR]
+
+
+
+
 
 Eurosport 1 HD
 http://149.202.221.64/Eurosport1HD/mono.m3u8?token=YmJjcrrqx3
