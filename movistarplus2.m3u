@@ -152,7 +152,201 @@ http://www.t12v.com:8000/live/1054/1054/3937.ts
 #EXTINF:-1,ES_CANAL_DEPORTES_2
 http://www.t12v.com:8000/live/1054/1054/3935.ts
 
-
+#EXTINF:-1,--------FULL M+--------
+#EXTINF:-1,ES: NATGEO WILD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12306.ts
+#EXTINF:-1,ES: M.FÚTBOL
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12308.ts
+#EXTINF:-1,ES: CUATRO HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12318.ts
+#EXTINF:-1,ES: AXN SPAIN
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12313.ts
+#EXTINF:-1,ES:: TV Galicia
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10673.ts
+#EXTINF:-1,ES: TOROS TV
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10686.ts
+#EXTINF:-1,ES: REAL MADRID TV ERSATZ
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10674.ts
+#EXTINF:-1,ES: NAT GEOGRAPHIC
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10703.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10675.ts
+#EXTINF:-1,ES: MOVISTAR MOTO GP
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10677.ts
+#EXTINF:-1,ES: Moviestar F1
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10676.ts
+#EXTINF:-1,ES: HOLLYWOOD SPAIN
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10699.ts
+#EXTINF:-1,ES: FOX HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10700.ts
+#EXTINF:-1,ES: FOX
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10678.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10679.ts
+#EXTINF:-1,ES: DCINE ESPANIOL
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10705.ts
+#EXTINF:-1,ES: DCINE
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10706.ts
+#EXTINF:-1,ES: CANAL XTRA
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10708.ts
+#EXTINF:-1,#ES#: CANAL LIGA 1
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10680.ts
+#EXTINF:-1,ES: CANAL GOLF
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10709.ts
+#EXTINF:-1,ES: CANAL FUTBOL
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10690.ts
+#EXTINF:-1,#ES#: CANAL DEPORTES
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10691.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10707.ts
+#EXTINF:-1,#ES#: CANAL DCINE
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10682.ts
+#EXTINF:-1,ES: CANAL ACCION SD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10695.ts
+#EXTINF:-1,#ES#: CANAL ACCION
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10683.ts
+#EXTINF:-1,ES: CALLE 13
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10696.ts
+#EXTINF:-1,ES: AXN HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10710.ts
+#EXTINF:-1,ES: ANTENA 3
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10697.ts
+#EXTINF:-1,#ES#: TAQUILLA 1 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12521.ts
+#EXTINF:-1,#ES#: TAQUILLA 2 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12522.ts
+#EXTINF:-1,#ES#: TAQUILLA 3 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12523.ts
+#EXTINF:-1,#ES#: TAQUILLA 4 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12524.ts
+#EXTINF:-1,ES: TAQUILLA 5 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12525.ts
+#EXTINF:-1,ES: TAQUILLA 6 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12526.ts
+#EXTINF:-1,ES: TAQUILLA 7 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12527.ts
+#EXTINF:-1,#ES#: TAQUILLA 8 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12528.ts
+#EXTINF:-1,#ES#: TAQUILLA 9 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12529.ts
+#EXTINF:-1,#ES#: TAQUILLA 10 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12530.ts
+#EXTINF:-1,ES: REAL MADRID TV HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12659.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12549.ts
+#EXTINF:-1,ES: EUROSPORT
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12551.ts
+#EXTINF:-1,ES: CANAL FUTBOL HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12554.ts
+#EXTINF:-1,ES: CANAL  XTRA HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12660.ts
+#EXTINF:-1,ES: CANAL  SERIES HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12661.ts
+#EXTINF:-1,ES: CANAL  GOLF HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12662.ts
+#EXTINF:-1,ES: CANAL  FUTBOL HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12663.ts
+#EXTINF:-1,ES: CANAL  ESTRENOS HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12664.ts
+#EXTINF:-1,ES: CANAL  DEPORTES 2 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12666.ts
+#EXTINF:-1,ES: CANAL  COMEDIA HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12668.ts
+#EXTINF:-1,ES: C  SERIES XTRA HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12505.ts
+#EXTINF:-1,ES: C  SERIES HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12506.ts
+#EXTINF:-1,ES: C  GOLF HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12509.ts
+#EXTINF:-1,ES: C  DEPORTES HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12512.ts
+#EXTINF:-1,ES: C  DCINE HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12514.ts
+#EXTINF:-1,ES: C  ACCION HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12516.ts
+#EXTINF:-1,ES: C   XTRA HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12517.ts
+#EXTINF:-1,ES: BARCA TV
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12558.ts
+#EXTINF:-1,ES: AXN WHITE HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12519.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12830.ts
+#EXTINF:-1,ES: LA 2 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12829.ts
+#EXTINF:-1,ES: LA 1 HD
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12828.ts
+#EXTINF:-1,ES: FOX SPAIN
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12832.ts
+#EXTINF:-1,ES: NOVA
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13347.ts
+#EXTINF:-1,ES: CANAL ODISEA
+http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13349.ts
+#EXTINF:-1,ES_TELECINCO
+http://89.163.148.31:8000/live/home/home/7956.ts
+#EXTINF:-1,ES_REAL_MADRID_TV
+http://89.163.148.31:8000/live/home/home/7955.ts
+#EXTINF:-1,ES_MOVIESTAR_MOTOGP
+http://89.163.148.31:8000/live/home/home/7954.ts
+#EXTINF:-1,ES_CANAL_COCINA
+http://89.163.148.31:8000/live/home/home/7951.ts
+#EXTINF:-1,ES_CANAL_ACTION
+http://89.163.148.31:8000/live/home/home/7950.ts
+#EXTINF:-1,ES_CANAL_2
+http://89.163.148.31:8000/live/home/home/7949.ts
+#EXTINF:-1,ES_CANAL _TOROS
+http://89.163.148.31:8000/live/home/home/7948.ts
+#EXTINF:-1,ES_CANAL _LIGA_HD
+http://89.163.148.31:8000/live/home/home/7947.ts
+#EXTINF:-1,ES_CANAL _Estrenos HD
+http://89.163.148.31:8000/live/home/home/7945.ts
+#EXTINF:-1,ES_CANAL _DEPORTES
+http://89.163.148.31:8000/live/home/home/7944.ts
+#EXTINF:-1,ES_CANAL _DCINE
+http://89.163.148.31:8000/live/home/home/7943.ts
+#EXTINF:-1,ES_CANAL _COMEDIA
+http://89.163.148.31:8000/live/home/home/7942.ts
+#EXTINF:-1,ES_CANAL _1
+http://89.163.148.31:8000/live/home/home/7941.ts
+#EXTINF:-1,ES_CALLE_13
+http://89.163.148.31:8000/live/home/home/7940.ts
+#EXTINF:-1,ES: TVE La 2HD
+http://89.163.148.31:8000/live/home/home/7938.ts
+#EXTINF:-1,ES: TV3 Cat
+http://89.163.148.31:8000/live/home/home/7937.ts
+#EXTINF:-1,ES: Odisea HD
+http://89.163.148.31:8000/live/home/home/7936.ts
+#EXTINF:-1,ES: National Geographic
+http://89.163.148.31:8000/live/home/home/7935.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://89.163.148.31:8000/live/home/home/7953.ts
+#EXTINF:-1,ES: Hollywood
+http://89.163.148.31:8000/live/home/home/7934.ts
+#EXTINF:-1,ES: History
+http://89.163.148.31:8000/live/home/home/7933.ts
+#EXTINF:-1,ES: Fox Spain
+http://89.163.148.31:8000/live/home/home/7932.ts
+#EXTINF:-1,ES: Eurosport 2
+http://89.163.148.31:8000/live/home/home/7931.ts
+#EXTINF:-1,ES: Disney Channel
+http://89.163.148.31:8000/live/home/home/7930.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://89.163.148.31:8000/live/home/home/7952.ts
+#EXTINF:-1,ES: CANAL  FUTBOL
+http://89.163.148.31:8000/live/home/home/7946.ts
+#EXTINF:-1,ES: Canal   Golf
+http://89.163.148.31:8000/live/home/home/7929.ts
+#EXTINF:-1,ES: Bein Sports HD
+http://89.163.148.31:8000/live/home/home/7928.ts
+#EXTINF:-1,ES: BARCA TV
+http://89.163.148.31:8000/live/home/home/7939.ts
+#EXTINF:-1,ES: AXN White
+http://89.163.148.31:8000/live/home/home/7927.ts
+#EXTINF:-1,ES: AXN
+http://89.163.148.31:8000/live/home/home/7926.ts
+#EXTINF:-1,ES: A&E
+http://89.163.148.31:8000/live/home/home/7925.ts
 
 
 
