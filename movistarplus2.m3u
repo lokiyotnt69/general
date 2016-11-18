@@ -1,103 +1,5 @@
 #EXTM3U
-#EXTINF:-1,#[COLOR blue]  FUNCIONAN!!!!!!  [/COLOR]
-#EXTINF:-1,Superport 1
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1,Superport 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1,Superport 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,Superport 4
-http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:-1,Tile Sports 1
-http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
-#EXTINF:-1,Tile Sports 2
-http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
-#EXTINF:-1,IDMAN
-http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8
-#EXTINF:-1,Dubai Sports 3
-http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Dubai Sports 3
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,MLS/NBA HD
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1,NFL Now SD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#EXTINF:-1,NFL Now HD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1,TV GUIDE
-rtmp://138.201.155.39:62468/tvguide/?channel1/myStream
-#EXTINF:-1,Fox Sports HD
-rtmp://138.201.155.39:62468/channel1/?channel1/myStream
-#EXTINF:-1,Motors TV UK
-rtmp://138.201.155.39:62468/channel2/?channel1/myStream
-#EXTINF:-1,Fox Sports 3HD
-rtmp://138.201.155.39:62468/channel3/?channel1/myStream
-#EXTINF:-1,Fox Sports HD
-rtmp://138.201.155.39:62468/channel4/?channel4/myStream
-#EXTINF:-1,Fox Sports 7HD
-rtmp://138.201.155.39:62468/channel7/?channel1/myStream
-#EXTINF:-1,Irish Horse TV
-rtmp://138.201.155.39:62468/channel11/?channel11/myStream
-#EXTINF:-1,Ziggo Sport Golf
-rtmp://138.201.155.39:62468/channel9/?channel1/myStream
-#EXTINF:-1,MOTORSPORT HD
-rtmp://138.201.155.39:62468/channel10/?channel1/myStream
-
-#EXTINF:-1,#[COLOR yellow] no FUNCIONAN!!!!!!  [/COLOR]
-
-#EXTINF:-1,CBCSPORT
-http://149.255.152.110/cbcsport/index.m3u8
-#EXTINF:-1,NBCSNSPORT
-http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
-#EXTINF:-1,FOX SPORT
-http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8
-#EXTINF:-1,FOX SPORT 3HD
-http://61.216.71.67/sta/ch02.m3u8
-#EXTINF:-1,SPORT
-http://46.105.161.243:8085/lighd
-
-#EXTINF:-1,SUPERSPORTS
-http://46.105.161.243:8085/lighd
-#EXTINF:-1,CBCSPORT
-http://149.255.152.110/cbcsport/index.m3u8
-#EXTINF:-1, SPORTS TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1,SPORT TONIGHT
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16×9-SD
-
-#EXTINF:-1 tvg-logo=”/1347.png”,Eurosport HD
-http://46.8.38.5:8000/play/a02m
-#EXTINF:-1 tvg-logo=”www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-1_o.jpg”,ADSport 1HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-logo=”www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg”,ADSport 2HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 tvg-logo=”content.osn.com/logo/channel/165×120/AD3.png”,ADSports 3HD
-http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
-#EXTINF:-1 tvg-logo=”osnplay.osn.com/Documents/adsports-4.png”,ADSports 4HD
-http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
-#EXTINF:-1 tvg-logo=”content.osn.com/logo/channel/165×120/AD5.png”,ADSports 5HD
-http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
-
-#EXTINF:-1,Super Sport 1
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1,Super Sport 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1,Super Sport 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,Super Sport 4
-http://81.7.13.162/hls/ss4/index.m3u8
-
-#EXTINF:-1,DigiSport3
-http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
-#EXTINF:-1,novaSport1
-http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
-#EXTINF:-1,Eurosport2
-http://213.81.153.241/live001/channel014_p2.stream/DVR.m3u8
-
-
-
-#EXTM3U
-
+#EXTINF:-1,#[COLOR red] ACESTREAM Y PLEXUS  [/COLOR]
 #EXTINF:1,SPORT TV 1
 plugin://program.plexus/?mode=1&url=acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6&mode=1&name=acestream&mode=1&name=SPORT TV 1
 #EXTINF:1,SPORT TV 2
@@ -113,7 +15,7 @@ plugin://program.plexus/?mode=1&url=acestream://253369b57f2a45e1489e5bb7eab4daf0
 #EXTINF:1,BENFICA TV 2
 plugin://program.plexus/?mode=1&url=acestream://c1646f459c86ab24533650333957a57b457d80c1&mode=1&name=acestream&mode=1&name=BENFICA TV 2
 
-#EXTINF:-1,#[COLOR red] ACESTREAM Y PLEXUS  [/COLOR]
+
 #EXTINF:1,ARENA SPORT 1
 plugin://program.plexus/?mode=1&url=acestream://b645fe042866dbf89c8ee03d7e64bc801fb0ef0d&mode=1&name=acestream&mode=1&name=ARENA SPORT 1
 #EXTINF:1,ARENA SPORT 2

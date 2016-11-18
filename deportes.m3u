@@ -1,220 +1,103 @@
 #EXTM3U
-#EXTINF:-1,#[COLOR yellow]  NO FUNCIONAN!!!!!!  [/COLOR]
-#EXTINF:-1,[COLOR red][I][B]-- no funcionan!!!!------------[/B][/I][/COLOR]
-#EXTINF:-1 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3
-http://a3live-lh.akamaihd.net/i/antena3/antena3_1@35248/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3 (Opción 2)
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-id=”Antena 3″ tvg-name=”Antena 3″, Antena 3 (Opción 3)
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=”España” tvg-logo=”Antena 3.jpg”,Antena 3 Series
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 group-title=”España” tvg-logo=”La Sexta.jpg”,La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=”España” tvg-logo=”La Sexta.jpg”,La Sexta (Opción 2)
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=”España” tvg-logo=”mega.jpg”,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=”España”,Antena 3
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 group-title=”España”, Extremadura TV
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-#EXTINF:-1 group-title=”España”, La 2
-http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
-#EXTINF:-1 group-title=”España”,Fail TV
-http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
-#EXTINF:-1 group-title=”España”, Telemadrid
-http://telemadrid-live.hls.adaptive.level3.net:80/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
-#EXTINF:-1 group-title=”España”,Andalucia TV
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1 group-title=”España”, La Sexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,La Sexta (Opción 2)
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=”España”,Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=”España”,Tv Galicia
-http://media3.crtvg.es/live/tvge/chunklist.m3u8
-#EXTINF:-1 group-title=”España”,24Horas
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 group-title=”España”,Mediterraneo TV
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
-
-
-
-
-
-
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,#[COLOR blue]  FUNCIONAN!!!!!!  [/COLOR]
+#EXTINF:-1,Superport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,Superport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,Superport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,Superport 4
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1,Tile Sports 1
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+#EXTINF:-1,Tile Sports 2
+http://tv1.streampulse.eu:1935/tilesport/movie1/geldegor.m3u8
+#EXTINF:-1,IDMAN
+http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8
+#EXTINF:-1,Dubai Sports 3
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Dubai Sports 3
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1,MLS/NBA HD
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1,NFL Now SD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1,NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:-1,TV GUIDE
+rtmp://138.201.155.39:62468/tvguide/?channel1/myStream
+#EXTINF:-1,Fox Sports HD
+rtmp://138.201.155.39:62468/channel1/?channel1/myStream
+#EXTINF:-1,Motors TV UK
+rtmp://138.201.155.39:62468/channel2/?channel1/myStream
+#EXTINF:-1,Fox Sports 3HD
+rtmp://138.201.155.39:62468/channel3/?channel1/myStream
+#EXTINF:-1,Fox Sports HD
+rtmp://138.201.155.39:62468/channel4/?channel4/myStream
+#EXTINF:-1,Fox Sports 7HD
+rtmp://138.201.155.39:62468/channel7/?channel1/myStream
+#EXTINF:-1,Irish Horse TV
+rtmp://138.201.155.39:62468/channel11/?channel11/myStream
+#EXTINF:-1,Ziggo Sport Golf
+rtmp://138.201.155.39:62468/channel9/?channel1/myStream
+#EXTINF:-1,MOTORSPORT HD
+rtmp://138.201.155.39:62468/channel10/?channel1/myStream
 
-#EXTINF:-1,ES: LA 1
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/195.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: 40 TV
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/472.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: CANAL+ DCine
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/487.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: CANAL+ LIGA HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/197.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: CANAL+ GOLF
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/483.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: CANAL+ SERIES XTRA
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/602.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: CANAL+ ESTRENOS
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/597.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/652.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: REAL MADRID
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/466.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: LA SEXTA HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/196.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: HOLLYWOOD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/416.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: FOX
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/419.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: FOX LIFE
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/418.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: AXN
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/412.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/468.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/491.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/490.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: TV GALICIA
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/592.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/593.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: CAZA Y PESCA
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/596.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: ANDALUCIA TV
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/599.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,#[COLOR yellow] no FUNCIONAN!!!!!!  [/COLOR]
+
+#EXTINF:-1,CBCSPORT
+http://149.255.152.110/cbcsport/index.m3u8
+#EXTINF:-1,NBCSNSPORT
+http://46.166.162.35:9090/load/b0922f3fa8aa/42.m3u8
+#EXTINF:-1,FOX SPORT
+http://46.166.162.35:9090/load/b0922f3fa8aa/44.m3u8
+#EXTINF:-1,FOX SPORT 3HD
+http://61.216.71.67/sta/ch02.m3u8
+#EXTINF:-1,SPORT
+http://46.105.161.243:8085/lighd
+
+#EXTINF:-1,SUPERSPORTS
+http://46.105.161.243:8085/lighd
+#EXTINF:-1,CBCSPORT
+http://149.255.152.110/cbcsport/index.m3u8
+#EXTINF:-1, SPORTS TV
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,SPORT TONIGHT
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16×9-SD
+
+#EXTINF:-1 tvg-logo=”/1347.png”,Eurosport HD
+http://46.8.38.5:8000/play/a02m
+#EXTINF:-1 tvg-logo=”www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-1_o.jpg”,ADSport 1HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-logo=”www.sat-address.com/f/pics/logotipi/Abu-Dhabi-Sports-2_o.jpg”,ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-logo=”content.osn.com/logo/channel/165×120/AD3.png”,ADSports 3HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1 tvg-logo=”osnplay.osn.com/Documents/adsports-4.png”,ADSports 4HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1 tvg-logo=”content.osn.com/logo/channel/165×120/AD5.png”,ADSports 5HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
+
+#EXTINF:-1,Super Sport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,Super Sport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,Super Sport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,Super Sport 4
+http://81.7.13.162/hls/ss4/index.m3u8
+
+#EXTINF:-1,DigiSport3
+http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
+#EXTINF:-1,novaSport1
+http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
+#EXTINF:-1,Eurosport2
+http://213.81.153.241/live001/channel014_p2.stream/DVR.m3u8
 
 
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1,[COLOR white][I][B]------A Veces ON / OFF--------[/B][/I][/COLOR]
 
-#EXTINF:-1,C+ DEPORT 2
-http://5.147.77.93:8001/1:0:1:760C:408:1:C00000:0:0:0:
-#EXTINF:-1,DCINE ESPANOL
-http://5.147.77.93:8001/1:0:1:7736:416:1:C00000:0:0:0:
-#EXTINF:-1,MOVISTAR F1
-http://5.147.77.93:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
-#EXTINF:-1,PARAMOUNT
-http://5.147.77.93:8001/1:0:1:75F9:408:1:C00000:0:0:0:
-#EXTINF:-1,C.ESTRELLAS
-http://5.147.77.93:8001/1:0:1:74A3:41C:1:C00000:0:0:0:
-#EXTINF:-1,C+ ESTRENOS
-http://5.147.77.93:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
-#EXTINF:-1,C+ PARTIDAZO
-http://5.147.77.93:8001/1:0:1:769C:41E:1:C00000:0:0:0:
-#EXTINF:-1,C+ SERIESXTRA
-http://5.147.77.93:8001/1:0:1:76CA:40E:1:C00000:0:0:0:
-#EXTINF:-1,CANAL COCINA
-http://5.147.77.93:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
-#EXTINF:-1,CANAL IBERIA
-http://5.147.77.93:8001/1:0:1:746A:3F0:1:C00000:0:0:0:
-#EXTINF:-1,CANAL ORBE21
-http://5.147.77.93:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
-#EXTINF:-1,CANAL SUR A.
-http://5.147.77.93:8001/1:0:1:7729:416:1:C00000:0:0:0:
-#EXTINF:-1,CANAL+ XTRA
-http://5.147.77.93:8001/1:0:1:77C6:40A:1:C00000:0:0:0:
-#EXTINF:-1,CAZA Y PESCA
-http://5.147.77.93:8001/1:0:1:772B:416:1:C00000:0:0:0:
-#EXTINF:-1,CLAN  TVE
-http://5.147.77.93:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
-#EXTINF:-1,DECASA
-http://5.147.77.93:8001/1:0:1:7795:424:1:C00000:0:0:0:
-#EXTINF:-1,DIVINITY
-http://5.147.77.93:8001/1:0:1:749A:41C:1:C00000:0:0:0:
-#EXTINF:-1,ENERGY
-http://5.147.77.93:8001/1:0:1:749F:41C:1:C00000:0:0:0:
-#EXTINF:-1,FDF
-http://5.147.77.93:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
-#EXTINF:-1,LA 2
-http://5.147.77.93:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
-#EXTINF:-1,NEOX
-http://5.147.77.93:8001/1:0:1:75FE:408:1:C00000:0:0:0:
-#EXTINF:-1,NONSTOPEOPLE
-http://5.147.77.93:8001/1:0:1:772E:416:1:C00000:0:0:0:
-#EXTINF:-1,NOVA
-http://5.147.77.93:8001/1:0:1:7469:3F0:1:C00000:0:0:0:
-#EXTINF:-1,SUNDANCE
-http://5.147.77.93:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
-#EXTINF:-1,TCM
-http://5.147.77.93:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
-#EXTINF:-1,TELECINCO
-http://5.147.77.93:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
-#EXTINF:-1,24 HORAS
-http://5.147.77.93:8001/1:0:1:7738:416:1:C00000:0:0:0:
-#EXTINF:-1,ARAGON TV
-http://5.147.77.93:8001/1:0:1:75FD:408:1:C00000:0:0:0:
-#EXTINF:-1,FOX NEWS
-http://5.147.77.93:8001/1:0:1:749B:41C:1:C00000:0:0:0:
-#EXTINF:-1,A&E
-http://5.147.77.93:8001/1:0:1:772D:416:1:C00000:0:0:0:
-#EXTINF:-1,CANAL ODISEA
-http://5.147.77.93:8001/1:0:1:778A:424:1:C00000:0:0:0:
-#EXTINF:-1,CRIMEN+INVES
-http://5.147.77.93:8001/1:0:1:7732:416:1:C00000:0:0:0:
-#EXTINF:-1,DISCOVERY
-http://5.147.77.93:8001/1:0:1:772F:416:1:C00000:0:0:0:
-#EXTINF:-1,HISTORIA
-http://5.147.77.93:8001/1:0:1:7731:416:1:C00000:0:0:0:
-#EXTINF:-1,VIAJAR
-http://5.147.77.93:8001/1:0:1:76C9:40E:1:C00000:0:0:0:
-#EXTINF:-1,BABY TV
-http://5.147.77.93:8001/1:0:1:749C:41C:1:C00000:0:0:0:
-#EXTINF:-1,BOING
-http://5.147.77.93:8001/1:0:1:749E:41C:1:C00000:0:0:0:
-#EXTINF:-1,CANAL PANDA
-http://5.147.77.93:8001/1:0:1:75FF:408:1:C00000:0:0:0:
-#EXTINF:-1,DISNEY JR
-http://5.147.77.93:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
-#EXTINF:-1,DISNEY XD
-http://5.147.77.93:8001/1:0:1:772A:416:1:C00000:0:0:0:
-#EXTINF:-1,Nick Jr
-http://5.147.77.93:8001/1:0:1:6FF5:42A:1:C00000:0:0:0:
-#EXTINF:-1,NICKELODEON Iberia
-http://5.147.77.93:8001/1:0:1:6FF4:42A:1:C00000:0:0:0:
-#EXTINF:-1,BARÇA TV
-http://5.147.77.93:8001/1:0:1:74A0:41C:1:C00000:0:0:0:
-#EXTINF:-1,BEIN MAX 4
-http://5.147.77.93:8001/1:0:1:757C:412:1:C00000:0:0:0:
-#EXTINF:-1,BEIN MAX 5
-http://5.147.77.93:8001/1:0:1:757D:412:1:C00000:0:0:0:
-#EXTINF:-1,BEIN MAX 6
-http://5.147.77.93:8001/1:0:1:769D:41E:1:C00000:0:0:0:
-#EXTINF:-1,BEIN MAX 7
-http://5.147.77.93:8001/1:0:1:769E:41E:1:C00000:0:0:0:
-#EXTINF:-1,BEIN MAX 8
-http://5.147.77.93:8001/1:0:1:7576:412:1:C00000:0:0:0:
-#EXTINF:-1,C+  TOROS
-http://5.147.77.93:8001/1:0:1:7570:412:1:C00000:0:0:0:
-#EXTINF:-1,C+ DEPORTES
-http://5.147.77.93:8001/1:0:1:778F:424:1:C00000:0:0:0:
-#EXTINF:-1,C+ FUTBOL
-http://5.147.77.93:8001/1:0:1:778E:424:1:C00000:0:0:0:
-#EXTINF:-1,EUROSPORT 2
-http://5.147.77.93:8001/1:0:1:760E:408:1:C00000:0:0:0:
-#EXTINF:-1,GOLF+
-http://5.147.77.93:8001/1:0:1:7789:424:1:C00000:0:0:0:
-#EXTINF:-1,M. MOTOGP
-http://5.147.77.93:8001/1:0:1:7739:416:1:C00000:0:0:0:
-#EXTINF:-1,TELEDEPORTE
-http://5.147.77.93:8001/1:0:1:76CC:40E:1:C00000:0:0:0:
-#EXTINF:-1,40 TV
-http://5.147.77.93:8001/1:0:1:76C5:40E:1:C00000:0:0:0:
-#EXTINF:-1,CLASSICA
-http://5.147.77.93:8001/1:0:1:7602:408:1:C00000:0:0:0:
-#EXTINF:-1,MTV ESPANA
-http://5.147.77.93:8001/1:0:1:74A2:41C:1:C00000:0:0:0:
-#EXTINF:-1,LTC
-http://5.147.77.93:8001/1:0:1:749D:41C:1:C00000:0:0:0:
-#EXTINF:-1,PLAYBOY TV
-http://5.147.77.93:8001/1:0:1:778B:424:1:C00000:0:0:0:
 
 
 
