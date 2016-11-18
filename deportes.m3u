@@ -97,163 +97,11 @@ http://213.81.153.241/live001/channel014_p2.stream/DVR.m3u8
 
 
 #EXTINF:-1,#[COLOR blue]  Fase 1 24:31...... [/
-#EXTINF:-1,US: Famly HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1161.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport Pag TV
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1442.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport Network
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1172.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport Versus HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1431.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: World Fashion TV
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1432.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport NFL Now HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1434.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: HBO 1
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1433.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport MLS Soccer
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1151.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport Tonight
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1158.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport Fight Sport
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1436.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: FOX 1
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1435.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport LTVE HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1153.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Starz Edge
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1451.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: C-Span 1 HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1148.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: C-Span 2 HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1160.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: C-Span 3 HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1162.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport TSN 1
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1177.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport TSN 2
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1438.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport TSN 3
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1169.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport TSN 4
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1175.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport TSN 5
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1176.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport Snet 360
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1441.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: NHL Network HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1429.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Sport Snet Central
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1430.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Espn Sport
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1164.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: AFN Movies HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1146.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Thai CH8
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1168.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: AMC
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1157.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Fox Movies
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1447.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Fox Action
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1448.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Amazing Music
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1446.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: TBS Channle
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1449.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Starz East
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1450.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: NFL Live HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1178.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: ShowTime HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1439.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: A&E Network
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1173.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: BeIN Sport US
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1166.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: SYFY HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1154.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Bravo
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1165.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Encro Sport
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1443.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Disccovery HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1150.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: FX HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1149.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: TMN 1 Moves
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1152.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: AMG Entertainment
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1437.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Daystart
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1145.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Hallmark HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1159.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: HSN
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1170.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Cinemax
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1163.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: TNT
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1156.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: NBA TV
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1174.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: ABC NEWS HD
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1179.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Poker Central
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1155.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: California TV
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1171.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Bloomberg
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1180.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: Amazing Discoveries
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1181.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,US: BYU
-plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1888/1888/1147.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
-
-#EXTINF:-1,TSN 1
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2817.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,TSN 3
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2819.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,NBA TV
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2484.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ESPN
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2612.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ESPN 2
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2710.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,NFL HD
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2705.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,Fox Sports 1HD
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2703.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,Fox Sports 2HD
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2702.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,AFN SPORTS 2
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2839.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,USA Network
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2711.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,Poker Central
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2699.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ABC
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2698.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,BEIN SPORT
-plugin://plugin.video.f4mTester/?url=http://www.zeebra.tv:8000/live/tiger009/tiger009/2700.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-
-#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:-1,USA:FIGHT-SPORT
 plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19388.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,USA:FIGHT-NETWORK
-plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19389.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,USA: TBS HD
-plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19390.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,USA: ESPN 2
 plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19391.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,USA TNT HD
 plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/19398.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
@@ -2193,7 +2041,16 @@ rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 rtsp://flash3.todostreaming.es/radiovida/mobile
 #EXTINF:-1,Alfa TV
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
-
+#EXTINF:-1,ES_TAQUILLA_3
+http://www.t12v.com:8000/live/1054/1054/282.ts
+#EXTINF:-1,ES_TAQUILLA_4
+http://www.t12v.com:8000/live/1054/1054/265.ts
+#EXTINF:-1,ES_TAQUILLA_5
+http://www.t12v.com:8000/live/1054/1054/904.ts
+#EXTINF:-1,ES_TAQUILLA_6
+http://www.t12v.com:8000/live/1054/1054/858.ts
+#EXTINF:-1,ES_TAQUILLA_7
+http://www.t12v.com:8000/live/1054/1054/854.ts
 
 
 
