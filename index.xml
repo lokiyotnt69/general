@@ -90,15 +90,6 @@
 
 
 <item>
-<title>-[COLOR orange] Movistar Plus 2 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/movistarplus2.m3u</externallink>	
-</item> 
-
-
-<item>
 <title>-[COLOR white]2500 peliculas Latino[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://14575-presscdn-0-73.pagely.netdna-cdn.com/wp-content/uploads/2013/04/CineEnFamilia_logo_438x198.jpg</thumbnail>
@@ -128,7 +119,7 @@
 
 
 <item>
-<title>-[COLOR yellow] FUTBOL+[/COLOR]</title>
+<title>-[COLOR yellow] Fase1 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -137,7 +128,7 @@
 
 
 <item>
-<title>-[COLOR white] TodoFutbol [/COLOR]</title>
+<title>-[COLOR white] FasePrueva [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -153,5 +144,14 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
 </item>
 
+
+
+<item>
+<title>-[COLOR orange] Movistar Plus 2 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/movistarplus2.m3u</externallink>	
+</item> 
 
 

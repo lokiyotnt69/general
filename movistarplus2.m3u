@@ -1,113 +1,1105 @@
 #EXTM3U
 #EXTINF:-1,#[COLOR yellow] no FUNCIONAN!!!!!!  [/COLOR]
-#EXTINF:-1,C+ DEPORT 2
-http://5.147.77.93:8001/1:0:1:760C:408:1:C00000:0:0:0:
-#EXTINF:-1,DCINE ESPANOL
-http://5.147.77.93:8001/1:0:1:7736:416:1:C00000:0:0:0:
-#EXTINF:-1,MOVISTAR F1
-http://5.147.77.93:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
-#EXTINF:-1,PARAMOUNT
-http://5.147.77.93:8001/1:0:1:75F9:408:1:C00000:0:0:0:
-#EXTINF:-1,C.ESTRELLAS
-http://5.147.77.93:8001/1:0:1:74A3:41C:1:C00000:0:0:0:
-#EXTINF:-1,C+ ESTRENOS
-http://5.147.77.93:8001/1:0:1:76C0:40E:1:C00000:0:0:0:
-#EXTINF:-1,C+ PARTIDAZO
-http://5.147.77.93:8001/1:0:1:769C:41E:1:C00000:0:0:0:
-#EXTINF:-1,C+ SERIESXTRA
-http://5.147.77.93:8001/1:0:1:76CA:40E:1:C00000:0:0:0:
-#EXTINF:-1,CANAL COCINA
-http://5.147.77.93:8001/1:0:1:76CE:40E:1:C00000:0:0:0:
-#EXTINF:-1,CANAL IBERIA
-http://5.147.77.93:8001/1:0:1:746A:3F0:1:C00000:0:0:0:
-#EXTINF:-1,CANAL ORBE21
-http://5.147.77.93:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
-#EXTINF:-1,CANAL SUR A.
-http://5.147.77.93:8001/1:0:1:7729:416:1:C00000:0:0:0:
-#EXTINF:-1,CANAL+ XTRA
-http://5.147.77.93:8001/1:0:1:77C6:40A:1:C00000:0:0:0:
-#EXTINF:-1,CAZA Y PESCA
-http://5.147.77.93:8001/1:0:1:772B:416:1:C00000:0:0:0:
-#EXTINF:-1,CLAN  TVE
-http://5.147.77.93:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
-#EXTINF:-1,DECASA
-http://5.147.77.93:8001/1:0:1:7795:424:1:C00000:0:0:0:
-#EXTINF:-1,DIVINITY
-http://5.147.77.93:8001/1:0:1:749A:41C:1:C00000:0:0:0:
-#EXTINF:-1,ENERGY
-http://5.147.77.93:8001/1:0:1:749F:41C:1:C00000:0:0:0:
-#EXTINF:-1,FDF
-http://5.147.77.93:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
-#EXTINF:-1,LA 2
-http://5.147.77.93:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
-#EXTINF:-1,NEOX
-http://5.147.77.93:8001/1:0:1:75FE:408:1:C00000:0:0:0:
-#EXTINF:-1,NONSTOPEOPLE
-http://5.147.77.93:8001/1:0:1:772E:416:1:C00000:0:0:0:
-#EXTINF:-1,NOVA
-http://5.147.77.93:8001/1:0:1:7469:3F0:1:C00000:0:0:0:
-#EXTINF:-1,SUNDANCE
-http://5.147.77.93:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
-#EXTINF:-1,TCM
-http://5.147.77.93:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
-#EXTINF:-1,TELECINCO
-http://5.147.77.93:8001/1:0:1:77C3:40A:1:C00000:0:0:0:
-#EXTINF:-1,24 HORAS
-http://5.147.77.93:8001/1:0:1:7738:416:1:C00000:0:0:0:
-#EXTINF:-1,ARAGON TV
-http://5.147.77.93:8001/1:0:1:75FD:408:1:C00000:0:0:0:
-#EXTINF:-1,FOX NEWS
-http://5.147.77.93:8001/1:0:1:749B:41C:1:C00000:0:0:0:
-#EXTINF:-1,A&E
-http://5.147.77.93:8001/1:0:1:772D:416:1:C00000:0:0:0:
-#EXTINF:-1,CANAL ODISEA
-http://5.147.77.93:8001/1:0:1:778A:424:1:C00000:0:0:0:
-#EXTINF:-1,CRIMEN+INVES
-http://5.147.77.93:8001/1:0:1:7732:416:1:C00000:0:0:0:
-#EXTINF:-1,DISCOVERY
-http://5.147.77.93:8001/1:0:1:772F:416:1:C00000:0:0:0:
-#EXTINF:-1,HISTORIA
-http://5.147.77.93:8001/1:0:1:7731:416:1:C00000:0:0:0:
-#EXTINF:-1,VIAJAR
-http://5.147.77.93:8001/1:0:1:76C9:40E:1:C00000:0:0:0:
-#EXTINF:-1,BABY TV
-http://5.147.77.93:8001/1:0:1:749C:41C:1:C00000:0:0:0:
-#EXTINF:-1,BOING
-http://5.147.77.93:8001/1:0:1:749E:41C:1:C00000:0:0:0:
-#EXTINF:-1,CANAL PANDA
-http://5.147.77.93:8001/1:0:1:75FF:408:1:C00000:0:0:0:
-#EXTINF:-1,DISNEY JR
-http://5.147.77.93:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
-#EXTINF:-1,DISNEY XD
-http://5.147.77.93:8001/1:0:1:772A:416:1:C00000:0:0:0:
-#EXTINF:-1,Nick Jr
-http://5.147.77.93:8001/1:0:1:6FF5:42A:1:C00000:0:0:0:
-#EXTINF:-1,NICKELODEON Iberia
-http://5.147.77.93:8001/1:0:1:6FF4:42A:1:C00000:0:0:0:
-#EXTINF:-1,BARÇA TV
-http://5.147.77.93:8001/1:0:1:74A0:41C:1:C00000:0:0:0:
-#EXTINF:-1,BEIN MAX 4
-http://5.147.77.93:8001/1:0:1:757C:412:1:C00000:0:0:0:
-#EXTINF:-1,BEIN MAX 5
-http://5.147.77.93:8001/1:0:1:757D:412:1:C00000:0:0:0:
-#EXTINF:-1,BEIN MAX 6
-http://5.147.77.93:8001/1:0:1:769D:41E:1:C00000:0:0:0:
-#EXTINF:-1,BEIN MAX 7
-http://5.147.77.93:8001/1:0:1:769E:41E:1:C00000:0:0:0:
-#EXTINF:-1,BEIN MAX 8
-http://5.147.77.93:8001/1:0:1:7576:412:1:C00000:0:0:0:
-#EXTINF:-1,C+  TOROS
-http://5.147.77.93:8001/1:0:1:7570:412:1:C00000:0:0:0:
-#EXTINF:-1,C+ DEPORTES
-http://5.147.77.93:8001/1:0:1:778F:424:1:C00000:0:0:0:
-#EXTINF:-1,C+ FUTBOL
-http://5.147.77.93:8001/1:0:1:778E:424:1:C00000:0:0:0:
-#EXTINF:-1,EUROSPORT 2
-http://5.147.77.93:8001/1:0:1:760E:408:1:C00000:0:0:0:
-#EXTINF:-1,GOLF+
-http://5.147.77.93:8001/1:0:1:7789:424:1:C00000:0:0:0:
-#EXTINF:-1,M. MOTOGP
-http://5.147.77.93:8001/1:0:1:7739:416:1:C00000:0:0:0:
+#EXTINF:-1,--------FULL SPORT--------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1426.ts
+#EXTINF:-1,LIGTV 1 SD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1633.ts
+#EXTINF:-1,LIGTV 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1080.ts
+#EXTINF:-1,LIGTV  HD :)) 1-2-3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1.ts
+#EXTINF:-1,LIGTV 1 HD :)
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1831.ts
+#EXTINF:-1,LIGTV 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/2.ts
+#EXTINF:-1,LIGTV 3 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/3.ts
+#EXTINF:-1,LIGTV 4 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/4.ts
+#EXTINF:-1,LIG TV HD +1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1954.ts
+#EXTINF:-1,LIG TV 2 HD +2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1955.ts
+#EXTINF:-1,LIG TV 3 HD  +3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1956.ts
+#EXTINF:-1,DIGI 91.KANAL
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1866.ts
+#EXTINF:-1,SMART SPOR 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/5.ts
+#EXTINF:-1,SMART SPOR 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/6.ts
+#EXTINF:-1,TIVIBU SPOR 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/7.ts
+#EXTINF:-1,TIVIBU SPOR 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/8.ts
+#EXTINF:-1,TIVIBU SPOR 3 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/9.ts
+#EXTINF:-1,FB TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/26.ts
+#EXTINF:-1,BJK TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/25.ts
+#EXTINF:-1,GS TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/24.ts
+#EXTINF:-1,BURSA SPOR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1778.ts
+#EXTINF:-1,A SPOR HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/35.ts
+#EXTINF:-1,NTV SPOR HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/38.ts
+#EXTINF:-1,TRT SPOR HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/29.ts
+#EXTINF:-1,TJK TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1676.ts
+#EXTINF:-1,FANATIK TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1836.ts
+#EXTINF:-1,AR: BEIN SPORTS 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1505.ts
+#EXTINF:-1,AR: BEIN SPORTS 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1504.ts
+#EXTINF:-1,AR: BEIN SPORTS 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1502.ts
+#EXTINF:-1,AR: BEIN SPORTS 3 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1501.ts
+#EXTINF:-1,AR: BEIN SPORTS 4 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1500.ts
+#EXTINF:-1,AR: BEIN SPORTS 5 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1499.ts
+#EXTINF:-1,AR: BEIN SPORTS 6 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1498.ts
+#EXTINF:-1,AR: BEIN SPORTS 7 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1497.ts
+#EXTINF:-1,AR: BEIN SPORTS 8 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1496.ts
+#EXTINF:-1,AR: BEIN SPORTS 9 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1495.ts
+#EXTINF:-1,AR: BEIN SPORTS 10 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1503.ts
+#EXTINF:-1,FR: Bein Sport 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1631.ts
+#EXTINF:-1,FR: Bein Sport 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1630.ts
+#EXTINF:-1,FR: Bein Sport 3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1629.ts
+#EXTINF:-1,UK: Sky Sport 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1604.ts
+#EXTINF:-1,UK: Sky Sport 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1605.ts
+#EXTINF:-1,UK: Sky Sport 3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1606.ts
+#EXTINF:-1,UK: Sky Sport 4
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1607.ts
+#EXTINF:-1,UK: Sky Sport 5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1608.ts
+#EXTINF:-1,UK: Sky Setana Sport
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1610.ts
+#EXTINF:-1,UK: F1 FIGHT NETWORK HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1597.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1601.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1602.ts
+#EXTINF:-1,UK: BT Sport 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1600.ts
+#EXTINF:-1,NL: FOX SPORT 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1386.ts
+#EXTINF:-1,NL: FOX SPORT 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1387.ts
+#EXTINF:-1,NL: FOX SPORT 3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1388.ts
+#EXTINF:-1,NL: FOX SPORT 4
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1389.ts
+#EXTINF:-1,NL: FOX SPORT 5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1390.ts
+#EXTINF:-1,NL:Ziggo Sport Voetbal
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1678.ts
+#EXTINF:-1,NL:Ziggo Sport Select
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1679.ts
+#EXTINF:-1,NL:Ziggo Sport Golf
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1677.ts
+#EXTINF:-1,UK:BT ESPN HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1603.ts
+#EXTINF:-1,Sport TV 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1592.ts
+#EXTINF:-1,Sport TV 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1593.ts
+#EXTINF:-1,Sport TV 3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1594.ts
+#EXTINF:-1,Sport TV 4
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1595.ts
+#EXTINF:-1,PT: Sport TV 5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1596.ts
+#EXTINF:-1,IT: Sky Sports 3 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1623.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1624.ts
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1622.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1617.ts
+#EXTINF:-1,IT: Premium Calcio 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1619.ts
+#EXTINF:-1,IT: Premium Calcio 5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1618.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1587.ts
+#EXTINF:-1,FR: CANAL  SPORT
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1628.ts
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1577.ts
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1578.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1579.ts
+#EXTINF:-1,EX-YU: Sport Klub 4
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1580.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1581.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 6
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1582.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1572.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1573.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1574.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1575.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1576.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 SR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1583.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 SR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1584.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 SR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1585.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 SR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1586.ts
+#EXTINF:-1,ES: Real Madrid
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1611.ts
+#EXTINF:-1,ES: Canal  Deportes
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1615.ts
+#EXTINF:-1,ES: Canal   Liga
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1613.ts
+#EXTINF:-1,ES: Canal   Futboll
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1614.ts
+#EXTINF:-1,ES: Barca TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1612.ts
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1566.ts
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1571.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1567.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1568.ts
+#EXTINF:-1,DE: SKY BUNDES LIGA 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1570.ts
+#EXTINF:-1,DE: Sky Bundes Liga 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1569.ts
+#EXTINF:-1,AL: Tring Sport News HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1559.ts
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1560.ts
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1561.ts
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1562.ts
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1563.ts
+#EXTINF:-1,AL: Super Sport Kosova 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1557.ts
+#EXTINF:-1,AL: Super Sport Kosova 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1558.ts
+#EXTINF:-1,AL: Super Sport 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1551.ts
+#EXTINF:-1,AL: Super Sport 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1552.ts
+#EXTINF:-1,AL: Super Sport 3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1553.ts
+#EXTINF:-1,AL: Super Sport 4
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1554.ts
+#EXTINF:-1,AL: Super Sport 5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1555.ts
+#EXTINF:-1,AL: Super Sport 6
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1556.ts
+#EXTINF:-1,--------ULUSAL--------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1420.ts
+#EXTINF:-1,TRT 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/27.ts
+#EXTINF:-1,ATV HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/31.ts
+#EXTINF:-1,SHOW TV HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/33.ts
+#EXTINF:-1,STAR TV HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/30.ts
+#EXTINF:-1,KANAL D HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/32.ts
+#EXTINF:-1,FOX TV HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/34.ts
+#EXTINF:-1,KANAL 7 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/40.ts
+#EXTINF:-1,TV8.5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1419.ts
+#EXTINF:-1,TV 8 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/39.ts
+#EXTINF:-1,KANAL 360
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1674.ts
+#EXTINF:-1,TV 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/142.ts
+#EXTINF:-1,TURKMAX GURME HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1147.ts
+#EXTINF:-1,BEYAZ TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/43.ts
+#EXTINF:-1,KANAL 24
+http://iptv.nexa.space:8000/live/ezgi/ezgi/140.ts
+#EXTINF:-1,TEK-RUMELI
+http://iptv.nexa.space:8000/live/ezgi/ezgi/45.ts
+#EXTINF:-1,KANAL A
+http://iptv.nexa.space:8000/live/ezgi/ezgi/44.ts
+#EXTINF:-1,FRM TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/141.ts
+#EXTINF:-1,HALK TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/42.ts
+#EXTINF:-1,ULUSAL TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1637.ts
+#EXTINF:-1,KANAL TURK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1684.ts
+#EXTINF:-1,EGE TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1681.ts
+#EXTINF:-1,FLAS TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1682.ts
+#EXTINF:-1,CEM TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1683.ts
+#EXTINF:-1,KANAL 3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1768.ts
+#EXTINF:-1,AKSU TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1766.ts
+#EXTINF:-1,HILAL TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1767.ts
+#EXTINF:-1,KANAL URFA
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1763.ts
+#EXTINF:-1,VAN TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1765.ts
+#EXTINF:-1,ANADOLU TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1769.ts
+#EXTINF:-1,KOZA TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1770.ts
+#EXTINF:-1,TV 5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1771.ts
+#EXTINF:-1,NTV HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/46.ts
+#EXTINF:-1,AKIT TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1773.ts
+#EXTINF:-1,KANAL 33
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1775.ts
+#EXTINF:-1,KANAL B
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1774.ts
+#EXTINF:-1,KONYA KOY TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1772.ts
+#EXTINF:-1,TRT WORLD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1722.ts
+#EXTINF:-1,A HABER HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/36.ts
+#EXTINF:-1,CNN TURK HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/37.ts
+#EXTINF:-1,TGRT HABER
+http://iptv.nexa.space:8000/live/ezgi/ezgi/47.ts
+#EXTINF:-1,HABER TURK HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/41.ts
+#EXTINF:-1,TRT HABER HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/28.ts
+#EXTINF:-1,KRAL TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/52.ts
+#EXTINF:-1,KRAL POP
+http://iptv.nexa.space:8000/live/ezgi/ezgi/138.ts
+#EXTINF:-1,KRAL POP AKUSTIK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1830.ts
+#EXTINF:-1,POWER TURK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/53.ts
+#EXTINF:-1,TRT MUZIK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1680.ts
+#EXTINF:-1,POWER HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/143.ts
+#EXTINF:-1,BABY-TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1870.ts
+#EXTINF:-1,NICKELODEON JR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1895.ts
+#EXTINF:-1,NICKELODEON HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1896.ts
+#EXTINF:-1,BOOMERANG HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1721.ts
+#EXTINF:-1,CARTOON NETVORK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/137.ts
+#EXTINF:-1,DISNEY CANAL
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1777.ts
+#EXTINF:-1,PLANET COCUK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1832.ts
+#EXTINF:-1,TRT COCUK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/51.ts
+#EXTINF:-1,--------VOD YERLİ FİLM--------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1742.ts
+#EXTINF:-1,YAPISIK KARDESLER (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1843.mp4
+#EXTINF:-1,ASK SANA BENZER
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1787.mp4
+#EXTINF:-1,CARSI PAZAR
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1790.mp4
+#EXTINF:-1,CALSIN SAZLAR
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1789.mp4
+#EXTINF:-1,SEVİMLİ TEHLİKE (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1826.mp4
+#EXTINF:-1,ALİ KUNDİLLİ
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1783.mp4
+#EXTINF:-1,CILGIN DERSANE 4 ADA
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1792.mp4
+#EXTINF:-1,ANNEMIN YARASI (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1782.mkv
+#EXTINF:-1,ALI BABA VE 7 CUCELER (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1736.mkv
+#EXTINF:-1,KOCAN KADAR KONUS (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1730.mkv
+#EXTINF:-1,KUCUK ESNAF (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1733.mkv
+#EXTINF:-1,DEDEMIN FISI (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1732.mkv
+#EXTINF:-1,OSMAN PAZARLAMA (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1728.mkv
+#EXTINF:-1,KACMA BIRADER (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1727.mkv
+#EXTINF:-1,MANDIRA FİLOZOFU İSTANBUL (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1812.mp4
+#EXTINF:-1,CARSI PAZAR (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1735.mkv
+#EXTINF:-1,MANDA YUVASI (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1811.mp4
+#EXTINF:-1,KOCAN KADAR KONUS (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1804.mp4
+#EXTINF:-1,DELIHA (2014)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1726.mp4
+#EXTINF:-1,CM101MMX FUNDAMENTALS (2013)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1725.mkv
+#EXTINF:-1,OFLU HOCANIN SIFRESI 1
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1739.mp4
+#EXTINF:-1,OFLU HOCANIN SIFRESI 2
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1740.mkv
+#EXTINF:-1,ALI KUNDILLI
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1734.mkv
+#EXTINF:-1,DUGUN DERNEK 2 SUNNET
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1731.mkv
+#EXTINF:-1,SABIT KANCA 2
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1737.mp4
+#EXTINF:-1,KOLPACINO 3
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1741.mp4
+#EXTINF:-1,HERSEY COK GUZEL OLACAK (1998)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1729.mkv
+#EXTINF:-1,ATLA GEL SABAN
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1921.mp4
+#EXTINF:-1,SUT KARDESLER
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1910.mp4
+#EXTINF:-1,CARIKLI MILYONER
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1924.mp4
+#EXTINF:-1,BEKCILER KRALI
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1923.mp4
+#EXTINF:-1,AVANAK APDI
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1922.mp4
+#EXTINF:-1,COPCULER KRALI
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1925.mp4
+#EXTINF:-1,SABAN OGLU SABAN
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1909.mp4
+#EXTINF:-1,ORTADIREK SABAN
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1908.mp4
+#EXTINF:-1,YUZ NUMARALI ADAM
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1952.mp4
+#EXTINF:-1,HANZO
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1939.mp4
+#EXTINF:-1,EN BUYUK SABAN
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1938.mp4
+#EXTINF:-1,DOKUNMAYIN SABANIMA
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1937.mp4
+#EXTINF:-1,DOKTOR CIVANIM
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1936.mp4
+#EXTINF:-1,DEVLET KUSU
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1935.mp4
+#EXTINF:-1,DELI DELI KUPELI
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1934.mp4
+#EXTINF:-1,DAVARO
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1933.mp4
+#EXTINF:-1,DAVACI
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1932.mp4
+#EXTINF:-1,CANIM KARDESIM
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1927.mp4
+#EXTINF:-1,BOYNU BUKUK KUHEYLAN
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1931.mp4
+#EXTINF:-1,SENER SEN ARABESK
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1918.mp4
+#EXTINF:-1,ANNE 1. BOLUM
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1898.mkv
+#EXTINF:-1,ANNE 2 BOLUM
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1897.mkv
+#EXTINF:-1,1-GULDUR GULDUR COCUK
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1882.mp4
+#EXTINF:-1,2-GULDUR GULDUR COCUK
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1883.mp4
+#EXTINF:-1,3-GULDUR GULDUR COCUK
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1884.mp4
+#EXTINF:-1,4- GULDUR GULDUR COCUK
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1885.mkv
+#EXTINF:-1,62-ERTUGRUL DIRILIS
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1886.mp4
+#EXTINF:-1,63-ERTUGRUL DIRILIS
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1887.mp4
+#EXTINF:-1,64-ERTUGRUL DIRILIS
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1930.mp4
+#EXTINF:-1,GULDUR GULDUR 117 BOLUM
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1881.mp4
+#EXTINF:-1,GULDUR GULDUR 118 BOLUM
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1877.mp4
+#EXTINF:-1,GULDUR GULDUR 119 BOLUM
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1880.mp4
+#EXTINF:-1,--------VOD TR DUBLAJ FİLM--------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1798.ts
+#EXTINF:-1,The Ivory Game (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1953.mp4
+#EXTINF:-1,Triple 9 (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1905.mp4
+#EXTINF:-1,Gods of Egypt (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1906.mkv
+#EXTINF:-1,Birkebeinerne (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1907.mp4
+#EXTINF:-1,Special Correspondents (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1903.mp4
+#EXTINF:-1,ARQ (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1904.mp4
+#EXTINF:-1,Midnight Special (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1901.mp4
+#EXTINF:-1,The Purge: Election Year (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1902.mp4
+#EXTINF:-1,Star Trek Beyond (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1889.mp4
+#EXTINF:-1,Ghostbusters (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1875.mp4
+#EXTINF:-1,Kickboxer: Vengeance (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1871.mp4
+#EXTINF:-1,Mike and Dave Need Wedding Dates (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1864.mp4
+#EXTINF:-1,Lights Out (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1865.mp4
+#EXTINF:-1,Deadpool (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1868.mp4
+#EXTINF:-1,Kingsglaive: Final Fantasy XV (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1809.mp4
+#EXTINF:-1,Warcraft (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1841.mp4
+#EXTINF:-1,London Has Fallen (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1805.mp4
+#EXTINF:-1,Cell (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1796.mp4
+#EXTINF:-1,The Shallows (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1803.mp4
+#EXTINF:-1,The Nice Guys (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1802.mp4
+#EXTINF:-1,The Conjuring 2 (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1806.mp4
+#EXTINF:-1,Alice Through the Looking Glass (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1784.mp4
+#EXTINF:-1,Teenage Mutant Ninja Turtles: Out of the Shadows (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1816.mp4
+#EXTINF:-1,Ice Age: Collision Course (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1788.mp4
+#EXTINF:-1,Independence Day: Resurgence (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1810.mp4
+#EXTINF:-1,Central Intelligence (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1814.mp4
+#EXTINF:-1,Money Monster (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1819.mp4
+#EXTINF:-1,The Wild Life (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1822.mp4
+#EXTINF:-1,Now You See Me 2 (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1827.mp4
+#EXTINF:-1,Neighbors 2: Sorority Rising (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1807.mp4
+#EXTINF:-1,A Hologram for the King (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1808.mp4
+#EXTINF:-1,The Legend of Tarzan (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1781.mp4
+#EXTINF:-1,Mother's Day (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1818.mp4
+#EXTINF:-1,Nerve (2016)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1815.mp4
+#EXTINF:-1,High-Rise (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1920.mp4
+#EXTINF:-1,The Program (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1919.mp4
+#EXTINF:-1,The Gift (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1915.mp4
+#EXTINF:-1,Miles Ahead (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1891.mp4
+#EXTINF:-1,Backtrack (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1844.mp4
+#EXTINF:-1,Tangerine (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1839.mp4
+#EXTINF:-1,Life on the Line (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1840.mp4
+#EXTINF:-1,Forsaken (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1795.mp4
+#EXTINF:-1,Youth (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1797.mp4
+#EXTINF:-1,Legend (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1828.mp4
+#EXTINF:-1,Howl (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1794.mp4
+#EXTINF:-1,Furious Seven (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1799.mp4
+#EXTINF:-1,The Grand Budapest Hotel (2014)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1947.mp4
+#EXTINF:-1,The Hobbit: The Battle of the Five Armies (2014)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1800.mp4
+#EXTINF:-1,Relatos Salvajes (2014)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1951.mp4
+#EXTINF:-1,The Kings of Summer (2013)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1949.mp4
+#EXTINF:-1,The Dark Knight Rises (2012)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1917.mp4
+#EXTINF:-1,The Avengers (2012)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1869.mp4
+#EXTINF:-1,The Dark Knight (2008)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1916.mp4
+#EXTINF:-1,American Gangster (2007)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1926.mp4
+#EXTINF:-1,Into the Wild (2007)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1801.mp4
+#EXTINF:-1,Batman Begins (2005)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1913.mp4
+#EXTINF:-1,The Pianist (2002)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1950.mp4
+#EXTINF:-1,Spirited Away (2001)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1838.mp4
+#EXTINF:-1,Memento (2000)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1813.mp4
+#EXTINF:-1,The Green Mile (1999)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1948.mp4
+#EXTINF:-1,Star Wars: The Force Awakens (2015)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1946.mp4
+#EXTINF:-1,Star Wars: Episode III - Revenge of the Sith (2005)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1942.mp4
+#EXTINF:-1,Star Wars: Episode II - Attack of the Clones (2002)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1941.mp4
+#EXTINF:-1,Star Wars: Episode I - The Phantom Menace (1999)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1940.mp4
+#EXTINF:-1,Star Wars: Episode VI - Return of the Jedi (1983)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1945.mp4
+#EXTINF:-1,Star Wars: Episode V - The Empire Strikes Back (1980)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1944.mp4
+#EXTINF:-1,Star Wars: Episode IV - A New Hope (1977)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1943.mp4
+#EXTINF:-1,American History X (1998)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1785.mp4
+#EXTINF:-1,Saving Private Ryan (1998)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1823.mp4
+#EXTINF:-1,Batman Returns (1995)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1912.mp4
+#EXTINF:-1,Se7en (1995)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1825.mp4
+#EXTINF:-1,Batman Returns (1992)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1911.mp4
+#EXTINF:-1,Terminator 2: Judgment Day (1991)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1876.mp4
+#EXTINF:-1,Batman (1989)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1914.mp4
+#EXTINF:-1,Scarface (1983)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1824.mp4
+#EXTINF:-1,Raiders of the Lost Ark (1981)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1821.mp4
+#EXTINF:-1,Apocalypse Now (1979)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1786.mp4
+#EXTINF:-1,Once Upon a Time in the West (1968)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1817.mp4
+#EXTINF:-1,Psycho (1960)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1820.mp4
+#EXTINF:-1,Casablanca (1942)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1791.mp4
+#EXTINF:-1,City Lights (1931)
+http://iptv.nexa.space:8000/movie/ezgi/ezgi/1793.mp4
+#EXTINF:-1,--------TR SINEMA --------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1422.ts
+#EXTINF:-1,SALON 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/11.ts
+#EXTINF:-1,SALON 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/12.ts
+#EXTINF:-1,SALON 3 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/13.ts
+#EXTINF:-1,CINEBOX1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/64.ts
+#EXTINF:-1,CINEBOX2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/63.ts
+#EXTINF:-1,CINEBOX3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/62.ts
+#EXTINF:-1,CINEBOX4
+http://iptv.nexa.space:8000/live/ezgi/ezgi/61.ts
+#EXTINF:-1,CINEBOX5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/60.ts
+#EXTINF:-1,CINEBOX6
+http://iptv.nexa.space:8000/live/ezgi/ezgi/59.ts
+#EXTINF:-1,CINEBOX7
+http://iptv.nexa.space:8000/live/ezgi/ezgi/58.ts
+#EXTINF:-1,CINEBOXTR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/57.ts
+#EXTINF:-1,SINEMA TV 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1517.ts
+#EXTINF:-1,SINEMA TV 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1518.ts
+#EXTINF:-1,SINEMA TV AILE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1519.ts
+#EXTINF:-1,SINEMA TV 1001
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1520.ts
+#EXTINF:-1,SINEMA TV AKSİYON  HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1635.ts
+#EXTINF:-1,MOVIESMART PREMIUM 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1522.ts
+#EXTINF:-1,MOVIESMART PREMIUM 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1523.ts
+#EXTINF:-1,MOVIESMART PLATIN 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1526.ts
+#EXTINF:-1,MOVIESMART PLATIN
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1525.ts
+#EXTINF:-1,MOVIESMART GOLD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1524.ts
+#EXTINF:-1,MOVIESMART FAMILY
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1521.ts
+#EXTINF:-1,MOVIESMART ACTION
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1528.ts
+#EXTINF:-1,MOVIESMART TURK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1527.ts
+#EXTINF:-1,MOVIE-MAX-TURK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1636.ts
+#EXTINF:-1,DIZISMART PLATIN
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1529.ts
+#EXTINF:-1,FX HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1966.ts
+#EXTINF:-1,FOX LIFE HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1967.ts
+#EXTINF:-1,FOX CRİME HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1968.ts
+#EXTINF:-1,DIZI TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1530.ts
+#EXTINF:-1,CINE 1 YESILCAM HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1874.ts
+#EXTINF:-1,CINE 2 YESILCAM HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1718.ts
+#EXTINF:-1,--------TR BELGESEL--------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1421.ts
+#EXTINF:-1,IZTV HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1512.ts
+#EXTINF:-1,YABAN TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1506.ts
+#EXTINF:-1,TRT BELGESEL HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/48.ts
+#EXTINF:-1,ANIMAUX
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1148.ts
+#EXTINF:-1,BBC EARTH
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1835.ts
+#EXTINF:-1,ANIMAL-PLANET-HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1482.ts
+#EXTINF:-1,VIASAT HISTORY HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1509.ts
+#EXTINF:-1,HISTORY CHANNEL
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1515.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1510.ts
+#EXTINF:-1,TR ANIMAL PLANET
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1513.ts
+#EXTINF:-1,NATGEOPEOPLE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1507.ts
+#EXTINF:-1,TR NATGEO WILD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1514.ts
+#EXTINF:-1,DAVINCI-LEARNING
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1634.ts
+#EXTINF:-1,NAT GEO HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1508.ts
+#EXTINF:-1,--------RU--------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1989.ts
+#EXTINF:-1,RU: TV1000 PREMIUM HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1984.ts
+#EXTINF:-1,RU: TV1000 MEGAHIT HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1985.ts
+#EXTINF:-1,RU: TV1000 COMEDY HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1986.ts
+#EXTINF:-1,RU: TV 1000
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1982.ts
+#EXTINF:-1,RU: THT
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1979.ts
+#EXTINF:-1,RU: STS International
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1981.ts
+#EXTINF:-1,RU: SONY TURBO
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1980.ts
+#EXTINF:-1,RU: Russian Music box
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1983.ts
+#EXTINF:-1,RU: Russia One hd
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1974.ts
+#EXTINF:-1,RU: Russia 24
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1971.ts
+#EXTINF:-1,RU: Russia 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1970.ts
+#EXTINF:-1,RU: RTRS
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1973.ts
+#EXTINF:-1,RU: RTR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1975.ts
+#EXTINF:-1,RU: OTR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1976.ts
+#EXTINF:-1,RU: HTH
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1977.ts
+#EXTINF:-1,RU: HTB
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1978.ts
+#EXTINF:-1,RU: Amedia 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1988.ts
+#EXTINF:-1,RU: Amedia 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1987.ts
+#EXTINF:-1,RU: 8 TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1972.ts
+#EXTINF:-1,--------SKY DE --------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1423.ts
+#EXTINF:-1,DE: ZDF HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1112.ts
+#EXTINF:-1,DE: Vox
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1104.ts
+#EXTINF:-1,DE: Tele Züri HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1114.ts
+#EXTINF:-1,DE: Tagesschau
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1123.ts
+#EXTINF:-1,DE: SRF 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1116.ts
+#EXTINF:-1,DE: SRF 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1115.ts
+#EXTINF:-1,DE: Sky Spiegel Geschichte
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1119.ts
+#EXTINF:-1,DE: Sky History HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1098.ts
+#EXTINF:-1,DE: Sky Cinema 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1091.ts
+#EXTINF:-1,DE: Sky Cinema  24
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1094.ts
+#EXTINF:-1,DE: Sky Cinema
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1092.ts
+#EXTINF:-1,DE: Sky Atlandic
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1095.ts
+#EXTINF:-1,DE: Sky Action
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1093.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1109.ts
+#EXTINF:-1,DE: RTL Nitro
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1107.ts
+#EXTINF:-1,DE: RTL HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1105.ts
+#EXTINF:-1,RTL2_Austria
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1538.ts
+#EXTINF:-1,DE: Pro 7
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1103.ts
+#EXTINF:-1,DE: Nickelodeon
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1128.ts
+#EXTINF:-1,DE: NDR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1126.ts
+#EXTINF:-1,DE: National Geographic Wild DE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1120.ts
+#EXTINF:-1,DE: National Geographic Channel HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1121.ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1100.ts
+#EXTINF:-1,DE: N24 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1113.ts
+#EXTINF:-1,DE: N-TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1124.ts
+#EXTINF:-1,DE: Mgm HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1118.ts
+#EXTINF:-1,DE: Kika HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1117.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1110.ts
+#EXTINF:-1,DE: hr
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1125.ts
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1122.ts
+#EXTINF:-1,DE: Das Este 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1102.ts
+#EXTINF:-1,DE: ARTE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1127.ts
+#EXTINF:-1,DE: 7 Maxx HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1111.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1134.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1135.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1136.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1137.ts
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1138.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1139.ts
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1140.ts
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1141.ts
+#EXTINF:-1,tagesschau24
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1547.ts
+#EXTINF:-1,rhein_main
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1546.ts
+#EXTINF:-1,Einsfestival
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1548.ts
+#EXTINF:-1,VOX_Austria
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1541.ts
+#EXTINF:-1,RTL_Austria
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1537.ts
+#EXTINF:-1,MELODIE_TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1543.ts
+#EXTINF:-1,K_TV_
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1544.ts
+#EXTINF:-1,Eurosport_
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1540.ts
+#EXTINF:-1,Deutsches_Musik
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1545.ts
+#EXTINF:-1,DAF_Neu
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1542.ts
+#EXTINF:-1,VOX_CH
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1531.ts
+#EXTINF:-1,Tirol_TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1536.ts
+#EXTINF:-1,L_TV_TVM_
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1535.ts
+#EXTINF:-1,LT1_OOE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1534.ts
+#EXTINF:-1,GO_TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1533.ts
+#EXTINF:-1,Folx_TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1532.ts
+#EXTINF:-1,--------SKY UK--------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1424.ts
+#EXTINF:-1,UK: Itv TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1476.ts
+#EXTINF:-1,UK: Itv 2 TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1479.ts
+#EXTINF:-1,UK: Itv 3 TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1478.ts
+#EXTINF:-1,UK: Itv 4 TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1477.ts
+#EXTINF:-1,UK: TRUE MUVIES 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1473.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1474.ts
+#EXTINF:-1,UK: Sky Comedy
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1472.ts
+#EXTINF:-1,UK: Sky Comedi
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1475.ts
+#EXTINF:-1,UK: MORE 4 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1464.ts
+#EXTINF:-1,UK: Fox Crime
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1480.ts
+#EXTINF:-1,UK: FOOT TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1467.ts
+#EXTINF:-1,UK: FINE LIVING
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1468.ts
+#EXTINF:-1,UK: Discowery History
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1481.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1465.ts
+#EXTINF:-1,UK: CBS ACTION
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1466.ts
+#EXTINF:-1,Sky Thriller UK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1469.ts
+#EXTINF:-1,Sky SciFi / Horror
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1470.ts
+#EXTINF:-1,Sky Action UK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1471.ts
+#EXTINF:-1,--------NL HOLLANDA--------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1425.ts
+#EXTINF:-1,NL: HBO_1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1393.ts
+#EXTINF:-1,NL: HBO 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1392.ts
+#EXTINF:-1,NL: HBO_3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1391.ts
+#EXTINF:-1,NL: NPO_1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1394.ts
+#EXTINF:-1,NL: NPO_2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1395.ts
+#EXTINF:-1,NL: RTL Z
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1398.ts
+#EXTINF:-1,NL: RTL 4
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1402.ts
+#EXTINF:-1,NL: RTL 5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1401.ts
+#EXTINF:-1,NL: RTL 7
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1400.ts
+#EXTINF:-1,NL: RTL 8
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1399.ts
+#EXTINF:-1,NL: NET_5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1396.ts
+#EXTINF:-1,NL: SBS 9
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1397.ts
+#EXTINF:-1,NL: FILM 1  ACTION
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1405.ts
+#EXTINF:-1,NL: FILM_1_SPORTLIGHT
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1406.ts
+#EXTINF:-1,NL: FILM_1_COMEDY
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1407.ts
+#EXTINF:-1,NL: FILM 1  SPOTLIGHT
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1403.ts
+#EXTINF:-1,NL: FILM 1  PREMIERE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1404.ts
+#EXTINF:-1,--------- France ----------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1199.ts
+#EXTINF:-1,FR: TF1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1209.ts
+#EXTINF:-1,FR: M6
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1219.ts
+#EXTINF:-1,FRANCE.O HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1204.ts
+#EXTINF:-1,FRANCE2 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1203.ts
+#EXTINF:-1,FRANCE3 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1202.ts
+#EXTINF:-1,FRANCE4 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1201.ts
+#EXTINF:-1,FRANCE5 HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1200.ts
+#EXTINF:-1,FR: VOYAGE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1205.ts
+#EXTINF:-1,FR: TV5 MONDE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1207.ts
+#EXTINF:-1,FR: USHUAIA TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1206.ts
+#EXTINF:-1,FR: TV BREIZH
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1208.ts
+#EXTINF:-1,FR: Syfy HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1211.ts
+#EXTINF:-1,FR: SCIENCE&VIE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1212.ts
+#EXTINF:-1,FR: PLANETE Ci
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1214.ts
+#EXTINF:-1,FR: PLANETE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1215.ts
+#EXTINF:-1,FR: PARAMOUNT CHNANNEL
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1216.ts
+#EXTINF:-1,FR: NRJ12
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1217.ts
+#EXTINF:-1,FR: L'EQUIPE-21
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1220.ts
+#EXTINF:-1,FR: iTELE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1221.ts
+#EXTINF:-1,FR: GULLI
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1222.ts
+#EXTINF:-1,FR: Discovery Science HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1224.ts
+#EXTINF:-1,FR: Discovery HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1225.ts
+#EXTINF:-1,FR: CINE PREMIERE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1226.ts
+#EXTINF:-1,FR: CINE POLAR
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1227.ts
+#EXTINF:-1,FR: CINE FX
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1228.ts
+#EXTINF:-1,FR: CINE FAMIZ
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1230.ts
+#EXTINF:-1,FR: CHASSE&PECHE
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1232.ts
+#EXTINF:-1,FR: CARTON NETWORK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1233.ts
+#EXTINF:-1,FR: CANAL DECALY
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1234.ts
+#EXTINF:-1,FR: CANAL  HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1235.ts
+#EXTINF:-1,FR: CANAL  FAMILY
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1236.ts
+#EXTINF:-1,FR: CANAL  CINEMA
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1237.ts
+#EXTINF:-1,FR: ANIMAUX
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1239.ts
+#EXTINF:-1,FR: ANIMAL PLANET
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1240.ts
+#EXTINF:-1,FR: 6TER
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1241.ts
+#EXTINF:-1,GR:STAR TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1854.ts
+#EXTINF:-1,GR:ANT1 TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1850.ts
+#EXTINF:-1,GR:PIK SAT TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1852.ts
+#EXTINF:-1,GR:MEGA TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1853.ts
+#EXTINF:-1,GR:ALPHA TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1851.ts
+#EXTINF:-1,GR:M.TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1849.ts
+#EXTINF:-1,GR:ACTION24 TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1848.ts
+#EXTINF:-1,GR:ATICA
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1855.ts
+#EXTINF:-1,GR:MAD TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1847.ts
+#EXTINF:-1,GR:SMILE TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1863.ts
+#EXTINF:-1,GR:ERT-HD TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1860.ts
+#EXTINF:-1,GR:ERT1 TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1858.ts
+#EXTINF:-1,GR:ERT2 TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1859.ts
+#EXTINF:-1,GR:EPT TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1861.ts
+#EXTINF:-1,GR:E TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1856.ts
+#EXTINF:-1,GR:NICKELODEON TV
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1862.ts
+#EXTINF:-1,----------+18 ADULTS-----------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1632.ts
+#EXTINF:-1,REDLIGHT HD
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1486.ts
+#EXTINF:-1,EROTIK 1
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1487.ts
+#EXTINF:-1,EROTIK 2
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1488.ts
+#EXTINF:-1,EROTIK 3
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1489.ts
+#EXTINF:-1,EROTIK 4
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1490.ts
+#EXTINF:-1,EROTIK 5
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1491.ts
+#EXTINF:-1,EROTIK 6
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1492.ts
+#EXTINF:-1,EROTIK 7
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1493.ts
+#EXTINF:-1,----------RADYO----------
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1651.ts
+#EXTINF:-1,LİG FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1671.ts
+#EXTINF:-1,NTV SPOR FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1673.ts
+#EXTINF:-1,TURKU FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1670.ts
+#EXTINF:-1,SUPER FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1650.ts
+#EXTINF:-1,KRAL FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1660.ts
+#EXTINF:-1,KRAL POP FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1664.ts
+#EXTINF:-1,DAMAR FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1661.ts
+#EXTINF:-1,NTV FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1672.ts
+#EXTINF:-1,SAKLI SARKILAR FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1669.ts
+#EXTINF:-1,ROCK FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1668.ts
+#EXTINF:-1,RELAX FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1667.ts
+#EXTINF:-1,POP TURK
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1666.ts
+#EXTINF:-1,OYUN HAVALARI
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1665.ts
+#EXTINF:-1,DREAM FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1662.ts
+#EXTINF:-1,JOY TURK FM
+http://iptv.nexa.space:8000/live/ezgi/ezgi/1663.ts
 
 
 
