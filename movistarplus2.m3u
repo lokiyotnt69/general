@@ -1,352 +1,219 @@
 #EXTM3U
 #EXTINF:-1,#[COLOR yellow] no FUNCIONAN!!!!!!  [/COLOR]
-#EXTINF:-1,--------FULL M+--------
-#EXTINF:-1,ES_DISCOVERY
-http://www.t12v.com:8000/live/1054/1054/742.ts
-#EXTINF:-1,ES_NATIONAL_GEO
-http://www.t12v.com:8000/live/1054/1054/804.ts
-#EXTINF:-1,ES_HISTORIA
-http://www.t12v.com:8000/live/1054/1054/841.ts
-#EXTINF:-1,ES_CAZA_Y_PESCA
-http://www.t12v.com:8000/live/1054/1054/857.ts
-#EXTINF:-1,ES_TAQUILLA_1
-http://www.t12v.com:8000/live/1054/1054/890.ts
-#EXTINF:-1,ES_TAQUILLA_2
-http://www.t12v.com:8000/live/1054/1054/423.ts
-#EXTINF:-1,ES_TAQUILLA_3
-http://www.t12v.com:8000/live/1054/1054/282.ts
-#EXTINF:-1,ES_TAQUILLA_4
-http://www.t12v.com:8000/live/1054/1054/265.ts
-#EXTINF:-1,ES_TAQUILLA_5
-http://www.t12v.com:8000/live/1054/1054/904.ts
-#EXTINF:-1,ES_TAQUILLA_6
-http://www.t12v.com:8000/live/1054/1054/858.ts
-#EXTINF:-1,ES_TAQUILLA_7
-http://www.t12v.com:8000/live/1054/1054/854.ts
-#EXTINF:-1,ES_CANAL+_HD
-http://www.t12v.com:8000/live/1054/1054/766.ts
-#EXTINF:-1,ES_CANAL+_1
-http://www.t12v.com:8000/live/1054/1054/787.ts
-#EXTINF:-1,ES_CANAL_2
-http://www.t12v.com:8000/live/1054/1054/745.ts
-#EXTINF:-1,ES_CANAL+_DCINE
-http://www.t12v.com:8000/live/1054/1054/785.ts
-#EXTINF:-1,ES_CANAL+_COMEDIA
-http://www.t12v.com:8000/live/1054/1054/792.ts
-#EXTINF:-1,ES_CANAL_ACTION
-http://www.t12v.com:8000/live/1054/1054/791.ts
-#EXTINF:-1,ES_CANAL_COCINA
-http://www.t12v.com:8000/live/1054/1054/799.ts
-#EXTINF:-1,ES_CANAL+_GOLF
-http://www.t12v.com:8000/live/1054/1054/738.ts
-#EXTINF:-1,ES_CANAL+_SERIES
-http://www.t12v.com:8000/live/1054/1054/885.ts
-#EXTINF:-1,ES_CANAL+_TOROS
-http://www.t12v.com:8000/live/1054/1054/796.ts
-#EXTINF:-1,ES_CANAL+_ESTRENOS HD
-http://www.t12v.com:8000/live/1054/1054/776.ts
-#EXTINF:-1,ES_CANAL+_SERIES_XTRA
-http://www.t12v.com:8000/live/1054/1054/850.ts
-#EXTINF:-1,ES_CANAL+_XTRA
-http://www.t12v.com:8000/live/1054/1054/1419.ts
-#EXTINF:-1,ES_SYFY
-http://www.t12v.com:8000/live/1054/1054/842.ts
-#EXTINF:-1,ES_ANTENA_3_HD
-http://www.t12v.com:8000/live/1054/1054/502.ts
-#EXTINF:-1,ES_TELECINCO
-http://www.t12v.com:8000/live/1054/1054/508.ts
-#EXTINF:-1,ES_LA_SEXTATA
-http://www.t12v.com:8000/live/1054/1054/790.ts
-#EXTINF:-1,ES_CLAN_TVE
-http://www.t12v.com:8000/live/1054/1054/849.ts
-#EXTINF:-1,ES_NOVA_SPAIN
-http://www.t12v.com:8000/live/1054/1054/788.ts
-#EXTINF:-1,ES_NICKELODEON
-http://www.t12v.com:8000/live/1054/1054/797.ts
-#EXTINF:-1,ES_DISNEY_JUNIOR
-http://www.t12v.com:8000/live/1054/1054/784.ts
-#EXTINF:-1,ES_DISNEY_XD
-http://www.t12v.com:8000/live/1054/1054/741.ts
-#EXTINF:-1,ES_NICK_JR
-http://www.t12v.com:8000/live/1054/1054/1777.ts
-#EXTINF:-1,ES_DISNEY_CHANNEL
-http://www.t12v.com:8000/live/1054/1054/817.ts
-#EXTINF:-1,ES_BOING
-http://www.t12v.com:8000/live/1054/1054/774.ts
-#EXTINF:-1,ES_DISNEY_JR
-http://www.t12v.com:8000/live/1054/1054/1772.ts
-#EXTINF:-1,ES_PANDA
-http://www.t12v.com:8000/live/1054/1054/843.ts
-#EXTINF:-1,ES_Energy
-http://www.t12v.com:8000/live/1054/1054/4746.ts
-#EXTINF:-1,ES_NEOX
-http://www.t12v.com:8000/live/1054/1054/839.ts
-#EXTINF:-1,ES_SERIES_EXTRA
-http://www.t12v.com:8000/live/1054/1054/840.ts
-#EXTINF:-1,ES_EURO_NEWS
-http://www.t12v.com:8000/live/1054/1054/1773.ts
-#EXTINF:-1,ES_AMC
-http://www.t12v.com:8000/live/1054/1054/1775.ts
-#EXTINF:-1,ES_FDF_SPAIN
-http://www.t12v.com:8000/live/1054/1054/801.ts
-#EXTINF:-1,ES_MEGA
-http://www.t12v.com:8000/live/1054/1054/764.ts
-#EXTINF:-1,ES_40_TV
-http://www.t12v.com:8000/live/1054/1054/763.ts
-#EXTINF:-1,ES_MTV_ROCKS
-http://www.t12v.com:8000/live/1054/1054/1776.ts
-#EXTINF:-1,ES_#0
-http://www.t12v.com:8000/live/1054/1054/794.ts
-#EXTINF:-1,ES_TNT_ES
-http://www.t12v.com:8000/live/1054/1054/847.ts
-#EXTINF:-1,ES_HOLLYWOOD
-http://www.t12v.com:8000/live/1054/1054/802.ts
-#EXTINF:-1,ES_C+_DEPORTES
-http://www.t12v.com:8000/live/1054/1054/504.ts
-#EXTINF:-1,ES_LA_RED_EN_VIVO
-http://www.t12v.com:8000/live/1054/1054/1397.ts
-#EXTINF:-1,ES_CALLE_13
-http://www.t12v.com:8000/live/1054/1054/1400.ts
-#EXTINF:-1,ES_AXN
-http://www.t12v.com:8000/live/1054/1054/778.ts
-#EXTINF:-1,ES_FOX
-http://www.t12v.com:8000/live/1054/1054/856.ts
-#EXTINF:-1,ES_MOVIESTAR_F1
-http://www.t12v.com:8000/live/1054/1054/803.ts
-#EXTINF:-1,ES_LA_1
-http://www.t12v.com:8000/live/1054/1054/816.ts
-#EXTINF:-1,ES_LA_2
-http://www.t12v.com:8000/live/1054/1054/800.ts
-#EXTINF:-1,ES_TVE_LA_1
-http://www.t12v.com:8000/live/1054/1054/3932.ts
-#EXTINF:-1,ES_TVE_LA_2
-http://www.t12v.com:8000/live/1054/1054/3934.ts
-#EXTINF:-1,ES_AXN_WHITE
-http://www.t12v.com:8000/live/1054/1054/777.ts
-#EXTINF:-1,ES_FOX_LIFE
-http://www.t12v.com:8000/live/1054/1054/789.ts
-#EXTINF:-1,ES_CUATRO
-http://www.t12v.com:8000/live/1054/1054/837.ts
-#EXTINF:-1,ES_B_SPORTS
-http://www.t12v.com:8000/live/1054/1054/3938.ts
-#EXTINF:-1,ES_MOVIESTAR_MOTOGP
-http://www.t12v.com:8000/live/1054/1054/765.ts
-#EXTINF:-1,ES_CANAL+_LIGA_HD
-http://www.t12v.com:8000/live/1054/1054/795.ts
-#EXTINF:-1,ES_EUROSPORT_1
-http://www.t12v.com:8000/live/1054/1054/855.ts
-#EXTINF:-1,ES_EUROSPORT_2
-http://www.t12v.com:8000/live/1054/1054/852.ts
-#EXTINF:-1,ES_CANAL+_FUTBOL
-http://www.t12v.com:8000/live/1054/1054/793.ts
-#EXTINF:-1,ES_REAL_MADRID_TV
-http://www.t12v.com:8000/live/1054/1054/851.ts
-#EXTINF:-1,ES_BARCA_TV
-http://www.t12v.com:8000/live/1054/1054/775.ts
-#EXTINF:-1,ES_TELEDEPORTE
-http://www.t12v.com:8000/live/1054/1054/848.ts
-#EXTINF:-1,ES_A_E_SPAIN
-http://www.t12v.com:8000/live/1054/1054/779.ts
-#EXTINF:-1,ES_CANAL_DEPORTES
-http://www.t12v.com:8000/live/1054/1054/3937.ts
-#EXTINF:-1,ES_CANAL_DEPORTES_2
-http://www.t12v.com:8000/live/1054/1054/3935.ts
-
-#EXTINF:-1,--------FULL M+--------
-#EXTINF:-1,ES: NATGEO WILD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12306.ts
-#EXTINF:-1,ES: M.FÚTBOL
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12308.ts
-#EXTINF:-1,ES: CUATRO HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12318.ts
-#EXTINF:-1,ES: AXN SPAIN
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12313.ts
-#EXTINF:-1,ES:: TV Galicia
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10673.ts
-#EXTINF:-1,ES: TOROS TV
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10686.ts
-#EXTINF:-1,ES: REAL MADRID TV ERSATZ
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10674.ts
-#EXTINF:-1,ES: NAT GEOGRAPHIC
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10703.ts
-#EXTINF:-1,ES: Nat Geo Wild
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10675.ts
-#EXTINF:-1,ES: MOVISTAR MOTO GP
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10677.ts
-#EXTINF:-1,ES: Moviestar F1
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10676.ts
-#EXTINF:-1,ES: HOLLYWOOD SPAIN
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10699.ts
-#EXTINF:-1,ES: FOX HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10700.ts
-#EXTINF:-1,ES: FOX
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10678.ts
-#EXTINF:-1,ES: DISNEY JUNIOR
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10679.ts
-#EXTINF:-1,ES: DCINE ESPANIOL
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10705.ts
-#EXTINF:-1,ES: DCINE
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10706.ts
-#EXTINF:-1,ES: CANAL XTRA
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10708.ts
-#EXTINF:-1,#ES#: CANAL LIGA 1
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10680.ts
-#EXTINF:-1,ES: CANAL GOLF
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10709.ts
-#EXTINF:-1,ES: CANAL FUTBOL
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10690.ts
-#EXTINF:-1,#ES#: CANAL DEPORTES
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10691.ts
-#EXTINF:-1,ES: CANAL DECASA
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10707.ts
-#EXTINF:-1,#ES#: CANAL DCINE
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10682.ts
-#EXTINF:-1,ES: CANAL ACCION SD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10695.ts
-#EXTINF:-1,#ES#: CANAL ACCION
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10683.ts
-#EXTINF:-1,ES: CALLE 13
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10696.ts
-#EXTINF:-1,ES: AXN HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10710.ts
-#EXTINF:-1,ES: ANTENA 3
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/10697.ts
-#EXTINF:-1,#ES#: TAQUILLA 1 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12521.ts
-#EXTINF:-1,#ES#: TAQUILLA 2 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12522.ts
-#EXTINF:-1,#ES#: TAQUILLA 3 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12523.ts
-#EXTINF:-1,#ES#: TAQUILLA 4 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12524.ts
-#EXTINF:-1,ES: TAQUILLA 5 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12525.ts
-#EXTINF:-1,ES: TAQUILLA 6 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12526.ts
-#EXTINF:-1,ES: TAQUILLA 7 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12527.ts
-#EXTINF:-1,#ES#: TAQUILLA 8 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12528.ts
-#EXTINF:-1,#ES#: TAQUILLA 9 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12529.ts
-#EXTINF:-1,#ES#: TAQUILLA 10 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12530.ts
-#EXTINF:-1,ES: REAL MADRID TV HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12659.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12549.ts
-#EXTINF:-1,ES: EUROSPORT
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12551.ts
-#EXTINF:-1,ES: CANAL FUTBOL HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12554.ts
-#EXTINF:-1,ES: CANAL  XTRA HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12660.ts
-#EXTINF:-1,ES: CANAL  SERIES HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12661.ts
-#EXTINF:-1,ES: CANAL  GOLF HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12662.ts
-#EXTINF:-1,ES: CANAL  FUTBOL HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12663.ts
-#EXTINF:-1,ES: CANAL  ESTRENOS HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12664.ts
-#EXTINF:-1,ES: CANAL  DEPORTES 2 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12666.ts
-#EXTINF:-1,ES: CANAL  COMEDIA HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12668.ts
-#EXTINF:-1,ES: C  SERIES XTRA HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12505.ts
-#EXTINF:-1,ES: C  SERIES HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12506.ts
-#EXTINF:-1,ES: C  GOLF HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12509.ts
-#EXTINF:-1,ES: C  DEPORTES HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12512.ts
-#EXTINF:-1,ES: C  DCINE HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12514.ts
-#EXTINF:-1,ES: C  ACCION HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12516.ts
-#EXTINF:-1,ES: C   XTRA HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12517.ts
-#EXTINF:-1,ES: BARCA TV
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12558.ts
-#EXTINF:-1,ES: AXN WHITE HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12519.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12830.ts
-#EXTINF:-1,ES: LA 2 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12829.ts
-#EXTINF:-1,ES: LA 1 HD
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12828.ts
-#EXTINF:-1,ES: FOX SPAIN
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/12832.ts
-#EXTINF:-1,ES: NOVA
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13347.ts
-#EXTINF:-1,ES: CANAL ODISEA
-http://tvohnekabelundsat.levbus.de:8000/live/a.k/a.k/13349.ts
-#EXTINF:-1,ES_TELECINCO
-http://89.163.148.31:8000/live/home/home/7956.ts
-#EXTINF:-1,ES_REAL_MADRID_TV
-http://89.163.148.31:8000/live/home/home/7955.ts
-#EXTINF:-1,ES_MOVIESTAR_MOTOGP
-http://89.163.148.31:8000/live/home/home/7954.ts
-#EXTINF:-1,ES_CANAL_COCINA
-http://89.163.148.31:8000/live/home/home/7951.ts
-#EXTINF:-1,ES_CANAL_ACTION
-http://89.163.148.31:8000/live/home/home/7950.ts
-#EXTINF:-1,ES_CANAL_2
-http://89.163.148.31:8000/live/home/home/7949.ts
-#EXTINF:-1,ES_CANAL _TOROS
-http://89.163.148.31:8000/live/home/home/7948.ts
-#EXTINF:-1,ES_CANAL _LIGA_HD
-http://89.163.148.31:8000/live/home/home/7947.ts
-#EXTINF:-1,ES_CANAL _Estrenos HD
-http://89.163.148.31:8000/live/home/home/7945.ts
-#EXTINF:-1,ES_CANAL _DEPORTES
-http://89.163.148.31:8000/live/home/home/7944.ts
-#EXTINF:-1,ES_CANAL _DCINE
-http://89.163.148.31:8000/live/home/home/7943.ts
-#EXTINF:-1,ES_CANAL _COMEDIA
-http://89.163.148.31:8000/live/home/home/7942.ts
-#EXTINF:-1,ES_CANAL _1
-http://89.163.148.31:8000/live/home/home/7941.ts
-#EXTINF:-1,ES_CALLE_13
-http://89.163.148.31:8000/live/home/home/7940.ts
-#EXTINF:-1,ES: TVE La 2HD
-http://89.163.148.31:8000/live/home/home/7938.ts
-#EXTINF:-1,ES: TV3 Cat
-http://89.163.148.31:8000/live/home/home/7937.ts
-#EXTINF:-1,ES: Odisea HD
-http://89.163.148.31:8000/live/home/home/7936.ts
-#EXTINF:-1,ES: National Geographic
-http://89.163.148.31:8000/live/home/home/7935.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://89.163.148.31:8000/live/home/home/7953.ts
-#EXTINF:-1,ES: Hollywood
-http://89.163.148.31:8000/live/home/home/7934.ts
-#EXTINF:-1,ES: History
-http://89.163.148.31:8000/live/home/home/7933.ts
-#EXTINF:-1,ES: Fox Spain
-http://89.163.148.31:8000/live/home/home/7932.ts
-#EXTINF:-1,ES: Eurosport 2
-http://89.163.148.31:8000/live/home/home/7931.ts
-#EXTINF:-1,ES: Disney Channel
-http://89.163.148.31:8000/live/home/home/7930.ts
-#EXTINF:-1,ES: CANAL DECASA
-http://89.163.148.31:8000/live/home/home/7952.ts
-#EXTINF:-1,ES: CANAL  FUTBOL
-http://89.163.148.31:8000/live/home/home/7946.ts
-#EXTINF:-1,ES: Canal   Golf
-http://89.163.148.31:8000/live/home/home/7929.ts
-#EXTINF:-1,ES: Bein Sports HD
-http://89.163.148.31:8000/live/home/home/7928.ts
-#EXTINF:-1,ES: BARCA TV
-http://89.163.148.31:8000/live/home/home/7939.ts
-#EXTINF:-1,ES: AXN White
-http://89.163.148.31:8000/live/home/home/7927.ts
-#EXTINF:-1,ES: AXN
-http://89.163.148.31:8000/live/home/home/7926.ts
-#EXTINF:-1,ES: A&E
-http://89.163.148.31:8000/live/home/home/7925.ts
+#EXTINF:1,PREMIERE 2
+http://151.80.27.111:25461/live/jefferson1/123456/118.m3u8
+#EXTINF:1,MUSIC BOX BRASIL
+http://151.80.27.111:25461/live/jefferson1/123456/150.m3u8
+#EXTINF:1,COMEDY CENTRAL
+http://151.80.27.111:25461/live/jefferson1/123456/156.m3u8
+#EXTINF:1,I-SAT
+http://151.80.27.111:25461/live/jefferson1/123456/166.m3u8
+#EXTINF:1,CANAL BRASIL
+http://151.80.27.111:25461/live/jefferson1/123456/159.m3u8
+#EXTINF:1,FISH TV
+http://151.80.27.111:25461/live/jefferson1/123456/162.m3u8
+#EXTINF:1,TBS
+http://151.80.27.111:25461/live/jefferson1/123456/130.m3u8
+#EXTINF:1,TRUTV
+http://151.80.27.111:25461/live/jefferson1/123456/138.m3u8
+#EXTINF:1,TOONCAST
+http://151.80.27.111:25461/live/jefferson1/123456/139.m3u8
+#EXTINF:1,TNT SERIES
+http://151.80.27.111:25461/live/jefferson1/123456/140.m3u8
+#EXTINF:1,SYFY
+http://151.80.27.111:25461/live/jefferson1/123456/141.m3u8
+#EXTINF:1,SIC INTERNACIONAL
+http://151.80.27.111:25461/live/jefferson1/123456/144.m3u8
+#EXTINF:1,VH MEGA HITS
+http://151.80.27.111:25461/live/jefferson1/123456/165.m3u8
+#EXTINF:1,ARTE 1
+http://151.80.27.111:25461/live/jefferson1/123456/160.m3u8
+#EXTINF:1,MAIS GLOBOSAT
+http://151.80.27.111:25461/live/jefferson1/123456/151.m3u8
+#EXTINF:1,TV BRASIL
+http://151.80.27.111:25461/live/jefferson1/123456/137.m3u8
+#EXTINF:1,DISCOVERY CHANNEL
+http://151.80.27.111:25461/live/jefferson1/123456/80.m3u8
+#EXTINF:1,DISNEY CHANNEL
+http://151.80.27.111:25461/live/jefferson1/123456/96.m3u8
+#EXTINF:1,EIMAX 2
+http://151.80.27.111:25461/live/jefferson1/123456/43.m3u8
+#EXTINF:1,TELECINE FUN
+http://151.80.27.111:25461/live/jefferson1/123456/131.m3u8
+#EXTINF:1,TLC
+http://151.80.27.111:25461/live/jefferson1/123456/133.m3u8
+#EXTINF:1,TCM
+http://151.80.27.111:25461/live/jefferson1/123456/41.m3u8
+#EXTINF:1,MAX UP
+http://151.80.27.111:25461/live/jefferson1/123456/66.m3u8
+#EXTINF:1,FOX LIFE
+http://151.80.27.111:25461/live/jefferson1/123456/74.m3u8
+#EXTINF:1,ESPN PLUS
+http://151.80.27.111:25461/live/jefferson1/123456/76.m3u8
+#EXTINF:1,DISCOVERY CIVILIZATION
+http://151.80.27.111:25461/live/jefferson1/123456/79.m3u8
+#EXTINF:1,PREMIERE 6
+http://151.80.27.111:25461/live/jefferson1/123456/61.m3u8
+#EXTINF:1,SPORTV 3
+http://151.80.27.111:25461/live/jefferson1/123456/128.m3u8
+#EXTINF:1,REDE TV
+http://151.80.27.111:25461/live/jefferson1/123456/124.m3u8
+#EXTINF:1,NICK JR.
+http://151.80.27.111:25461/live/jefferson1/123456/117.m3u8
+#EXTINF:1,HISTORY
+http://151.80.27.111:25461/live/jefferson1/123456/109.m3u8
+#EXTINF:1,HBO FAMILY
+http://151.80.27.111:25461/live/jefferson1/123456/108.m3u8
+#EXTINF:1,GNT
+http://151.80.27.111:25461/live/jefferson1/123456/105.m3u8
+#EXTINF:1,FUTURA
+http://151.80.27.111:25461/live/jefferson1/123456/102.m3u8
+#EXTINF:1,DISCOVERY SCIENCE
+http://151.80.27.111:25461/live/jefferson1/123456/94.m3u8
+#EXTINF:1,BOOMERANG
+http://151.80.27.111:25461/live/jefferson1/123456/90.m3u8
+#EXTINF:1,BAND
+http://151.80.27.111:25461/live/jefferson1/123456/88.m3u8
+#EXTINF:1,ANIMAL PLANET
+http://151.80.27.111:25461/live/jefferson1/123456/86.m3u8
+#EXTINF:1,A&E
+http://151.80.27.111:25461/live/jefferson1/123456/87.m3u8
+#EXTINF:1,EIMAX
+http://151.80.27.111:25461/live/jefferson1/123456/100.m3u8
+#EXTINF:1,MTV
+http://151.80.27.111:25461/live/jefferson1/123456/65.m3u8
+#EXTINF:1,MEGAPIX
+http://151.80.27.111:25461/live/jefferson1/123456/113.m3u8
+#EXTINF:1,MAX PRIME
+http://151.80.27.111:25461/live/jefferson1/123456/112.m3u8
+#EXTINF:1,COMBATE HD
+http://151.80.27.111:25461/live/jefferson1/123456/136.m3u8
+#EXTINF:1,GLOBO
+http://151.80.27.111:25461/live/jefferson1/123456/104.m3u8
+#EXTINF:1,SBT
+http://151.80.27.111:25461/live/jefferson1/123456/47.m3u8
+#EXTINF:1,RECORD
+http://151.80.27.111:25461/live/jefferson1/123456/58.m3u8
+#EXTINF:1,FX
+http://151.80.27.111:25461/live/jefferson1/123456/103.m3u8
+#EXTINF:1,AXN
+http://151.80.27.111:25461/live/jefferson1/123456/85.m3u8
+#EXTINF:1,FOX
+http://151.80.27.111:25461/live/jefferson1/123456/75.m3u8
+#EXTINF:1,CINEMAX
+http://151.80.27.111:25461/live/jefferson1/123456/91.m3u8
+#EXTINF:1,UNIVERSAL
+http://151.80.27.111:25461/live/jefferson1/123456/48.m3u8
+#EXTINF:1,TNT
+http://151.80.27.111:25461/live/jefferson1/123456/49.m3u8
+#EXTINF:1,PARAMOUNT
+http://151.80.27.111:25461/live/jefferson1/123456/63.m3u8
+#EXTINF:1,WARNER
+http://151.80.27.111:25461/live/jefferson1/123456/45.m3u8
+#EXTINF:1,SPACE
+http://151.80.27.111:25461/live/jefferson1/123456/126.m3u8
+#EXTINF:1,SONY
+http://151.80.27.111:25461/live/jefferson1/123456/125.m3u8
+#EXTINF:1,STUDIO UNIVERSAL
+http://151.80.27.111:25461/live/jefferson1/123456/129.m3u8
+#EXTINF:1,HBO
+http://151.80.27.111:25461/live/jefferson1/123456/69.m3u8
+#EXTINF:1,HBO 2
+http://151.80.27.111:25461/live/jefferson1/123456/107.m3u8
+#EXTINF:1,HBO PLUS
+http://151.80.27.111:25461/live/jefferson1/123456/68.m3u8
+#EXTINF:1,HBO SIGNATURE
+http://151.80.27.111:25461/live/jefferson1/123456/67.m3u8
+#EXTINF:1,MAX
+http://151.80.27.111:25461/live/jefferson1/123456/111.m3u8
+#EXTINF:1,TELECINE PREMIUM
+http://151.80.27.111:25461/live/jefferson1/123456/51.m3u8
+#EXTINF:1,TELECINE ACTION
+http://151.80.27.111:25461/live/jefferson1/123456/53.m3u8
+#EXTINF:1,TELECINE TOUCH
+http://151.80.27.111:25461/live/jefferson1/123456/50.m3u8
+#EXTINF:1,TELECINE PIPOCA
+http://151.80.27.111:25461/live/jefferson1/123456/132.m3u8
+#EXTINF:1,TELECINE CULT
+http://151.80.27.111:25461/live/jefferson1/123456/52.m3u8
+#EXTINF:1,SPORTV
+http://151.80.27.111:25461/live/jefferson1/123456/127.m3u8
+#EXTINF:1,SPORTV 2
+http://151.80.27.111:25461/live/jefferson1/123456/54.m3u8
+#EXTINF:1,ESPN
+http://151.80.27.111:25461/live/jefferson1/123456/77.m3u8
+#EXTINF:1,ESPN BRASIL
+http://151.80.27.111:25461/live/jefferson1/123456/101.m3u8
+#EXTINF:1,FOX SPORT
+http://151.80.27.111:25461/live/jefferson1/123456/73.m3u8
+#EXTINF:1,FOX SPORT 2
+http://151.80.27.111:25461/live/jefferson1/123456/72.m3u8
+#EXTINF:1,BAND SPORT
+http://151.80.27.111:25461/live/jefferson1/123456/84.m3u8
+#EXTINF:1,OFF
+http://151.80.27.111:25461/live/jefferson1/123456/64.m3u8
+#EXTINF:1,COMBATE
+http://151.80.27.111:25461/live/jefferson1/123456/135.m3u8
+#EXTINF:1,PREMIERE CLUBES
+http://151.80.27.111:25461/live/jefferson1/123456/123.m3u8
+#EXTINF:1,PREMIERE 3
+http://151.80.27.111:25461/live/jefferson1/123456/119.m3u8
+#EXTINF:1,PREMIERE 4
+http://151.80.27.111:25461/live/jefferson1/123456/120.m3u8
+#EXTINF:1,PREMIERE 5
+http://151.80.27.111:25461/live/jefferson1/123456/59.m3u8
+#EXTINF:1,PREMIERE 7
+http://151.80.27.111:25461/live/jefferson1/123456/121.m3u8
+#EXTINF:1,PREMIERE 8
+http://151.80.27.111:25461/live/jefferson1/123456/60.m3u8
+#EXTINF:1,PREMIERE 9
+http://151.80.27.111:25461/live/jefferson1/123456/122.m3u8
+#EXTINF:1,NICK
+http://151.80.27.111:25461/live/jefferson1/123456/116.m3u8
+#EXTINF:1,GLOOB
+http://151.80.27.111:25461/live/jefferson1/123456/70.m3u8
+#EXTINF:1,CARTOON NETWORK
+http://151.80.27.111:25461/live/jefferson1/123456/82.m3u8
+#EXTINF:1,DISCOVERY KIDS
+http://151.80.27.111:25461/live/jefferson1/123456/93.m3u8
+#EXTINF:1,DISNEY XD
+http://151.80.27.111:25461/live/jefferson1/123456/98.m3u8
+#EXTINF:1,DISNEY JR
+http://151.80.27.111:25461/live/jefferson1/123456/97.m3u8
+#EXTINF:1,DISCOVERY HOME & HELT
+http://151.80.27.111:25461/live/jefferson1/123456/92.m3u8
+#EXTINF:1,DSICOVERY TURBO
+http://151.80.27.111:25461/live/jefferson1/123456/95.m3u8
+#EXTINF:1,DISCOVERY TURBO
+http://151.80.27.111:25461/live/jefferson1/123456/78.m3u8
+#EXTINF:1,NAT GEO
+http://151.80.27.111:25461/live/jefferson1/123456/115.m3u8
+#EXTINF:1,H2
+http://151.80.27.111:25461/live/jefferson1/123456/106.m3u8
+#EXTINF:1,ID
+http://151.80.27.111:25461/live/jefferson1/123456/110.m3u8
+#EXTINF:1,BIS
+http://151.80.27.111:25461/live/jefferson1/123456/83.m3u8
+#EXTINF:1,VIVA
+http://151.80.27.111:25461/live/jefferson1/123456/46.m3u8
+#EXTINF:1,E!
+http://151.80.27.111:25461/live/jefferson1/123456/99.m3u8
+#EXTINF:1,BAND NEWS
+http://151.80.27.111:25461/live/jefferson1/123456/89.m3u8
+#EXTINF:1,GLOBO NEWS
+http://151.80.27.111:25461/live/jefferson1/123456/71.m3u8
+#EXTINF:1,RECORD NEWS
+http://151.80.27.111:25461/live/jefferson1/123456/57.m3u8
+#EXTINF:1,MULTISHOW
+http://151.80.27.111:25461/live/jefferson1/123456/114.m3u8
+#EXTINF:1,CULTURA
+http://151.80.27.111:25461/live/jefferson1/123456/81.m3u8
+#EXTINF:1,PLAYBOY
+http://151.80.27.111:25461/live/jefferson1/123456/62.m3u8
+#EXTINF:1,SEXY HOT
+http://151.80.27.111:25461/live/jefferson1/123456/55.m3u8
+#EXTINF:1,SEXTREME
+http://151.80.27.111:25461/live/jefferson1/123456/56.m3u8
 
 
 
