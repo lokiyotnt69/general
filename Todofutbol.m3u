@@ -1,16 +1,373 @@
 #EXTM3U
-#EXTINF:-1,#[COLOR yellow] Fecha Clave 19 Noviembre!!!Actualizandolo!!!  [/COLOR]
-#EXTINF:-1,ES: CANAL+ LIGA HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/197.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: REAL MADRID
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/466.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,C+ DEPORT 2
-http://5.147.77.93:8001/1:0:1:760C:408:1:C00000:0:0:0:
-#EXTINF:-1,C+ PARTIDAZO
-http://5.147.77.93:8001/1:0:1:769C:41E:1:C00000:0:0:0:
-#EXTINF:-1,C+ DEPORTES
-http://5.147.77.93:8001/1:0:1:778F:424:1:C00000:0:0:0:
-#EXTINF:-1,C+ FUTBOL
-http://5.147.77.93:8001/1:0:1:778E:424:1:C00000:0:0:0:
-#EXTINF:-1,EUROSPORT 2
-http://5.147.77.93:8001/1:0:1:760E:408:1:C00000:0:0:0:
+#EXTINF:-1,#[COLOR yellow] Fase Actualizandolo!!! 20:15 dia 19 Noviembre!!! [/COLOR]
+#EXTINF:-1,FR: CANALPLAY KID1
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/3749.ts
+#EXTINF:-1,ES:VIAJAR HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2722.ts
+#EXTINF:-1,ES:TELEDEPORTE HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2723.ts
+#EXTINF:-1,ES:TELECINCO HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2695.ts
+#EXTINF:-1,ES:TCM HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2726.ts
+#EXTINF:-1,ES: ODISEA HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2727.ts
+#EXTINF:-1,ES:NICK Jr
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2707.ts
+#EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2702.ts
+#EXTINF:-1,ES:NAT GEO WILD HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2701.ts
+#EXTINF:-1,ES:MEGA
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2724.ts
+#EXTINF:-1,ES:LA SEXTA HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2698.ts
+#EXTINF:-1,ES: LA 2 HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2700.ts
+#EXTINF:-1,ES:LA 1 HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2699.ts
+#EXTINF:-1,ES:HOLLYWOOD HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2725.ts
+#EXTINF:-1,ES:HISTORIA
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2728.ts
+#EXTINF:-1,ES:FOX LIFE HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2696.ts
+#EXTINF:-1,ES:FOX HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2697.ts
+#EXTINF:-1,ES:DISNEY XD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2709.ts
+#EXTINF:-1,ES:DISNEY JUNIOR
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2710.ts
+#EXTINF:-1,ES:DISNE CHANNEL HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2708.ts
+#EXTINF:-1,ES:DISCOVERY CI
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2704.ts
+#EXTINF:-1,ES:DISCOVERY CHANNEL HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2703.ts
+#EXTINF:-1,ES:CUATRO HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2713.ts
+#EXTINF:-1,ES:Canal  XTRA HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2715.ts
+#EXTINF:-1,ES:Canal  TOROS HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2717.ts
+#EXTINF:-1,ES:Canal  SERIES XTRA HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2712.ts
+#EXTINF:-1,ES:Canal  SERIES HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2711.ts
+#EXTINF:-1,ES:Canal  LIGA HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2690.ts
+#EXTINF:-1,ES:Canal  LIGA 2 HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2691.ts
+#EXTINF:-1,ES:Canal  GOLF HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2716.ts
+#EXTINF:-1,ES:Canal  FUTBOL HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2692.ts
+#EXTINF:-1,ES:Canal  ESTRENOS HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2718.ts
+#EXTINF:-1,ES:Canal  DEPORTES HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2693.ts
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2694.ts
+#EXTINF:-1,ES:Canal  DCINE HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2719.ts
+#EXTINF:-1,ES:Canal  COMEDIA HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2720.ts
+#EXTINF:-1,ES:CANAL  ACTION HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2688.ts
+#EXTINF:-1,ES:CALLE 13 HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2714.ts
+#EXTINF:-1,ES:AXN WHITE HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2706.ts
+#EXTINF:-1,ES: AXN HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2705.ts
+#EXTINF:-1,ES:ANTENA 3 HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2721.ts
+#EXTINF:-1,ES: #0 HD
+http://iptvfree1.com:6969/live/13/www.iptvrestream.net/2729.ts
+#EXTINF:-1,#[COLOR yellow] Fase Actualizandolo!!! 20:15 dia 19 Noviembre!!! [/COLOR]
+#EXTINF:-1,ES-TOROS  HD
+http://live.softiptv.com:9900/live/3month/3month/19479.ts
+#EXTINF:-1,ES-TOROS
+http://live.softiptv.com:9900/live/3month/3month/19521.ts
+#EXTINF:-1,ES-TNT
+http://live.softiptv.com:9900/live/3month/3month/19506.ts
+#EXTINF:-1,ES-Telesur
+http://live.softiptv.com:9900/live/3month/3month/19507.ts
+#EXTINF:-1,ES-SYFY
+http://live.softiptv.com:9900/live/3month/3month/19522.ts
+#EXTINF:-1,ES-SKY TG24
+http://live.softiptv.com:9900/live/3month/3month/19480.ts
+#EXTINF:-1,ES-RT DOC
+http://live.softiptv.com:9900/live/3month/3month/19481.ts
+#EXTINF:-1,ES-REAL MADRID TV
+http://live.softiptv.com:9900/live/3month/3month/19508.ts
+#EXTINF:-1,ES-RAI NEWS24
+http://live.softiptv.com:9900/live/3month/3month/19482.ts
+#EXTINF:-1,ES-QUATRO
+http://live.softiptv.com:9900/live/3month/3month/19509.ts
+#EXTINF:-1,ES-Parlamento
+http://live.softiptv.com:9900/live/3month/3month/19510.ts
+#EXTINF:-1,ES-PANDA
+http://live.softiptv.com:9900/live/3month/3month/19523.ts
+#EXTINF:-1,ES-NICK JR
+http://live.softiptv.com:9900/live/3month/3month/19483.ts
+#EXTINF:-1,ES-NEOX
+http://live.softiptv.com:9900/live/3month/3month/19524.ts
+#EXTINF:-1,ES-MULTIDEPORTE
+http://live.softiptv.com:9900/live/3month/3month/19484.ts
+#EXTINF:-1,ES-LOS 40
+http://live.softiptv.com:9900/live/3month/3month/19511.ts
+#EXTINF:-1,ES-LALIGA TV BAR HD
+http://live.softiptv.com:9900/live/3month/3month/19512.ts
+#EXTINF:-1,ES-LALIGA TV BAR
+http://live.softiptv.com:9900/live/3month/3month/19513.ts
+#EXTINF:-1,ES-IBERALIA TV
+http://live.softiptv.com:9900/live/3month/3month/19525.ts
+#EXTINF:-1,ES-HOLLYWOOD
+http://live.softiptv.com:9900/live/3month/3month/19526.ts
+#EXTINF:-1,ES-HISTORY
+http://live.softiptv.com:9900/live/3month/3month/19485.ts
+#EXTINF:-1,ES-GolTV
+http://live.softiptv.com:9900/live/3month/3month/19486.ts
+#EXTINF:-1,ES-FOX NEWS
+http://live.softiptv.com:9900/live/3month/3month/19487.ts
+#EXTINF:-1,ES-FDF
+http://live.softiptv.com:9900/live/3month/3month/19488.ts
+#EXTINF:-1,ES-eurosport hd
+http://live.softiptv.com:9900/live/3month/3month/19489.ts
+#EXTINF:-1,ES-ESTRELAS
+http://live.softiptv.com:9900/live/3month/3month/19514.ts
+#EXTINF:-1,ES-EHS
+http://live.softiptv.com:9900/live/3month/3month/19527.ts
+#EXTINF:-1,ES-DISNEY CHANNEL HD
+http://live.softiptv.com:9900/live/3month/3month/19490.ts
+#EXTINF:-1,ES-DISCOVERY CHANNEL
+http://live.softiptv.com:9900/live/3month/3month/19491.ts
+#EXTINF:-1,ES-CUATRO
+http://live.softiptv.com:9900/live/3month/3month/19492.ts
+#EXTINF:-1,ES-COMEDY CENTRAL HD
+http://live.softiptv.com:9900/live/3month/3month/19515.ts
+#EXTINF:-1,ES-CLASSICA
+http://live.softiptv.com:9900/live/3month/3month/19493.ts
+#EXTINF:-1,ES-CLAN TVE
+http://live.softiptv.com:9900/live/3month/3month/19494.ts
+#EXTINF:-1,ES-CAZA Y PESCA HD
+http://live.softiptv.com:9900/live/3month/3month/19516.ts
+#EXTINF:-1,ES-CASTILLA LA MANCHA
+http://live.softiptv.com:9900/live/3month/3month/19495.ts
+#EXTINF:-1,ES-CANAL DECASA
+http://live.softiptv.com:9900/live/3month/3month/19528.ts
+#EXTINF:-1,ES-CANAL COCINA
+http://live.softiptv.com:9900/live/3month/3month/19517.ts
+#EXTINF:-1,ES-CALLE 13 HD
+http://live.softiptv.com:9900/live/3month/3month/19496.ts
+#EXTINF:-1,ES-C XTRA
+http://live.softiptv.com:9900/live/3month/3month/19529.ts
+#EXTINF:-1,ES-C & I
+http://live.softiptv.com:9900/live/3month/3month/19497.ts
+#EXTINF:-1,ES-C  COMEDIA
+http://live.softiptv.com:9900/live/3month/3month/19530.ts
+#EXTINF:-1,ES-BLOOMBERG TV
+http://live.softiptv.com:9900/live/3month/3month/19498.ts
+#EXTINF:-1,ES-BEIN SPORT HD
+http://live.softiptv.com:9900/live/3month/3month/19499.ts
+#EXTINF:-1,ES-BEIN SPORT
+http://live.softiptv.com:9900/live/3month/3month/19500.ts
+#EXTINF:-1,ES-BEIN LALIGA HD
+http://live.softiptv.com:9900/live/3month/3month/19518.ts
+#EXTINF:-1,ES-BEIN LALIGA
+http://live.softiptv.com:9900/live/3month/3month/19519.ts
+#EXTINF:-1,ES-Bar?a TV
+http://live.softiptv.com:9900/live/3month/3month/19501.ts
+#EXTINF:-1,ES-AXN WHITE HD
+http://live.softiptv.com:9900/live/3month/3month/19502.ts
+#EXTINF:-1,ES-ARIRANG WORLD
+http://live.softiptv.com:9900/live/3month/3month/19503.ts
+#EXTINF:-1,ES-AMC
+http://live.softiptv.com:9900/live/3month/3month/19520.ts
+#EXTINF:-1,ES-Al Jazeera
+http://live.softiptv.com:9900/live/3month/3month/19504.ts
+#EXTINF:-1,ES-#0 HD
+http://live.softiptv.com:9900/live/3month/3month/19505.ts
+#EXTINF:-1,ES-TNT HD
+http://live.softiptv.com:9900/live/3month/3month/8185.ts
+#EXTINF:-1,ES-TELEDEPORTE
+http://live.softiptv.com:9900/live/3month/3month/8187.ts
+#EXTINF:-1,ES-TELECINCO HD
+http://live.softiptv.com:9900/live/3month/3month/8188.ts
+#EXTINF:-1,ES-TELECINCO
+http://live.softiptv.com:9900/live/3month/3month/8189.ts
+#EXTINF:-1,ES-TCM HD
+http://live.softiptv.com:9900/live/3month/3month/8190.ts
+#EXTINF:-1,ES-TCM
+http://live.softiptv.com:9900/live/3month/3month/8191.ts
+#EXTINF:-1,ES-RT NEWS ENG
+http://live.softiptv.com:9900/live/3month/3month/8193.ts
+#EXTINF:-1,ES-RT
+http://live.softiptv.com:9900/live/3month/3month/8194.ts
+#EXTINF:-1,ES-PLAYBOY TV
+http://live.softiptv.com:9900/live/3month/3month/8196.ts
+#EXTINF:-1,ES-PARAMOUNT
+http://live.softiptv.com:9900/live/3month/3month/8197.ts
+#EXTINF:-1,ES-NOVA
+http://live.softiptv.com:9900/live/3month/3month/8199.ts
+#EXTINF:-1,ES-Nickelodeon
+http://live.softiptv.com:9900/live/3month/3month/8200.ts
+#EXTINF:-1,ES-NHK WORLD
+http://live.softiptv.com:9900/live/3month/3month/8201.ts
+#EXTINF:-1,ES-NAT GEOGRAPH
+http://live.softiptv.com:9900/live/3month/3month/8203.ts
+#EXTINF:-1,ES-NAT GEO WILD HD
+http://live.softiptv.com:9900/live/3month/3month/8204.ts
+#EXTINF:-1,ES-NAT GEO WILD
+http://live.softiptv.com:9900/live/3month/3month/8205.ts
+#EXTINF:-1,ES-MOVISTAR F1 HD
+http://live.softiptv.com:9900/live/3month/3month/8206.ts
+#EXTINF:-1,ES-MOTOGP HD
+http://live.softiptv.com:9900/live/3month/3month/8207.ts
+#EXTINF:-1,ES-MOTO GP
+http://live.softiptv.com:9900/live/3month/3month/8208.ts
+#EXTINF:-1,ES-LTC
+http://live.softiptv.com:9900/live/3month/3month/8209.ts
+#EXTINF:-1,ES-LIGA HD
+http://live.softiptv.com:9900/live/3month/3month/8210.ts
+#EXTINF:-1,ES-LA SEXTA HD
+http://live.softiptv.com:9900/live/3month/3month/8212.ts
+#EXTINF:-1,ES-LA SEXTA
+http://live.softiptv.com:9900/live/3month/3month/8213.ts
+#EXTINF:-1,ES-LA 2
+http://live.softiptv.com:9900/live/3month/3month/8214.ts
+#EXTINF:-1,ES-LA 1 HD
+http://live.softiptv.com:9900/live/3month/3month/8215.ts
+#EXTINF:-1,ES-LA 1
+http://live.softiptv.com:9900/live/3month/3month/8216.ts
+#EXTINF:-1,ES-HOLLYWOOD HD
+http://live.softiptv.com:9900/live/3month/3month/8217.ts
+#EXTINF:-1,ES-HISTORIA
+http://live.softiptv.com:9900/live/3month/3month/8219.ts
+#EXTINF:-1,ES-FRANCE 24-EN
+http://live.softiptv.com:9900/live/3month/3month/8220.ts
+#EXTINF:-1,ES-FOX LIFE HD
+http://live.softiptv.com:9900/live/3month/3month/8221.ts
+#EXTINF:-1,ES-FOX LIFE
+http://live.softiptv.com:9900/live/3month/3month/8222.ts
+#EXTINF:-1,ES-FOX HD
+http://live.softiptv.com:9900/live/3month/3month/8223.ts
+#EXTINF:-1,ES-FOX
+http://live.softiptv.com:9900/live/3month/3month/8224.ts
+#EXTINF:-1,ES-EUROSPORT 2
+http://live.softiptv.com:9900/live/3month/3month/8225.ts
+#EXTINF:-1,ES-EUROSPORT 1
+http://live.softiptv.com:9900/live/3month/3month/8226.ts
+#EXTINF:-1,ES-ES-40 TV
+http://live.softiptv.com:9900/live/3month/3month/8228.ts
+#EXTINF:-1,ES-ENERGY
+http://live.softiptv.com:9900/live/3month/3month/8229.ts
+#EXTINF:-1,ES-DIVINITY
+http://live.softiptv.com:9900/live/3month/3month/8231.ts
+#EXTINF:-1,ES-DISNEY XD
+http://live.softiptv.com:9900/live/3month/3month/8232.ts
+#EXTINF:-1,ES-DISNEY JR
+http://live.softiptv.com:9900/live/3month/3month/8233.ts
+#EXTINF:-1,ES-DISNEY CH.
+http://live.softiptv.com:9900/live/3month/3month/8234.ts
+#EXTINF:-1,ES-DISCOVERY
+http://live.softiptv.com:9900/live/3month/3month/8235.ts
+#EXTINF:-1,ES-DEPORTES 2
+http://live.softiptv.com:9900/live/3month/3month/8236.ts
+#EXTINF:-1,ES-DCINE
+http://live.softiptv.com:9900/live/3month/3month/8237.ts
+#EXTINF:-1,ES-CUATRO HD
+http://live.softiptv.com:9900/live/3month/3month/8238.ts
+#EXTINF:-1,ES-COSMOPOLITAN HD
+http://live.softiptv.com:9900/live/3month/3month/8239.ts
+#EXTINF:-1,ES-COSMO
+http://live.softiptv.com:9900/live/3month/3month/8240.ts
+#EXTINF:-1,ES-CAZA Y PESCA
+http://live.softiptv.com:9900/live/3month/3month/8242.ts
+#EXTINF:-1,ES-CANAL SUR ANDALUCIA
+http://live.softiptv.com:9900/live/3month/3month/8243.ts
+#EXTINF:-1,ES-CANAL ODISEA
+http://live.softiptv.com:9900/live/3month/3month/8244.ts
+#EXTINF:-1,ES-Canal Extremadura SAT
+http://live.softiptv.com:9900/live/3month/3month/8245.ts
+#EXTINF:-1,ES-CALLE 13
+http://live.softiptv.com:9900/live/3month/3month/8248.ts
+#EXTINF:-1,ES-C&I
+http://live.softiptv.com:9900/live/3month/3month/8249.ts
+#EXTINF:-1,ES-C COMEDIA HD
+http://live.softiptv.com:9900/live/3month/3month/8250.ts
+#EXTINF:-1,ES-C  SERIESXTRA
+http://live.softiptv.com:9900/live/3month/3month/8251.ts
+#EXTINF:-1,ES-C  Series Xtra HD
+http://live.softiptv.com:9900/live/3month/3month/8252.ts
+#EXTINF:-1,ES-C  SERIES HD
+http://live.softiptv.com:9900/live/3month/3month/8253.ts
+#EXTINF:-1,ES-C  SERIES
+http://live.softiptv.com:9900/live/3month/3month/8254.ts
+#EXTINF:-1,ES-C  PORTADA
+http://live.softiptv.com:9900/live/3month/3month/8255.ts
+#EXTINF:-1,ES-C  LIGA
+http://live.softiptv.com:9900/live/3month/3month/8256.ts
+#EXTINF:-1,ES-C  GOLF HD
+http://live.softiptv.com:9900/live/3month/3month/8257.ts
+#EXTINF:-1,ES-C  GOLF
+http://live.softiptv.com:9900/live/3month/3month/8258.ts
+#EXTINF:-1,ES-C  FUTBOL HD
+http://live.softiptv.com:9900/live/3month/3month/8259.ts
+#EXTINF:-1,ES-C  FTBOL
+http://live.softiptv.com:9900/live/3month/3month/8260.ts
+#EXTINF:-1,ES-C  DEPORTES
+http://live.softiptv.com:9900/live/3month/3month/8262.ts
+#EXTINF:-1,ES-C  DCINE HD
+http://live.softiptv.com:9900/live/3month/3month/8263.ts
+#EXTINF:-1,ES-C  ACCI©N HD
+http://live.softiptv.com:9900/live/3month/3month/8265.ts
+#EXTINF:-1,ES-BOING
+http://live.softiptv.com:9900/live/3month/3month/8267.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 9
+http://live.softiptv.com:9900/live/3month/3month/8268.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 8
+http://live.softiptv.com:9900/live/3month/3month/8269.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 7
+http://live.softiptv.com:9900/live/3month/3month/8270.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 6
+http://live.softiptv.com:9900/live/3month/3month/8271.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 5
+http://live.softiptv.com:9900/live/3month/3month/8272.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 4
+http://live.softiptv.com:9900/live/3month/3month/8273.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 3
+http://live.softiptv.com:9900/live/3month/3month/8274.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 2
+http://live.softiptv.com:9900/live/3month/3month/8275.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 10
+http://live.softiptv.com:9900/live/3month/3month/8276.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 1
+http://live.softiptv.com:9900/live/3month/3month/8277.ts
+#EXTINF:-1,ES-BAR TV
+http://live.softiptv.com:9900/live/3month/3month/8280.ts
+#EXTINF:-1,ES-BABY TV
+http://live.softiptv.com:9900/live/3month/3month/8281.ts
+#EXTINF:-1,ES-AXN WHITE
+http://live.softiptv.com:9900/live/3month/3month/8282.ts
+#EXTINF:-1,ES-AXN HD
+http://live.softiptv.com:9900/live/3month/3month/8283.ts
+#EXTINF:-1,ES-AXN
+http://live.softiptv.com:9900/live/3month/3month/8284.ts
+#EXTINF:-1,ES-ARAGON TV
+http://live.softiptv.com:9900/live/3month/3month/8285.ts
+#EXTINF:-1,ES-ANTENA 3 HD
+http://live.softiptv.com:9900/live/3month/3month/8286.ts
+#EXTINF:-1,ES-ANTENA 3
+http://live.softiptv.com:9900/live/3month/3month/8287.ts
+#EXTINF:-1,ES-AMC HD
+http://live.softiptv.com:9900/live/3month/3month/8288.ts
+#EXTINF:-1,ES-AJE
+http://live.softiptv.com:9900/live/3month/3month/8290.ts
+#EXTINF:-1,ES-A&E
+http://live.softiptv.com:9900/live/3month/3month/8291.ts
+#EXTINF:-1,ES-24 HORAS
+http://live.softiptv.com:9900/live/3month/3month/8292.ts
+#EXTINF:-1,ES-#0
+http://live.softiptv.com:9900/live/3month/3month/8293.ts

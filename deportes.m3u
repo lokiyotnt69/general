@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,#[COLOR blue]  FUNCIONAN!!!!!!  [/COLOR]
+#EXTINF:-1,[COLOR blue]  FUNCIONAN!!!!!!  [/COLOR]
 #EXTINF:-1,Superport 1
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1,Superport 2
