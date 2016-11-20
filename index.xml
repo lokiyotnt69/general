@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
- <item>
+<item>
 <title>                               [COLOR lime][B]  B I E N V E N I D O S[/COLOR][COLOR yellow] A [/COLOR][COLOR deepskyblue]J.H.G. M A S T E R[/B][/COLOR]   </title>
 <link>$doregex[openDialog]</link>
 <regex>
@@ -244,3 +244,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/Todofutbol.m3u</externallink>	
 </item>
+
+
+<item>
+<title>-[COLOR blue] Mundo JHG [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoJHG/master/mundojhg-xml.xml</externallink>	
+</item>
+
+
