@@ -1,494 +1,1651 @@
 #EXTM3U
-#EXTINF:-1,#[COLOR yellow] Fase Actualizandolo!!! 20:15 dia 19 Noviembre!!! [/COLOR]
-#EXTINF:-1,BEIN_SPORTS_1_HD_AR
-http://ip.cs4ip.com:8000/live/raji/raji/186.ts
-#EXTINF:-1,BEIN_SPORTS_1_HDS
-http://ip.cs4ip.com:8000/live/raji/raji/2788.ts
-#EXTINF:-1,BEIN_SPORTS_2_HD_AR
-http://ip.cs4ip.com:8000/live/raji/raji/188.ts
-#EXTINF:-1,BEIN_SPORTS_2_HDS
-http://ip.cs4ip.com:8000/live/raji/raji/2789.ts
-#EXTINF:-1,BEIN_SPORTS_3_HD_AR
-http://ip.cs4ip.com:8000/live/raji/raji/189.ts
-#EXTINF:-1,BEIN_SPORTS_3_HDS
-http://ip.cs4ip.com:8000/live/raji/raji/2790.ts
-#EXTINF:-1,BEIN_SPORTS_4_HD_AR
-http://ip.cs4ip.com:8000/live/raji/raji/266.ts
-#EXTINF:-1,BEIN_SPORTS_4_HDS
-http://ip.cs4ip.com:8000/live/raji/raji/2839.ts
-#EXTINF:-1,BEIN_SPORTS_5_HD_AR
-http://ip.cs4ip.com:8000/live/raji/raji/267.ts
-#EXTINF:-1,BEIN_SPORTS_5_HDS
-http://ip.cs4ip.com:8000/live/raji/raji/2840.ts
-#EXTINF:-1,BEIN_SPORTS_6_HD_AR
-http://ip.cs4ip.com:8000/live/raji/raji/268.ts
-#EXTINF:-1,BEIN_SPORTS_6_HDS
-http://ip.cs4ip.com:8000/live/raji/raji/2841.ts
-#EXTINF:-1,BEIN_SPORTS_HD7_AR
-http://ip.cs4ip.com:8000/live/raji/raji/7.ts
-#EXTINF:-1,BEIN_SPORTS_7_HDS
-http://ip.cs4ip.com:8000/live/raji/raji/2889.ts
-#EXTINF:-1,BEIN_SPORTS_HD8_AR
-http://ip.cs4ip.com:8000/live/raji/raji/8.ts
-#EXTINF:-1,BEIN_SPORTS_8_HDS
-http://ip.cs4ip.com:8000/live/raji/raji/2890.ts
-#EXTINF:-1,BEIN_SPORTS_HD9_AR
-http://ip.cs4ip.com:8000/live/raji/raji/9.ts
-#EXTINF:-1,BEIN_SPORTS_9_HDS
-http://ip.cs4ip.com:8000/live/raji/raji/2891.ts
-#EXTINF:-1,BEIN_SPORTS_HD10_AR
-http://ip.cs4ip.com:8000/live/raji/raji/10.ts
-#EXTINF:-1,beINSPORT11_HD
-http://ip.cs4ip.com:8000/live/raji/raji/1798.ts
-#EXTINF:-1,beINSPORT12_HD
-http://ip.cs4ip.com:8000/live/raji/raji/1799.ts
-#EXTINF:-1,BEINSPORT1_SD
-http://ip.cs4ip.com:8000/live/raji/raji/388.ts
-#EXTINF:-1,BEINSPORT_2SD
-http://ip.cs4ip.com:8000/live/raji/raji/389.ts
-#EXTINF:-1,BEINSPORT_3SD
-http://ip.cs4ip.com:8000/live/raji/raji/390.ts
-#EXTINF:-1,BEINSPORT_4SD
-http://ip.cs4ip.com:8000/live/raji/raji/391.ts
-#EXTINF:-1,BEINSPORT_5SD
-http://ip.cs4ip.com:8000/live/raji/raji/392.ts
-#EXTINF:-1,BEINSPORT_6SD
-http://ip.cs4ip.com:8000/live/raji/raji/393.ts
-#EXTINF:-1,BEINSPORT_7SD
-http://ip.cs4ip.com:8000/live/raji/raji/394.ts
-#EXTINF:-1,BEINSPORT_8SD
-http://ip.cs4ip.com:8000/live/raji/raji/395.ts
-#EXTINF:-1,BEINSPORT9_SD
-http://ip.cs4ip.com:8000/live/raji/raji/396.ts
-#EXTINF:-1,BEINSPORT_10SD
-http://ip.cs4ip.com:8000/live/raji/raji/397.ts
-#EXTINF:-1,BEIN_SPORTS_1_HD_AR
-http://62.4.21.70:8000/live/987654/987654/186.ts
-#EXTINF:-1,BEIN_SPORTS_1_HDS
-http://62.4.21.70:8000/live/987654/987654/2788.ts
-#EXTINF:-1,BEIN_SPORTS_2_HD_AR
-http://62.4.21.70:8000/live/987654/987654/188.ts
-#EXTINF:-1,BEIN_SPORTS_2_HDS
-http://62.4.21.70:8000/live/987654/987654/2789.ts
-#EXTINF:-1,BEIN_SPORTS_3_HD_AR
-http://62.4.21.70:8000/live/987654/987654/189.ts
-#EXTINF:-1,BEIN_SPORTS_3_HDS
-http://62.4.21.70:8000/live/987654/987654/2790.ts
-#EXTINF:-1,BEIN_SPORTS_4_HD_AR
-http://62.4.21.70:8000/live/987654/987654/266.ts
-#EXTINF:-1,BEIN_SPORTS_4_HDS
-http://62.4.21.70:8000/live/987654/987654/2839.ts
-#EXTINF:-1,BEIN_SPORTS_5_HD_AR
-http://62.4.21.70:8000/live/987654/987654/267.ts
-#EXTINF:-1,BEIN_SPORTS_5_HDS
-http://62.4.21.70:8000/live/987654/987654/2840.ts
-#EXTINF:-1,BEIN_SPORTS_6_HD_AR
-http://62.4.21.70:8000/live/987654/987654/268.ts
-#EXTINF:-1,BEIN_SPORTS_6_HDS
-http://62.4.21.70:8000/live/987654/987654/2841.ts
-#EXTINF:-1,BEIN_SPORTS_HD7_AR
-http://62.4.21.70:8000/live/987654/987654/7.ts
-#EXTINF:-1,BEIN_SPORTS_7_HDS
-http://62.4.21.70:8000/live/987654/987654/2889.ts
-#EXTINF:-1,BEIN_SPORTS_HD8_AR
-http://62.4.21.70:8000/live/987654/987654/8.ts
-#EXTINF:-1,BEIN_SPORTS_8_HDS
-http://62.4.21.70:8000/live/987654/987654/2890.ts
-#EXTINF:-1,BEIN_SPORTS_HD9_AR
-http://62.4.21.70:8000/live/987654/987654/9.ts
-#EXTINF:-1,BEIN_SPORTS_9_HDS
-http://62.4.21.70:8000/live/987654/987654/2891.ts
-#EXTINF:-1,BEIN_SPORTS_HD10_AR
-http://62.4.21.70:8000/live/987654/987654/10.ts
-#EXTINF:-1,beINSPORT11_HD
-http://62.4.21.70:8000/live/987654/987654/1798.ts
-#EXTINF:-1,beINSPORT12_HD
-http://62.4.21.70:8000/live/987654/987654/1799.ts
-#EXTINF:-1,BEINSPORT1_SD
-http://62.4.21.70:8000/live/987654/987654/388.ts
-#EXTINF:-1,BEINSPORT_2SD
-http://62.4.21.70:8000/live/987654/987654/389.ts
-#EXTINF:-1,BEINSPORT_3SD
-http://62.4.21.70:8000/live/987654/987654/390.ts
-#EXTINF:-1,BEINSPORT_4SD
-http://62.4.21.70:8000/live/987654/987654/391.ts
-#EXTINF:-1,BEINSPORT_5SD
-http://62.4.21.70:8000/live/987654/987654/392.ts
-#EXTINF:-1,BEINSPORT_6SD
-http://62.4.21.70:8000/live/987654/987654/393.ts
-#EXTINF:-1,BEINSPORT_7SD
-http://62.4.21.70:8000/live/987654/987654/394.ts
-#EXTINF:-1,BEINSPORT_8SD
-http://62.4.21.70:8000/live/987654/987654/395.ts
-#EXTINF:-1,BEINSPORT9_SD
-http://62.4.21.70:8000/live/987654/987654/396.ts
-#EXTINF:-1,BEINSPORT_10SD
-http://62.4.21.70:8000/live/987654/987654/397.ts
+#EXTINF:-1,#[COLOR red ] JHG ESPAÑA!!! [/COLOR]
+***** SPAIN *****
+#EXTINF:-1,TELECINCOHD
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1245.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,NATGEO
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1246.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,LASEXTA
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1247.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,LA2
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1248.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,LA1
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1249.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1250.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CUATRO
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1254.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CAZAYPESCA
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1255.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CANALSERIE
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1262.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CANALLALIGA 2
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1257.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CANALLALIGA
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1256.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CANALFUTBOL
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1263.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CANALESTRENOS
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1258.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CANALDEPORTE
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1264.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CANALDCINE
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1259.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CANALCOMEDIA
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1260.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CANALACCION
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1261.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CALLE13
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1265.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,BEINESPAÃ‘A
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1266.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ANTENASERIESHD
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1267.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,ANTENA3HD
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1268.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+
+
+
+#EXTINF:-1,IT: SPORTITALIA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1531.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: REAL TIME
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1528.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: MEDIASET 1
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1525.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: MEDIASET 5
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1524.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: MEDIASET EXTRA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1391.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: GIALLO
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1526.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: CIELO
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1527.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT:  RSI LA 1 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1186.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RSI LA 2 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1187.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RETE 4 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1400.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1388.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: NAT GEO PEOPLE HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1389.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1394.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: IRIS MEDIASET
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1392.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1390.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: GAMBERO ROSSO HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1402.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: FINE LIVING
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1403.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: DISCOVERY TRAVELl
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1396.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI 1 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/190.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI 2 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/191.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI 3 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/203.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI 4 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/364.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI 5
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/299.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI NEWS 24
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/440.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI PREMIUM
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/439.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI GULP
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/441.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI STORIA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1518.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI YOYO
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1397.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI SCUOLA
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1399.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI MOVIE
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1398.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI SPORT 1
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1329.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: RAI SPORT 2
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1330.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: LA 5
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1529.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: LA 7 D
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/365.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: LA 7 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/205.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CINEMA PASSION HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/206.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CINEMA CLASSIC HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/208.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CINEMA MAX 1 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/294.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CINEMA 1
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/296.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CINEMA 24 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/192.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CINEMA HITS
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1520.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CINEMA COMEDY
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1521.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/295.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY SPORT 2
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1327.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY SPORT 24
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1523.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY MOTO GP
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1522.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT : SKY SPORT F1 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/189.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY SUPER TENNIS HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/322.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY UNO HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/305.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY TG24
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1401.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: FOX HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/379.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: FOX COMEDY
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/1519.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/382.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CALCIO HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/326.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CALCIO 1 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/323.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CALCIO 2 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/324.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CALCIO 3 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/385.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CALCIO 4 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/325.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CALCIO 5 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/386.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: SKY CALCIO 6 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/387.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/268.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM JOI
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/274.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM STORIES
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/273.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CRIME
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/271.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CRIME  24
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/272.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CINEMA EMOTION
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/267.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CINEMA 1
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/263.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CINEMA 1  24
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/264.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CINEMA 2
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/265.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CINEMA 2  24
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/266.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM ACTION
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/269.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM ACTION  24
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/270.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM SPORT HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/204.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CINEMA HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/218.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CINEMA ENERGY
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/219.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CINEMA COMEDY
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/220.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/217.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PRIMAFILA 1HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/300.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PRIMAFILA 2 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/301.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PRIMAFILA 3 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/302.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PRIMAFILA 6 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/426.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PRIMAFILA 7 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/427.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PRIMAFILA 8 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/431.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PRIMAFILA 9 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/428.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PRIMAFILA 11 HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/430.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CALCIO 1
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/443.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,IT: PREMIUM CALCIO 3
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/joseph/joseph/445.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Iris
+http://5.255.90.243:5000/play/a028
+#EXTINF:-1,Rai 3 HD
+http://5.255.90.243:5000/play/a02l
+#EXTINF:-1,Canale 5
+http://5.255.90.243:5000/play/a026
+#EXTINF:-1,Cartoonito
+http://5.255.90.243:5000/play/a02f
+#EXTINF:-1,Infinity
+http://5.255.90.243:5000/play/a02i
+#EXTINF:-1,LA7
+http://5.255.90.243:5000/play/a02g
+#EXTINF:-1,Mediaset EXTRA
+http://5.255.90.243:5000/play/a02c
+#EXTINF:-1,Italia 1
+http://5.255.90.243:5000/play/a025
+#EXTINF:-1,Rete 4
+http://5.255.90.243:5000/play/a027
+#EXTINF:-1,LA7d
+http://5.255.90.243:5000/play/a02h
+#EXTINF:-1,TgCom24
+http://5.255.90.243:5000/play/a02b
+#EXTINF:-1,Rai Movie HD
+http://5.255.90.243:5000/play/a02p
+#EXTINF:-1,Rai 5 HD
+http://5.255.90.243:5000/play/a02j
+#EXTINF:-1,Rai 2 HD
+http://5.255.90.243:5000/play/a02k
+#EXTINF:-1,La 5
+http://5.255.90.243:5000/play/a02a
+#EXTINF:-1,Boing
+http://5.255.90.243:5000/play/a029
+#EXTINF:-1,Rai Premium HD
+http://5.255.90.243:5000/play/a02o
+#EXTINF:-1,Rai 4 HD
+http://5.255.90.243:5000/play/a02n
+#EXTINF:-1,Topcrime
+http://5.255.90.243:5000/play/a02e
+#EXTINF:-1,Rai Sport 1 HD
+http://5.255.90.243:5000/play/a02m
+#EXTINF:-1,Mediaset ITALIA DUE
+http://5.255.90.243:5000/play/a02d
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Rai 1
+http://92.240.232.205:8888/udp/232.232.64.43:5004
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,SuperTENNIS
+http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7d/v7.m3u8
+#EXTINF:-1,LA7
+http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7/v7.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="019.png",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8
+#EXTINF:-1,Rai 4
+mmsh://212.162.68.162/rai4
+#EXTINF:-1,Rai 5
+http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
+#EXTINF:-1,Rai News24
+http://rm-edge-8.cdn2.streamago.tv/streamagoedge/1917/810/playlist.m3u8
+#EXTINF:-1,Rai Scuola
+http://originstream6.rai.it:80/italy/raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:-1,Rai Storia
+mmsh://212.162.68.163:80/rai_storia
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="007.png",La7
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
+
+#EXTINF:-1, Rai Movie
+http://stream10.rai.it/italy/raimovie.smil/playlist.m3u8
+
+#EXTINF:-1, RAI YoYo
+http://stream10.rai.it/italy/raiyoyo.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="0611" group-title="Italiano" tvg-logo="0611.png", Rai Sport 1
+http://212.162.68.163/raisport+
+
+#EXTINF:-1, Super Tennis
+http://se-mi1-5.se.itvmscvas.alice.cdn.interbusiness.it/liveas/cubovision/la7d/v7.m3u8
+
+#EXTINF:-1, Rtl 102.5 Tv
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:-1, TeleTicino
+http://rtmp.infomaniak.ch/livecast/teleticinolive/anis_sat.m3u8
+#EXTINF:-1, Trm h24
+http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
+#EXTINF:-1, EuroNews
+http://stream8.rai.it/live/smil:euronews.smil/playlist.m3u8
+#EXTINF:-1,.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2
+http://wms.shared.streamshow.it:80.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2/playlist.m3u8
+#EXTINF:-1, Itv
+http://wms.iptv.4wardstream.net:80/itviptv/itviptv/playlist.m3u8
+#EXTINF:-1, TV 2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1, Virgin TV
+http://fms.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1, Radio Montecarlo TV
+http://fms.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:-1, For Music
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/sansar.m3u8
+#EXTINF:-1, Repubblica TV
+http://repvideo_1-lh.akamaihd.net/i/Studio1_1@183089/master.m3u8
+#EXTINF:-1, M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1, Onda Latina
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:-1, Radio capital Tivù
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1, SkyTG 24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1, Sky TG24 HD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream5/streamPlaylist.m3u8
+#EXTINF:-1, Tele Padre Pio
+http://teleradiopadrepio.it.flash.glb.ipercast.net:1935/teleradiopadrepio.it-live/live/livestream.m3u8
+#EXTINF:-1, Quartarete
+http://194.116.73.146/quartaretetv/quartareteweb/playlist.m3u8
+#EXTINF:-1, Quartarete Blu
+http://194.116.73.234:1935/quartaretetv2/quartaretebluweb/hasbahca.m3u8
+#EXTINF:-1, Canale 7
+http://fms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1, Jo
+http://fms.shared.streamshow.it:1935/jotv/jotv/livestream.m3u8
+#EXTINF:-1, Tele 8
+http://vs2.streamcaster.net:1935/tele8_live/tele8/chunklist.m3u8
+#EXTINF:-1, Tele Pavia
+http://fms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1, Tele San Remo
+http://wms.shared.streamshow.it/telesanremo/telesanremo/playlist.m3u8
+#EXTINF:-1, Super TV
+http://fms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1, Videolina TV
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+#EXTINF:-1, Tele Arena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/live.m3u8
+#EXTINF:-1, Fano TV
+http://live.streamcaster.net:1935/live/fanotv/sansar.m3u8
+#EXTINF:-1, Tele Luna
+http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1, Rete 8
+http://rm-edge-4.cdn2.streamago.tv:1935/streamagoedge/39648/36568/Rete8.m3u8
+#EXTINF:-1, Rete Sport 8
+http://rm-edge-1.cdn2.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
+#EXTINF:-1, Tele Boario
+http://91.121.222.160:1935/teleboariotb/teleboario.sdp/live.m3u8
+#EXTINF:-1, Radio 105 TV
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1, Radio Italia Tv
+http://cwedge.cdcache.net:1935/cwedge/rilive/livestream.m3u8
+#EXTINF:-1, Cbl Classic
+http://msh0193.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:-1, Rete Teleunica
+http://flash2.ipercast.net:1935/teleunica.tv-live/livestream1/playlist.m3u8
+#EXTINF:-1, Telemilano
+http://91.121.222.160:1935/piublu/piublu.sdp/playlist.m3u8
+#EXTINF:-1, Sardegna Uno
+http://94.32.101.11:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1, La Cosa
+http://djhgglzdzw21p.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1, Corriere TV
+http://iphone4.rcs.it/h24_2_ipad.m3u8
+#EXTINF:-1, Tele Diogene
+http://fms.shared.streamshow.it:1935/telediogene/telediogene/live.m3u8
+#EXTINF:-1, Alto Adige TV
+http://77.72.196.214:8554/live/mp4:AltoAdigeTV/playlist.m3u8
+#EXTINF:-1, Suedtirol TV
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+#EXTINF:-1, Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1, Tele Market
+http://wms.shared.streamshow.it:1935/telemarket/telemarket/live.m3u8
+#EXTINF:-1, Tele Studio Modena
+http://fms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
+#EXTINF:-1, Uni Nettuno University TV
+http://stream6.rai.it/live/smil:uninettuno.smil/chunklist_b900000.m3u8
+#EXTINF:-1, Video Calabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+#EXTINF:-1, Tele Sicilia
+http://vs2.streamcaster.net:1935/.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25_live/telesicilia/playlist.m3u8
+#EXTINF:-1, Visual Radio
+http://wms.shared.streamshow.it:80/visualradio/visualradio_mobile/playlist.m3u8
+#EXTINF:-1, Tv Uno
+http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+#EXTINF:-1, Rock One TV
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1, Video Brescia
+http://fms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1, Televomero
+http://94.198.100.100/televomero/channel1_televomero/playlist.m3u8
+#EXTINF:-1, Telecolore
+http://xtcstelecoloresalernox.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1, Super Tennis
+http://109.87.164.11:8080/udp/238.0.16.63:1234
+#EXTINF:-1, Sport Italia
+http://spi.hystream.com:1935/spilive/spistream_480/playlist.m3u8
+#EXTINF:-1, Tg Norba24
+http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
+#EXTINF:-1, Antenna 3
+.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25p://live.cdn2.streamago.tv/streamago/34674/28723/?idcanale=28723
+#EXTINF:-1, Orler Channel
+http://77.92.76.135:1935/orler/livestream/playlist.m3u8
+#EXTINF:-1, Tele Oltre
+http://94.198.100.199:80/np_teleoltre/channel1_np_teleoltre/playlist.m3u8
+#EXTINF:-1, Automoto Tv
+http://178.22.187.142:1935/automoto/_definst_/mp4:myStream3/playlist.m3u8
+#EXTINF:-1, La 3
+http://h3ghdchan101-i.akamaihd.net/hls/live/217153/Virtual_Channel101/master.m3u8
+#EXTINF:-1, Class Tv Moda
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+#EXTINF:-1, Class-Cnbc
+#EXTVLCOPT:http-caching=5000
+http://liveclass.edgesuite.net/i/classcnbc_1@199799/master.m3u8
+#EXTINF:-1, Smtv San Marino
+http://194.116.72.186:1935/webtv_live4/0QBXFQ2L0I5P/playlist.m3u8
+#EXTINF:-1, E TV Marche
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/sansar.m3u8
+#EXTINF:-1, Radio Norba Tv
+http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
+#EXTINF:-1, kiss Kiss TV
+http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1, Radio Taormina TV
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1, Napoli Canale 21
+http://live.streamcaster.net:1935/canale21_live/canale21/chunklist.m3u8
+#EXTINF:-1, Il Meteo.It Oggi
+http://media.ilmeteo.it/video/iphone/oggi.m4v
+#EXTINF:-1, Il Meteo.It Domani
+http://media.ilmeteo.it/video/iphone/domani.m4v
+#EXTINF:-1, Il Meteo.It Dopodomani
+http://media.ilmeteo.it/video/iphone/dopodomani.m4v
+#EXTINF:-1, Fashion Channel TV
+.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25p://live.cdn2.streamago.tv/streamago/32350/26446/?idcanale=26446
+#EXTINF:-1, Senato TV
+#EXTVLCOPT:http-caching=10000
+http://flash3.glb.ipercast.net:1935/webtv.senato.it-live/_definst_/stream2/playlist.m3u8
+#EXTINF:-1, Camera Dei Deputati
+.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25p://live.cdn2.streamago.tv/streamago/1919/812/?idcanale=812
+#EXTINF:-1, Tele Ducato Pr
+http://fms.shared.streamshow.it:1935/teleducatopr/teleducatopr/live.m3u8
+#EXTINF:-1, Tele Ducato Pc
+http://wms.shared.streamshow.it:80/teleducatopc/teleducatopc/playlist.m3u8
+#EXTINF:-1, Blustar tv
+http://wms.shared.streamshow.it:80/blustartv/blustartv/playlist.m3u8
+#EXTINF:-1, Brescia live tv
+http://wms.shared.streamshow.it:80/brescialivetv/brescialivetv/playlist.m3u8
+#EXTINF:-1, Canale 2
+http://wms.iptv.4wardstream.net:80/canale2iptv/canale2iptv/playlist.m3u8
+#EXTINF:-1, Lucania tv
+http://wms.shared.streamshow.it:80/lucaniatv/lucaniatv/playlist.m3u8
+#EXTINF:-1, Studio 100 ta
+http://wms.shared.streamshow.it:80/studio100ta/studio100ta/playlist.m3u8
+#EXTINF:-1, Telemia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+#EXTINF:-1, Tele Monteneve
+http://wms.shared.streamshow.it:80/telemonteneve/telemonteneve/playlist.m3u8
+#EXTINF:-1, Tele Monteneve 3
+http://wms.shared.streamshow.it:80/telemonteneve3/telemonteneve3/playlist.m3u8
+#EXTINF:-1, Tvrs
+http://wms.shared.streamshow.it:80/tvrs/tvrs/playlist.m3u8
+#EXTINF:-1, Vera tv
+http://wms.shared.streamshow.it:80/veratv/veratv/playlist.m3u8
+#EXTINF:-1, .ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25 Notizie
+http://vs2.streamcaster.net:1935/.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25_live/.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25notizie/playlist.m3u8
+#EXTINF:-1, Alpauno
+http://vs2.streamcaster.net:1935/test_live/alpauno/playlist.m3u8
+   
+#EXTINF:-1,SERVI TAROT
+http://87.106.244.74:1935/live/myStream_1/livestream.m3u8
+#EXTINF:-1,SERVI TAROT
+http://87.106.244.74:1935/live/myStream_2/livestream.m3u8
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/index_700_av-b.m3u8
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/index_700_av-p.m3u8
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/master.m3u8
+#EXTINF:-1,SISTEMA TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/casthls/127.m3u8
+#EXTINF:-1,SI TV
+http://hd.worldkast.com:1935/8436/8436/live.m3u8
+#EXTINF:-1,SMO TV
+http://199.217.118.90:1935/smotv/stream/live.m3u8
+#EXTINF:-1,SOLIDARIA TV
+http://188.165.135.22:1935/remararg/livestream/live.m3u8
+#EXTINF:-1,SULAVISION
+http://162.212.176.68:1935/sulavision/sulavision/live.m3u8
+#EXTINF:-1,SULAVISION
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1,SUPER PODER
+http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/casthls/116.m3u8
+#EXTINF:-1,SUPER PODER
+http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/hls2/116.m3u8
+#EXTINF:-1,TA TE TI
+http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/index_724_av-b.m3u8
+#EXTINF:-1,TA TE TI
+http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,TDC
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+#EXTINF:-1,TELE AMIGA
+http://cdns840stu1010.multistream.net:80/teleamigalive/amlst:live/livestream.m3u8
+#EXTINF:-1,TELE AMIGA
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,TELE AMIGA
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,TELE ANTILLAS
+http://mek4.mekstream.com:1935/teleantillas/live3/livestream.m3u8
+#EXTINF:-1,TELE ANTILLAS
+http://mek4.mekstream.com:1935/teleantillas/teleantillas.smil/live.m3u8
+#EXTINF:-1,TELEANTIOQUIA
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,TELEANTIOQUIA
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,TELE ARAGUA
+http://edge.wms28.lorini.net:1935/telearagua/telearagua/live.m3u8
+#EXTINF:-1,TELE ARAGUA
+http://vpn58.hdtv.lorini.net:1935/telearagua/telearagua/live.m3u8
+#EXTINF:-1,TELECAFÉ HD
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,TELECAFÉ HD
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,TELECANAL
+http://movilstream.digitalproserver.com:1935/tcsc/tcscvivo/tcsc.smil/chunklist_b1248000.m3u8
+#EXTINF:-1,TELECANAL
+http://wow2.cl.digitalproserver.com:1935/tcsc/tcscvivo/tcsc.smil/chunklist_b1248000.m3u8
+#EXTINF:-1,TELECARIBE
+http://cdns840stu1010.multistream.net:80/telecaribelive/amlst:live/chunklist_b500000.m3u8
+#EXTINF:-1,TELECARIBE
+http://cdns840stu1010.multistream.net:80/telecaribelive/live-500/chunklist_b500000.m3u8
+#EXTINF:-1,TELECEIBA
+http://162.212.176.68:1935/teleceiba/teleceiba/live.m3u8
+#EXTINF:-1,TELECEIBA
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios1-lh.akamaihd.net:80/i/esmediaset_11@168471/index_0_av-b.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios1-lh.akamaihd.net:80/i/esmediaset_11@168471/index_0_av-p.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios2-lh.akamaihd.net:80/i/esmediaset_21@168473/index_0_av-b.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios2-lh.akamaihd.net:80/i/esmediaset_21@168473/index_0_av-p.m3u8
+#EXTINF:-1,TELEDUNAMIS
+http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/teledunamis/live.m3u8
+#EXTINF:-1,TELE FUTURO
+http://ss7.domint.net:1950/tf_str/futu/live.m3u8
+#EXTINF:-1,TELEMAX
+http://live-edge01.telecentro.net.ar:1935/live/tlx-360/livestream.m3u8
+#EXTINF:-1,TELEMAX
+http://live-edge01.telecentro.net.ar:1935/live/tlx-480/livestream.m3u8
+#EXTINF:-1,TELE MEDELLIN
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,TELE MEDELLIN
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv:80/uhls/20720323/streams/live/playlist.m3u8
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv:80/ustreamVideo/20720323/streams/live/playlist.m3u8
+#EXTINF:-1,TELEMUNDO
+http://q.gs/9830047/telemundotodokodim3u8
+#EXTINF:-1,TELEMUNDO
+http://q.gs/9830047/unimastodokodim3u8
+#EXTINF:-1,TELEMUNDO HD
+http://104.200.159.74:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
+#EXTINF:-1,TELEMUNDO HD
+http://107.152.103.226:1935/app/telemundox1chivas_69s-channel/live.m3u8
+#EXTINF:-1,TELE MÚSICA
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+#EXTINF:-1,TELE PROGRESO
+http://162.212.176.68:1935/teleprogreso/teleprogreso/live.m3u8
+#EXTINF:-1,TELE PROGRESO
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://162.212.176.68:1935/telesistema/telesistema/live.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://mek4.mekstream.com:1935/telesistema/live2/livestream.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://mek4.mekstream.com:1935/telesistema/telesistema.smil/live.m3u8
+#EXTINF:-1,TELESUR
+http://android.telesur.ultrabase.net:1935/mainrepeater/telesurLive/livestream.m3u8
+#EXTINF:-1,TELESUR
+http://cdn2.telesur.ultrabase.net:1935/livecf/telesurLive/livestream.m3u8
+#EXTINF:-1,TELESUR
+http://q.gs/9830047/telesurtodokodim3u8
+#EXTINF:-1,TELE UNIVERSO
+http://ss7.domint.net:1942/tu_str/universo/live.m3u8
+#EXTINF:-1,TELE UNO TV
+http://k3.usastreams.com:1935/tvuno1/tvuno1/live.m3u8
+#EXTINF:-1,TELE VID
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,TELE VID
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,TELE VIDA HD
+http://evo.eltelon.com:443/live/televida/livestream.m3u8
+#EXTINF:-1,TELE VIDA HD
+http://evo.eltelon.com:1935/live/televida/livestream.m3u8
+#EXTINF:-1,TELEVISA
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_518_av-p.m3u8
+#EXTINF:-1,TELEVISA
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_648_av-p.m3u8
+#EXTINF:-1,TELEVISA HD
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_1048_av-b.m3u8
+#EXTINF:-1,TELEVISA HD
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,TELEVITROLA
+http://186.155.200.118:1935/live/Televitrola/livestream.m3u8
+#EXTINF:-1,TELPIN HD
+http://201.219.100.30:1935/telpintv/ngrp:ttv.stream_all/live.m3u8
+#EXTINF:-1,TELPIN TV
+http://201.219.100.30:1935/telpintv/ttv.stream_240p/live.m3u8
+#EXTINF:-1,TELPIN TV
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/live.m3u8
+#EXTINF:-1,TELPIN TV HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/live.m3u8
+#EXTINF:-1,TEVEO MIAMI
+http://q.gs/9830047/tveomiamitodokodim3u8
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1,TIGO MUSIC
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1,TIVA
+http://live-h1.frontlayer.net:1935/fl729845/live/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS
+http://200.42.92.142:1935/live/tnhd2/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS
+http://200.42.92.142:1935/live/tnmovil2/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS HD
+http://200.42.92.142:1935/live/tnhd1/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS SD
+http://200.42.92.142:1935/live/tnhd3/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS SD
+http://200.42.92.142:1935/live/tnmovil1/livestream.m3u8
+#EXTINF:-1,TRAVEL TV
+http://87.106.219.140:1935/live/myStream_2/livestream.m3u8
+#EXTINF:-1,TRENTY CHANNEL
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,TRENTY CHANNEL
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,TRT TV
+http://edge.wms28.lorini.net:1935/trttv/trttv/live.m3u8
+#EXTINF:-1,TRT TV
+http://vpn58.hdtv.lorini.net:1935/trttv/trttv/live.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:tv3_web/livestream.m3u8
+#EXTINF:-1,TV3 24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:324_web/livestream.m3u8
+#EXTINF:-1,TV 4
+http://190.107.176.167:1935/live/tv4-television/livestream.m3u8
+#EXTINF:-1,TV 12
+http://162.212.176.68:1935/canal12/canal12/live.m3u8
+#EXTINF:-1,TV 12
+http://162.212.176.83:8080/canal12.stream.m3u8
+#EXTINF:-1,TV AGRO
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,TV AGRO
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,TV AZTECA HONDURAS
+http://162.212.176.68:1935/azteca/azteca/live.m3u8
+#EXTINF:-1,TV AZTECA HONDURAS
+http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/index_1_av-p.m3u8
+#EXTINF:-1,TV AZTECA HONDURAS
+http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1,TVC
+http://162.212.176.68:1935/canal5/canal5/live.m3u8
+#EXTINF:-1,TVC
+http://162.212.176.83:8080/canal5.stream.m3u8
+#EXTINF:-1,TVC HD
+http://162.212.176.68:1935/tvchd/tvchd/live.m3u8
+#EXTINF:-1,TVC HD
+http://162.212.176.83:8080/tvchd.stream.m3u8
+#EXTINF:-1,TV CHILE
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TV CHILE
+http://edge-12-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TV CHILE
+http://edge-20-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TV CHILE
+http://edge-51-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TV CHILE
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TV GALICIA AMERICA
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,TV GALICIA AMERICA
+http://media3.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,TV GALICIA AMERICA
+http://media3.crtvg.es:1935/live/tvga_2/livestream.m3u8
+#EXTINF:-1,TV GALICIA AMERICA
+http://media4.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,TV GALICIA EUROPA
+http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:-1,TV GALICIA EUROPA
+http://media3.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:-1,TV GALICIA EUROPA
+http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
+#EXTINF:-1,TV GALICIA EUROPA
+http://media4.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:-1,TV GRANADA 7
+http://cdns724ste1010.multistream.net:80/tgsietelive/amlst:tvgranada/chunklist_b750000.m3u8
+#EXTINF:-1,TV MANÁ
+http://195.22.19.183:1935/tvesp/tvesp3/live.m3u8
+#EXTINF:-1,TV MANÁ
+http://195.22.19.189:1935/tvarba/tvarba3/live.m3u8
+#EXTINF:-1,TV MANÁ
+http://195.22.19.189:1935/tvar/tvmanaar2/live.m3u8
+#EXTINF:-1,TV MÁS HD
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:-1,TV MELILLA
+http://stream.tvmelilla.es:1935/tvmelilla/live/livestream.m3u8
+#EXTINF:-1,TV MEXIQUENSE
+http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/live.m3u8
+#EXTINF:-1,TVN
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVN
+http://edge-12-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVN
+http://edge-20-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVN
+http://edge-51-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVN
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVN HD
+http://q.gs/9830047/tvnhdtodokodim3u8
+#EXTINF:-1,TVN HD
+http://tvn-vod.mdstrm.com:1935/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1,TVN HD
+http://urtmpkal-f.akamaihd.net:80/i/19wqj1kgf_1@136614/index_1_av-b.m3u8
+#EXTINF:-1,TVN HD
+http://urtmpkal-f.akamaihd.net:80/i/19wqj1kgf_1@136614/index_1_av-p.m3u8
+#EXTINF:-1,TVN HD
+http://urtmpkal-f.akamaihd.net:80/i/19wqj1kgf_1@136614/master.m3u8
+#EXTINF:-1,TV NUEVO TIEMPO
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.smil/live.m3u8
+#EXTINF:-1,TV NUEVO TIEMPO
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+#EXTINF:-1,TV PERÚ
+http://iphone-streaming.ustream.tv:80/uhls/17419715/streams/live/playlist.m3u8
+#EXTINF:-1,TV PERÚ
+http://iphone-streaming.ustream.tv:80/ustreamVideo/17419715/streams/live/playlist.m3u8
+#EXTINF:-1,TV POLANCO
+http://186.155.200.118:1935/live/ColombiasuMusica/livestream.m3u8
+#EXTINF:-1,TV PUBLICA HD
+http://live-edge01.telecentro.net.ar:1935/live/tvp.smil/chunklist_b1264000_sleng.m3u8
+#EXTINF:-1,TV RED
+http://69.164.193.177:1935/live/myStream/livestream.m3u8
+#EXTINF:-1,TV RIO NEGRINA
+http://184.172.26.212:1935/live/live15/livestream.m3u8
+#EXTINF:-1,TV SATELITAL
+http://181.198.10.23:1935/live/mystream/livestream.m3u8
+#EXTINF:-1,TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
+#EXTINF:-1,UCV SATELITAL
+http://wowzacontrol.net:1935/8050/8050/live.m3u8
+#EXTINF:-1,UNIVISION HD
+http://104.200.159.74:1935/app/turbomax-hds-channel/playlist.m3u8
+#EXTINF:-1,UNIVISION HD
+http://107.152.103.226:1935/app/turbomax-hds-channel/live.m3u8
+#EXTINF:-1,VALE TV
+http://edge.wms28.lorini.net:1935/valetv/valetv/live.m3u8
+#EXTINF:-1,VALE TV
+http://vpn58.hdtv.lorini.net:1935/valetv/valetv/live.m3u8
+#EXTINF:-1,VALLE TV
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/livestream.m3u8
+#EXTINF:-1,VEGATEVE
+http://ss7.domint.net:2084/vtv_str/canal8/live.m3u8
+#EXTINF:-1,VIVA NICARAGUA
+http://iphone-streaming.ustream.tv:80/uhls/13870671/streams/live/playlist.m3u8
+#EXTINF:-1,VIVA NICARAGUA
+http://iphone-streaming.ustream.tv:80/ustreamVideo/13870671/streams/live/playlist.m3u8
+#EXTINF:-1,VIVRA TV
+http://iphone-streaming.ustream.tv:80/uhls/10002020/streams/live/playlist.m3u8
+#EXTINF:-1,VIVRA TV
+http://iphone-streaming.ustream.tv:80/ustreamVideo/10002020/streams/live/playlist.m3u8
+#EXTINF:-1,VMAS TV
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:-1,VMAS TV
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:-1,XTREME TV
+http://iphone-streaming.ustream.tv:80/uhls/20555006/streams/live/playlist.m3u8
+#EXTINF:-1,XTREME TV
+http://iphone-streaming.ustream.tv:80/ustreamVideo/20555006/streams/live/playlist.m3u8
+#EXTINF:-1,ITÁLIA
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:-1,ALTO ADIGE TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+#EXTINF:-1,ANTENNA 3
+http://live.cdn.streamago.tv:1935/streamagoedge/34674/28723/livestream.m3u8
+#EXTINF:-1,ANTENNA 3
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/34674/28723/livestream.m3u8
+#EXTINF:-1,AUTO MOTO TV
+http://178.22.187.142:1935/automoto/myStream2/live.m3u8
+#EXTINF:-1,AUTO MOTO TV
+http://178.22.187.142:1935/automoto/myStream3/live.m3u8
+#EXTINF:-1,BRESCIA LIVE TV
+http://fms.shared.streamshow.it:1935/brescialivetv/brescialivetv/live.m3u8
+#EXTINF:-1,BRESCIA LIVE TV
+http://wms.shared.streamshow.it:1935/brescialivetv/brescialivetv/live.m3u8
+#EXTINF:-1,CAMERA DEI DEPUTATI
+http://live.cdn.streamago.tv:1935/streamagoedge/1919/812/livestream.m3u8
+#EXTINF:-1,CAMERA DEI DEPUTATI
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/1919/812/live.m3u8
+#EXTINF:-1,CANALE 2
+http://wms.iptv.4wardstream.net:1935/canale2iptv/canale2iptv/live.m3u8
+#EXTINF:-1,CANALE 7
+http://fms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,CANALE 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,CANALE 21
+http://live.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,CANALE 21
+http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,CANALE 21
+http://video2.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,CANALE 21
+http://vs2.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,CANALE DIECI
+http://176.31.226.78:1935/ch10live/stream1.sdp/livestream.m3u8
+#EXTINF:-1,CANALE DIECI
+http://176.31.226.78:1935/ch10live/stream2.sdp/livestream.m3u8
+#EXTINF:-1,CASERTA SPORT TV
+http://52.10.37.231:1984/.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25tream2073/.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25tream2073/live.m3u8
+#EXTINF:-1,CIELO
+http://skyianywhere2-i.akamaihd.net:80/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1,CIELO
+http://skyianywhere2-i.akamaihd.net:80/hls/live/216865/cielo/stream1/streamPlaylist.m3u8
+#EXTINF:-1,CIELO
+http://skyianywhere2-i.akamaihd.net:80/hls/live/216865/cielo/stream2/streamPlaylist.m3u8
+#EXTINF:-1,E TV MARCHE
+http://live.Kronopress.com:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,E TV MARCHE
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,E TV MARCHE
+http://video2.Kronopress.com:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,E TV MARCHE
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/19-live.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_it.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_it.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/19-live.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_it.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_it.m3u8
+#EXTINF:-1,FASHION CHANNEL
+http://live.cdn.streamago.tv:1935/streamagoedge/32350/26446/livestream.m3u8
+#EXTINF:-1,FASHION CHANNEL
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/32350/26446/live.m3u8
+#EXTINF:-1,FOR MUSIC TV
+http://194.116.73.146.1935/quartaretetv1/formusicweb/live.m3u8
+#EXTINF:-1,FOR MUSIC TV
+http://wowza1.top-ix.org:1935/quartaretetv1/formusicweb/live.m3u8
+#EXTINF:-1,INFO TRENTINO
+http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
+#EXTINF:-1,JO TV
+http://fms.shared.streamshow.it:1935/jotv/jotv/livestream.m3u8
+#EXTINF:-1,JO TV
+http://wms.shared.streamshow.it:1935/jotv/jotv/livestream.m3u8
+#EXTINF:-1,LA 3
+http://h3ghdchan101-i.akamaihd.net:80/hls/live/217153/Virtual_Channel101/master.m3u8
+#EXTINF:-1,LA 6
+http://live.youiptv.ch:1935/La6/LA6.stream/livestream.m3u8
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,ORLER CHANNEL
+http://77.92.76.135:1935/orler/livestream/live.m3u8
+#EXTINF:-1,OTTO 8 FM TV
+http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
+#EXTINF:-1,OTTO 8 FM TV
+http://live.youiptv.ch:1935/8FM/ngrp:8FM_all/livestream.m3u8
+#EXTINF:-1,PADRE PIO TV
+http://teleradiopadrepio.it.flash.glb.ipercast.net:1935/teleradiopadrepio.it-live/live/livestream.m3u8
+#EXTINF:-1,QUARTARETE
+http://194.116.73.146:1935/quartaretetv/quartareteweb/live.m3u8
+#EXTINF:-1,QUARTARETE
+http://wowza1.top-ix.org:1935/quartaretetv/quartareteweb/live.m3u8
+#EXTINF:-1,QUARTARETE BLU
+http://194.116.73.146:1935/quartaretetv2/quartaretebluweb/live.m3u8
+#EXTINF:-1,QUARTARETE BLU
+http://wowza1.top-ix.org:1935/quartaretetv2/quartaretebluweb/live.m3u8
+#EXTINF:-1,RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,RADIO 105 TV
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,RADIO ITALIA TV
+http://cwedge.cdcache.net:1935/cwedge/rilive/livestream.m3u8
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://fms.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:-1,RADIO NORBA TV
+http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
+#EXTINF:-1,RADIO VIRGIN TV
+http://fms.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1,RADIO VIRGIN TV
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1,RAI 1
+http://origin2.live.web.tv.streamprovider.net:80/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1,RAI 2
+http://origin2.live.web.tv.streamprovider.net:80/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
+#EXTINF:-1,RAI 3
+http://origin2.live.web.tv.streamprovider.net:80/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+#EXTINF:-1,RAI 5
+http://stream12.rai.it:80/live/rai5_android.smil/chunklist_b400000.m3u8
+#EXTINF:-1,RAI 5
+http://stream12.rai.it:80/live/rai5_android.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,RAI 5
+http://stream12.rai.it:80/live/rai5.smil/chunklist_b400000.m3u8
+#EXTINF:-1,RAI 5
+http://stream12.rai.it:80/live/rai5.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,RAI MOVIE
+http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,RAI MOVIE
+http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,RAI MOVIE
+http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://origin2.live.web.tv.streamprovider.net:80/streams/121612976e4808528d2ba7edc446887c/index.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/1917/810/live.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://stream8.rai.it:80/live/rainews_android.smil/chunklist_b1400000.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://stream8.rai.it:80/live/rainews.smil/chunklist_b1400000.m3u8
+#EXTINF:-1,RAI YOYO
+http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,RAI YOYO
+http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,RAI YOYO
+http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,RETE 8 SPORT
+http://live.cdn.streamago.tv:1935/streamagoedge/39648/36567/livestream.m3u8
+#EXTINF:-1,RETE 8 SPORT
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
+#EXTINF:-1,RETE 55
+http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
+#EXTINF:-1,RETE 55
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/livestream.m3u8
+#EXTINF:-1,RETE BIELLA TV
+http://194.116.73.146:1935/megawebtv/streaming/live.m3u8
+#EXTINF:-1,RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
+#EXTINF:-1,RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:-1,RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/radiovisione/playlist.m3u8
+#EXTINF:-1,RTV SAN MARINO
+http://194.116.72.186:1935/webtv_live4/0QBXFQ2L0I5P/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.11:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.13:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.14:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.16:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.17:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.18:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARONNO TV
+http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
+#EXTINF:-1,SENATO TV
+http://flash3.glb.ipercast.net:1935/webtv.senato.it-live/stream1/livestream.m3u8
+#EXTINF:-1,SENATO TV
+http://flash3.glb.ipercast.net:1935/webtv.senato.it-live/stream2/livestream.m3u8
+#EXTINF:-1,SENATO TV
+http://live.cdn.streamago.tv:1935/streamagoedge/1920/813/livestream.m3u8
+#EXTINF:-1,SENATO TV
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/1920/813/live.m3u8
+#EXTINF:-1,SKY SPORT F1
+http://185.63.255.26:80/live/max15a5/playlist.m3u8
+#EXTINF:-1,SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream3/streamPlaylist.m3u8
+#EXTINF:-1,SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream4/streamPlaylist.m3u8
+#EXTINF:-1,SKY TG24 HD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream5/streamPlaylist.m3u8
+#EXTINF:-1,SKY TG24 HD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:-1,SKY TG24 HD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream7/streamPlaylist.m3u8
+#EXTINF:-1,SPORT ITALIA
+http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8
+#EXTINF:-1,SPORT ITALIA
+http://spi.hystream.com:1935/spilive/spistream_480/livestream.m3u8
+#EXTINF:-1,SÜDTIROL TV
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+#EXTINF:-1,SUPER TV
+http://fms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,SUPER TV
+http://fms.shared.streamshow.it:1935/supertv/supertv_mobile/live.m3u8
+#EXTINF:-1,SUPER TV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,SUPER TV
+http://wms.shared.streamshow.it:1935/supertv/supertv_mobile/live.m3u8
+#EXTINF:-1,TELE 8
+http://live.Kronopress.com:1935/tele8_live/tele8/livestream.m3u8
+#EXTINF:-1,TELE 8
+http://live.streamcaster.net:1935/tele8_live/tele8/livestream.m3u8
+#EXTINF:-1,TELE 8
+http://video2.Kronopress.com:1935/tele8_live/tele8/livestream.m3u8
+#EXTINF:-1,TELE 8
+http://vs2.streamcaster.net:1935/tele8_live/tele8/livestream.m3u8
+#EXTINF:-1,TELE ARENA
+http://wma07.fluidstream.net:1935/TeleArena/livestream/live.m3u8
+#EXTINF:-1,TELE BOARIO
+http://91.121.222.160:1935/teleboariotb/teleboario.sdp/live.m3u8
+#EXTINF:-1,TELE DIOGENE
+http://fms.shared.streamshow.it:1935/telediogene/telediogene/live.m3u8
+#EXTINF:-1,TELE DIOGENE
+http://wms.shared.streamshow.it:1935/telediogene/telediogene/live.m3u8
+#EXTINF:-1,TELEDUCATO
+http://fms.shared.streamshow.it:1935/teleducatopc/teleducatopc/live.m3u8
+#EXTINF:-1,TELEDUCATO
+http://fms.shared.streamshow.it:1935/teleducatopr/teleducatopr/live.m3u8
+#EXTINF:-1,TELEDUCATO
+http://wms.shared.streamshow.it:1935/teleducatopc/teleducatopc/live.m3u8
+#EXTINF:-1,TELEDUCATO
+http://wms.shared.streamshow.it:1935/teleducatopr/teleducatopr/live.m3u8
+#EXTINF:-1,TELEMARKET
+http://fms.shared.streamshow.it:1935/telemarket/telemarket/live.m3u8
+#EXTINF:-1,TELEMARKET
+http://wms.shared.streamshow.it:1935/telemarket/telemarket/live.m3u8
+#EXTINF:-1,TELE MILANO
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+#EXTINF:-1,TELE MONTE NEVE
+http://fms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,TELE MONTE NEVE
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,TELE MONTE NEVE 3
+http://fms.shared.streamshow.it:1935/telemonteneve3/telemonteneve3/live.m3u8
+#EXTINF:-1,TELE MONTE NEVE 3
+http://wms.shared.streamshow.it:1935/telemonteneve3/telemonteneve3/live.m3u8
+#EXTINF:-1,TELE OLTRE
+http://94.198.100.199:1935/np_teleoltre/channel1_np_teleoltre/live.m3u8
+#EXTINF:-1,TELE PAVIA
+http://fms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,TELE PAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,TELERAMA
+http://iphone-streaming.ustream.tv:80/uhls/20845752/streams/live/playlist.m3u8
+#EXTINF:-1,TELERAMA
+http://iphone-streaming.ustream.tv:80/ustreamVideo/20845752/streams/live/playlist.m3u8
+#EXTINF:-1,TELEROMAGNA
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagna.stream_240p/live.m3u8
+#EXTINF:-1,TELEROMAGNA
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagna.stream_360p/live.m3u8
+#EXTINF:-1,TELEROMAGNA LIFE STYLE
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaLifeStyle.stream_240p/live.m3u8
+#EXTINF:-1,TELEROMAGNA LIFE STYLE
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaLifeStyle.stream_360p/live.m3u8
+#EXTINF:-1,TELEROMAGNA MIA
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaMia.stream_240p/live.m3u8
+#EXTINF:-1,TELEROMAGNA MIA
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaMia.stream_360p/live.m3u8
+#EXTINF:-1,TELEROMAGNA NEWS
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaNews.stream_240p/live.m3u8
+#EXTINF:-1,TELEROMAGNA NEWS
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaNews.stream_360p/live.m3u8
+#EXTINF:-1,TELEROMAGNA SPORT
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaSport.stream_240p/live.m3u8
+#EXTINF:-1,TELEROMAGNA SPORT
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaSport.stream_360p/live.m3u8
+#EXTINF:-1,TELESTAR
+http://193.34.109.10:8090/
+#EXTINF:-1,TELE STUDIO MODENA
+http://fms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
+#EXTINF:-1,TELE STUDIO MODENA
+http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
+#EXTINF:-1,TELE TICINO
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
+#EXTINF:-1,TELE UNICA
+http://flash1.ipercast.net:1935/teleunica.tv-live/livestream1/playlist.m3u8
+#EXTINF:-1,TELE UNICA
+http://flash2.ipercast.net:1935/teleunica.tv-live/livestream1/playlist.m3u8
+#EXTINF:-1,TELE UNICA
+http://flash3.ipercast.net:1935/teleunica.tv-live/livestream1/playlist.m3u8
+#EXTINF:-1,TELE UNICA
+http://flash4.ipercast.net:1935/teleunica.tv-live/livestream1/playlist.m3u8
+#EXTINF:-1,TICINO NEWS TV
+http://37.187.171.97:1935/teleticino/vpstream/live.m3u8
+#EXTINF:-1,TG COM 24
+http://hlslive.msf.ticdn.it:80/hls/CH08/Live_Layer1.m3u8
+#EXTINF:-1,TG COM 24
+http://hlslive.msf.ticdn.it:80/hls/CH08/Live_Layer2.m3u8
+#EXTINF:-1,TG COM 24
+http://hlslive.msf.ticdn.it:80/hls/CH08/Live_Layer3.m3u8
+#EXTINF:-1,TG NORBA 24
+http://85.17.80.132:1935/tgnorba_24/tgnorba_24_source.stream/live.m3u8
+#EXTINF:-1,TRC
+http://streamer.fss.tiscali.com:1935/telco/VC3TCRHI9LNP/live.m3u8
+#EXTINF:-1,TRENTINO TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1,TRM H24
+http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
+#EXTINF:-1,TSN
+http://fms.shared.streamshow.it:1935.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n/live.m3u8
+#EXTINF:-1,TSN
+http://wms.shared.streamshow.it:1935.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n/live.m3u8
+#EXTINF:-1,TSN 2
+http://fms.shared.streamshow.it:1935.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2/live.m3u8
+#EXTINF:-1,TSN 2
+http://fms.shared.streamshow.it:1935.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2_mobile/live.m3u8
+#EXTINF:-1,TSN 2
+http://wms.shared.streamshow.it:1935.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2/live.m3u8
+#EXTINF:-1,TSN 2
+http://wms.shared.streamshow.it:1935.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25n2_mobile/live.m3u8
+#EXTINF:-1,TV 7 DIGITAL
+http://52.10.37.231:1949/.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25tream65/.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25tream65/live.m3u8
+#EXTINF:-1,TV 2000
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+#EXTINF:-1,TV LUNA
+http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,TV LUNA
+http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,TV LUNA
+http://video2.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,TV LUNA
+http://vs2.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,TVRS
+http://fms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1,TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1,UNINETTUNO UNIVERSITY TV
+http://stream6.rai.it:80/live/uninettuno.smil/chunklist_b900000.m3u8
+#EXTINF:-1,UNINETTUNO UNIVERSITY TV
+http://stream6.rai.it:80/live/uninettuno.smil/chunklist-b900000.m3u8
+#EXTINF:-1,UNINETTUNO UNIVERSITY TV
+http://stream6.rai.it:80/live/uninettuno.smil/chunklist.b900000.m3u8
+#EXTINF:-1,VERA TV
+http://fms.shared.streamshow.it:1935/veratv/veratv/live.m3u8
+#EXTINF:-1,VERA TV
+http://wms.shared.streamshow.it:1935/veratv/veratv/live.m3u8
+#EXTINF:-1,VIDEO BRESCIA
+http://fms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1,VIDEO BRESCIA
+http://fms.shared.streamshow.it:1935/videobrescia/videobrescia_mobile/live.m3u8
+#EXTINF:-1,VIDEO BRESCIA
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1,VIDEO BRESCIA
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia_mobile/live.m3u8
+#EXTINF:-1,VIDEOLINA
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+#EXTINF:-1,VISUAL RADIO
+http://fms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1,VISUAL RADIO
+http://fms.shared.streamshow.it:1935/visualradio/visualradio_mobile/live.m3u8
+#EXTINF:-1,VISUAL RADIO
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1,VISUAL RADIO
+http://wms.shared.streamshow.it:1935/visualradio/visualradio_mobile/live.m3u8
+#EXTINF:-1,PT:VH1
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4702.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:TVI 24
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4697.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:TVI
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4696.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:TVC 4
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4695.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:TVC 3
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4694.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:TVC 2
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4693.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:TVC 1
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4692.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:TV Series
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4691.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:TV Globo Premium
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4690.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:TV Globo Portugal
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4689.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Sport TV 5
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4683.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Sport TV 4
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4682.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Sport TV 3
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4681.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Sport TV 2
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4680.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Sport TV 1
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4679.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:SIC Radical
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4678.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:SIC Mulher
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4677.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:SIC Caras
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4675.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:SIC
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4674.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:RTP Memoria
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4673.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:RTP Madeira
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4672.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:RTP Internacional
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4671.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:RTP Informacao
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4670.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:RTP Africa
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4669.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:RTP Acores
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4668.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:RTP 1
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4667.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Record
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4665.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Real Madrid Channel
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4664.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Porto Canal
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4662.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:PlusTVI
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4663.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Odissea
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4661.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:MOV
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4657.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:MCM POP
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4654.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Fuel TV
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4652.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:FOX Movies
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4651.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:FOX Life
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4650.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:FOX Crime
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4649.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:FOX
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4648.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Eurosport
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4646.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Economica TV
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4645.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Disney Junior
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4644.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Disney Channel
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4643.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Discovery Channel
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4642.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:CM TV
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4641.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Cine Mundo
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4640.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Caza & Pesca
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4638.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Canal Panda
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4639.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Biggs
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4637.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Benfica TV1
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4636.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Benfica TV 2
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4635.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:AXN White
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4634.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:AXN Black
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4633.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:AXN
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4632.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:AMC
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4631.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:A&E
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4630.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:A Bola TV
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4629.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:24 Kitchen
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4628.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT:Rede Record
+plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/131michaelheike/m2uoQKB65w/4501.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+
+
+#EXTINF:-1,[COLOR white][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,PT: RTP International
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6660.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT: 24 Kitchen HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6661.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT TVI REALITY
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6662.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT TVI HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6663.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Tvi 24
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6664.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT TV Series
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6665.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT TV Lisboa
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6666.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT TV Cine 4
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6667.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT TV Cine 3
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6668.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT TV Cine 2
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6669.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT SyFy
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6670.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Sport TV 1 HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6675.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Sport TV 2 HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6674.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Sport TV 3 HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6673.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Sport TV 4 HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6672.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Sport TV 5 HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6671.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Sic Radical
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6676.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT SIC Noticias
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6677.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT SIC MULHER
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6678.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT SIC K
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6679.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT SIC
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6680.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT RTP MEMORIA
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6681.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT RTP Madeira
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6682.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT RTP Acores
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6683.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT RTP 3
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6684.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT RTP 2
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6685.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT RTP 1
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6686.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT REAL MADRID TV HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6687.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Porto Canal
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6688.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT PANDA BIGGS
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6689.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Odisseia
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6690.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6691.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Mtv Portugal
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6692.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT MOTORS TV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6693.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT JR News
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6694.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT JIM JAM
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6695.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Globo Premium
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6696.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Fox Movies
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6697.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT EUROSPORT HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6698.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Euronews
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6699.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Economico TV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6700.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Disney Junior
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6701.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Disney Channel
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6702.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Discovery Channel
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6703.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT CM TV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6704.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Cinemundo
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6705.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Canal Panda
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6706.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT Canal de Historia
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6707.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT BH News
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6708.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT BENFICA TV2 HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6709.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT BENEFICA TV1 HD
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6710.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT BARCA TV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6711.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,PT BABY TV
+plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6712.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow]GENERALISTAS [/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",[I][B]RTP 1[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15
+
+
+#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",[I][B]RTP 2[/B][/I]  
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",[I][B]RTP ACORES[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores
+
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",[I][B]RTP AFRICA[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpafrica swfVfy=1 live=1 timeout=15
+
+
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",[I][B]RTP MADEIRA[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15
+
+
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/2n2hzb.jpg",[I][B]RTP MEMORIA[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-logo="http://i65.tinypic.com/2552sjl.jpg",[I][B]RTP INTERNACIONAL[/B][/I] [COLOR orange][I][B](1 jogo por semana Liga NOS)[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",[I][B]SIC [/B][/I]
+http://213.13.26.11:1935/live/sic/livestream.m3u8
+
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png",[I][B]TVI (HQ)[/B][/I]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+
+#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg",[I][B]TV CABO VERDE[/B][/I]
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
+ 
+#EXTINF:0 tvg-id="TPA" tvg-logo="http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png",[I][B]TPA Internacional [SD][/B][/I]
+rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live
+
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow] DOCUMENTARIOS [/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0,Mute TV
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
+
+#EXTINF:0,Mute TV 3D
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/3807.jpg", [I][B]NASA TV[/B][/I]
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow] RADIOS PORTUGUESAS [/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Mais Kizomba
+http://109.71.41.250:8123/
+
+#EXTINF:-1,RFM CLUBBING
+http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
+
+#EXTINF:-1,M80
+http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
+
+#EXTINF:-1,NOVA ERA
+http://stream.radio.com.pt:9478/stream
+
+#EXTINF:-1,94 FM
+http://195.8.58.150:35022/;stream.nsv
+
+#EXTINF:-1,SUPER FM
+http://94.23.76.235:9956/
+
+#EXTINF:-1,HIPER FM
+http://85.25.73.243:10460/
+
+#EXTINF:0,Radio Antena 1
+mms://195.245.168.21/antena1
+ 
+#EXTINF:0,Radio Antena 2
+mms://195.245.168.21/antena2
+ 
+#EXTINF:0,Radio Antena3
+mms://195.245.168.21/antena3
+ 
+#EXTINF:0,Radio Comercial
+mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
+ 
+#EXTINF:0,Radio RFM
+http://7719.live.streamtheworld.com/RFM_SC
+
+#EXTINF:0,Radio Orbital
+mms://stream.radio.com.pt/ROLI-ENC-401
+ 
+#EXTINF:0, Radio Cidade FM
+mms://195.23.102.196/cidadecbr96
+ 
+#EXTINF:0, Radio Renascença
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+ 
+#EXTINF:0, Radio MegaFM
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+ 
+#EXTINF:0, Radio TSF
+mmsh://emdirecto.m3u8f.pt/tsfdirecto?MSWMExt=.asf
+ 
+#EXTINF:0, Radio Vodafone FM
+rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?.m3u8=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
+
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,[COLOR yellow] PRAIAS DE PORTUGAL [/COLOR] [COLOR green][Atualizado][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, PRAIA DO NORTE 
+rtmp://213.13.26.12/live playpath=norte.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/oCjzVigYoFkJHSjgTbkl/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DE CARCAVELOS 
+rtmp://213.13.26.43/live playpath=carcavelos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/N1ZOaY48idM6hNTjL7qC/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DO CARVALHAL
+rtmp://213.13.26.43/live playpath=carvalhal.stream swfUrl=https://js.sapo.pt/Projects/Video/150825R1/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/C612sSyb7aOKWFjSF0m4/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, LAGIDE E BAIA - PENICHE 
+rtmp://213.13.26.41/live playpath=peniche.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/gf8BDWe7fWzQO92jHbBk/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DA BARRA
+rtmp://213.13.26.13/live playpath=aveiro.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/FbTjYSaI4blfYhgTprsl/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DA LUZ - ALGARVE 
+rtmp://213.13.26.43/live playpath=luz.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/TH7M3zfHJ32rqRpZnV2l/mov/24&autoStart=1&showlogo=false&showShare=false&live=rtmp://{$hostname}/live/luz.stream
+
+#EXTINF:-1, DUNA BEACH 
+rtmp://213.13.26.43/live playpath=meiapraia.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zaAQDbEMWBsCP0TZAubG/mov/24&autoStart=1
+
+#EXTINF:-1, LECA DA PALMEIRA 
+rtmp://213.13.26.41/live playpath=leca.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/OF4ntVhaeSihG8JIWV8n/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, JARDIM DO MAR - MADEIRA 
+rtmp://213.13.26.41/live playpath=jardim.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zpUGwd4ZUrfvFIDb0Vco/mov/24&autoStart=1&showlogo=false&showShare=false&live=rtmp://{$hostname}/live/bordeira.stream
+
+#EXTINF:-1, PRAIA DA ERICEIRA 
+rtmp://213.13.26.43/live playpath=ericeira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/DTlId9ym9TZc7rOhKECF/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA COSTA DE CAPARICA 
+rtmp://213.13.26.13/live playpath=costa.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/mQFYGs9wRn2H30nvzQbd/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA COSTA DE CAPARICA - SAO JOAO
+rtmp://213.13.26.13/live playpath=costasjoao.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/vh8yWLHqVjIDPEz9fuwF/mov/24&autoStart=1
+
+#EXTINF:-1, PRAIA DE ESPINHO 
+rtmp://213.13.26.13/live playpath=espinho.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/MkomIV8Fr0pEGnMRJCr1/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DE SAO TORPES 
+rtmp://213.13.26.13/live playpath=saotorpes.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zzodtq8OUtUfIeLHTjvC/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DO GUINCHO DO SUL
+rtmp://213.13.26.41/live playpath=guincho.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/lhla7bAtgyT97RZYZrER/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DO GUINCHO DO NORTE
+rtmp://213.13.26.13/live playpath=guinchonorte.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/IFi2dpFlqJvt7hElSgFM/mov/24&autoStart=1
+
+#EXTINF:-1, PRAIA DO EVARISTO
+rtmp://213.13.26.13/live playpath=evaristo.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/igGN5w5wQ9MZayZneSEq/mov/24&autoStart=1
+
+#EXTINF:-1, PRAIA DE SAO PEDRO 
+rtmp://213.13.26.12/live playpath=saopedro.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/jenFJoJ9B0cZqIEylUvI/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA MATOSINHOS 
+rtmp://213.13.26.13/live playpath=matosinhos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/es8j5Fy9uPz4IHG0jDsb/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, RIBEIRA D Ilhas
+rtmp://213.13.26.13/live playpath=ribeira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/JBVNouMY9PAovZa1dpLU/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA SAO PEDRO E BAFUREIRA 
+http://213.13.26.12:1936/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1, PRAIA GRANDE 
+rtmp://213.13.26.13/live playpath=grande.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/grfBgAQdvMI3zCGZzPrF/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA SUPER TUBOS 
+rtmp://213.13.26.41/live playpath=supertubos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/cj18gCcQce1w7DBykbof/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DA TORREIRA
+rtmp://213.13.26.13/live playpath=torreira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/o2CeOrbYOwlPRcPa0SdW/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, FONTE DA TELHA
+rtmp://213.13.26.13/live playpath=fontetelha.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/QLSeZzJddnWp7KSNs63n/mov/24&relatedVideos=none&autoStart=1
+
+#EXTINF:-1, SANTA CRUZ
+rtmp://213.13.26.13/live playpath=santacruz.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/2qs77WWaNsGO8kC47ArQ/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, SAO PEDRO DO ESTORIL
+rtmp://213.13.26.13:1936/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1, VAGUEIRA 
+rtmp://213.13.26.41/live playpath=vagueira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/cZokTZuTANNQ2vC57fnS/mov/24&autoStart=1
+
+#EXTINF:-1, VILAMOURA
+rtmp://213.13.26.43/live playpath=vilamoura.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/Pfow3TrYaVCoyND8bjGL/mov/24&autoStart=1
+
+
+#EXTINF:-1,#[COLOR red ] Fase Actualizandolo!!! [/COLOR]
+
+#EXTINF:-1,CANALLALIGA
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1256.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,CANALFUTBOL
+plugin://plugin.video.f4mTester/?url=http://esiptv.tn:7500/live/test/test/1263.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,#[COLOR yellow] Fase Actualizandolo!!! 20:15 dia 19 Noviembre!!! [/COLOR]
-#EXTINF:-1,>>>>>IPTV Bein SPORT<<<<<
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/840.ts
-
-#EXTINF:-1,EX-YU: Arena Sport 1 HR
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/863.ts
-
-#EXTINF:-1,EX-YU: Arena Sport 2 HR
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/865.ts
-
-#EXTINF:-1,EX-YU: Arena Sport 3 HR
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/867.ts
-
-#EXTINF:-1,EX-YU: Arena Sport 4 HR
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/869.ts
-
-#EXTINF:-1,EX-YU: Arena Sport 5 HR
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/871.ts
-
-#EXTINF:-1,EX-YU: Sport Klub 1 HR
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1132.ts
-
-#EXTINF:-1,EX-YU: Sport Klub 2 HR
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1133.ts
-
-#EXTINF:-1,EX-YU: Sport Klub 3 HR
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1134.ts
-
-#EXTINF:-1,EX-YU : Sportal TV HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1864.ts
-
-#EXTINF:-1,EX-YU : SPORT KLUB 3 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1720.ts
-
-#EXTINF:-1,EX-YU : SPORT KLUB 2 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1719.ts
-
-#EXTINF:-1,EX-YU : SPORT KLUB 1 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1718.ts
-
-#EXTINF:-1,UK: CHT Stadium X
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1691.ts
-
-#EXTINF:-1,UK:CTH Stadium 1 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1685.ts
-
-#EXTINF:-1,CTH Stadium 2 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1686.ts
-
-#EXTINF:-1,CTH Stadium 3 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1687.ts
-
-#EXTINF:-1,CTH Stadium 4 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1688.ts
-
-#EXTINF:-1,UK: CTH Stadium 5 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1689.ts
-
-#EXTINF:-1,UK: CTH Stadium 6 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1690.ts
-
-#EXTINF:-1,PT: Sport TV1 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1655.ts
-
-#EXTINF:-1,PT: Sport TV2 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1656.ts
-
-#EXTINF:-1,PT: Sport TV3
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1657.ts
-
-#EXTINF:-1,PT: Sport TV 4
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1695.ts
-
-#EXTINF:-1,PT: Sport TV 5
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1696.ts
-
-#EXTINF:-1,AR: beINSports 1 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/882.ts
-
-#EXTINF:-1,AR: beINSports 2 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/883.ts
-
-#EXTINF:-1,AR: beINSports 3 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/884.ts
-
-#EXTINF:-1,AR: beINSports 4 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/885.ts
-
-#EXTINF:-1,AR: beINSports 5 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/886.ts
-
-#EXTINF:-1,AR: beINSports 6 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/887.ts
-
-#EXTINF:-1,AR: beINSports 7 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/888.ts
-
-#EXTINF:-1,AR: beINSports 8 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/889.ts
-
-#EXTINF:-1,AR: beINSports 9 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1729.ts
-
-#EXTINF:-1,AR: beINSports 10 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1730.ts
-
-#EXTINF:-1,AR: beINSports 11 HD
-
-http://ksportiptv.com:1557/live/visitdikrayatywebsite/dikrayatyfreefr/1769.ts
-
-#EXTINF:-1,A&E HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5280.ts
-#EXTINF:-1,AMC
-http://158.69.127.19:8000/live/jodete/putossssssss/5372.ts
-#EXTINF:-1,AMC HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5364.ts
-#EXTINF:-1,Animal Planet
-http://158.69.127.19:8000/live/jodete/putossssssss/5328.ts
-#EXTINF:-1,AXN HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5281.ts
-#EXTINF:-1,AYM SPORTS
-http://158.69.127.19:8000/live/jodete/putossssssss/5392.ts
-#EXTINF:-1,Az Clic
-http://158.69.127.19:8000/live/jodete/putossssssss/5405.ts
-#EXTINF:-1,AZ Corazón
-http://158.69.127.19:8000/live/jodete/putossssssss/5286.ts
-#EXTINF:-1,Az Mundo
-http://158.69.127.19:8000/live/jodete/putossssssss/5306.ts
-#EXTINF:-1,Azteca 7 HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5260.ts
-#EXTINF:-1,Bandamax
-http://158.69.127.19:8000/live/jodete/putossssssss/5408.ts
-#EXTINF:-1,BBC Entertainment
-http://158.69.127.19:8000/live/jodete/putossssssss/5288.ts
-#EXTINF:-1,Boomerang
-http://158.69.127.19:8000/live/jodete/putossssssss/5319.ts
-#EXTINF:-1,Canal 2 HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5257.ts
-#EXTINF:-1,Canal 5 HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5259.ts
-#EXTINF:-1,Cartoon Network
-http://158.69.127.19:8000/live/jodete/putossssssss/5317.ts
-#EXTINF:-1,CBeebies
-http://158.69.127.19:8000/live/jodete/putossssssss/5310.ts
-#EXTINF:-1,Cinecanal HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5359.ts
-#EXTINF:-1,Cinemax (W)
-http://158.69.127.19:8000/live/jodete/putossssssss/5366.ts
-#EXTINF:-1,Comedy Central HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5283.ts
-#EXTINF:-1,De Película HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5363.ts
-#EXTINF:-1,Discovery Channel
-http://158.69.127.19:8000/live/jodete/putossssssss/5327.ts
-#EXTINF:-1,Discovery Civilization
-http://158.69.127.19:8000/live/jodete/putossssssss/5334.ts
-#EXTINF:-1,Home and Health
-http://158.69.127.19:8000/live/jodete/putossssssss/5329.ts
-#EXTINF:-1,Discovery Kids
-http://158.69.127.19:8000/live/jodete/putossssssss/5309.ts
-#EXTINF:-1,Discovery Science
-http://158.69.127.19:8000/live/jodete/putossssssss/5333.ts
-#EXTINF:-1,Discovery Theater HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5322.ts
-#EXTINF:-1,Discovery Turbo
-http://158.69.127.19:8000/live/jodete/putossssssss/5335.ts
-#EXTINF:-1,Discovery World HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5325.ts
-#EXTINF:-1,Disney Channel
-http://158.69.127.19:8000/live/jodete/putossssssss/5313.ts
-#EXTINF:-1,Disney JR
-http://158.69.127.19:8000/live/jodete/putossssssss/5311.ts
-#EXTINF:-1,Disney XD
-http://158.69.127.19:8000/live/jodete/putossssssss/5318.ts
-#EXTINF:-1,Distrito Comedia
-http://158.69.127.19:8000/live/jodete/putossssssss/5303.ts
-#EXTINF:-1,El Gourmet
-http://158.69.127.19:8000/live/jodete/putossssssss/5300.ts
-#EXTINF:-1,El Trece HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5263.ts
-#EXTINF:-1,ESPN
-http://158.69.127.19:8000/live/jodete/putossssssss/5382.ts
-#EXTINF:-1,ESPN 2
-http://158.69.127.19:8000/live/jodete/putossssssss/5387.ts
-#EXTINF:-1,ESPN 3
-http://158.69.127.19:8000/live/jodete/putossssssss/5383.ts
-#EXTINF:-1,Foro TV HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5258.ts
-#EXTINF:-1,Fox
-http://158.69.127.19:8000/live/jodete/putossssssss/5275.ts
-#EXTINF:-1,Fox 1 HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5349.ts
-#EXTINF:-1,Fox Action HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5350.ts
-#EXTINF:-1,Fox Cinema
-http://158.69.127.19:8000/live/jodete/putossssssss/5354.ts
-#EXTINF:-1,Fox Classics
-http://158.69.127.19:8000/live/jodete/putossssssss/5357.ts
-#EXTINF:-1,Fox Life
-http://158.69.127.19:8000/live/jodete/putossssssss/5302.ts
-#EXTINF:-1,Fox Movies HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5351.ts
-#EXTINF:-1,Fox Sports HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5384.ts
-#EXTINF:-1,Fox Sports 2 HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5385.ts
-#EXTINF:-1,FX
-http://158.69.127.19:8000/live/jodete/putossssssss/5293.ts
-#EXTINF:-1,FX HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5279.ts
-#EXTINF:-1,Gala TV HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5261.ts
-#EXTINF:-1,Glitz
-http://158.69.127.19:8000/live/jodete/putossssssss/5301.ts
-#EXTINF:-1,Golden Edge
-http://158.69.127.19:8000/live/jodete/putossssssss/5369.ts
-#EXTINF:-1,Golden HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5361.ts
-#EXTINF:-1,History HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5323.ts
-#EXTINF:-1,I.Sat
-http://158.69.127.19:8000/live/jodete/putossssssss/5377.ts
-#EXTINF:-1,Investigación Discovery
-http://158.69.127.19:8000/live/jodete/putossssssss/5298.ts
-#EXTINF:-1,Lifetime
-http://158.69.127.19:8000/live/jodete/putossssssss/5332.ts
-#EXTINF:-1,MTV
-http://158.69.127.19:8000/live/jodete/putossssssss/5406.ts
-#EXTINF:-1,MTV Live HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5402.ts
-#EXTINF:-1,Multimedios Monterrey
-http://158.69.127.19:8000/live/jodete/putossssssss/5273.ts
-#EXTINF:-1,NatGeo
-http://158.69.127.19:8000/live/jodete/putossssssss/5331.ts
-#EXTINF:-1,NatGeo Wild HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5324.ts
-#EXTINF:-1,Nickelodeon (Nick)
-http://158.69.127.19:8000/live/jodete/putossssssss/5316.ts
-#EXTINF:-1,Nick JR
-http://158.69.127.19:8000/live/jodete/putossssssss/5312.ts
-#EXTINF:-1,Nick HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5315.ts
-#EXTINF:-1,Nicktoons
-http://158.69.127.19:8000/live/jodete/putossssssss/5314.ts
-#EXTINF:-1,Once TV
-http://158.69.127.19:8000/live/jodete/putossssssss/5262.ts
-#EXTINF:-1,Proyecto 40 HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5264.ts
-#EXTINF:-1,Ritmoson Latino
-http://158.69.127.19:8000/live/jodete/putossssssss/5407.ts
-#EXTINF:-1,Sony HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5276.ts
-#EXTINF:-1,Space
-http://158.69.127.19:8000/live/jodete/putossssssss/5373.ts
-#EXTINF:-1,Space HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5365.ts
-#EXTINF:-1,Studio Universal
-http://158.69.127.19:8000/live/jodete/putossssssss/5374.ts
-#EXTINF:-1,SyFy
-http://158.69.127.19:8000/live/jodete/putossssssss/5292.ts
-#EXTINF:-1,TBS
-http://158.69.127.19:8000/live/jodete/putossssssss/5304.ts
-#EXTINF:-1,TCM
-http://158.69.127.19:8000/live/jodete/putossssssss/5378.ts
-#EXTINF:-1,TeleFórmula
-http://158.69.127.19:8000/live/jodete/putossssssss/5271.ts
-#EXTINF:-1,Telehit HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5403.ts
-#EXTINF:-1,The Film Zone HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5362.ts
-#EXTINF:-1,TIIN
-http://158.69.127.19:8000/live/jodete/putossssssss/5320.ts
-#EXTINF:-1,TLC
-http://158.69.127.19:8000/live/jodete/putossssssss/5336.ts
-#EXTINF:-1,Tlnovelas
-http://158.69.127.19:8000/live/jodete/putossssssss/5305.ts
-#EXTINF:-1,TNT
-http://158.69.127.19:8000/live/jodete/putossssssss/5367.ts
-#EXTINF:-1,TNT HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5360.ts
-#EXTINF:-1,TNT Series
-http://158.69.127.19:8000/live/jodete/putossssssss/5299.ts
-#EXTINF:-1,Tooncast
-http://158.69.127.19:8000/live/jodete/putossssssss/5321.ts
-#EXTINF:-1,TruTV HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5282.ts
-#EXTINF:-1,TVE
-http://158.69.127.19:8000/live/jodete/putossssssss/5398.ts
-#EXTINF:-1,Unicable HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5284.ts
-#EXTINF:-1,Universal HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5278.ts
-#EXTINF:-1,Universal Channel
-http://158.69.127.19:8000/live/jodete/putossssssss/5291.ts
-#EXTINF:-1,VH1 HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5404.ts
-#EXTINF:-1,Warner HD
-http://158.69.127.19:8000/live/jodete/putossssssss/5277.ts
-#EXTINF:-1,WOBI TV
-http://158.69.127.19:8000/live/jodete/putossssssss/5337.ts
