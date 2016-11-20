@@ -1,16 +1,90 @@
 #EXTM3U
+#EXTINF:-1,***** SPAIN *****
+http://149.202.78.137:8080/live/5454/5454/2669.ts
+#EXTINF:-1,SP | FDF
+http://149.202.78.137:8080/live/5454/5454/2650.ts
+#EXTINF:-1,SP | La Sexta HD
+http://149.202.78.137:8080/live/5454/5454/2649.ts
+#EXTINF:-1,SP | DCINE
+http://149.202.78.137:8080/live/5454/5454/2651.ts
+#EXTINF:-1,SP | TV3 CAT
+http://149.202.78.137:8080/live/5454/5454/2645.ts
+#EXTINF:-1,SP | CANAL SERIES
+http://149.202.78.137:8080/live/5454/5454/2655.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+http://149.202.78.137:8080/live/5454/5454/2656.ts
+#EXTINF:-1,SP | CUATRO
+http://149.202.78.137:8080/live/5454/5454/2652.ts
+#EXTINF:-1,SP | TVE 2 HD
+http://149.202.78.137:8080/live/5454/5454/2660.ts
+#EXTINF:-1,SP | Antena 3 HD
+http://149.202.78.137:8080/live/5454/5454/2659.ts
+#EXTINF:-1,SP | MOVISTAR MOTO GP HD
+http://149.202.78.137:8080/live/5454/5454/2664.ts
+#EXTINF:-1,SP | Barca TV
+http://149.202.78.137:8080/live/5454/5454/2665.ts
+#EXTINF:-1,SP | TELEVISA HD
+http://149.202.78.137:8080/live/5454/5454/2646.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES
+http://149.202.78.137:8080/live/5454/5454/2661.ts
+#EXTINF:-1,SP | Real Madrid tv
+http://149.202.78.137:8080/live/5454/5454/2648.ts
+#EXTINF:-1,SP | Teledeporte
+http://149.202.78.137:8080/live/5454/5454/2647.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+http://149.202.78.137:8080/live/5454/5454/2653.ts
+#EXTINF:-1,SP | CANAL+ TOROS
+http://149.202.78.137:8080/live/5454/5454/2654.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+http://149.202.78.137:8080/live/5454/5454/2657.ts
+#EXTINF:-1,SP | CALLE 13
+http://149.202.78.137:8080/live/5454/5454/2658.ts
+#EXTINF:-1,SP | CANAL+ FUTBOL
+http://149.202.78.137:8080/live/5454/5454/2662.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+http://149.202.78.137:8080/live/5454/5454/2640.ts
+#EXTINF:-1,SP | NEOX
+http://149.202.78.137:8080/live/5454/5454/2641.ts
+#EXTINF:-1,SP | NOVA
+http://149.202.78.137:8080/live/5454/5454/2642.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+http://149.202.78.137:8080/live/5454/5454/2639.ts
+#EXTINF:-1,SP | TVE 1 HD
+http://149.202.78.137:8080/live/5454/5454/2666.ts
+#EXTINF:-1,SP | A&E
+http://149.202.78.137:8080/live/5454/5454/2667.ts
+#EXTINF:-1,SP | Canal+ Accion HD
+http://149.202.78.137:8080/live/5454/5454/2668.ts
+#EXTINF:-1,SP | CANAL+ LIGA HD
+http://149.202.78.137:8080/live/5454/5454/2663.ts
+#EXTINF:-1,SP | PARAMOUNT CH
+http://149.202.78.137:8080/live/5454/5454/2643.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES 2
+http://149.202.78.137:8080/live/5454/5454/2644.ts
 #EXTINF:-1,=== >> SPAIN << ===
-http://globalstream.noip.us:8000/live/marinko/marinko/1462.ts
-#EXTINF:-1,SP=C+DCINE
-http://globalstream.noip.us:8000/live/marinko/marinko/1471.ts
-#EXTINF:-1,SP=Movistar+ Accion
-http://globalstream.noip.us:8000/live/marinko/marinko/1467.ts
+#EXTINF:-1,ES-CANAL_LIGA_HD
+http://148.251.1.69:8000/live/hakami/hakami/5015.ts
+#EXTINF:-1,ES-CANAL_FUTBOL
+http://148.251.1.69:8000/live/hakami/hakami/5016.ts
+#EXTINF:-1,ES-CANAL_COMEDIA
+http://148.251.1.69:8000/live/hakami/hakami/5019.ts
+#EXTINF:-1,ES-1_HD
+http://148.251.1.69:8000/live/hakami/hakami/5011.ts
+#EXTINF:-1,ES-CANAL_ACCION
+http://148.251.1.69:8000/live/hakami/hakami/5014.ts
+#EXTINF:-1,ES-CANAL_DEPORTES
+http://148.251.1.69:8000/live/hakami/hakami/5017.ts
+#EXTINF:-1,ES-CANAL_DCINE
+http://148.251.1.69:8000/live/hakami/hakami/5018.ts
+#EXTINF:-1,ES-HOLLYWOOD
+http://148.251.1.69:8000/live/hakami/hakami/5012.ts
+#EXTINF:-1,ES-FOX
+http://148.251.1.69:8000/live/hakami/hakami/5013.ts
 #EXTINF:-1,SP=Movistar+ Xtra
 http://globalstream.noip.us:8000/live/marinko/marinko/1469.ts
 #EXTINF:-1,SP=C+COMEDIA
 http://globalstream.noip.us:8000/live/marinko/marinko/1468.ts
-#EXTINF:-1,SP=C+ESTRENOS
-http://globalstream.noip.us:8000/live/marinko/marinko/1474.ts
+
 #EXTINF:-1,SP=C+SERIES
 http://globalstream.noip.us:8000/live/marinko/marinko/1472.ts
 #EXTINF:-1,SP=C+SERIESXTRA
