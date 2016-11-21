@@ -192,7 +192,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoJHG/master/mundojhg-xml.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/mundojhg.xml</externallink>	
 </item>
 
 
