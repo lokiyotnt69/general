@@ -110,6 +110,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 	   
 
 
+<item>
+<title>-[COLOR blue] MUNDO  [/COLOR]  [COLOR yellow] JHG[/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/mundojhg.xml</externallink>	
+</item>
+
 
 	   
 <item>
@@ -170,7 +178,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] Deportes [/COLOR]</title>
+<title>-[COLOR blue] DeportesPrueva1 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -178,13 +186,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 
-
-<item>
-<title>-[COLOR blue] Mundo JHG [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/mundojhg.xml</externallink>	
-</item>
 
 
