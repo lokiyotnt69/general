@@ -124,7 +124,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 	   
 <item>
-<title>-[COLOR yellow] PEQUELANDIA[/COLOR]</title>
+<title>-[COLOR white] PEQUELANDIA[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://3.bp.blogspot.com/-09-mW8Egjh4/VmNkmQkkQCI/AAAAAAAAAK8/JJU7aFZH2r0/s1600-r/logo_pequelandia.png</thumbnail>
 <fanart>https://ocioparapeques.files.wordpress.com/2014/11/logo-con-marco-opp-1-e1415646950823.jpg</fanart>
@@ -143,7 +143,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] Zona Vip[/COLOR]</title>
+<title>-[COLOR white] Zona Vip[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://strippergalicia.es/wp-content/uploads/2013/06/logo-zona-vip.jpg</thumbnail>
 <fanart></fanart>
@@ -161,7 +161,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] TDT   [/COLOR]</title>
+<title>-[COLOR white] TDT   [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart></fanart>
@@ -171,7 +171,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR white] FasePrueva [/COLOR]</title>
+<title>-[COLOR blue] FasePrueva [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
