@@ -191,19 +191,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] Locura JHG [/COLOR]</title>
-<externallink> https://raw.githubusercontent.com/lokiyotnt69/LocuraJHg/master/listamovistar.xml</externallink>	
-<thumbnail></thumbnail>
-<fanart></fanart>
-
-</item> 
-
-
-<item>
-<title>-[COLOR blue] DeportesPrueva1 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>-[COLOR blue] locuraJHG [/COLOR]</title>
 <f4m>https://raw.githubusercontent.com/lokiyotnt69/LocuraJHg/master/listamovistar.xml</f4m>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
 </item>
 
