@@ -34,7 +34,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                  [B][COLOR lightslategray]A INES Y ALICIA[/COLOR][/B] Por su gran esfuerzo       </title>
+<title>                                  [B][COLOR lightslategray]A ION,ANGEL,ALICIA,MARILO,DELIA,MONTSE ,JORDI Y LA FAMILIA TVBOX[/COLOR][/B] Por su gran esfuerzo       </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
