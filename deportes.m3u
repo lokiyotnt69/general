@@ -1,5 +1,265 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,SP Viajar - SP Viajar
+http://62.4.21.70:8000/live/987654/987654/1829.ts=.m3u8
+#EXTINF:-1,SP TVI Inter - SP TVI Inter
+http://62.4.21.70:8000/live/987654/987654/1825.ts=.m3u8
+#EXTINF:-1,SP TV Internacional Europa - SP TV Internacional Europa
+http://62.4.21.70:8000/live/987654/987654/1824.ts=.m3u8
+#EXTINF:-1,SP TNT - SP TNT
+http://62.4.21.70:8000/live/987654/987654/1823.ts=.m3u8
+#EXTINF:-1,SP Teledeporte - SP Teledeporte
+http://62.4.21.70:8000/live/987654/987654/1822.ts=.m3u8
+#EXTINF:-1,SP Telecinco - SP Telecinco
+http://62.4.21.70:8000/live/987654/987654/1821.ts=.m3u8
+#EXTINF:-1,TCM_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1890.ts=.m3u8
+#EXTINF:-1,SyFy_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1889.ts=.m3u8
+#EXTINF:-1,Sol_Musica_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1888.ts=.m3u8
+#EXTINF:-1,SP Real Madrid TV - SP Real Madrid TV
+http://62.4.21.70:8000/live/987654/987654/1827.ts=.m3u8
+#EXTINF:-1,SP NGC Wild - SP NGC Wild
+http://62.4.21.70:8000/live/987654/987654/1851.ts=.m3u8
+#EXTINF:-1,SP NGC - SP NGC
+http://62.4.21.70:8000/live/987654/987654/1852.ts=.m3u8
+#EXTINF:-1,SP Neox - SP Neox
+http://62.4.21.70:8000/live/987654/987654/1830.ts=.m3u8
+#EXTINF:-1,SP MTV Espana - SP MTV Espana
+http://62.4.21.70:8000/live/987654/987654/1850.ts=.m3u8
+#EXTINF:-1,SP Moto GP - SP Moto GP
+http://62.4.21.70:8000/live/987654/987654/1867.ts=.m3u8
+#EXTINF:-1,SP Mezzo - SP Mezzo
+http://62.4.21.70:8000/live/987654/987654/1861.ts=.m3u8
+#EXTINF:-1,SP Ltc - SP Ltc
+http://62.4.21.70:8000/live/987654/987654/1866.ts=.m3u8
+#EXTINF:-1,SP La Sexta - SP La Sexta
+http://62.4.21.70:8000/live/987654/987654/1846.ts=.m3u8
+#EXTINF:-1,SP La 2 - SP La 2
+http://62.4.21.70:8000/live/987654/987654/1847.ts=.m3u8
+#EXTINF:-1,SP La 1 - SP La 1
+http://62.4.21.70:8000/live/987654/987654/1854.ts=.m3u8
+#EXTINF:-1,SP Hollywood - SP Hollywood
+http://62.4.21.70:8000/live/987654/987654/1855.ts=.m3u8
+#EXTINF:-1,SP Historia - SP Historia
+http://62.4.21.70:8000/live/987654/987654/1856.ts=.m3u8
+#EXTINF:-1,SP Fox News - SP Fox News
+http://62.4.21.70:8000/live/987654/987654/1857.ts=.m3u8
+#EXTINF:-1,SP FDF - SP FDF
+http://62.4.21.70:8000/live/987654/987654/1858.ts=.m3u8
+#EXTINF:-1,SP Energy - SP Energy
+http://62.4.21.70:8000/live/987654/987654/1864.ts=.m3u8
+#EXTINF:-1,SP Divinity - SP Divinity
+http://62.4.21.70:8000/live/987654/987654/1863.ts=.m3u8
+#EXTINF:-1,SP Discovery  - SP Discovery 
+http://62.4.21.70:8000/live/987654/987654/1862.ts=.m3u8
+#EXTINF:-1,SP Telecinco - SP Telecinco
+http://62.4.21.70:8000/live/987654/987654/1820.ts=.m3u8
+#EXTINF:-1,SP Discovery - SP Discovery
+http://62.4.21.70:8000/live/987654/987654/1837.ts=.m3u8
+#EXTINF:-1,SP Dcine Espanol - SP Dcine Espanol
+http://62.4.21.70:8000/live/987654/987654/1840.ts=.m3u8
+#EXTINF:-1,SP Cuatro - SP Cuatro
+http://62.4.21.70:8000/live/987654/987654/1871.ts=.m3u8
+#EXTINF:-1,SP Comedy Central - SP Comedy Central
+http://62.4.21.70:8000/live/987654/987654/1833.ts=.m3u8
+#EXTINF:-1,SP Comedia HD - SP Comedia HD
+http://62.4.21.70:8000/live/987654/987654/1859.ts=.m3u8
+#EXTINF:-1,SP Classica - SP Classica
+http://62.4.21.70:8000/live/987654/987654/1836.ts=.m3u8
+#EXTINF:-1,SP Clan TVe - SP Clan TVe
+http://62.4.21.70:8000/live/987654/987654/1848.ts=.m3u8
+#EXTINF:-1,SP Canal Sur - SP Canal Sur
+http://62.4.21.70:8000/live/987654/987654/1841.ts=.m3u8
+#EXTINF:-1,SP Canal Panda - SP Canal Panda
+http://62.4.21.70:8000/live/987654/987654/1839.ts=.m3u8
+#EXTINF:-1,SP Canal Odisea - SP Canal Odisea
+http://62.4.21.70:8000/live/987654/987654/1842.ts=.m3u8
+#EXTINF:-1,SP Canal Decasa - SP Canal Decasa
+http://62.4.21.70:8000/live/987654/987654/1870.ts=.m3u8
+#EXTINF:-1,SP Canal Cocina - SP Canal Cocina
+http://62.4.21.70:8000/live/987654/987654/1869.ts=.m3u8
+#EXTINF:-1,SP Canal 24 Horas - SP Canal 24 Horas
+http://62.4.21.70:8000/live/987654/987654/1868.ts=.m3u8
+#EXTINF:-1,SP Calle 13 - SP Calle 13
+http://62.4.21.70:8000/live/987654/987654/1843.ts=.m3u8
+#EXTINF:-1,SP C  Toros - SP C  Toros
+http://62.4.21.70:8000/live/987654/987654/1828.ts=.m3u8
+#EXTINF:-1,SP C  Series Xtra - SP C  Series Xtra
+http://62.4.21.70:8000/live/987654/987654/1874.ts=.m3u8
+#EXTINF:-1,SP C  Series - SP C  Series
+http://62.4.21.70:8000/live/987654/987654/1834.ts=.m3u8
+#EXTINF:-1,SP C  Liga - SP C  Liga
+http://62.4.21.70:8000/live/987654/987654/1878.ts=.m3u8
+#EXTINF:-1,C+Golf _SPAIN
+http://62.4.21.70:8000/live/987654/987654/1887.ts=.m3u8
+#EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
+http://62.4.21.70:8000/live/987654/987654/1832.ts=.m3u8
+#EXTINF:-1,C+Footbol_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1886.ts=.m3u8
+#EXTINF:-1,C+Estrenos_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1885.ts=.m3u8
+#EXTINF:-1,SP C  Estrellas - SP C  Estrellas
+http://62.4.21.70:8000/live/987654/987654/1882.ts=.m3u8
+#EXTINF:-1,SP C  Deportes 2 - SP C  Deportes 2
+http://62.4.21.70:8000/live/987654/987654/1883.ts=.m3u8
+#EXTINF:-1,SP C  Deportes - SP C  Deportes
+http://62.4.21.70:8000/live/987654/987654/1884.ts=.m3u8
+#EXTINF:-1,SP C  Dcine HD - SP C  Dcine HD
+http://62.4.21.70:8000/live/987654/987654/1838.ts=.m3u8
+#EXTINF:-1,SP C  Accion HD - SP C  Accion HD
+http://62.4.21.70:8000/live/987654/987654/1831.ts=.m3u8
+#EXTINF:-1,SP Boing - SP Boing
+http://62.4.21.70:8000/live/987654/987654/1881.ts=.m3u8
+#EXTINF:-1,SP Bein Sports - SP Bein Sports
+http://62.4.21.70:8000/live/987654/987654/1826.ts=.m3u8
+#EXTINF:-1,SP Caza Y Pesca - SP bCaza Y Pesca
+http://62.4.21.70:8000/live/987654/987654/1845.ts=.m3u8
+#EXTINF:-1,SP Barca Tv - SP Barca Tv
+http://62.4.21.70:8000/live/987654/987654/1860.ts=.m3u8
+#EXTINF:-1,SP Baby Tv - SP Baby Tv
+http://62.4.21.70:8000/live/987654/987654/1844.ts=.m3u8
+#EXTINF:-1,SP AXN HD - SP AXN HD
+http://62.4.21.70:8000/live/987654/987654/1853.ts=.m3u8
+#EXTINF:-1,SP Antena 3 - SP Antena 3
+http://62.4.21.70:8000/live/987654/987654/1872.ts=.m3u8
+#EXTINF:-1,SP AMC - SP AMC
+http://62.4.21.70:8000/live/987654/987654/1880.ts=.m3u8
+#EXTINF:-1,SP AE - SP AE
+http://62.4.21.70:8000/live/987654/987654/1875.ts=.m3u8
+#EXTINF:-1,SP 40 TV - SP 40 TV
+http://62.4.21.70:8000/live/987654/987654/1877.ts=.m3u8
+#EXTINF:-1,SP 24 Horas - SP 24 Horas
+http://62.4.21.70:8000/live/987654/987654/1876.ts=.m3u8
+#EXTINF:-1,TAQUILLA_11_HD
+http://62.4.21.70:8000/live/987654/987654/2658.ts=.m3u8
+#EXTINF:-1,TAQUILLA_12_HD
+http://62.4.21.70:8000/live/987654/987654/2659.ts=.m3u8
+#EXTINF:-1,TAQUILLA_13_HD
+http://62.4.21.70:8000/live/987654/987654/2660.ts=.m3u8
+#EXTINF:-1,TAQUILLA_14_HD
+http://62.4.21.70:8000/live/987654/987654/2661.ts=.m3u8
+#EXTINF:-1,TAQUILLA_15_HD
+http://62.4.21.70:8000/live/987654/987654/2662.ts=.m3u8
+#EXTINF:-1,TAQUILLA_16_HD
+http://62.4.21.70:8000/live/987654/987654/2663.ts=.m3u8
+
+
+#EXTINF:-1,ES:RT_Spain
+http://163.172.52.141:7200/live/majidi/majidi/315.ts=.m3u8
+#EXTINF:-1,ES:Real_Madrid_Tv
+http://163.172.52.141:7200/live/majidi/majidi/321.ts=.m3u8
+#EXTINF:-1,ES:National_Geographic_HD
+http://163.172.52.141:7200/live/majidi/majidi/593.ts=.m3u8
+#EXTINF:-1,ES:Historia
+http://163.172.52.141:7200/live/majidi/majidi/678.ts=.m3u8
+#EXTINF:-1,ES:C+Comedia
+http://163.172.52.141:7200/live/majidi/majidi/896.ts=.m3u8
+#EXTINF:-1,ES:CANAL_COMEDIA
+http://163.172.52.141:7200/live/majidi/majidi/671.ts=.m3u8
+#EXTINF:-1,ES:Barca_TV
+http://163.172.52.141:7200/live/majidi/majidi/592.ts=.m3u8
+#EXTINF:-1,ES:La_1
+http://163.172.52.141:7200/live/majidi/majidi/317.ts=.m3u8
+#EXTINF:-1,ES:Hollywood
+http://163.172.52.141:7200/live/majidi/majidi/305.ts=.m3u8
+#EXTINF:-1,ES:Fox_Life
+http://163.172.52.141:7200/live/majidi/majidi/304.ts=.m3u8
+#EXTINF:-1,ES:Fox
+http://163.172.52.141:7200/live/majidi/majidi/303.ts=.m3u8
+#EXTINF:-1,ES:C_LIGA_HD
+http://163.172.52.141:7200/live/majidi/majidi/310.ts=.m3u8
+#EXTINF:-1,ES:M_FUTBOL
+http://163.172.52.141:7200/live/majidi/majidi/311.ts=.m3u8
+#EXTINF:-1,ES:TV3
+http://163.172.52.141:7200/live/majidi/majidi/316.ts=.m3u8
+#EXTINF:-1,ES:C+ GOLF
+http://163.172.52.141:7200/live/majidi/majidi/319.ts=.m3u8
+#EXTINF:-1,ES:C_DEPORTES_HD
+http://163.172.52.141:7200/live/majidi/majidi/312.ts=.m3u8
+#EXTINF:-1,ES:C_DCINE
+http://163.172.52.141:7200/live/majidi/majidi/307.ts=.m3u8
+#EXTINF:-1,ES:La_2
+http://163.172.52.141:7200/live/majidi/majidi/910.ts=.m3u8
+#EXTINF:-1,ES:CANAL_ACTION
+http://163.172.52.141:7200/live/majidi/majidi/911.ts=.m3u8
+#EXTINF:-1,ES- Nova
+http://163.172.52.141:7200/live/majidi/majidi/915.ts=.m3u8
+#EXTINF:-1,ES:Movistar_ Deportes _1HD
+http://163.172.52.141:7200/live/majidi/majidi/428.ts=.m3u8
+#EXTINF:-1,ES:BeinSport_LaLiga
+http://163.172.52.141:7200/live/majidi/majidi/429.ts=.m3u8
+#EXTINF:-1,ES- Calle_13
+http://163.172.52.141:7200/live/majidi/majidi/914.ts=.m3u8
+#EXTINF:-1,ES:C_ACCION_HD
+http://163.172.52.141:7200/live/majidi/majidi/306.ts=.m3u8
+#EXTINF:-1,ES:BEIN_SPORT_HD
+http://163.172.52.141:7200/live/majidi/majidi/300.ts=.m3u8
+#EXTINF:-1,ES:Canal+_Deportes_HD
+http://163.172.52.141:7200/live/majidi/majidi/302.ts=.m3u8
+#EXTINF:-1,ES:AXN
+http://163.172.52.141:7200/live/majidi/majidi/301.ts=.m3u8
+#EXTINF:-1,ES:Alfa_TV
+http://163.172.52.141:7200/live/majidi/majidi/322.ts=.m3u8
+#EXTINF:-1,ES:LA_SEXTA_HD
+http://163.172.52.141:7200/live/majidi/majidi/787.ts=.m3u8
+#EXTINF:-1,ES:DISNEY_XD
+http://163.172.52.141:7200/live/majidi/majidi/784.ts=.m3u8
+#EXTINF:-1,ES:DISNEY_JUNIOR
+http://163.172.52.141:7200/live/majidi/majidi/785.ts=.m3u8
+#EXTINF:-1,ES:CUATRO
+http://163.172.52.141:7200/live/majidi/majidi/783.ts=.m3u8
+#EXTINF:-1,ES:CAZA_YPESCA
+http://163.172.52.141:7200/live/majidi/majidi/786.ts=.m3u8
+#EXTINF:-1,ES:CANAL_DCINE
+http://163.172.52.141:7200/live/majidi/majidi/782.ts=.m3u8
+#EXTINF:-1,ES:ANDALUCIA_TV
+http://163.172.52.141:7200/live/majidi/majidi/781.ts=.m3u8
+#EXTINF:-1,ES:TELECINCO
+http://163.172.52.141:7200/live/majidi/majidi/788.ts=.m3u8
+#EXTINF:-1,ES:Taquilla_9
+http://163.172.52.141:7200/live/majidi/majidi/864.ts=.m3u8
+#EXTINF:-1,ES:Taquilla_06
+http://163.172.52.141:7200/live/majidi/majidi/805.ts=.m3u8
+#EXTINF:-1,ES:Taquilla_05
+http://163.172.52.141:7200/live/majidi/majidi/806.ts=.m3u8
+#EXTINF:-1,ES:Taquilla_04
+http://163.172.52.141:7200/live/majidi/majidi/807.ts=.m3u8
+#EXTINF:-1,ES:Taquilla_03
+http://163.172.52.141:7200/live/majidi/majidi/808.ts=.m3u8
+#EXTINF:-1,ES:Taquilla_02
+http://163.172.52.141:7200/live/majidi/majidi/810.ts=.m3u8
+#EXTINF:-1,ES:Taquilla_01
+http://163.172.52.141:7200/live/majidi/majidi/809.ts=.m3u8
+
+#EXTINF:-1 group-title="España",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="España",Antena 3 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 group-title="España",BYU Television internacional HD
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+#EXTINF:-1 group-title="España",Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1 group-title="España",Canal Sur TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 group-title="España",El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+#EXTINF:-1 group-title="España",Euronews en Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1 group-title="España",LA 10 
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1 group-title="España",LA 2 
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1 group-title="España",Intereconomía
+http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
+#EXTINF:-1 group-title="España",La sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 group-title="España",MEGA 
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 group-title="España",TV Sevillana
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
+
 #EXTINF:-1,*****~~•SPAIN•~~*****
 http://gogobox.eu:8000/live/ankush/ankush/1069.ts
 #EXTINF:-1,SP: VIAJAR HD
