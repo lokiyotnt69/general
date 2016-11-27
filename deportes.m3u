@@ -1,4 +1,1958 @@
 #EXTM3U
+#EXTINF:-1,http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11806.ts
+#EXTINF:-1,*******  TDT *********
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10742.ts
+#EXTINF:-1,ES: La 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11700.ts
+#EXTINF:-1,ES: La 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11701.ts
+#EXTINF:-1,C LA 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7187.ts
+#EXTINF:-1,C LA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7174.ts
+#EXTINF:-1,LA 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10743.ts
+#EXTINF:-1,LA 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10756.ts
+#EXTINF:-1,ES: La 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11699.ts
+#EXTINF:-1,LA 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10744.ts
+#EXTINF:-1,ES: Antena 3 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11744.ts
+#EXTINF:-1,ANTENA 3 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10757.ts
+#EXTINF:-1,ANTENA 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10745.ts
+#EXTINF:-1,C ANTENA 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6536.ts
+#EXTINF:-1,T ANTENA 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9366.ts
+#EXTINF:-1,Antena3.sp
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3683.ts
+#EXTINF:-1,ch chANTENA 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10611.ts
+#EXTINF:-1,Antena 3 Espana
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/440.ts
+#EXTINF:-1,Antena 3 Internacional
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/422.ts
+#EXTINF:-1,Antena 3 Internacional  Espana
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/439.ts
+#EXTINF:-1,A3Series
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3685.ts
+#EXTINF:-1,ES: A3 Series
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11747.ts
+#EXTINF:-1,ATRESERIES
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3680.ts
+#EXTINF:-1,CUATRO HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10746.ts
+#EXTINF:-1,CUATRO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10747.ts
+#EXTINF:-1,ES: CUATRO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11720.ts
+#EXTINF:-1,T CUATRO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9365.ts
+#EXTINF:-1,C CUATRO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7173.ts
+#EXTINF:-1,ch chCUATRO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10604.ts
+#EXTINF:-1,ES: Telecinco
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11674.ts
+#EXTINF:-1,TELECINCO HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10748.ts
+#EXTINF:-1,TELECINCO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10758.ts
+#EXTINF:-1,ch chTELECINCO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10591.ts
+#EXTINF:-1,ES: La Sexta HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11697.ts
+#EXTINF:-1,LA SEXTA HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10749.ts
+#EXTINF:-1,LA SEXTA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10759.ts
+#EXTINF:-1,La Sexta  Espana
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/443.ts
+#EXTINF:-1,FDF
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10750.ts
+#EXTINF:-1,ES: FDF
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11708.ts
+#EXTINF:-1,ES: Energy
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11711.ts
+#EXTINF:-1,ENERGY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10752.ts
+#EXTINF:-1,ES: Nova
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11681.ts
+#EXTINF:-1,NOVA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11574.ts
+#EXTINF:-1,ES: Neox
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11684.ts
+#EXTINF:-1,NEOX
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11575.ts
+#EXTINF:-1,ES: Divinity
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11712.ts
+#EXTINF:-1,DIVINITY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11635.ts
+#EXTINF:-1,ES: Mega TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11694.ts
+#EXTINF:-1,ES: Mega HD (Spain)
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11695.ts
+#EXTINF:-1,Mega.es
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3687.ts
+#EXTINF:-1,MEGA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11666.ts
+#EXTINF:-1,Mega Espana
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/444.ts
+#EXTINF:-1,Intereconomia Punto Pelota
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/426.ts
+#EXTINF:-1,Intereconomia TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3720.ts
+#EXTINF:-1,Canal 13 TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/425.ts
+#EXTINF:-1,*******  CINE ******
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10680.ts
+#EXTINF:-1,ES: Smart-STB Spain TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/935.ts
+#EXTINF:-1,# 0
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10607.ts
+#EXTINF:-1,#0 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10681.ts
+#EXTINF:-1,# 0 SD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7185.ts
+#EXTINF:-1,ES: Canal #0
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11736.ts
+#EXTINF:-1,ES: Canal   Estrenos
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11731.ts
+#EXTINF:-1,CANAL+ ESTRENOS HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11570.ts
+#EXTINF:-1,MOVIESTAR ESTRENOS HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11629.ts
+#EXTINF:-1,C ESTRENOS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6530.ts
+#EXTINF:-1,ES: Canal   Accion
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11732.ts
+#EXTINF:-1,ACCI©N HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10682.ts
+#EXTINF:-1,ACCION
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10612.ts
+#EXTINF:-1,T ACCION
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9363.ts
+#EXTINF:-1,ES: Calle 13
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11737.ts
+#EXTINF:-1,CALLE 13 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10693.ts
+#EXTINF:-1,DCINE HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10686.ts
+#EXTINF:-1,ch chDCINE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10603.ts
+#EXTINF:-1,C DCINE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6531.ts
+#EXTINF:-1,DCINE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11633.ts
+#EXTINF:-1,COMEDIA HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10683.ts
+#EXTINF:-1,T COMEDIA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9360.ts
+#EXTINF:-1,COMEDIA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10684.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10685.ts
+#EXTINF:-1,C COMEDIA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6532.ts
+#EXTINF:-1,ch chCOMEDIA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10605.ts
+#EXTINF:-1,ES: Comedy Central
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11723.ts
+#EXTINF:-1,ES: Canal  Comedia
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11730.ts
+#EXTINF:-1,ES: M Cine Ñ
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11696.ts
+#EXTINF:-1,ES: Dcine Espanol
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11719.ts
+#EXTINF:-1,DARK
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6332.ts
+#EXTINF:-1,XTRM
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6338.ts
+#EXTINF:-1,LIFE TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7781.ts
+#EXTINF:-1,ch chESTRENOS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10600.ts
+#EXTINF:-1,T ESTRENOS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9358.ts
+#EXTINF:-1,ES: Fox HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11707.ts
+#EXTINF:-1,FOX HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10697.ts
+#EXTINF:-1,FOX
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10698.ts
+#EXTINF:-1,ES: Fox Life
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11706.ts
+#EXTINF:-1,FOX LIFE HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11636.ts
+#EXTINF:-1,FOX LIFE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10699.ts
+#EXTINF:-1,ES: Hollywood HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11703.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10691.ts
+#EXTINF:-1,HOLLYWOOD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10692.ts
+#EXTINF:-1,ch chHOLLYWOOD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10598.ts
+#EXTINF:-1,C HOLLYWOOD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7171.ts
+#EXTINF:-1,T HOLLYWOOD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9357.ts
+#EXTINF:-1,ES: Paramount Channel
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11679.ts
+#EXTINF:-1,Paramount Channel
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10751.ts
+#EXTINF:-1,ES: TNT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11672.ts
+#EXTINF:-1,TNT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10753.ts
+#EXTINF:-1,ch chTNT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10590.ts
+#EXTINF:-1,C TNT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6510.ts
+#EXTINF:-1,T TNT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9328.ts
+#EXTINF:-1,ES: TCM
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11675.ts
+#EXTINF:-1,TCM HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11576.ts
+#EXTINF:-1,TCM
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10754.ts
+#EXTINF:-1,TCM SD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8175.ts
+#EXTINF:-1,TCM H
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11637.ts
+#EXTINF:-1,ES: SyFy HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11676.ts
+#EXTINF:-1,SYFY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10755.ts
+#EXTINF:-1,ES: SyFy
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11677.ts
+#EXTINF:-1,SyFy HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7606.ts
+#EXTINF:-1,C SYFY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7170.ts
+#EXTINF:-1,ch chSYFY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10592.ts
+#EXTINF:-1,T SYFY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9356.ts
+#EXTINF:-1,*****Series******
+http://
+#EXTINF:-1,ES: AXN HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11742.ts
+#EXTINF:-1,AXN HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10694.ts
+#EXTINF:-1,AXN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10695.ts
+#EXTINF:-1,ES: AXN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11743.ts
+#EXTINF:-1,AXN WHITE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10696.ts
+#EXTINF:-1,T AXN WHITE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9333.ts
+#EXTINF:-1,ch chAXN WHITE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10609.ts
+#EXTINF:-1,ch chAXN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10610.ts
+#EXTINF:-1,ES: AXN White
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11741.ts
+#EXTINF:-1,T AXN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9334.ts
+#EXTINF:-1,C AXN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6516.ts
+#EXTINF:-1,C AXN WHITE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6515.ts
+#EXTINF:-1,C XTRA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7169.ts
+#EXTINF:-1,T SERIES
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9330.ts
+#EXTINF:-1,SERIES #
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6512.ts
+#EXTINF:-1,ch chSERIES
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10594.ts
+#EXTINF:-1,SERIES
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10687.ts
+#EXTINF:-1,ES: Canal  Series
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11729.ts
+#EXTINF:-1,SERIESXTRA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10689.ts
+#EXTINF:-1,ch chSERIES XTRA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10593.ts
+#EXTINF:-1,Series Xtra HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10688.ts
+#EXTINF:-1,T SERIES XTRA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9329.ts
+#EXTINF:-1,ES: Canal  Series Xtra
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11728.ts
+#EXTINF:-1,ES: Movistar  Xtra HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11727.ts
+#EXTINF:-1,XTRA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10690.ts
+#EXTINF:-1,---------  CINE  ----------
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3614.ts
+#EXTINF:-1,Ahora.me.Ves
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11792.ts
+#EXTINF:-1,Alicia a través del espejo
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11793.ts
+#EXTINF:-1,Altamira
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11794.ts
+#EXTINF:-1,Bienvenidos a Grecia
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11795.ts
+#EXTINF:-1,Cazafantasmas
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11796.ts
+#EXTINF:-1,Constantine
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11797.ts
+#EXTINF:-1,Corazones de Acero
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/928.mp4
+#EXTINF:-1,Django_desencadenado
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11798.ts
+#EXTINF:-1,El asedio de Jadotville
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/15053.mp4
+#EXTINF:-1,El hombre perfecto
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11799.ts
+#EXTINF:-1,El inventor de juegos
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11801.ts
+#EXTINF:-1,El libro de la selva
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11802.ts
+#EXTINF:-1,El Principito
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11803.ts
+#EXTINF:-1,Enlace de descarga
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11800.ts
+#EXTINF:-1,La cenicienta moderna el papel e su vida
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/15052.mp4
+#EXTINF:-1,La_leyenda_de_Tarzán
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/15054.mp4
+#EXTINF:-1,Las tortugas ninija 2
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/15051.mp4
+#EXTINF:-1,Lolo
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/15055.mp4
+#EXTINF:-1,Los inmortales
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/15056.mp4
+#EXTINF:-1,mascotas
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/858.mp4
+#EXTINF:-1,Mi amigo el gigante
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/15057.mp4
+#EXTINF:-1,Monsieur Chocolat
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15061.ts
+#EXTINF:-1,Popstar
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/15058.mp4
+#EXTINF:-1,Por Encima De La Ley
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11809.ts
+#EXTINF:-1,Premonición
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/15059.mp4
+#EXTINF:-1,Risen.2016
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11808.ts
+#EXTINF:-1,Synchronicity.2015
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11807.ts
+#EXTINF:-1,TORO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11812.ts
+#EXTINF:-1,WarCraft_ El Origen
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11804.ts
+#EXTINF:-1,zipi y zape la isla del capitan
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/15050.mp4
+#EXTINF:-1,2Honey
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11791.ts
+#EXTINF:-1,0011aaHow to be single 2016
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11790.ts
+#EXTINF:-1,********** DOCUMENTALES ******
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10728.ts
+#EXTINF:-1,A&E
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10737.ts
+#EXTINF:-1,ES: A & E
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11748.ts
+#EXTINF:-1,AMCEastUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10667.ts
+#EXTINF:-1,ES: AMC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11746.ts
+#EXTINF:-1,AMC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8172.ts
+#EXTINF:-1,AMC HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11665.ts
+#EXTINF:-1,C&I
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10701.ts
+#EXTINF:-1,CANAL COCINA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10732.ts
+#EXTINF:-1,ES: Canal Cocina
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11733.ts
+#EXTINF:-1,CANAL DECASA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10731.ts
+#EXTINF:-1,CANAL ODISEA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10733.ts
+#EXTINF:-1,ES: Caza y Pesca
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11725.ts
+#EXTINF:-1,CAZA Y PESCA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10729.ts
+#EXTINF:-1,ES: De Casa
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11718.ts
+#EXTINF:-1,COSMO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10700.ts
+#EXTINF:-1,ES: Cosmopolitan HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11721.ts
+#EXTINF:-1,ES: Discovery Dmax
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11716.ts
+#EXTINF:-1,DISCOVERY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10734.ts
+#EXTINF:-1,ES: Discovery Channel
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11717.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10741.ts
+#EXTINF:-1,HISTORY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10735.ts
+#EXTINF:-1,ES: Historia
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11704.ts
+#EXTINF:-1,ES: Iberalia TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11702.ts
+#EXTINF:-1,IBERALIA TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10730.ts
+#EXTINF:-1,lifete
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11654.ts
+#EXTINF:-1,ES: National Geographic HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11686.ts
+#EXTINF:-1,NAT GEOGRAPH
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10738.ts
+#EXTINF:-1,ES: National Geographic
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11687.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10739.ts
+#EXTINF:-1,NAT GEO WILD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10740.ts
+#EXTINF:-1,ES: National Geographic Wild
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11685.ts
+#EXTINF:-1,ES: Odisea
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11680.ts
+#EXTINF:-1,SOMOS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6340.ts
+#EXTINF:-1,VIAJAR TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11658.ts
+#EXTINF:-1,ES: Viajar HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11670.ts
+#EXTINF:-1,******Deportes******
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/30.ts
+#EXTINF:-1,BEIN SPORTS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10579.ts
+#EXTINF:-1,ch chBEIN SPORT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10608.ts
+#EXTINF:-1,BEIN SPORTS ESPAÑA HD ES111 (1)
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10578.ts
+#EXTINF:-1,ES: BeIN Sports
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11739.ts
+#EXTINF:-1,ES: Bein Sport La Liga HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11740.ts
+#EXTINF:-1,BEIN SPORT HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10709.ts
+#EXTINF:-1,BEIN SPORT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10710.ts
+#EXTINF:-1,BEIN Ñ
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11628.ts
+#EXTINF:-1,BEIN LALIGA HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10711.ts
+#EXTINF:-1,BEIN LALIGA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10712.ts
+#EXTINF:-1,BEIN LA LIGA  1 HD ES1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10577.ts
+#EXTINF:-1,beIN LaLiga 1 HD ES
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10649.ts
+#EXTINF:-1,beIN Sports MAX 1 Espana HD ES
+http://clientportal.link:8080/live/dff/l/13662.ts
+#EXTINF:-1,beIN Sports MAX 2 Espana HD ES
+http://clientportal.link:8080/live/gtj/h/13663.ts
+#EXTINF:-1,C BEIN SPORT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7183.ts
+#EXTINF:-1,BEING SPORT EVENTOS SD 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8166.ts
+#EXTINF:-1,BEING SPORT EVENTOS SD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8167.ts
+#EXTINF:-1,LA LIGA BAR11
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10576.ts
+#EXTINF:-1,LALIGA TV BAR HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10713.ts
+#EXTINF:-1,LALIGA TV BAR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10714.ts
+#EXTINF:-1,LIGA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10706.ts
+#EXTINF:-1,ES: La Liga
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11698.ts
+#EXTINF:-1,Movistar Partidazo HD ES
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7811.ts
+#EXTINF:-1,Movistar Partidazo HD (op2)
+http://spainlocales.mine.nu:8090/Wiipanel/serverlyso/217.ch
+#EXTINF:-1,FUTBOL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10705.ts
+#EXTINF:-1,ES: Movistar  Futbol
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11689.ts
+#EXTINF:-1,ES: Gol TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11705.ts
+#EXTINF:-1,GolTV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10716.ts
+#EXTINF:-1,ES: Sevilla Fc
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10582.ts
+#EXTINF:-1,Real MadridTV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7611.ts
+#EXTINF:-1,Realmadrid TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3725.ts
+#EXTINF:-1,Real Madrid tv
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/22.ts
+#EXTINF:-1,Sevilla FC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/427.ts
+#EXTINF:-1,Sevilla FC1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3767.ts
+#EXTINF:-1,AR: Bein Sports News HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15228.ts
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15229.ts
+#EXTINF:-1,AR: Bein Sports 9
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15230.ts
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15231.ts
+#EXTINF:-1,AR: Bein Sports 8
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15232.ts
+#EXTINF:-1,AR: Bein Sports 7 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15233.ts
+#EXTINF:-1,AR: Bein Sports 7
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15234.ts
+#EXTINF:-1,AR: Bein Sports 6 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15235.ts
+#EXTINF:-1,AR: Bein Sports 6
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15236.ts
+#EXTINF:-1,AR: Bein Sports 5 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15237.ts
+#EXTINF:-1,AR: Bein Sports 5
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15238.ts
+#EXTINF:-1,AR: Bein Sports 4 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15239.ts
+#EXTINF:-1,AR: Bein Sports 4
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15240.ts
+#EXTINF:-1,AR: Bein Sports 3 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15241.ts
+#EXTINF:-1,AR: Bein Sports 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15242.ts
+#EXTINF:-1,AR: Bein Sports 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15243.ts
+#EXTINF:-1,AR: Bein Sports 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15244.ts
+#EXTINF:-1,AR: Bein Sports 17 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15245.ts
+#EXTINF:-1,AR: Bein Sports 16 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15246.ts
+#EXTINF:-1,AR: Bein Sports 15 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15247.ts
+#EXTINF:-1,AR: Bein Sports 14 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15248.ts
+#EXTINF:-1,AR: Bein Sports 13 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15249.ts
+#EXTINF:-1,AR: Bein Sports 12
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15250.ts
+#EXTINF:-1,AR: Bein Sports 11 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15251.ts
+#EXTINF:-1,AR: Bein Sports 11
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15252.ts
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15253.ts
+#EXTINF:-1,AR: Bein Sports 10
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15254.ts
+#EXTINF:-1,AR: Bein Sports 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15255.ts
+#EXTINF:-1,AR: Bein Sports 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15256.ts
+#EXTINF:-1,AR: Bein Movies 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15257.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 2 l
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11834.ts
+#EXTINF:-1,PT: Sporting TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11752.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11758.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11757.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11756.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11754.ts
+#EXTINF:-1,PT: Sport TV 4 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11755.ts
+#EXTINF:-1,PT: Sport TV AMERICA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11753.ts
+#EXTINF:-1,UK: Sony Movie
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15093.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15094.ts
+#EXTINF:-1,UK: Sky Sports Mix
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15095.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15096.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15097.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15098.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15099.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15100.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15101.ts
+#EXTINF:-1,VIP: Lig TV HD TR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15088.ts
+#EXTINF:-1,VIP: Lig TV 3 HD TR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15089.ts
+#EXTINF:-1,VIP: Lig TV 2 HD TR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15090.ts
+#EXTINF:-1,VIP: Star Sports 4 HD IND
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15077.ts
+#EXTINF:-1,VIP: Star Sports 3 HD IND
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15078.ts
+#EXTINF:-1,VIP: Star Sports 1 HD IND
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15079.ts
+#EXTINF:-1,VIP: Smart Spor TR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15080.ts
+#EXTINF:-1,VIP: Smart Spor 2 TR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15081.ts
+#EXTINF:-1,VIP: Sky Sports F1 HD UK
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15067.ts
+#EXTINF:-1,VIP: Sky Sports 5 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15066.ts
+#EXTINF:-1,VIP: Sky Sports 4 HD UK
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15065.ts
+#EXTINF:-1,VIP: Sky Sports 3 HD UK
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15064.ts
+#EXTINF:-1,VIP: Sky Sports 2 HD UK
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15063.ts
+#EXTINF:-1,VIP: Sky Sports 1 HD UK
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15062.ts
+#EXTINF:-1,VIP: Polsat Sport HD PL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15082.ts
+#EXTINF:-1,VIP: Polsat Sport Extra HD PL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15083.ts
+#EXTINF:-1,VIP: Orange Sport PL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15084.ts
+#EXTINF:-1,VIP: nSport PL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15085.ts
+#EXTINF:-1,VIP: Lech TV PL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15091.ts
+#EXTINF:-1,VIP: Canal  Sport HD PL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15086.ts
+#EXTINF:-1,VIP: Canal  Sport 2 HD PL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15087.ts
+#EXTINF:-1,VIP: C More Fotboll HD SW
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15092.ts
+#EXTINF:-1,VIP: BT Sport Mosaic
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15071.ts
+#EXTINF:-1,VIP: BT Sport Extra 5
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15072.ts
+#EXTINF:-1,VIP: BT Sport Extra 4
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15073.ts
+#EXTINF:-1,VIP: BT Sport Extra 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15074.ts
+#EXTINF:-1,VIP: BT Sport Extra 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15075.ts
+#EXTINF:-1,VIP: BT Sport Extra 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15076.ts
+#EXTINF:-1,VIP: BT Sport ESPN HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15070.ts
+#EXTINF:-1,VIP: BT Sport 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15069.ts
+#EXTINF:-1,VIP: BT Sport 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15068.ts
+#EXTINF:-1,US: Fox Sports 506 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15102.ts
+#EXTINF:-1,US: Fox Sport 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15103.ts
+#EXTINF:-1,US: Fox Sport 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15104.ts
+#EXTINF:-1,US: Fox HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15105.ts
+#EXTINF:-1,US: Fox 59 News
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15106.ts
+#EXTINF:-1,US: Food Network
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15107.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15108.ts
+#EXTINF:-1,****** DEPORTES ******
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10702.ts
+#EXTINF:-1,MOVISTAR F1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10703.ts
+#EXTINF:-1,ES: Movistar  Formula 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11690.ts
+#EXTINF:-1,MOTO GP H
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11640.ts
+#EXTINF:-1,MOTO GP
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10704.ts
+#EXTINF:-1,ES: Movistar Moto GP
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11693.ts
+#EXTINF:-1,Movistar Moto GP HD (op2)
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/2455.ts
+#EXTINF:-1,DEPORTES
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10707.ts
+#EXTINF:-1,DEPORTES 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10708.ts
+#EXTINF:-1,ES: Movistar  Deportes 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11692.ts
+#EXTINF:-1,ES: Movistar  Deportes 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11691.ts
+#EXTINF:-1,ES: Eurosport 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11710.ts
+#EXTINF:-1,EUROSPORT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7817.ts
+#EXTINF:-1,EUROSPORT 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11631.ts
+#EXTINF:-1,ES: Eurosport 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11709.ts
+#EXTINF:-1,EUROSPORT 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11632.ts
+#EXTINF:-1,ES: Movistar  Golf
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11688.ts
+#EXTINF:-1,GOLF
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10717.ts
+#EXTINF:-1,Azteca Deportes
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7799.ts
+#EXTINF:-1,LIVE SPORT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11662.ts
+#EXTINF:-1,RedBull TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7804.ts
+#EXTINF:-1,Red Bull tv
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11646.ts
+#EXTINF:-1,Teledeporte
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdphdlv3aomgl1/_definst_/live/stream3.m3u8
+#EXTINF:-1,***** INFANTILES *****
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10718.ts
+#EXTINF:-1,ANIME TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11668.ts
+#EXTINF:-1,BABY TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10721.ts
+#EXTINF:-1,ES: Canal Baby
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11734.ts
+#EXTINF:-1,BLOOMBERG TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10725.ts
+#EXTINF:-1,BOING
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10724.ts
+#EXTINF:-1,ES: Boing
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11738.ts
+#EXTINF:-1,CLAN TVE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10722.ts
+#EXTINF:-1,ES: Clan TVE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11724.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10719.ts
+#EXTINF:-1,DISNEY CH.
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10736.ts
+#EXTINF:-1,ES: Disney Channel
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11715.ts
+#EXTINF:-1,DISNEY XD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10720.ts
+#EXTINF:-1,ES: Disney XD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11713.ts
+#EXTINF:-1,ES: Disney Junior
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11714.ts
+#EXTINF:-1,C DISNEY JUNIOR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6508.ts
+#EXTINF:-1,T DISNEY JUNIOR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9326.ts
+#EXTINF:-1,DisneyJrLASD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9373.ts
+#EXTINF:-1,DisneyChannelNorteHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9374.ts
+#EXTINF:-1,DisneyChannelEastHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9375.ts
+#EXTINF:-1,NICK JR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10726.ts
+#EXTINF:-1,ES: Nick Jr.
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11683.ts
+#EXTINF:-1,Nickelodeon
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10727.ts
+#EXTINF:-1,ES: Nickelodeon
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11682.ts
+#EXTINF:-1,PANDA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10723.ts
+#EXTINF:-1,******Taquillas******
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/26.ts
+#EXTINF:-1,Arma Perfecta 2016
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10676.ts
+#EXTINF:-1,Capitan_Koblic
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6550.ts
+#EXTINF:-1,Expediente.Warren.2.El.caso.Enfield
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6354.ts
+#EXTINF:-1,Guerra.total.(Cymbeline)
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6355.ts
+#EXTINF:-1,Objetivo.Londres
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6356.ts
+#EXTINF:-1,Van Helsing
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10677.ts
+#EXTINF:-1,****Autonimicas****
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/1198.ts
+#EXTINF:-1,CARTA DE AJUSTE
+http://smartiptvspain.mine.nu:980/movie/smartiptvspain/SMARTVESPAIS/856.mp4
+#EXTINF:-1,ANDALUCIA TV  Espana
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/442.ts
+#EXTINF:-1,ES: Andalucia TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11745.ts
+#EXTINF:-1,ES: Asturias España
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10583.ts
+#EXTINF:-1,ES: Canal 24 Horas
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11735.ts
+#EXTINF:-1,Canal Sur
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3695.ts
+#EXTINF:-1,CANARIAS TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9426.ts
+#EXTINF:-1,Castilla-La Mancha
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3698.ts
+#EXTINF:-1,El Correo
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11659.ts
+#EXTINF:-1,Canal Extremadura
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3700.ts
+#EXTINF:-1,EXTREMADURA TV  Espana
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/441.ts
+#EXTINF:-1,Extremadura TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/415.ts
+#EXTINF:-1,GH17
+http://mset-prgb-2.live-delivery.ooyala.com/out/u/12640_1.m3u8
+#EXTINF:-1,Ibiza
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/407.ts
+#EXTINF:-1,Levante TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3736.ts
+#EXTINF:-1,Marbella TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3739.ts
+#EXTINF:-1,Navarra TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3744.ts
+#EXTINF:-1,NOTICIAS EL TIEMPO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3773.ts
+#EXTINF:-1,Onda Algeciras
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3745.ts
+#EXTINF:-1,Onda Azul
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7616.ts
+#EXTINF:-1,ONDA AZUL SEVILLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/438.ts
+#EXTINF:-1,onda cadiz
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6351.ts
+#EXTINF:-1,Onda Jaen
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3747.ts
+#EXTINF:-1,RTV Canarias
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7608.ts
+#EXTINF:-1,Sundance
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7783.ts
+#EXTINF:-1,TeleBilbao
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3694.ts
+#EXTINF:-1,TELEMADRID
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9370.ts
+#EXTINF:-1,TV3 24h
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3706.ts
+#EXTINF:-1,Telesur
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3761.ts
+#EXTINF:-1,Toros TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7596.ts
+#EXTINF:-1,TOROS 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10580.ts
+#EXTINF:-1,ES: Toros TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11671.ts
+#EXTINF:-1,TOROS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10715.ts
+#EXTINF:-1,ES: Ten
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11673.ts
+#EXTINF:-1,8TYUTV SD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/429.ts
+#EXTINF:-1,****Extras****
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/1147.ts
+#EXTINF:-1,myZen
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10581.ts
+#EXTINF:-1,DeporTV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7789.ts
+#EXTINF:-1,****MUSICA****
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6539.ts
+#EXTINF:-1,C 40 TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7162.ts
+#EXTINF:-1,T 40 TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9324.ts
+#EXTINF:-1,1HD Music TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3764.ts
+#EXTINF:-1,DKISS TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11657.ts
+#EXTINF:-1,MUSIC TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7782.ts
+#EXTINF:-1,1,musica
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6540.ts
+#EXTINF:-1,Eska Rock
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7820.ts
+#EXTINF:-1,ELECTROSOUND TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6547.ts
+#EXTINF:-1,JAMAICAN TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6546.ts
+#EXTINF:-1,M6 MUSIC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6541.ts
+#EXTINF:-1,MI MUSICA HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3772.ts
+#EXTINF:-1,Musica:Capital TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7808.ts
+#EXTINF:-1,RETRO TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6544.ts
+#EXTINF:-1,VIRGIN TV TT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6549.ts
+#EXTINF:-1,zeetv
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9368.ts
+#EXTINF:-1,****Documentales****
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/449.ts
+#EXTINF:-1,ch chNAT GEO WILD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10595.ts
+#EXTINF:-1,ch chNAT GEO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10596.ts
+#EXTINF:-1,ch chHISTORIA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10599.ts
+#EXTINF:-1,ch chDISNEY JUNIOR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10601.ts
+#EXTINF:-1,ch chDISCOVERY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10602.ts
+#EXTINF:-1,ch chCOCINA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10606.ts
+#EXTINF:-1,T DISCOVERY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9339.ts
+#EXTINF:-1,C DISCOVERY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7164.ts
+#EXTINF:-1,T HISTORIA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9337.ts
+#EXTINF:-1,C HISTORIA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6518.ts
+#EXTINF:-1,C NAT GEO WILD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6517.ts
+#EXTINF:-1,T NAT GEO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9336.ts
+#EXTINF:-1,C NAT GEO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7175.ts
+#EXTINF:-1,Viajar HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7590.ts
+#EXTINF:-1,******Spain******
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/2.ts
+#EXTINF:-1,Canal Diocesano
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3719.ts
+#EXTINF:-1,Canal Parlamento
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3732.ts
+#EXTINF:-1,MEZZO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8174.ts
+#EXTINF:-1,Sicario 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10570.ts
+#EXTINF:-1,DW en español
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3711.ts
+#EXTINF:-1,fox2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10679.ts
+#EXTINF:-1,FOX1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10678.ts
+#EXTINF:-1,♣♣♣♣♣United Kingdom♣♣♣♣♣
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11651.ts
+#EXTINF:-1,BBC Two
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11647.ts
+#EXTINF:-1,BBC 4
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11649.ts
+#EXTINF:-1,BBC 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11650.ts
+#EXTINF:-1,DK: TV2 Bornholm
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15122.ts
+#EXTINF:-1,DK: DR1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15127.ts
+#EXTINF:-1,FI: TV7 Finland
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15118.ts
+#EXTINF:-1,FR: Bein Sports 3 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15109.ts
+#EXTINF:-1,FR: Bein Sports 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15110.ts
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15111.ts
+#EXTINF:-1,FR: VOYAGE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11565.ts
+#EXTINF:-1,FR: Ushuaia
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11566.ts
+#EXTINF:-1,FR: PLANETE     HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11567.ts
+#EXTINF:-1,FR: FRANCE-5HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11564.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11569.ts
+#EXTINF:-1,IT:Tg 24 PP
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15263.ts
+#EXTINF:-1,IT:Sky TG24
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15264.ts
+#EXTINF:-1,IT:Reteconome
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15265.ts
+#EXTINF:-1,IT:History Channel
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15266.ts
+#EXTINF:-1,IT:Frisbee
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15267.ts
+#EXTINF:-1,IT:Cinema Passion
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15268.ts
+#EXTINF:-1,IT:Cinema Max
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15269.ts
+#EXTINF:-1,IT:Cartonetoo
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15270.ts
+#EXTINF:-1,IT: Sport MotoGp
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15271.ts
+#EXTINF:-1,IT: Real Time
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15260.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15259.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15258.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15261.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11568.ts
+#EXTINF:-1,NO: TV2 Zebra
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15121.ts
+#EXTINF:-1,PT: TVI24
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15155.ts
+#EXTINF:-1,PT: TVI REALITY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15156.ts
+#EXTINF:-1,PT: TVI HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15157.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15158.ts
+#EXTINF:-1,PT: TV Series
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15159.ts
+#EXTINF:-1,PT: TV Record
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15160.ts
+#EXTINF:-1,PT: TV Lisboa
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15161.ts
+#EXTINF:-1,PT: TV Cine 4 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15162.ts
+#EXTINF:-1,PT: TV Cine 3 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15163.ts
+#EXTINF:-1,PT: TV Cine 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15164.ts
+#EXTINF:-1,PT: TV Cine 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15165.ts
+#EXTINF:-1,PT: Travel Channel HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15166.ts
+#EXTINF:-1,PT: TLC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15167.ts
+#EXTINF:-1,PT: SyFy
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15168.ts
+#EXTINF:-1,PT: Sic Radical
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15169.ts
+#EXTINF:-1,PT: SIC Noticias
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15170.ts
+#EXTINF:-1,PT: SIC MULHER
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15171.ts
+#EXTINF:-1,PT: SIC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15172.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15173.ts
+#EXTINF:-1,PT: RTP Madeira
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15174.ts
+#EXTINF:-1,PT: RTP International
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15175.ts
+#EXTINF:-1,PT: RTP Africa
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15176.ts
+#EXTINF:-1,PT: RTP Acores
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15177.ts
+#EXTINF:-1,PT: RTP 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15178.ts
+#EXTINF:-1,PT: RTP 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15179.ts
+#EXTINF:-1,PT: RTP 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15180.ts
+#EXTINF:-1,PT: RT GLOBAL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15181.ts
+#EXTINF:-1,PT: REAL MADRID TV HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15182.ts
+#EXTINF:-1,PT: Porto Canal
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15183.ts
+#EXTINF:-1,PT: PFC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15184.ts
+#EXTINF:-1,PT: PANDA BIGGS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15185.ts
+#EXTINF:-1,PT: Odisseia
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15186.ts
+#EXTINF:-1,PT: Nickelodeon
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15187.ts
+#EXTINF:-1,PT: National Geographic HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15188.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15189.ts
+#EXTINF:-1,PT: MTV Portugal
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15190.ts
+#EXTINF:-1,PT: MOV HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15191.ts
+#EXTINF:-1,PT: MOTORS TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15192.ts
+#EXTINF:-1,PT: MCM TOP
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15193.ts
+#EXTINF:-1,PT: JR News
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15194.ts
+#EXTINF:-1,PT: JIM JAM
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15195.ts
+#EXTINF:-1,PT: Hollywood HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15196.ts
+#EXTINF:-1,PT: Historia
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15197.ts
+#EXTINF:-1,PT: Globo Premium
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15198.ts
+#EXTINF:-1,PT: Fuel TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15199.ts
+#EXTINF:-1,PT: Fox Movies
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15200.ts
+#EXTINF:-1,PT: Fox Life
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15201.ts
+#EXTINF:-1,PT: FOX HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15202.ts
+#EXTINF:-1,PT: Fox Crime HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15203.ts
+#EXTINF:-1,PT: Fox Comedy
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15204.ts
+#EXTINF:-1,PT: Euronews
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15205.ts
+#EXTINF:-1,PT: E! Entertainment
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15206.ts
+#EXTINF:-1,PT: Disney Junior
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15207.ts
+#EXTINF:-1,PT: Disney Channel
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15208.ts
+#EXTINF:-1,PT: Discovery Channel
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15209.ts
+#EXTINF:-1,PT: CM TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15210.ts
+#EXTINF:-1,PT: Cinemundo
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15211.ts
+#EXTINF:-1,PT: CBS Reality
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15212.ts
+#EXTINF:-1,PT: Cartoon Network
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15213.ts
+#EXTINF:-1,PT: Canal Panda
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15214.ts
+#EXTINF:-1,PT: Cacavision HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15215.ts
+#EXTINF:-1,PT: CACA E PESCA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15216.ts
+#EXTINF:-1,PT: BH News
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15217.ts
+#EXTINF:-1,PT: BENFICA TV2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15218.ts
+#EXTINF:-1,PT: BENEFICA TV1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15219.ts
+#EXTINF:-1,PT: BABY TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15220.ts
+#EXTINF:-1,PT: AXN WHITE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15221.ts
+#EXTINF:-1,PT: AXN HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15222.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15223.ts
+#EXTINF:-1,PT: AMC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15224.ts
+#EXTINF:-1,PT: A BOLA TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15225.ts
+#EXTINF:-1,PT: A & E
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15226.ts
+#EXTINF:-1,PT: 24 Kitchen HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15227.ts
+#EXTINF:-1,RO: Sport HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11048.ts
+#EXTINF:-1,RO: Romania TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11049.ts
+#EXTINF:-1,RO: Prima TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11051.ts
+#EXTINF:-1,RO: Kiss TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11056.ts
+#EXTINF:-1,RO: Kanal D HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11057.ts
+#EXTINF:-1,RO: Eurosport 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11058.ts
+#EXTINF:-1,RO: Eurosport 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11059.ts
+#EXTINF:-1,SK: Viasat Fotball HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15112.ts
+#EXTINF:-1,Sky Sports 3 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11642.ts
+#EXTINF:-1,Sky Sports 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11643.ts
+#EXTINF:-1,Sky Sports 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11644.ts
+#EXTINF:-1,RO: B1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11070.ts
+#EXTINF:-1,SE: Viasat Sport HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15129.ts
+#EXTINF:-1,SE: Viasat Series
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15130.ts
+#EXTINF:-1,SE: Viasat Motor
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15131.ts
+#EXTINF:-1,SE: Viasat History
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15132.ts
+#EXTINF:-1,SE: Viasat Film Premiere
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15113.ts
+#EXTINF:-1,SE: Viasat Film Hits
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15114.ts
+#EXTINF:-1,SE: Viasat Film Family
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15115.ts
+#EXTINF:-1,SE: Viasat Film Comedy
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15116.ts
+#EXTINF:-1,SE: Viasat Film Action
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15117.ts
+#EXTINF:-1,SE: VH1 Europe/Nick Jr
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15133.ts
+#EXTINF:-1,SE: TV8
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15134.ts
+#EXTINF:-1,SE: TV6
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15135.ts
+#EXTINF:-1,SE: TV4 Guld
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15136.ts
+#EXTINF:-1,SE: TV4 Film
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15119.ts
+#EXTINF:-1,SE: TV4 Fakta XL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15120.ts
+#EXTINF:-1,SE: TV4 Fakta
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15137.ts
+#EXTINF:-1,SE: TV3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15138.ts
+#EXTINF:-1,SE: TV12
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15139.ts
+#EXTINF:-1,SE: TV10
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15140.ts
+#EXTINF:-1,SE: TLC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15126.ts
+#EXTINF:-1,SE: SVTB/SVT24
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15141.ts
+#EXTINF:-1,SE: SVT2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15142.ts
+#EXTINF:-1,SE: SVT1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15143.ts
+#EXTINF:-1,SE: Sjuan
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15144.ts
+#EXTINF:-1,SE: National Geographic
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15145.ts
+#EXTINF:-1,SE: Kunskapskanalen
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15125.ts
+#EXTINF:-1,SE: Kanal 9
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15146.ts
+#EXTINF:-1,SE: Kanal 11
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15147.ts
+#EXTINF:-1,SE: Fox
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15124.ts
+#EXTINF:-1,SE: Eurosport
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15148.ts
+#EXTINF:-1,SE: Disney XD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15123.ts
+#EXTINF:-1,SE: Discovery Channel
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15149.ts
+#EXTINF:-1,SE: Comedy Central
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15150.ts
+#EXTINF:-1,SE: C More Series
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15151.ts
+#EXTINF:-1,SE: C More Live
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15152.ts
+#EXTINF:-1,SE: C More First
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15153.ts
+#EXTINF:-1,SE: C More Emotion
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15154.ts
+#EXTINF:-1,SE: C More Action
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15128.ts
+#EXTINF:-1,♣♣♣♣♣LATINO♣♣♣♣♣
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10760.ts
+#EXTINF:-1,p: Formula1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11813.ts
+#EXTINF:-1,Ecuador UCSG
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13966.ts
+#EXTINF:-1,ECUADOR ECOTEL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13967.ts
+#EXTINF:-1,ECUADOR CANELA TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13968.ts
+#EXTINF:-1,Ecuador BYU
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13969.ts
+#EXTINF:-1,Latino: TNT Series HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11814.ts
+#EXTINF:-1,Latino: NatGeo Wild HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11815.ts
+#EXTINF:-1,Latino: Multimedios Monterrey HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11816.ts
+#EXTINF:-1,Latino: Fox Sports 2 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11817.ts
+#EXTINF:-1,Latino: Fox Sports
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11818.ts
+#EXTINF:-1,Latino: Fox Movies HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11819.ts
+#EXTINF:-1,Latino: Fox HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11820.ts
+#EXTINF:-1,Latino: Fox Cinema HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11821.ts
+#EXTINF:-1,Latino: Fox Action HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11822.ts
+#EXTINF:-1,Latino: Fox 1 HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11823.ts
+#EXTINF:-1,Latino: Discovery Teather HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11824.ts
+#EXTINF:-1,Latino: Discovery Kids
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11825.ts
+#EXTINF:-1,Latino: Discovery ID
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11826.ts
+#EXTINF:-1,Latino: Discovery Channel
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11827.ts
+#EXTINF:-1,Latino: Cinecanal
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11828.ts
+#EXTINF:-1,Latino: Carton Network HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11829.ts
+#EXTINF:-1,Latino: AXN HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11830.ts
+#EXTINF:-1,Latino: Animal Planet
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11831.ts
+#EXTINF:-1,Latino: A&E HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11832.ts
+#EXTINF:-1,BR: TV Globo Premium
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11810.ts
+#EXTINF:-1,ATV BOLIVIA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11667.ts
+#EXTINF:-1,LAT: AMC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11627.ts
+#EXTINF:-1,LAT: ANIMAL PLANET
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11626.ts
+#EXTINF:-1,LAT: AXN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11625.ts
+#EXTINF:-1,LAT: AZTECA NOTICIAS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11621.ts
+#EXTINF:-1,LAT: AZTECA MUNDO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11622.ts
+#EXTINF:-1,LAT: AZTECA CLIC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11623.ts
+#EXTINF:-1,LAT: AZTECA 7
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11624.ts
+#EXTINF:-1,LAT: CANAL 5
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11619.ts
+#EXTINF:-1,LAT: CANAL 11
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11620.ts
+#EXTINF:-1,LAT: CARTOON NETWORK
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11618.ts
+#EXTINF:-1,LAT: CINEMAX
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11616.ts
+#EXTINF:-1,LAT: CINECANAL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11617.ts
+#EXTINF:-1,LAT: DE PELICULA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11615.ts
+#EXTINF:-1,LAT: DISNEY CHANNEL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11613.ts
+#EXTINF:-1,LAT: DISNEY Jr
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11612.ts
+#EXTINF:-1,LAT: DISCOVERY CHANNEL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11614.ts
+#EXTINF:-1,LAT: DISTRITO COMEDIA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11611.ts
+#EXTINF:-1,LAT: ENCUENTRO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11609.ts
+#EXTINF:-1,LAT: ESPN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11608.ts
+#EXTINF:-1,LAT: ESPN 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11606.ts
+#EXTINF:-1,LAT: ESPN 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11607.ts
+#EXTINF:-1,LAT: ESPN USA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11605.ts
+#EXTINF:-1,LAT: FORO TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11604.ts
+#EXTINF:-1,LAT: FOX
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11603.ts
+#EXTINF:-1,LAT: FOX 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11602.ts
+#EXTINF:-1,LAT: FOX CINEMA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11601.ts
+#EXTINF:-1,LAT: FOX CLASSICS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11600.ts
+#EXTINF:-1,LAT: FOX MOVIES
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11599.ts
+#EXTINF:-1,LAT: FOX SPORT 2 USA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11596.ts
+#EXTINF:-1,LAT: FOX SPORT 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11597.ts
+#EXTINF:-1,LAT: FOX SPORT
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11598.ts
+#EXTINF:-1,LAT: GALAVISION
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11595.ts
+#EXTINF:-1,LAT: GOLDEN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11594.ts
+#EXTINF:-1,LAT: HISTORY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11593.ts
+#EXTINF:-1,LAT: INVESTIGACION DISCOVERY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11592.ts
+#EXTINF:-1,LAT: MI MUSICA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11591.ts
+#EXTINF:-1,LAT: MTV LATINO HITS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11590.ts
+#EXTINF:-1,LAT: NAT GEO WILD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11589.ts
+#EXTINF:-1,LAT: PROYECTO 40
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11588.ts
+#EXTINF:-1,LAT: RITMOSON
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11587.ts
+#EXTINF:-1,LAT: SPACE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11586.ts
+#EXTINF:-1,LAT: TBS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11585.ts
+#EXTINF:-1,LAT: TELEMUSICA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11583.ts
+#EXTINF:-1,LAT: TELEMUNDO
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11584.ts
+#EXTINF:-1,LAT: UNICABLE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11579.ts
+#EXTINF:-1,LAT: TELEVISA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11582.ts
+#EXTINF:-1,LAT: TV MARTI
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11580.ts
+#EXTINF:-1,LAT: TNT SERIES
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11581.ts
+#EXTINF:-1,LAT: UNIVISION TDN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11577.ts
+#EXTINF:-1,LAT: UNIVERSAL
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11578.ts
+#EXTINF:-1,Tv5 Linares
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11766.ts
+#EXTINF:-1,TV REC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11770.ts
+#EXTINF:-1,TELEFE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11781.ts
+#EXTINF:-1,FOX SPORT ARG HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11780.ts
+#EXTINF:-1,ESPN3 ARG
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11779.ts
+#EXTINF:-1,ESPN2 ARG
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11778.ts
+#EXTINF:-1,ESPN ARG
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11777.ts
+#EXTINF:-1,elpinguino
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8#IptvChile
+#EXTINF:-1,CNC
+http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8#IptvChile
+#EXTINF:-1,canal21
+http://v1.streaminglatinoamerica.com:1935/canal21ch/canal21ch/chunklist_w76943128.m3u8#IptvChile
+#EXTINF:-1,Tiempo
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11765.ts
+#EXTINF:-1,Teletrak
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11763.ts
+#EXTINF:-1,failarmytv
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11764.ts
+#EXTINF:-1,UES TV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8#IptvChile
+#EXTINF:-1,SEÑAL UC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11762.ts
+#EXTINF:-1,NIU TV
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8#IptvChile
+#EXTINF:-1,cinema tv play
+http://servicioamerica.net:1935/cinematvplays//cinematvplays/playlist.m3u8#IptvChile
+#EXTINF:-1,ES: Proyecto 40 - Mexico
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11678.ts
+#EXTINF:-1,******Colombia******
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/33.ts
+#EXTINF:-1,CALI TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3768.ts
+#EXTINF:-1,CAMPUSTV HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3577.ts
+#EXTINF:-1,CANAL ANTISTRES
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3769.ts
+#EXTINF:-1,Cantinazo TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7795.ts
+#EXTINF:-1,Cantinazo
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3770.ts
+#EXTINF:-1,LAT: Caracol
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/31.ts
+#EXTINF:-1,Caracol
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3771.ts
+#EXTINF:-1,Colombia Cali TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7792.ts
+#EXTINF:-1,Ondaluz Sierra
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7615.ts
+#EXTINF:-1,RCN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3774.ts
+#EXTINF:-1,CNC Colchagua Santa Cruz
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11788.ts
+#EXTINF:-1,PinguinoTV HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11664.ts
+#EXTINF:-1,EL PINGUINO TV CANAL 4 PUNTA ARENAS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11663.ts
+#EXTINF:-1,LAT: RCN
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/32.ts
+#EXTINF:-1,Red AD Venir - 24 TV - SC de la Sierra - Santa Cruz
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6830.ts
+#EXTINF:-1,Viva Nicaragua Canal 13
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7589.ts
+#EXTINF:-1,TV5 Monde Amerique Latine
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7593.ts
+#EXTINF:-1,TV Mas
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7594.ts
+#EXTINF:-1,Travel TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7595.ts
+#EXTINF:-1,ch chLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10597.ts
+#EXTINF:-1,ch ch40 TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10613.ts
+#EXTINF:-1,Canal13PanLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10650.ts
+#EXTINF:-1,BravoEastUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10651.ts
+#EXTINF:-1,BoomerangUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10652.ts
+#EXTINF:-1,BoomerangLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10653.ts
+#EXTINF:-1,BNNHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10654.ts
+#EXTINF:-1,BBCWorldNewsSD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10655.ts
+#EXTINF:-1,BBCEntLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10656.ts
+#EXTINF:-1,BBCAmericaHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10657.ts
+#EXTINF:-1,BabyTVLASD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10658.ts
+#EXTINF:-1,Azteca7LA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10659.ts
+#EXTINF:-1,AzMundoLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10660.ts
+#EXTINF:-1,AzCorazonLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10661.ts
+#EXTINF:-1,AXNLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10662.ts
+#EXTINF:-1,AnimalPlanetUS_HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10663.ts
+#EXTINF:-1,AnimalPlanetUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10664.ts
+#EXTINF:-1,AnimalPlanetLASD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10665.ts
+#EXTINF:-1,AmericanHeroesUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10666.ts
+#EXTINF:-1,AELatinoamericaHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10668.ts
+#EXTINF:-1,AEEastUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10669.ts
+#EXTINF:-1,ActionMaxEastUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10670.ts
+#EXTINF:-1,ABCNY
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10671.ts
+#EXTINF:-1,ABCMIASD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10672.ts
+#EXTINF:-1,9xTashan
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10673.ts
+#EXTINF:-1,5star
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10674.ts
+#EXTINF:-1,Ten
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7598.ts
+#EXTINF:-1,Telpin Canal 2 HD Argentina
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7599.ts
+#EXTINF:-1,TELEVISA HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7600.ts
+#EXTINF:-1,Teleticino
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7601.ts
+#EXTINF:-1,Telemundo
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7602.ts
+#EXTINF:-1,CB24 Noticias
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7793.ts
+#EXTINF:-1,RTS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7609.ts
+#EXTINF:-1,Red Advenir
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7610.ts
+#EXTINF:-1,Telemedellin
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3757.ts
+#EXTINF:-1,TIGO MUSIC
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3776.ts
+#EXTINF:-1,******Chile******
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/29.ts
+#EXTINF:-1,10 Mar del Plata
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3750.ts
+#EXTINF:-1,360TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3731.ts
+#EXTINF:-1,Anime Latino
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3718.ts
+#EXTINF:-1,Telecafe
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3775.ts
+#EXTINF:-1,TELEMEDELLIN1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3777.ts
+#EXTINF:-1,PDVSA TV (Venezuela)
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7613.ts
+#EXTINF:-1,myZen TV en directo
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9313.ts
+#EXTINF:-1,Ecuador (Documentary
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8173.ts
+#EXTINF:-1,Proyecto 40 - Mexico
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7612.ts
+#EXTINF:-1,Orbe21
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3748.ts
+#EXTINF:-1,Proyecto 40
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3749.ts
+#EXTINF:-1,Telepin Pinamar
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3754.ts
+#EXTINF:-1,LAT: Win Sports
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/34.ts
+#EXTINF:-1,ABC NEWS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7803.ts
+#EXTINF:-1,ANIME 24 HORAS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7802.ts
+#EXTINF:-1,Esperanza TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7818.ts
+#EXTINF:-1,Capital 21 CDMX
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7794.ts
+#EXTINF:-1,Canela TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7796.ts
+#EXTINF:-1,Arica TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7801.ts
+#EXTINF:-1,TVN Cihile HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7591.ts
+#EXTINF:-1,TVN Chile
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7592.ts
+#EXTINF:-1,Canal 2 Televicentro
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7797.ts
+#EXTINF:-1,Azteca Honduras
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7798.ts
+#EXTINF:-1,Azteca 13
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7800.ts
+#EXTINF:-1,Poker Central
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7805.ts
+#EXTINF:-1,ORBE 21
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7806.ts
+#EXTINF:-1,Noticias:Bloomberg
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7807.ts
+#EXTINF:-1,Musica m2o TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7809.ts
+#EXTINF:-1,Multimedios Plus
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7810.ts
+#EXTINF:-1,Latina Peru
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7812.ts
+#EXTINF:-1,La Luz Peru
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7813.ts
+#EXTINF:-1,Juce TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7814.ts
+#EXTINF:-1,Heart TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7815.ts
+#EXTINF:-1,Gol Peru
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7816.ts
+#EXTINF:-1,Eska TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7819.ts
+#EXTINF:-1,Eska Party
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7785.ts
+#EXTINF:-1,Enlace TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7786.ts
+#EXTINF:-1,Enlace Juvenil
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7787.ts
+#EXTINF:-1,Efekto TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7788.ts
+#EXTINF:-1,CTNI
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7790.ts
+#EXTINF:-1,Colosal TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/7791.ts
+#EXTINF:-1,:Arica TV Canal 12
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/845.ts
+#EXTINF:-1,:Arica TV Chile
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/847.ts
+#EXTINF:-1,Azteca Noticias
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3713.ts
+#EXTINF:-1,CableNoticias
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3717.ts
+#EXTINF:-1,:Canal 2 ValleTV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/846.ts
+#EXTINF:-1,Canal Zoom
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3758.ts
+#EXTINF:-1,: CDO HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/852.ts
+#EXTINF:-1,CHL: CONTIVICION
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/854.ts
+#EXTINF:-1,Chile:Arica TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/6923.ts
+#EXTINF:-1,:CHILE:PinguinoTV HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/842.ts
+#EXTINF:-1,:Chile – EL PINGUINO TV CANAL 4 PUNTA ARENAS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/843.ts
+#EXTINF:-1,DTV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3759.ts
+#EXTINF:-1,Tindaya
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9369.ts
+#EXTINF:-1,LA OTRA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9371.ts
+#EXTINF:-1,DIYNetworkHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9372.ts
+#EXTINF:-1,DiscoveryWorldLA_HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9376.ts
+#EXTINF:-1,DiscoveryWorldLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9377.ts
+#EXTINF:-1,DiscoveryKidsSD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9378.ts
+#EXTINF:-1,DiscoveryHomeHealthLAHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9379.ts
+#EXTINF:-1,DiscoveryFamilyUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9380.ts
+#EXTINF:-1,DiscoveryenEspanolHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9382.ts
+#EXTINF:-1,DiscoveryenEspanol_HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9381.ts
+#EXTINF:-1,DiscoveryChLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9383.ts
+#EXTINF:-1,DiscoveryChannelUSAHD_HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9384.ts
+#EXTINF:-1,DiscoveryChannelUSAHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9385.ts
+#EXTINF:-1,Digital15RDLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9386.ts
+#EXTINF:-1,DestinationAmericaUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9387.ts
+#EXTINF:-1,DePeliculaMPLXLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9388.ts
+#EXTINF:-1,DePeliculaLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9389.ts
+#EXTINF:-1,CTVVancouver
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9390.ts
+#EXTINF:-1,CTVNewsHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9391.ts
+#EXTINF:-1,CTVHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9392.ts
+#EXTINF:-1,CSNBAUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9393.ts
+#EXTINF:-1,CP24
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9395.ts
+#EXTINF:-1,CookingChannelUS_HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9396.ts
+#EXTINF:-1,CrimeInvNetUS_HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9394.ts
+#EXTINF:-1,CookingChannelUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9397.ts
+#EXTINF:-1,ConcertChannelSD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9398.ts
+#EXTINF:-1,ComedyCentralHD_HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9399.ts
+#EXTINF:-1,ComedyCentralHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9400.ts
+#EXTINF:-1,CNNUSAHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9402.ts
+#EXTINF:-1,CNNUSA_HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9401.ts
+#EXTINF:-1,CNNLASD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9403.ts
+#EXTINF:-1,CNNInternationlLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9404.ts
+#EXTINF:-1,CNBCUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9405.ts
+#EXTINF:-1,ClaroSportLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9406.ts
+#EXTINF:-1,CityTVVancouver
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9407.ts
+#EXTINF:-1,CityTVHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9408.ts
+#EXTINF:-1,CinemaxWestUS_HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9409.ts
+#EXTINF:-1,CinemaxWestUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9410.ts
+#EXTINF:-1,CinemaxLASD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9411.ts
+#EXTINF:-1,CinemaxEastUS_HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9412.ts
+#EXTINF:-1,CinemaxEastUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9413.ts
+#EXTINF:-1,CineLatinoSD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9414.ts
+#EXTINF:-1,CineDinamitaLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9415.ts
+#EXTINF:-1,CineCanalPrimeLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9416.ts
+#EXTINF:-1,CineCanalLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9417.ts
+#EXTINF:-1,ChillerUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9418.ts
+#EXTINF:-1,CDN37LA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9419.ts
+#EXTINF:-1,CDN2LA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9420.ts
+#EXTINF:-1,CBSNYUS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9421.ts
+#EXTINF:-1,CbeebiesLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9422.ts
+#EXTINF:-1,CBCVancover
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9423.ts
+#EXTINF:-1,CBCHD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9424.ts
+#EXTINF:-1,CartoonNetworkLASD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9425.ts
+#EXTINF:-1,Canal9CRLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9427.ts
+#EXTINF:-1,Canal5LA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9428.ts
+#EXTINF:-1,Canal4PanLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9429.ts
+#EXTINF:-1,Canal4ESALA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9430.ts
+#EXTINF:-1,Canal2PanLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9431.ts
+#EXTINF:-1,Canal22MXLA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9432.ts
+#EXTINF:-1,Canal21ESALA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9433.ts
+#EXTINF:-1,El Dia TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3733.ts
+#EXTINF:-1,: EL PINGUINO TV CANAL 4 PUNTA ARENAS
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/855.ts
+#EXTINF:-1,Euronews
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3704.ts
+#EXTINF:-1,Informacion TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3735.ts
+#EXTINF:-1,Marti TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3722.ts
+#EXTINF:-1,Martí
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3740.ts
+#EXTINF:-1,Mazatlan
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3741.ts
+#EXTINF:-1,Milenio Televisión
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3723.ts
+#EXTINF:-1,Mochis
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3743.ts
+#EXTINF:-1,RTV CE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3724.ts
+#EXTINF:-1,RT en español
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3712.ts
+#EXTINF:-1,TaTeTi
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3710.ts
+#EXTINF:-1,Teleantioquia
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3755.ts
+#EXTINF:-1,TecTV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3689.ts
+#EXTINF:-1,TPA
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3692.ts
+#EXTINF:-1,:VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/844.ts
+#EXTINF:-1,Virgin TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3765.ts
+#EXTINF:-1,******Total Play******
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/135.ts
+#EXTINF:-1,13TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3688.ts
+#EXTINF:-1,Yaqui
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/3730.ts
+#EXTINF:-1,Cbeebies LA St
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9602.ts
+#EXTINF:-1,Canal Orbe 21
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9594.ts
+#EXTINF:-1,Canal 5 HD TP
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9590.ts
+#EXTINF:-1,Canal 3 Culiacan
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9589.ts
+#EXTINF:-1,Canal 25
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9588.ts
+#EXTINF:-1,Canal 17 El Salvador
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9585.ts
+#EXTINF:-1,Canal 13 Nicaragua
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9584.ts
+#EXTINF:-1,Antena LA Sttina RD LA St
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8193.ts
+#EXTINF:-1,ANIMAL PLANET TP
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8192.ts
+#EXTINF:-1,ANIMAL PLANET SUR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8191.ts
+#EXTINF:-1,Animal Planet LA St
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8190.ts
+#EXTINF:-1,AMC TP
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8189.ts
+#EXTINF:-1,AMC SUR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8188.ts
+#EXTINF:-1,AMC LA St
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8187.ts
+#EXTINF:-1,AMC HD TP
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8186.ts
+#EXTINF:-1,AE LA Sttinoamerica HD St
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8185.ts
+#EXTINF:-1,A&E TP
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8184.ts
+#EXTINF:-1,A&E SUR
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8183.ts
+#EXTINF:-1,8 TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8182.ts
+#EXTINF:-1,7 TV RegiÃ³n de Murcia
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8181.ts
+#EXTINF:-1,7 HD TP
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8180.ts
+#EXTINF:-1,13 TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8179.ts
+#EXTINF:-1,****XXX****
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/1199.ts
+#EXTINF:-1,XXX: Smart-STB Adultos TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/937.ts
+#EXTINF:-1,XXX: Smart-STB 2 TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/938.ts
+#EXTINF:-1,BRAZZER TV XXX
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8171.ts
+#EXTINF:-1,EROTIC XXX
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8169.ts
+#EXTINF:-1,Sesto Senso
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11811.ts
+#EXTINF:-1,XXXX 9
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15041.ts
+#EXTINF:-1,XXXX 8
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15042.ts
+#EXTINF:-1,XXXX 7
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15043.ts
+#EXTINF:-1,XXXX 6
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15044.ts
+#EXTINF:-1,XXXX 5
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15045.ts
+#EXTINF:-1,XXXX 4
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15046.ts
+#EXTINF:-1,XXXX 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15047.ts
+#EXTINF:-1,XXXX 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15048.ts
+#EXTINF:-1,XXXX 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/15049.ts
+#EXTINF:-1,X: Satisfaction
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13939.ts
+#EXTINF:-1,X: Russian Night
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13940.ts
+#EXTINF:-1,X: RTL X
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13941.ts
+#EXTINF:-1,X: Redlight HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13942.ts
+#EXTINF:-1,X: Playboy TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13943.ts
+#EXTINF:-1,X: Play 19
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13944.ts
+#EXTINF:-1,X: PinkOTV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13945.ts
+#EXTINF:-1,X: Pink Erotic 5
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13946.ts
+#EXTINF:-1,X: Pink Erotic 4
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13947.ts
+#EXTINF:-1,X: Pink Erotic 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13948.ts
+#EXTINF:-1,X: Pink Erortic 3
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13949.ts
+#EXTINF:-1,X: Pink Erortic 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13950.ts
+#EXTINF:-1,X: Penthouse HD
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13951.ts
+#EXTINF:-1,X: PASSIE
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13952.ts
+#EXTINF:-1,X: Nubiles Casting
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13953.ts
+#EXTINF:-1,X: Nuart TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13954.ts
+#EXTINF:-1,X: Meiden Van Holland
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13955.ts
+#EXTINF:-1,X: Jasmin TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13956.ts
+#EXTINF:-1,X: Hustler TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/13957.ts
+#EXTINF:-1,PLAYBOY TV
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/11638.ts
+#EXTINF:-1,DORCEL XXX
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8170.ts
+#EXTINF:-1,ch chXXX 9
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10584.ts
+#EXTINF:-1,ch chXXX 7
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10585.ts
+#EXTINF:-1,ch chXXX 6
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10586.ts
+#EXTINF:-1,ch chXXX 4
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10587.ts
+#EXTINF:-1,ch chXXX 2
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10588.ts
+#EXTINF:-1,ch chXXX 1
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/10589.ts
+#EXTINF:-1,PRIVATETV XXX
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/8168.ts
+#EXTINF:-1,T XXX 9
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9315.ts
+#EXTINF:-1,T XXX 8
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9316.ts
+#EXTINF:-1,T XXX 7
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9317.ts
+#EXTINF:-1,T XXX 5
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9319.ts
+#EXTINF:-1,T XXX 4
+http://smartiptvspain.mine.nu:980/live/smartiptvspain/SMARTVESPAIS/9320.ts
 #EXTINF:-1,***** ITALIAN *****
 http://sutverduz.com:8080/live/clinecenter.com1/2711/1233.ts
 #EXTINF:-1,IT | RaiPremium
