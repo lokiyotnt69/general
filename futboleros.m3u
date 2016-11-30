@@ -7,6 +7,10 @@ plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/188
 plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1884.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SP C  Liga - SP C  Liga
 plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1878.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES: CANAL+ LIGA HD
+plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/197.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1,C+JHG FUTBOL
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1886.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,[COLOR yellow][I][B]----------------------------------------------------[/B][/I][/COLOR]
 #EXTINF:-1,BeinSport 1
 plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/1.ts&amp;streamtype=TSDOWNLOADER
@@ -28,8 +32,6 @@ plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYB
 plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/9.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,BeinSport 10
 plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/10.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,WWE Network HD
-plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/106.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,[COLOR red][I][B]------------------Deportes  ALEMANIA-----------------------------[/B][/I][/COLOR]
 #EXTINF:-1,DE: Sky Sport Austria
 plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/544.ts&amp;streamtype=TSDOWNLOADER
@@ -91,4 +93,40 @@ plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/
 plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/2017.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,DE: Sky Sport 9 HD
 plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/2018.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1,[COLOR red][I][B]----------------Deportes FRANCI--ITALIA-----------------------------[/B][/I][/COLOR]
+#EXTINF:-1,FR: Bein Sports HD 1
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/191.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Bein Sports HD 2
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/190.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: Bein Sport 3 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/1651.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: SFR Sport 1
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/558.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: SFR Sport 2
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/1790.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/184.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: SKY Sport 2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/181.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Sport 3
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/595.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/1852.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Sport 24
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/189.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Sky Moto GP
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/188.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Eurosport 2
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/1849.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Eurosport 1
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/1850.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT_Fox Sport
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/1845.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai Sport 2
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/6185.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai Sport 1
+plugin://plugin.video.f4mTester/?url=http://51.255.29.135:8000/live/smith/smith/6184.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1,[COLOR red][I][B]----------------Deportes -----------------------------[/B][/I][/COLOR]
 
