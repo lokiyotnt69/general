@@ -18,7 +18,7 @@ plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/182
 
 #EXTINF:-1,[COLOR red][I][B]----------------plus -----------------------------[/B][/I][/COLOR]
 #EXTINF:-1,plus
-plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3544.ts&amp;streamtype=TSDOWNLOADER&amp;name
+plugin://plugin.video.f4mTester/?url=http://fullblack.fullapple.me:8000/live/MANESP/MANESP/3544.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:-1,- - - ESPANA - - -
 http://fullblack.fullapple.me:8000/live/MANESP/MANESP/2750.ts
