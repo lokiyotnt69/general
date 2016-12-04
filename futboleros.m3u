@@ -16,9 +16,6 @@ plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/188
 plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1826.ts&amp;streamtype=TSDOWNLOADER
 
 
-#EXTINF:-1,[COLOR red][I][B]----------------plus -----------------------------[/B][/I][/COLOR]
-#EXTINF:-1,Bein 2
-plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1118.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Bein 3
-plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1119.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------[/B][/I][/COLOR]
+
 
