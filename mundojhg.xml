@@ -1,41 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>-[COLOR yellow] Lista paises[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoJHG/master/LISTASPAISES.xml</externallink>	
-</item>
 
 
 
 <item>
-<title>-[COLOR red] Lista ESPAÑA [/COLOR]</title>
+<title>-[COLOR red] ESPAÑA [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart>http://www.sitographics.com/enciclog/banderas/europa/image_2012/Espana.gif</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoJHG/master/listaespa%C3%B1a.xml</externallink>
 </item>
 
-
-<item>
-<title>-[COLOR yellow] Lista JHG+2 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoJHG/master/listajhg2.m3u</externallink>	
-</item>
-
-
-
-<item>
-<title>-[COLOR yellow] Lista Variada paises [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoJHG/master/listavariada1.m3u</externallink>	
-</item>
 
 
 
