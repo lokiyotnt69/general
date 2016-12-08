@@ -91,48 +91,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
- 
-<item>
-<title>-[COLOR yellow] LALIGA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.elandroidelibre.com/wp-content/uploads/2015/07/movistar-.jpg</thumbnail>
-<fanart>http://www.elandroidelibre.com/wp-content/uploads/2015/07/movistar-.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/futboleros.m3u</externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR pink]PELICULAS JHG[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://st-listas.20minutos.es/images/2012-12/350589/list_640px.jpg?1356060740</thumbnail>
-<fanart>http://cinehelvetico.com/img/cine.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Peliculas/master/peliculasJHG.xml</externallink>	
-</item> 	
-
-
-
-<item>
-<title>-[COLOR red] SERIES[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://cdn1.hendyla.com/archivos/imagenes/2015/09/13/publicacion-15a2daf00be5da869eae327bfb5fddb9f9d28571c7
-f6c2a5093988c7881b64c7-757_A.jpg</thumbnail>
-<fanart>http://kinirokay.com/wp-content/uploads/2016/01/Soy-adicto-a-una-serie.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
-</item> 	   
-
-
-
-<item>
-<title>-[COLOR yellow] Movistar Plus [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.adslzone.tv/app/uploads/2015/09/movistar_-_televisores_conectados.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/deportes.m3u</externallink>	
-</item>
-
-
-
-
 <item>
 <title>-[COLOR orange] MUNDO  [/COLOR]  [COLOR yellow] JHG[/COLOR] </title>
 <link>http://Ignoreme</link>
@@ -255,13 +213,4 @@ f6c2a5093988c7881b64c7-757_A.jpg</thumbnail>
 <externallink>https://github.com/lokiyotnt69/general/blob/master/listas10.m3u</externallink>	
 </item> 
 
-
-
-
-<item>
-<title>-[COLOR orange] 1[/COLOR]</title>
-<link>https://raw.githubusercontent.com/lokiyotnt69/MundoJHG/master/bombazo.m3u</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item> 
 
