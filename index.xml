@@ -116,7 +116,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] JHG  OFF [/COLOR]</title>
+<title>-[COLOR orange] JHG  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -127,22 +127,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR white]  [/COLOR]</title>
+<title>-[COLOR white] TecnoTv [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://tecnotv.co/images/Nueva%20Imagen%20Tecno.png</thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tecnotv.m3u</externallink>	
 </item>
 
 
 
 
 <item>
-<title>-[COLOR white]  [/COLOR]</title>
+<title>-[COLOR white] COLOMBIA  [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg</thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/COLOMBIA.m3u</externallink>	
 </item>
 
 
