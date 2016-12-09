@@ -91,61 +91,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR orange] MUNDO  [/COLOR]  [COLOR yellow] JHG[/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail>https://okdiario.com/img/2016/12/02/paises-mas-dotados-miembro-importa.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/mundojhg.xml</externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR red] Sagas  [/COLOR] [COLOR blue] Peliculas JHG[/COLOR]  [COLOR red] OFF[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://st-listas.20minutos.es/images/2013-11/372969/list_640px.jpg?1385681159</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
-</item>
-
-
-
-
-
-<item>
-<title>- [COLOR yellow] PELICULAS [/COLOR]  [COLOR green] JHG [/COLOR]    [COLOR orange] LATINO [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/variado.m3u</externallink>	
-</item>
-
-
-
-
-
-	   
-<item>
-<title>-[COLOR white] PEQUELANDIA[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://3.bp.blogspot.com/-09-mW8Egjh4/VmNkmQkkQCI/AAAAAAAAAK8/JJU7aFZH2r0/s1600-r/logo_pequelandia.png</thumbnail>
-<fanart>https://ocioparapeques.files.wordpress.com/2014/11/logo-con-marco-opp-1-e1415646950823.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarpequelandia.xml</externallink>	
-</item> 
-
-
-
-<item>
-<title>-[COLOR white] Peliculas Peques[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/peliculaspeques.xml</externallink>	
-</item> 
-
-
 
 
 <item>
@@ -158,14 +103,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR blue] FasePrueva [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/faseprueva1/master/faseprueva1.xml</externallink>	
-</item>
- 
 
 
 <item>
@@ -178,39 +115,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
 <item>
-<title>-[COLOR yellow]BEIN SPORTS[/COLOR]</title>
+<title>-[COLOR white]todoJHG   [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoJHG/master/BEINSPORTS.xml</externallink>	
-</item> 
+<externallink></externallink>	
+</item>
 
 
 
-
-
-
-<item>
-<title>-[COLOR orange] Listas Paises[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoJHG/master/LISTASPAISES.xml</externallink>	
-</item> 
-
-
-
-
-<item>
-<title>-[COLOR orange] Listas10 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://pbs.twimg.com/profile_images/1310512616/Logo_Bombazo.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://github.com/lokiyotnt69/general/blob/master/listas10.m3u</externallink>	
-</item> 
 
 
