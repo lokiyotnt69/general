@@ -116,11 +116,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR white]todo JHG   [/COLOR]</title>
+<title>-[COLOR orange] JHG  OFF [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/JHG.m3u</externallink>	
 </item>
 
 
