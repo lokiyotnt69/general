@@ -153,16 +153,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR yellow] COLOMBIA  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/COLOMBIA.m3u</externallink>	
-</item>
-
-
-
 
 <item>
 <title>-[COLOR green] CaNaLeS INFANTILES 1.0 [/COLOR]</title>
@@ -171,6 +161,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/canalcrios.m3u</externallink>	
 </item>
+
+
+
+<item>
+<title>-[COLOR blue] M+ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/lista1diablo.m3u</externallink>	
+</item>
+
 
 
 
@@ -184,4 +185,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+<item>
+<title>-[COLOR yellow] COLOMBIA  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/COLOMBIA.m3u</externallink>	
+</item>
 
