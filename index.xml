@@ -93,14 +93,30 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+
+
+
 <item>
 <title>-[COLOR white] TDT   [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/hinojosa.m3u</externallink>	
 </item>
 
+
+
+
+<item>
+<title>-[COLOR blue] TDT Nuevo [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tdtnuevo.m3u</externallink>	
+</item>
 
 
 
