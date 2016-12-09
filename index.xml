@@ -149,13 +149,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR green] CaNaLeS INNFANTILES 1.0 [/COLOR]</title>
+<title>-[COLOR green] CaNaLeS INFANTILES 1.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/canalcrios.m3u</externallink>	
 </item>
 
+
+
+<item>
+<title>-[COLOR green] CaNaLeS Deportes[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
 
 
 
