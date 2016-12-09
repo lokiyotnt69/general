@@ -1115,65 +1115,6 @@ http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
 http://streams.innova-systems.net/TVNCHILE/tracks-v1a1/index.m3u8
 
 
-#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== COLOMBIA ==[/COLOR][/B]
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Cable Noticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Canal Antiestres
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Canal U
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1175.png" group-title="COLOMBIA",Canal U OP2
-http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Canal Zoom
-http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Cantinazo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/200px-Citytv_logo.svg.png" group-title="COLOMBIA",Citytv
-http://premium.exabytetv.info/gc/CHOTP-1011000100011100010111010111000-ExabyteTV/1699/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3613.png" group-title="COLOMBIA",Cosmovision
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3563.png" group-title="COLOMBIA",El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Hogar TV
-http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Lifedesign
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Mi Musica HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/881.png" group-title="COLOMBIA",RCN Novelas**
-http://premium.exabytetv.info/HLSST/1493/1493-CHOTP-1011000100011100010111010111000-ExabyteTV.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/585162770435321856/KRBAHsHT.png" group-title="COLOMBIA",Señal Colombia
-http://premium.exabytetv.info/gc/CHOTP-1011000100011100010111010111000-ExabyteTV/1700/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/353.png" group-title="COLOMBIA",Teleamiga
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Teleantioquia
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Telecafe
-http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Telecaribe-Logo-300x300.jpg" group-title="COLOMBIA",Telecaribe
-http://premium.exabytetv.info/gc/CHOTP-1011000100011100010111010111000-ExabyteTV/1701/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Teleislas
-rtmp://vbox2.cehis.net:1935/live-teleislas/_definst_mp4:teleislas
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Telemedellin 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.telepacifico.com/wp-content/uploads/2016/04/LogoCuad-500-txtColor.png" group-title="COLOMBIA",Telepacifico
-http://premium.exabytetv.info/gc/CHOTP-1011000100011100010111010111000-ExabyteTV/309/exabytetv.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Tele Vida
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png" group-title="COLOMBIA",Trendy Musica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",TV Agro
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",UNE TV Caribe
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="COLOMBIA",UNE TV Manizales
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/win_sports_co.png" group-title="COLOMBIA",Win Sports
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
-
 
 #EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== REPÚBLICA DOMINICANA ==[/COLOR][/B]
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -1456,6 +1397,99 @@ http://70.36.100.38:1935/live/_definst_/canal13_lq.stream/playlist.m3u8
 http://67.159.60.37:1935/paraguaytv/paraguaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="" group-title="PARAGUAY",Telefuturo
 http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,--------------SPAIN-----------------
+http://evolive-tv.com:8000/live/brtest/brtest/343.ts
+#EXTINF:-1,SP-TNT
+http://evolive-tv.com:8000/live/brtest/brtest/268.ts
+#EXTINF:-1,SP-Syfy
+http://evolive-tv.com:8000/live/brtest/brtest/270.ts
+#EXTINF:-1,SP-National Geographic Wild HD
+http://evolive-tv.com:8000/live/brtest/brtest/287.ts
+#EXTINF:-1,SP-National Geographic
+http://evolive-tv.com:8000/live/brtest/brtest/286.ts
+#EXTINF:-1,SP-FOX
+http://evolive-tv.com:8000/live/brtest/brtest/266.ts
+#EXTINF:-1,SP-Disney XD
+http://evolive-tv.com:8000/live/brtest/brtest/280.ts
+#EXTINF:-1,SP-Disney Junior
+http://evolive-tv.com:8000/live/brtest/brtest/281.ts
+#EXTINF:-1,SP-Disney Channel
+http://evolive-tv.com:8000/live/brtest/brtest/279.ts
+#EXTINF:-1,EP: Canal+ Accion
+http://evolive-tv.com:8000/live/brtest/brtest/188.ts
+#EXTINF:-1,SP-Canal+ Comedia
+http://evolive-tv.com:8000/live/brtest/brtest/165.ts
+#EXTINF:-1,SP-Canal+ DCine
+http://evolive-tv.com:8000/live/brtest/brtest/164.ts
+#EXTINF:-1,SP-Canal+ Series HD
+http://evolive-tv.com:8000/live/brtest/brtest/264.ts
+#EXTINF:-1,SP-Canal+ Liga HD
+http://evolive-tv.com:8000/live/brtest/brtest/274.ts
+#EXTINF:-1,SP-Canal+ Estrenos
+http://evolive-tv.com:8000/live/brtest/brtest/263.ts
+#EXTINF:-1,SP-Canal+ Deportes HD
+http://evolive-tv.com:8000/live/brtest/brtest/163.ts
+#EXTINF:-1,SP-Canal+ Futbol HD
+http://evolive-tv.com:8000/live/brtest/brtest/162.ts
+#EXTINF:-1,SP- Real Madrid TV
+http://evolive-tv.com:8000/live/brtest/brtest/278.ts
+#EXTINF:-1,SP-Barca TV
+http://evolive-tv.com:8000/live/brtest/brtest/277.ts
+#EXTINF:-1,SP-ARENA SPORT 1
+http://evolive-tv.com:8000/live/brtest/brtest/157.ts
+#EXTINF:-1,SP-ARENA SPORT 2
+http://evolive-tv.com:8000/live/brtest/brtest/158.ts
+#EXTINF:-1,SP-ARENA SPORT 3
+http://evolive-tv.com:8000/live/brtest/brtest/159.ts
+#EXTINF:-1,SP-ARENA SPORT 4
+http://evolive-tv.com:8000/live/brtest/brtest/160.ts
+#EXTINF:-1,SP-ARENA SPORT 5
+http://evolive-tv.com:8000/live/brtest/brtest/161.ts
+#EXTINF:-1,? ? ? ? ? PORTUGUES? ? ? ? ?
+http://evolive-tv.com:8000/live/brtest/brtest/344.ts
+#EXTINF:-1,PT: TVCine 4 HD
+http://evolive-tv.com:8000/live/brtest/brtest/303.ts
+#EXTINF:-1,PT: TVCine 3 HD
+http://evolive-tv.com:8000/live/brtest/brtest/302.ts
+#EXTINF:-1,PT: TVCine 2 HD
+http://evolive-tv.com:8000/live/brtest/brtest/301.ts
+#EXTINF:-1,PT: TVCine 1 HD
+http://evolive-tv.com:8000/live/brtest/brtest/300.ts
+#EXTINF:-1,PT: TV Globo Premium
+http://evolive-tv.com:8000/live/brtest/brtest/290.ts
+#EXTINF:-1,PT: TV Globo
+http://evolive-tv.com:8000/live/brtest/brtest/289.ts
+#EXTINF:-1,PT: SyFu
+http://evolive-tv.com:8000/live/brtest/brtest/288.ts
+#EXTINF:-1,PT: SportTV 5
+http://evolive-tv.com:8000/live/brtest/brtest/295.ts
+#EXTINF:-1,PT: SportTV 4
+http://evolive-tv.com:8000/live/brtest/brtest/294.ts
+#EXTINF:-1,PT: SportTV 3
+http://evolive-tv.com:8000/live/brtest/brtest/293.ts
+#EXTINF:-1,PT: SportTV 2
+http://evolive-tv.com:8000/live/brtest/brtest/292.ts
+#EXTINF:-1,PT: SportTV 1
+http://evolive-tv.com:8000/live/brtest/brtest/291.ts
+#EXTINF:-1,PT: SIC
+http://evolive-tv.com:8000/live/brtest/brtest/298.ts
+#EXTINF:-1,PT: RTP 3
+http://evolive-tv.com:8000/live/brtest/brtest/299.ts
+#EXTINF:-1,PT: Benfica TV 1 Full HD
+http://evolive-tv.com:8000/live/brtest/brtest/296.ts
+#EXTINF:-1,SYFY_DE
+http://evolive-tv.com:8000/live/brtest/brtest/175.ts
+#EXTINF:-1,IT-RAI SPORT 1
+http://evolive-tv.com:8000/live/brtest/brtest/285.ts
+#EXTINF:-1,SP-Canal+ TOROS HD
+http://evolive-tv.com:8000/live/brtest/brtest/267.ts
+#EXTINF:-1,SP-Canal+
+http://evolive-tv.com:8000/live/brtest/brtest/166.ts
+#EXTINF:-1,SP-Canal+ ACCION HD
+http://evolive-tv.com:8000/live/brtest/brtest/265.ts
+#EXTINF:-1,SP-Canal+ Liga 2 HD
+http://evolive-tv.com:8000/live/brtest/brtest/275.ts
 
 
 
