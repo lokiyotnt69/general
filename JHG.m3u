@@ -1,433 +1,1427 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,***HasBahCa IPTV*** INGILIZCE - ENGLISH***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,4 Music
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22
-#EXTINF:-1,4 Seven
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13
-#EXTINF:-1,4 Seven Link 2
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47
-#EXTINF:-1,5 Star
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24
-#EXTINF:-1,5 USA
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
-#EXTINF:-1,Amazing Facts TV
-http://bglive-w.bitgravity.com/amazingfacts/live/feed01
-#EXTINF:-1,BBC 1
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0
-#EXTINF:-1,BBC 1 Link 2
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41
-#EXTINF:-1,BBC 2
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1
-#EXTINF:-1,BBC News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
-#EXTINF:-1,BBC News Link 2
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51
-#EXTINF:-1,BBC WORLD NEWS
-http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
-#EXTINF:-1,CBS Action
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
-#EXTINF:-1,CBS Reality
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
-#EXTINF:-1,Channel 4 +1
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
-#EXTINF:-1,Channel 4 +1 Link 2
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54
-#EXTINF:-1,Channel 4 Link 2
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44
-#EXTINF:-1,Channel 5
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
-#EXTINF:-1,Channel 5 +1
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55
-#EXTINF:-1,cnn m3u8
-http://pebbles105-lh.akamaihd.net/i/cnn_1@97501/master.m3u8
-#EXTINF:-1,DAIL EIREANN rtsp
-rtsp://wms.servers.heanet.ie/Dail
-#EXTINF:-1,Dave
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11
-#EXTINF:-1,Dave Ja Vu
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=60
-#EXTINF:-1,Drama
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19
-#EXTINF:-1,E4
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16
-#EXTINF:-1,Film Four
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14
-#EXTINF:-1,Film Four +1
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58
-#EXTINF:-1,Florida-CarolCablesTV mms
-mms://207.7.154.95/G0937_002?wmcache=0
-#EXTINF:-1,Food Network
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32
-#EXTINF:-1,Horror Channel
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29
-#EXTINF:-1,ITV 1
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
-#EXTINF:-1,ITV 3
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
-#EXTINF:-1,ITV 4
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
-#EXTINF:-1,ITV Be
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
-#EXTINF:-1,JCTV
-http://nstream.trinetsolutions.com/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx
-#EXTINF:-1,JCTV Music, Mobile, Music Blender, Others US
-http://www.jctv.org/watchlive/jc-tv200.asx
-#EXTINF:-1,Knob Ch1 mms
-mms://streams.tvknob.com/tvloops/Ch1/tvknob.wsx
-#EXTINF:-1,More 4
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15
-#EXTINF:-1,Motors TV
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31
-#EXTINF:-1,MovieMix
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=30
-#EXTINF:-1,Movies4Men
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=33
-#EXTINF:-1,Pick TV
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=10
-#EXTINF:-1,Quest
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=17
-#EXTINF:-1,Quest +1
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=62
-#EXTINF:-1,Really
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=21
-#EXTINF:-1,RTE One
-http://212.250.46.35:4252/bysid/9601
-#EXTINF:-1,RTE2
-http://212.250.46.35:4252/bysid/9602
-#EXTINF:-1,RTEjr
-http://212.250.46.35:4252/bysid/9606
-#EXTINF:-1,Sky ARTRS 2
-http://188.227.189.18:8082/TV4250
-#EXTINF:-1,Sky Movies Action & Adventure
-http://188.227.189.18:8082/TV4245
-#EXTINF:-1,Sky Movies Comedy
-http://188.227.189.18:8082/TV4246
-#EXTINF:-1,Sky Movies Disney
-http://188.227.189.18:8082/TV4247
-#EXTINF:-1,Sky Movies Family
-http://188.227.189.18:8082/TV4248
-#EXTINF:-1,Sky Movies Premiere
-http://188.227.189.18:8082/TV4251
-#EXTINF:-1,Sky Movies Premiere+
-http://188.227.189.18:8082/TV4252
-#EXTINF:-1,Sky Movies SciFi
-http://188.227.189.18:8082/TV4249
-#EXTINF:-1,Sky Sky Movies Select
-http://188.227.189.18:8082/TV4254
-#EXTINF:-1,Spike UK
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=26
-#EXTINF:-1,TG4
-http://212.250.46.35:4252/bysid/9603
-#EXTINF:-1,The Florida Channel
-rtmp://webcasting.thefloridachannel.org/live/tvweb1
-#EXTINF:-1,True Entertainment
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=20
-#EXTINF:-1,TruTV UK
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=34
-#EXTINF:-1,TV3
-http://212.250.46.35:4252/bysid/9605
-#EXTINF:-1,University of California TV
-rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
-#EXTINF:-1,Yesterday
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=12
-#EXTINF:-1,***HasBahCa IPTV***ABD - USA ***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1,BLOMBERG
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bloomberg/ls_satlink/b_828.m3u8
-#EXTINF:-1,Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-#EXTINF:-1,CarolCablesTV (Florida) mmsh
-mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
-#EXTINF:-1,Cartoon (RU/EN Audio)
-http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
-#EXTINF:-1,Channel 6 - City of Austin
-rtmp://oflash.dfw.swagit.com/live/austintx/live-1?b?b*t$
-#EXTINF:-1,CNBC
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:-1,CNN International
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-#EXTINF:-1,CNN USA
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1,[COLOR red][I][B]-----------------USA------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,GET TV
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2813.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ANTENNA TV
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2812.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESCAPE
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2811.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ABC EAST
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/948.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ABC WEST
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2492.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NB
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2493.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBC EAST
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/938.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS EAST
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/947.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CW HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1528.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX 43 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/852.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ABC SPARK
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2636.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/847.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/936.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ABC FAMILY HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/828.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2231.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BOUNCE TV
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2483.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BRAVO HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/941.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BRAVO_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2633.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORTS HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2779.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BET_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2635.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BET HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2443.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BLOOMBERG HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2441.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BNN
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2634.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/827.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CARTOON NETWORK_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2632.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBC TORONTO
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2631.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS SPORTS HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2404.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CHCH HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1798.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1391.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CINEMAX ACTIONMAX
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2740.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CINEMAX 5STARMAX
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2741.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CINEMAX MOREMAX
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/843.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,C&I HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2416.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CITY HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2259.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CTV HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2233.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CMT
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2628.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS NEWS
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/770.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CNBC HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2190.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CNN HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/783.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CNN INTL HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2315.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,COMET TV
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2206.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,COMEDY GOLD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2630.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,COTTAGE LIFE
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2629.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1393.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,COOKING CHANNEL
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2251.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,DISCOVERY HD
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
-#EXTINF:-1,FILM ZONE HD (US)
-http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
-#EXTINF:-1,Fox 1 HD (US)
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
-#EXTINF:-1,Fox Action (US)
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
-#EXTINF:-1,FOX CINEMA (US)
-http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
-#EXTINF:-1,FOX CLASSICS (US)
-http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
-#EXTINF:-1,Fox Family (US)
-http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
-#EXTINF:-1,FOX MOVIES HD (US)
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-#EXTINF:-1,FOX MOVIES HD (US)
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
-#EXTINF:-1,GMU TV (Virginia) mms
-mms://media.mesa.gmu.edu/capconwhite1
-#EXTINF:-1,NASA
-http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
-#EXTINF:-1,News 12 Long Island(Stream 1)
-rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
-#EXTINF:-1,News Bronx(Stream 1)
-rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
-#EXTINF:-1,News Bronx(Weather)
-rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
-#EXTINF:-1,News Brooklyn(Stream 1)
-rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
-#EXTINF:-1,News Brooklyn(Weather)
-rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
-#EXTINF:-1,News Connecticut(Stream 1)
-rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
-#EXTINF:-1,News Connecticut(Weather)
-rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
-#EXTINF:-1,News Hudson Valley(Stream 1)
-rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
-#EXTINF:-1,News Hudson Valley(Weather)
-rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
-#EXTINF:-1,News Long Island(Stream 2)
-rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
-#EXTINF:-1,News Long Island(Weather)
-rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
-#EXTINF:-1,News New Jersey(Stream 1)
-rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
-#EXTINF:-1,News New Jersey(Weather)
-rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
-#EXTINF:-1,News Westchester(Stream 1)
-rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
-#EXTINF:-1,News Westchester(Weather from Hudson Valley)
-rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
-#EXTINF:-1,PAC National 1280*720
-http://xrxs.net/video/live-p12netw-2328.m3u8
-#EXTINF:-1,PAC National 640*360
-http://xrxs.net/video/live-p12netw-1164.m3u8
-#EXTINF:-1,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-#EXTINF:-1,RT Documentary HD
-http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
-#EXTINF:-1,SPORTES 7 HD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1,The Florida Channel
-rtmp://webcasting.thefloridachannel.org/live/tvweb1
-#EXTINF:-1,University of California TV
-rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
-#EXTINF:-1,USA Live TV Big Ten Network
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/833.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/834.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DIY NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1392.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DEJA VIEW
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2627.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1265.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,E! HD_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2626.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/919.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/918.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN 3
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2835.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPNEWS HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2763.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPNU
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1534.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN DEPORTES
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2777.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EVASION
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2625.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FAMILY CHRGD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2778.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/934.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/933.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FS1_ASIA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2776.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FS2_ASIA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2775.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FS3_ASIA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2774.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX NEWS HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2188.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1786.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/848.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FXX HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1800.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FYI
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2622.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,G4
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2621.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GRIT
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2488.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GSN
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2619.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GLOBAL EDMONTON
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2420.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HALLMARK HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/940.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2639.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO 2_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2640.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/845.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2228.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO ZONE HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2742.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HGTV HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/836.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HIFI HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1533.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HISTORY HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2230.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HLN HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2421.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ID HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1552.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IFC HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2465.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ION HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2484.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,JUCETV
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/801.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LIFETIME HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/939.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ME TV
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2398.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MOVIETIME
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2617.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/935.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2616.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MUCH MUSIC
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2615.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MLB NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/921.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NFL NETWORK
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/916.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NFL REDZONE
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2409.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBC SPORTS
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/914.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBC GOLF
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/913.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBA TV HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/920.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBA TV_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2758.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NHL NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1530.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NICK HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/830.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NICK_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2614.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1554.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NAT GEO WILD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1799.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OWN HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/849.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OWN _CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2724.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PBS KIDS
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2418.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,POKER CENTRAL
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/900.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PAC 12 WASHINGTON
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/910.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PAC 12 OREGON
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/909.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PAC 12 NATIONAL
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/912.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PAC 12 MOUNTAIN
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/908.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PAC 12 LOS ANGELES
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/907.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PAC 12 BAY AREA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/906.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PAC 12 ARIZONA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/911.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PEACHTREE
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2611.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SHOWTIME HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/844.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SHOWTIME SHOWCASE HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2743.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,STARZ HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2257.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,STARZ EDGE HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2316.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,STARZ ENCORE
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2744.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SLICE HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2406.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPIKE HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/846.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPIKE_CA
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2609.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SILVER SCREEN CLASSICS
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2610.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1547.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SUNDANCE HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2464.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTSNET WORLD HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2807.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTSNET ONTARIO HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1565.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTSNET ONE HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1564.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTSNET 360 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1562.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTSNET PACIFIC HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1563.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTSNET EAST HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1797.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TREEHOUSE
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2607.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TELETOON
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2608.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/835.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TRAVEL+ESCAPE
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2494.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/853.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2253.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TRU TV HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/851.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TSN 1 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/932.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TSN 2 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/931.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TSN 3 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/930.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TSN 4 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/929.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TSN 5 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/928.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV LAND HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2403.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2258.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TELEMUNDO HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2264.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UNIMAS
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2753.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/937.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,UNIVERSAL HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2226.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VICELAND HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2411.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/850.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VELOCITY HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/1793.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VRACK TV
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2606.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,WETV HD
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2477.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,W NETWORK
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/2605.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,WWE NETWORK
+plugin://plugin.video.f4mTester/?url=http://mancaveiptv.biz:8000/live/pet/pet/917.ts&amp;streamtype=TSDOWNLOADER
 
-#EXTINF:-1,***HasBahCa IPTV***SPOR_INT_SPORTS***
-http://www.hasbahcaiptv.com/m3u/turkiye.mp4
-#EXTINF:-1,ALB SS 1
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1,ALB SS 2
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1,ALB SS 3
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,ARABIC ABU DHABI SPORT 1
-http://46.101.9.226/60/ch1312/index.m3u8
-#EXTINF:-1,ARABIC Iraqiya Sport
-http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
-#EXTINF:-1,ARABIC KTV Sport Extra
-rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
-#EXTINF:-1,ARABIC NILE SPORT
-http://46.101.9.226/60/ch1225/index.m3u8
-#EXTINF:-1,ARABIC PRO SPORT 1
-http://46.101.9.226/60/ch1316/index.m3u8
-#EXTINF:-1,ARABIC PRO SPORTS 3
-http://46.101.9.226/60/ch1071/index.m3u8
-#EXTINF:-1,ARABIC PRO SPORTS 4
-http://46.101.9.226/60/ch1089/index.m3u8
-#EXTINF:-1,ARABIC SaudiSport
-http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ARABIC Sport TV
-rtmp://stream2.joinvisions.net/jorlive/s1
-#EXTINF:-1,BeIN Sports 1 HD
-http://195.154.227.38:1935/live/bein1frlsh/HasBahCa.m3u8
-#EXTINF:-1,BeIN Sports 1 HD English
-http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8
-#EXTINF:-1,BeIN Sports 1 HD Spanish
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
-#EXTINF:-1,BeIN Sports 2 HD
-http://195.154.227.38:1935/live/bein2frlsh/HasBahCa.m3u8
-#EXTINF:-1,BT Sport 1
-http://195.154.227.38:1935/live/btsports1lsh/HasBahCa.m3u8
-#EXTINF:-1,BT Sport 2
-http://195.154.227.38:1935/live/btsports2lsh/HasBahCa.m3u8
-#EXTINF:-1,ESPN UK
-http://195.154.227.38:1935/live/espnuklsh/HasBahCa.m3u8
-#EXTINF:-1,Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Fish TV
-rtmp://199.59.88.39/cam4-cr107/89
-#EXTINF:-1,Fox Sports 2 México HD 1080
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
-#EXTINF:-1,Fox Sports 2 México SD 16:9
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
-#EXTINF:-1,Fox Sports ar
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:-1,Fox Sports México HD 1080
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?
-#EXTINF:-1,Fox Sports México SD 16:9
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1,Fox Sports U.S.A HD 720
-http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
-#EXTINF:-1,FRANCE:TVA Sport
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
-#EXTINF:-1,HMX
-http://200.76.77.237/LIVE/H01/CANAL169/PROFILE03.m3u8?=-1
-#EXTINF:-1,ITALIA:RAI SPORT 1
-http://212.162.68.163:80/raisport+
-#EXTINF:-1,KAZSPORT
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-#EXTINF:-1,Kuwait Sports
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b528000.m3u8
-#EXTINF:-1,Motorsport 7 Channel Australia
-http://motorsport.hopto.org:8080/
-#EXTINF:-1,POLSKI:Nova Sport
-http://212.79.96.134:8023/
-#EXTINF:-1,POLSKI:polsat sport
-http://95.215.233.11:4022/udp/239.255.2.8:1234
-#EXTINF:-1,POLSKI:Sport Poland
-http://212.79.96.134:8014/
-#EXTINF:-1,POLSKI:TVP Sport rtmp
-rtmp://Lrmh0w.cloud.influxis.com/yoy/_definst_/193
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8
-#EXTINF:-1,RUS 1 Football HD
-http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
-#EXTINF:-1,RUS auto_plus
-http://3.hls.bolshoe.tv/1/streaming/auto_plus/tvrec/playlist.m3u8
-#EXTINF:-1,RUS eurosport
-http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
-#EXTINF:-1,RUS eurosport2
-http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
-#EXTINF:-1,RUS Football 2 HD
-http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
-#EXTINF:-1,RUS Football 3 HD
-http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
-#EXTINF:-1,RUS futbol
-http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:-1,RUS ntvsport
-http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
-#EXTINF:-1,RUS Our Football HD
-http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
-#EXTINF:-1,RUS rtr sport
-http://92.50.181.6/tv/1114/index.m3u8
-#EXTINF:-1,RUS sport
-http://3.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-#EXTINF:-1,RUS sport 1
-http://92.50.181.6/tv/1115/index.m3u8
-#EXTINF:-1,RUS sport2
-http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-#EXTINF:-1,RUS viasat_sport
-http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:-1,Saudi Sports
-http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,SKY SPORT 1
-http://pappuyartangnakar.ddns.net:8080/spTt10NEKe/sp0KiRT1eK/index.m3u8
-#EXTINF:-1,SKY SPORT 2
-http://pappuyartangnakar.ddns.net:8080/spoRjjj2Rr2/NSsp2Two/index.m3u8
-#EXTINF:-1,SKY SPORT 3
-http://pappuyartangnakar.ddns.net:8080/spRTEs3/sprT3RKe/index.m3u8
-#EXTINF:-1,SKY SPORT 4
-http://pappuyartangnakar.ddns.net:8080/sp4T/sp4RtkkW/index.m3u8
-#EXTINF:-1,SKY SPORT 5
-http://pappuyartangnakar.ddns.net:8080/sTpRg5/spF5PkeY/index.m3u8
-#EXTINF:-1,Sky Sports 1
-http://195.154.227.38:1935/live/skysports1lsh/HasBahCa.m3u8
-#EXTINF:-1,Sky Sports 2
-http://195.154.227.38:1935/live/skysports2lsh/HasBahCa.m3u8
-#EXTINF:-1,Sky Sports 3
-http://195.154.227.38:1935/live/skysports3lsh/HasBahCa.m3u8
-#EXTINF:-1,Sky Sports 4
-http://195.154.227.38:1935/live/skysports4lsh/HasBahCa.m3u8
-#EXTINF:-1,Sky Sports 5
-http://195.154.227.38:1935/live/skysports5lsh/HasBahCa.m3u8
-#EXTINF:-1,SN360
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:-1,Sport Time TV 1
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1,SPORT TIME TV 2
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:-1,Sport Time TV 3
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
-#EXTINF:-1,Sport Time TV 4
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
-#EXTINF:-1,Sport Time TV 5
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
-#EXTINF:-1,Sport Time TV 6
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
-#EXTINF:-1,Sports Night
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
-#EXTINF:-1,Sports Tonight UK
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001
-#EXTINF:-1,STAR SPORTS
-http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd-1096k.m3u8
-#EXTINF:-1,TURK:A SPOR m3u8
-http://hls.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
-#EXTINF:-1,TURK:a SPOR m3u8
-http://rtmp.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
-#EXTINF:-1,TURK:A Spor m3u8 ailetv
-http://edge.ailetv.net/org18/aspor_me/playlist.m3u8
-#EXTINF:-1,TURK:A SPOR m3u8 origin.live 640*360
-http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
-#EXTINF:-1,TURK:BURSASPOR TV  rtmp 720*576
-rtmp://stream.yayindayiz.biz:80/Bursaspor/bursaspor
-#EXTINF:-1,TURK:BURSASPOR TV m3u8
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/HasBahCa.m3u8
-#EXTINF:-1,TURK:NTV Spor m3u8 ailetv
-http://edge.ailetv.net/org8/ntvspor_me/playlist.m3u8
-#EXTINF:-1,TURK:NTV SPOR m3u8 origin.live 640*360
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1,TURK:SPORTS TV m3u8
-http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-#EXTINF:-1,TURK:Sports TV m3u8 ailetv
-http://edge.ailetv.net/org10/sportstv_me/playlist.m3u8
-#EXTINF:-1,TURK:SPORTS TV m3u8 origin.live 640*360
-http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-#EXTINF:-1,TURK:TRT 3 SPOR
-http://stream6.dyndns.tv:8888/live?channelId=187&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
-#EXTINF:-1,TURK:TRT Spor m3u8 ailetv
-http://edge.ailetv.net/org6/trtspor_me/playlist.m3u8
-#EXTINF:-1,TURK:TRT Sport
-http://sangajstream.dyndns.biz:80/live?channelId=183&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
-#EXTINF:-1,USA:SPORTES 5 HD
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,USA:SPORTES 6 HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,USA-PAC 12 Bay Area (HD)
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1,USA-Pac 12 Bay Area 720 HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1,USA-PAC 12 Oregon (HD)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,US: ABC HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27373.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: ABC NEWS HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27372.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: AETV HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27371.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: AMC HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27370.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: ANIMAL PLANET HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27369.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: Bravo HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27368.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: BRAVO HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27367.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: CBS HD USA *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27366.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: CBS HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27365.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: CINEMAX EAST HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27389.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: Cinemax Moremax HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27388.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: CN HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27364.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: CNBC HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27363.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: CNN HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27361.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: COMCEN HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27360.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: Cspan 3 *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27359.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: CW HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27358.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: CW HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27357.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: DISCOVERY HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27356.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: Discovery Science HD (L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27417.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: DIY Network HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27355.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: ESPN 1 HD  *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27362.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: ESPN HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27354.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: FOX HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27353.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: FOX NEWS HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27352.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: FX HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27351.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: HISTORY HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27350.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: LIFETIME HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27349.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: MY9 HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27348.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: NAT GEO HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27347.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: NBC HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27346.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: NICK HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27345.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: PBS HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27344.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: PBS HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27343.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: Showtime Next HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27342.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: SPIKE HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27341.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: Starz Edge HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27390.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: SYFY HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27340.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: TBS HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27339.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: TNT HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27338.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: USA HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27337.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,US: USA NETWORK HD(L)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27336.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA :HISTORY CH
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27415.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA:  CBS HD-(US)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27406.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: ABC NEWS HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27413.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: BeIN Sports US HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27377.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: BLOOMBERG
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27407.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: C-SPAN 1 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27411.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: C-SPAN 2 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27410.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: C-SPAN 3 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27409.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: Discovery ID Xtra US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27394.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: DTX-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27380.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: Duke HD-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27384.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: E! ENTERTAINMENT-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27401.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: ESPN 2 HD-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27396.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: ESPN SPORTS 1 HD-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27397.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: FXX FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27374.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: H.S.N TV-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27395.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: HBO 2-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27385.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: HBO COMEDY-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27383.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: HBO FAMILY EAST-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27402.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: HBO HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27375.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: HBO HD-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27382.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: HBO ZONE-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27392.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: History HD US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27424.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: HISTORY-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27400.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: K-T-L-A 5 HD (USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27379.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: Max East HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27425.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: MAX EAST-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27403.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: MAX US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27408.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: Max West HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27427.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: MSNBC (USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27416.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: NDTV-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27391.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: POKER CENTRAL-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27404.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: RT America HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27423.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: SHOWTIME HD-US(ppv sports)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27381.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: Showtime Showcase HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27422.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: Spike HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27421.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: STARS EDGE-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27387.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: STARS KIDS & FAMILY-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27393.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: SYFY HD US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27420.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: TBN HD (USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27405.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: TBS HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27419.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: TBS HD-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27386.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: THE MOVIES CHANNEL-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27399.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: THE MOVIES WEST-US
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27398.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: TNT HD (USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27412.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: USA Network HD *(USA)
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27418.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA:FLORIDA HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27414.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTSNET
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/65.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NFL NETWORK
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1704.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,WWE TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13133.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBC GOLF NETWORK
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1705.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FIGHT SPORTS HD USA
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13116.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBA NETWORK
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1706.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17080.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT USA
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/634.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 1
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27307.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 10
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27316.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 11
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27317.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 12
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27318.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 13
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27319.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 14
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27320.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 15
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27321.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 16
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27322.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27308.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 3
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27309.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 4
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27310.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 5
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27311.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 6
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27312.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 7
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27313.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 8
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27314.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: MLB GAME PASS HD MATCH 9
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27315.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 1
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27280.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 10
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27289.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 11
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27290.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 12
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27291.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27281.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 3
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27282.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 4
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27283.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 5
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27284.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 6
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27285.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 7
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27286.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 8
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27287.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL GAME PASS HD MATCH 9
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27288.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL Sunday Ticket 1 LIVE
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27270.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL Sunday Ticket 10 LIVE
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27279.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL Sunday Ticket 2 LIVE
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27271.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL Sunday Ticket 3 LIVE
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27272.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL Sunday Ticket 4 LIVE
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27273.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL Sunday Ticket 5 LIVE
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27274.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL Sunday Ticket 6 LIVE
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27275.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL Sunday Ticket 7 LIVE
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27276.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL Sunday Ticket 8 LIVE
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27277.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL Sunday Ticket 9 LIVE
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27278.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL SUNDAY TICKET HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27295.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL SUNDAY TICKET MATCH 1
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27292.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL SUNDAY TICKET MATCH 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27293.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NFL SUNDAY TICKET MATCH 3
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27294.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NFL LIVE 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27299.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NFL LIVE FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27297.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NFL LIVE FULL HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27296.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NFL LIVE HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27298.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NFL REDZONE HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27301.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NFL SUNDAY TICKET
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27300.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 1 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27323.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 10 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27332.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 11 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27333.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 12 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27334.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 13 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27335.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 2 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27324.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 3 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27325.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 4 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27326.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 5 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27327.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 6 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27328.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 7 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27329.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 8 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27330.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,*VIP*: NHL CENTER ICE 9 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27331.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,A&E
+http://5.226.137.176:9090/load/free123/2.mpegts
+#EXTINF:-1,ABC
+http://5.226.137.176:9090/load/free123/3.mpegts
+#EXTINF:-1,AMC
+http://5.226.137.176:9090/load/free123/4.mpegts
+#EXTINF:-1,Animal Planet US
+http://5.226.137.176:9090/load/free123/27.mpegts
+#EXTINF:-1,Cinemas EAST
+http://5.226.137.176:9090/load/free123/18.mpegts
+#EXTINF:-1,Cinemax 5Stars
+http://5.226.137.176:9090/load/free123/21.mpegts
+#EXTINF:-1,Cinemax ActionMax
+http://5.226.137.176:9090/load/free123/20.mpegts
+#EXTINF:-1,CNN US
+http://5.226.137.176:9090/load/free123/16.mpegts
+#EXTINF:-1,Comedy Central US
+http://5.226.137.176:9090/load/free123/14.mpegts
+#EXTINF:-1,Discovery Channel US
+http://5.226.137.176:9090/load/free123/49.mpegts
+#EXTINF:-1,E!
+http://5.226.137.176:9090/load/free123/5.mpegts
+#EXTINF:-1,ESPN
+http://5.226.137.176:9090/load/free123/30.mpegts
+#EXTINF:-1,ESPN2
+http://5.226.137.176:9090/load/free123/31.mpegts
+#EXTINF:-1,FOX
+http://5.226.137.176:9090/load/free123/6.mpegts
+#EXTINF:-1,Fox Sports1
+http://5.226.137.176:9090/load/free123/32.mpegts
+#EXTINF:-1,Fox Sports2
+http://5.226.137.176:9090/load/free123/33.mpegts
+#EXTINF:-1,FX
+http://5.226.137.176:9090/load/free123/7.mpegts
+#EXTINF:-1,H2 US
+http://5.226.137.176:9090/load/free123/25.mpegts
+#EXTINF:-1,HallMark
+http://5.226.137.176:9090/load/free123/9.mpegts
+#EXTINF:-1,HBO Comedy
+http://5.226.137.176:9090/load/free123/53.mpegts
+#EXTINF:-1,HBO EAST
+http://5.226.137.176:9090/load/free123/17.mpegts
+#EXTINF:-1,HBO Family
+http://5.226.137.176:9090/load/free123/52.mpegts
+#EXTINF:-1,HBO Signature
+http://5.226.137.176:9090/load/free123/51.mpegts
+#EXTINF:-1,HBO ZONE
+http://5.226.137.176:9090/load/free123/50.mpegts
+#EXTINF:-1,HGTV
+http://5.226.137.176:9090/load/free123/29.mpegts
+#EXTINF:-1,History US
+http://5.226.137.176:9090/load/free123/24.mpegts
+#EXTINF:-1,Investigation Discovery US
+http://5.226.137.176:9090/load/free123/28.mpegts
+#EXTINF:-1,Lifetime US
+http://5.226.137.176:9090/load/free123/15.mpegts
+#EXTINF:-1,LMN
+http://5.226.137.176:9090/load/free123/8.mpegts
+#EXTINF:-1,NatGeo Wild US
+http://5.226.137.176:9090/load/free123/48.mpegts
+#EXTINF:-1,National Geographic US
+http://5.226.137.176:9090/load/free123/26.mpegts
+#EXTINF:-1,NBA
+http://5.226.137.176:9090/load/free123/34.mpegts
+#EXTINF:-1,NBC
+http://5.226.137.176:9090/load/free123/1.mpegts
+#EXTINF:-1,NBC SN
+http://5.226.137.176:9090/load/free123/43.mpegts
+#EXTINF:-1,NFL Network
+http://5.226.137.176:9090/load/free123/35.mpegts
+#EXTINF:-1,Showtime
+http://5.226.137.176:9090/load/free123/19.mpegts
+#EXTINF:-1,Showtime West
+http://5.226.137.176:9090/load/free123/54.mpegts
+#EXTINF:-1,Spike US
+http://5.226.137.176:9090/load/free123/12.mpegts
+#EXTINF:-1,Sportnet 360
+http://5.226.137.176:9090/load/free123/45.mpegts
+#EXTINF:-1,Sportsnet ONE
+http://5.226.137.176:9090/load/free123/44.mpegts
+#EXTINF:-1,Sportsnet Ontario
+http://5.226.137.176:9090/load/free123/47.mpegts
+#EXTINF:-1,SPORTSNET WORLD
+http://5.226.137.176:9090/load/free123/46.mpegts
+#EXTINF:-1,Starz Edge
+http://5.226.137.176:9090/load/free123/22.mpegts
+#EXTINF:-1,Starz Encore
+http://5.226.137.176:9090/load/free123/23.mpegts
+#EXTINF:-1,SyFY US
+http://5.226.137.176:9090/load/free123/11.mpegts
+#EXTINF:-1,TBS
+http://5.226.137.176:9090/load/free123/42.mpegts
+#EXTINF:-1,TNT
+http://5.226.137.176:9090/load/free123/13.mpegts
+#EXTINF:-1,TSN1
+http://5.226.137.176:9090/load/free123/36.mpegts
+#EXTINF:-1,TSN2
+http://5.226.137.176:9090/load/free123/37.mpegts
+#EXTINF:-1,TSN3
+http://5.226.137.176:9090/load/free123/38.mpegts
+#EXTINF:-1,TSN4
+http://5.226.137.176:9090/load/free123/39.mpegts
+#EXTINF:-1,TSN5
+http://5.226.137.176:9090/load/free123/40.mpegts
+#EXTINF:-1,USA Network
+http://5.226.137.176:9090/load/free123/10.mpegts
+
+#EXTINF:-1,[COLOR red][I][B]---------------UK------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Brexit Live From Court
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27193.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24/7 Christmas Music
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/26921.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24/7 Fireplace HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/26919.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc Red Button
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/172.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc One
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/97.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc One HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/51.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc One FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/23356.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc One Scotland
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11735.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc One Wales
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11739.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc One Cambridge
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11733.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc One Islands
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11732.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc One West
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11731.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc Two
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/95.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc Two HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/19.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc Two FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/14170.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc Two Scotland
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11738.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc Two Wales
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11737.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc Four
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/114.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc Four HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc Alba
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17247.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc Parliament
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17248.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/4615.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/15.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/12972.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv West
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11728.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv Granada
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11729.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv Anglia
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11730.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/173.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv 2 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11736.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv 2 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17246.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv 3
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/171.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv 3 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13073.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv 4
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/10097.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv 4 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13074.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ItvBe
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/27.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ItvBe HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13075.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Itv Encore
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1963.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rte One
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/111.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rte Two
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/110.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,3e
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/93.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tg4
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/112.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tv3
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/135.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tv3 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13083.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Irish TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/6678.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,S4c
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17099.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Channel Four
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/144.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Channel Four HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/16.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Channel 4 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/23358.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Channel Five
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/69.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Channel Five HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17252.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,4 Seven
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/59.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,4 Seven HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13077.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,5 Usa
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/176.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,5 Star
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/142.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky One
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/85.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky One HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13078.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Two
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/126.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Two HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13079.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Arts
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/87.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Living
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/137.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Atlantic
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/22.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Atlantic HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13080.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Real Lives
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1168.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,More Four
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/164.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,More Four HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17251.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mtv Uk
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/23439.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Gold
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/115.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,True Entertainment
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/122.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,True Drama
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/120.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tru TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Drama
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/81.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lifetime
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/12715.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13082.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Dave
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/78.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Dave HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13121.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Dmax
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/102.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,E4
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/66.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,E4 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13076.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21323.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Comedy Central Xtra
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/106.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC By BT
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/5.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC Usa HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17098.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/158.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Universal Channel
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/12716.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HBO Usa
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/9700.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Yesterday
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/156.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Challenge TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/82.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS Action
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/165.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS Drama
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/175.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS Reality
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11740.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Alibi
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/159.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Really
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/38.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Home
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/6386.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Quest
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/150.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Pick
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/24.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tlc
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/63.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,E!
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/6677.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/125.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Spike
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/12.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Watch
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/124.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Good Food
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/146.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Food Network
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/167.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Travel Channel
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/52.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Warehouse
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1171.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bet Uk
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1165.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sony Entertainment
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1162.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cruise TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/10396.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Horse And Country
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1163.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Retail Channel
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1167.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arts And Crafts TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/15884.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HSN FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/5620.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,QVC 1
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/5737.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,QVC 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/5738.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,QVC 3
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/5739.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,QVC 4
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/5740.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Ideal World
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/25715.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,A&E Network
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/6388.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,London Live
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/258.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Made In Tyne And Wear
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/18666.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Made In Leeds
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/18667.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Made In Cardiff
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/18668.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Made In Bristol
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/18669.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bbc News
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/132.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky News
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/160.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky News Live FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/26667.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cnn
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/127.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cnbc
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/48.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rt Uk
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1166.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rt America
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/6252.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Aljazeera News FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1164.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox News Usa HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13157.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cbs News
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17076.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cbn News Usa
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17090.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bloomberg
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/12717.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bloomberg Usa HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17087.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Newsmax Tv
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17089.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Abc News
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17075.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Premier
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/74.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Premier HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13275.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Action & Adventure
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/72.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Action & Adventure HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13276.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Comedy
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/117.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Comedy HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13119.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Disney
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/108.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Disney HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13118.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Crime & Thriller
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/73.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Crime & Thriller HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13278.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Hits
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/80.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Hits HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13279.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Select
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/157.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Select HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13280.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/101.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13281.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Greats
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/88.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Greats HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13282.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Family
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/100.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Christmas
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/89.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Christmas HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13283.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Film 4
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/91.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tcm HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11734.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,True Movies 1
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/179.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,True Movies 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/9701.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nollywood Movies
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11741.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Movies 4 Men
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/116.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Hallmark
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1161.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sony Movies
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1169.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Dubai One HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11326.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,4k Movies 24/7
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/20015.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/35.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13085.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Investigation
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/36.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/151.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/181.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Home And Health
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/39.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery World
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13087.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Showcase HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13088.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Shed
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13086.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery History
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/37.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/166.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eden
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/168.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Natgeo
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/148.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Natgeo Wild
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/152.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Natgeo Wild HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13120.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Crime And Investigation
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/3225.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/149.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,History 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/3.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nasa Tv HD**
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/257.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nasa Tv HD*
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17078.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nasa Space Cam Live
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/23940.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NASA Earth From Space Live Stream
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/24249.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mtv Music
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/53.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mtv Music HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21644.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mtv Hits
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/25.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mtv Hits HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21645.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mtv Dance
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/163.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mtv Dance HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21646.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mtv Rocks
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/136.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mtv Classic
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/26.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mtv Base
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/2.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,The Vault Uk
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/23958.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Flava
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/46.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Vintage
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/47.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Vh1
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/119.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Hit Tv
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1235.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Capital Tv
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11960.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Scuzz
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1696.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Trap Music
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/26666.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Heart Tv
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/12712.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Djing Underground HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11956.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Djing Ibiza HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11955.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Djing DJ S HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11959.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Djing Classics HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11957.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Djing Animation HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11958.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24/7 Transformers
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/24085.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24/7 Peppa Pig
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/24084.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24/7 Paw Patrol
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/24083.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24/7 Ben 10
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/24082.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24/7 Adventure Time
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/24081.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rte Jr
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/50.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nicktoon
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/76.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/105.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Citv
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/92.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/96.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cbeebies
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/141.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cbbc
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/31.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cartoonito
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/128.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/139.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Xd
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/41.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Jr
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/58.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/57.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Kix
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1692.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Pop
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/6387.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Baby Tv
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17253.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Anime 24/7
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/11951.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/64.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13679.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/60.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/83.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13680.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 3
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/138.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 3 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/94.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13681.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 4
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/121.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 4 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/84.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13682.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 5
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/153.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 5 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/90.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13683.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS MIX
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17097.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS F1
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/40.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS F1 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13684.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MOTO GP FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13122.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Motors Tv
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/99.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS NEWS
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/67.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13678.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT 1
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/33.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/79.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT 1 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13144.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/32.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT 2 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/77.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13145.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT 3
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/4.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT 3 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/54.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13146.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT ESPN
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/30.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT ESPN HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/86.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT EXTRA
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/6679.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT EXTRA 1
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21358.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT EXTRA 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21359.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT EXTRA 3
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21360.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT EXTRA 4
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21361.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT EXTRA 5
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21362.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT SPORT EXTRA 6
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21363.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CHELSEA TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/14.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,REAL MADRID TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/249.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MUTV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1170.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LFC TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/1160.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LFC TV HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/20370.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RANGERS TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/12676.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CELTIC TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/12675.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ABERDEEN RED TV
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/12677.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HEARTS FC
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/17245.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/75.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/134.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PREMIER SPORTS
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/42.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PREMIER SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13096.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SETANTA
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/6404.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RACING UK
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/23.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RACING UK HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13100.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AT THE RACES
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/68.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EIR SPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13093.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EIR SPORT 2 HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13094.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SETANTA SPORTS + FHD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/21364.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BOXNATION
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/133.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BOXNATION HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/13095.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,POKER CENTRAL
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/5618.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ELEVENSPORTS HD
+plugin://plugin.video.f4mTester/?url=http://techguru.es:88/live/chloe/chloe/10395.ts&amp;streamtype=TSDOWNLOADER
+
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow][I][B]UK CHANNELS[/B][/I][/COLOR]
+http://0.0.0.0:123
+
+
+#EXTINF:-1, [I][B]London Live[/B][/I]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:0, [I][B]QVC 1[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:0, [I][B]QVC 2[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:0, [I][B]QVC 3[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:0, [I][B]QVC 4[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- MUSIC ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:-1,Music
+http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1,MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+
+#EXTINF:-1,MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+
+#EXTINF:-1,MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
