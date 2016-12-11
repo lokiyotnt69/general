@@ -153,6 +153,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR yellow] Lista Peliculas 1.0 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/listapeliculas1.0.m3u</externallink>	
+</item>
+
+
 
 <item>
 <title>-[COLOR green] CaNaLeS INFANTILES 1.0 [/COLOR]</title>
@@ -200,7 +209,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/pequelandia/master/PeliculasXikys.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/pequelandia/master/peliculaspeques.xml</externallink>	
 </item>
 
 
