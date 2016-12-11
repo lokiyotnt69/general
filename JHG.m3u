@@ -1424,4 +1424,655 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
 
+#EXTINF:-1,[COLOR yellow][I][B]-----------------------ITALIA-------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,Rai 1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/292.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 2 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/290.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 3 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/288.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rete 4 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/276.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canale 5 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/398.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Italia 1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/352.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 1 SD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5859.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 2 SD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5858.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 3 SD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5857.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rete 4 SD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5853.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canale 5 SD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/399.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Italia 1 SD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5854.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Italia 2
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/351.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 4
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/286.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 5
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/285.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai Movie
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/283.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai Premium HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/281.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai News 24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/282.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai Sport 1
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/280.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai Sport 2
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/279.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La7 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/347.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La7d HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5945.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La3
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/346.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La 5
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/348.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Iris
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/353.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mediaset Extra
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/339.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TopCrime
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/183.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Giallo
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/356.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RSI La 1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/274.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RSI La 2 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/273.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TGCom 24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/185.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,######VARI######
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Bstream Cinema 1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/558.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bstream Cinema 2 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/559.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bstream Cinema 3 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/560.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bstream Cinema 4 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/561.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bstream Cinema 5 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/562.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/1511.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cielo HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/393.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV8
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/336.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Alice
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/418.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Marcopolo
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/340.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DeeJay TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/381.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Focus
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/368.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Italian Fishing TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5871.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Telenorba
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/187.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Videolina
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/179.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV2000
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/181.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Split TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/196.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Top Calcio 24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/2914.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Luna Sport
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6428.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VERO
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/7225.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sicilia Channel
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/268.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Antenna Sicilia
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/2917.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Telecolor
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/2918.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/2916.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tremedia
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/2919.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canale 21
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5925.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Star One TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5609.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,KissKiss Napoli TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6121.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tv Campane
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6427.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Universal TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6117.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Padre Pio TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/2896.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,######MUSICA######
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,M2Otv
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/342.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Ondalatina
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/330.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Radio Montecarlo
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/294.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTL 102.5
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/272.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Radio Italia
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/295.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Studio 90 Italia
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/192.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Radio Taormina
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/293.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Radio 105
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/296.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,######BAMBINI######
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/396.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Disney XD HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/229.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/375.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TeenNick
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/189.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nick Junior
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/332.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nicolodeon
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/331.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Super
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/191.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai Gulp
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/284.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai Yoyo
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/278.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Dea Kids
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/382.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Dea Junior
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/383.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/376.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Manga
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/341.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/407.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Boing
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/408.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Freesbe
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/358.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,K2
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/349.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cartonito
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/397.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Baby TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/410.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Barbie Channel
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/563.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Masha E Orso Channel
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/564.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tom & Jerry Channel
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/565.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PeppaPig Channel
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/2771.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,######MEDIASET PREMIUM######
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,--------Premium Cinema--------
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Premium Cinema HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/311.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/310.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema +24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/315.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema 2 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/313.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema 2 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/309.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema 2 +24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/314.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Action HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/325.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Action HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/324.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Action +24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/326.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Crime HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/306.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Crime HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/305.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Crime +24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/307.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Comedy
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/308.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema Emotion
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/312.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Energy HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5872.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Energy +24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/303.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Studio Universal
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/297.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,--------Premium Intrattenimento--------
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Premium Joi
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/302.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Joi +24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/323.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Stories
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/298.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Stories +24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/304.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Investigation Discovery
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6630.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Extra 2
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5608.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,--------Premium Sport--------
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Premium Sport HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/299.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium sport hd ( Audio Del Tifoso)
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/7224.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Sport Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/300.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Sport 2 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/316.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Sport 2
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/301.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sportitalia
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/195.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/4112.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 1
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/322.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 2
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/321.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 3
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/320.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 4
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/319.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 5
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/318.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 6
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/317.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 7
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5601.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,######SKY ITALIA######
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,--------Cinema--------
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Sky Cinema1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/244.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema1 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/247.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema +1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/248.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,sky Cinema+1 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/246.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema +24 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/391.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema +24 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/392.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema 24 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/245.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Hits HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/388.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Hits HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/237.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/239.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Family HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/238.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Family +1 hd
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/241.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Passion HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/386.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Comedy HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/243.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Comedy HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/242.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Max HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/235.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Max Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/234.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Max +1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/387.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Cult HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/389.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Cinema Classic HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/390.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky 3D
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/267.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,--------Intrattenimento--------
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Sky Uno HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/200.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Uno HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/198.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Uno +1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/199.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Atlantic HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/415.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Atlantic HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/265.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Atlantic +1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/266.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/362.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Fox HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/224.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox +1
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/367.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Life HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/359.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Fox Life HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/225.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Life +1
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/361.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Crime HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/363.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Fox Crime HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/227.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Crime +1
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/364.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Comedy HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/365.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Animation HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/366.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Axn HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/413.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky AXN  HD  Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/264.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Axn +1
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/412.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Axn SciFi
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/411.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/337.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/384.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Animal Planet
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/178.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Real Time HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/277.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Gambero rosso HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/357.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lei
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/343.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Laeffe
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/345.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Poker Italia 24
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/327.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky TG 24 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/197.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TG 24 Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/186.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Class CNBC
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/2681.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,--------Cultura--------
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Discovery HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/380.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Discovery HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/231.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,National Geo HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/333.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky NationalGeo HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/217.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NatGeo People HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/334.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky NatGeo People HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/219.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/335.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky NatGeo Wild HD Dsl lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/218.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/355.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky History HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/222.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Scienze HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/379.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Discovery Sci HD (dsl lente)
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/230.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CI Crime+Inv HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/394.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery travel Living HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/378.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arte HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/416.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Dmax HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/374.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Classica HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/233.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Pesca
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/329.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Caccia
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/406.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Dove TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/228.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,--------Sport--------
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Sky Sport 24 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/210.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 24 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/211.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport Mix HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5946.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport Plus HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/204.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport Plus Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/203.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Sport HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/360.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Fox Sport HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/223.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/214.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 1 Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/215.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/213.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 2 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/212.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/209.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 3 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/208.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EuroSport HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/372.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EuroSport 2 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/373.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/207.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport F1 Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/206.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport MotoGP HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/205.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Moto GP HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/221.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AutoMoto TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/414.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SuperTennis HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/190.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Supercalcio HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/202.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,sky Supercalcio Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/201.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Juventus Channel
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/350.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Inter Channel
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/354.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Milan channel
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/338.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Roma TV
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/275.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lazio Channel
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/344.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bike Channel HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/409.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Class Horse
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/385.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Uniresat
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/180.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,--------Calcio--------
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Sky Calcio Info
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/400.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/262.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 1 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/263.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 2 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/260.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 2 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/261.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 3 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/258.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 3 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/259.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 4 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/257.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 4 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/256.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 5 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/255.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 5 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/254.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 6 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/253.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 6 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/252.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 7 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/251.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 7 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/250.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 8 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/402.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 8 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/249.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 9
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/401.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 10
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/405.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 11
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/404.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 12
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/403.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lega Pro Juve Stabia
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6429.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lega Pro Cosenza
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6430.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lega Pro Catania
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6120.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lega Pro Messina
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5966.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lega Pro Reggina
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5965.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lega Pro Foggia
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6275.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lega Pro Lecce
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/5964.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lega Pro Taranto
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6118.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lega Pro parma
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6119.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lega Pro Venezia
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/6168.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,######PRIMAFILA######
+plugin://plugin.video.f4mTester/?url=http://google.comt:8000/hdmi
+#EXTINF:-1,Primafila 1 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/444.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 2 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/445.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 3 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/446.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 4 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/447.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 5 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/448.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 6 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/449.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 7 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/450.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 8 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/451.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 9 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/452.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 10 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/453.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 11 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/454.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 12 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/455.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 13 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/456.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 14 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/457.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 15 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/458.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 16 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/459.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 17 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/460.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 18 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/461.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Primafila 19 HD
+plugin://plugin.video.f4mTester/?url=http://bstream2.wondernight.net:8000/live/Mimmopinos/Fi0rXSJZgX/462.ts&amp;streamtype=TSDOWNLOADER
+
+
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Iris
+http://5.255.90.243:5000/play/a028
+#EXTINF:-1,Rai 3 HD
+http://5.255.90.243:5000/play/a02l
+#EXTINF:-1,Canale 5
+http://5.255.90.243:5000/play/a026
+#EXTINF:-1,Cartoonito
+http://5.255.90.243:5000/play/a02f
+#EXTINF:-1,Infinity
+http://5.255.90.243:5000/play/a02i
+#EXTINF:-1,LA7
+http://5.255.90.243:5000/play/a02g
+#EXTINF:-1,Mediaset EXTRA
+http://5.255.90.243:5000/play/a02c
+#EXTINF:-1,Italia 1
+http://5.255.90.243:5000/play/a025
+#EXTINF:-1,Rete 4
+http://5.255.90.243:5000/play/a027
+#EXTINF:-1,LA7d
+http://5.255.90.243:5000/play/a02h
+#EXTINF:-1,TgCom24
+http://5.255.90.243:5000/play/a02b
+#EXTINF:-1,Rai Movie HD
+http://5.255.90.243:5000/play/a02p
+#EXTINF:-1,Rai 5 HD
+http://5.255.90.243:5000/play/a02j
+#EXTINF:-1,Rai 2 HD
+http://5.255.90.243:5000/play/a02k
+#EXTINF:-1,La 5
+http://5.255.90.243:5000/play/a02a
+#EXTINF:-1,Boing
+http://5.255.90.243:5000/play/a029
+#EXTINF:-1,Rai Premium HD
+http://5.255.90.243:5000/play/a02o
+#EXTINF:-1,Rai 4 HD
+http://5.255.90.243:5000/play/a02n
+#EXTINF:-1,Topcrime
+http://5.255.90.243:5000/play/a02e
+#EXTINF:-1,Rai Sport 1 HD
+http://5.255.90.243:5000/play/a02m
+#EXTINF:-1,Mediaset ITALIA DUE
+http://5.255.90.243:5000/play/a02d
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
