@@ -111,7 +111,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] TDT Nuevo [/COLOR]</title>
+<title>-[COLOR white] TDT Nuevo [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart></fanart>
@@ -131,6 +131,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+<item>
+<title>-[COLOR white] TecnoTv [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://tecnotv.co/images/Nueva%20Imagen%20Tecno.png</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tecnotv.m3u</externallink>	
+</item>
+
+
+
+
+
 <item>
 <title>-[COLOR orange] JHG  [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -140,15 +153,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-
-<item>
-<title>-[COLOR white] TecnoTv [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://tecnotv.co/images/Nueva%20Imagen%20Tecno.png</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tecnotv.m3u</externallink>	
-</item>
 
 
 
@@ -204,18 +208,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 	
 
 
-<item>
-<title>-[COLOR orange]  Peliculas PeQues [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/pequelandia/master/peliculaspeques.xml</externallink>	
-</item>
 
 
 
 <item>
-<title>-[COLOR yellow] JHG IPTV [/COLOR]</title>
+<title>-[COLOR yellow] JHG  [/COLOR] [COLOR skyblue]  IPTV [/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -237,14 +234,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
 <item>
-<title>-[COLOR yellow] COLOMBIA  [/COLOR]</title>
+<title>-[COLOR orange]  Peliculas PeQues [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/COLOMBIA.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/pequelandia/master/peliculaspeques.xml</externallink>	
 </item>
+
 
 
 
@@ -256,3 +253,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20server%202.0.xml</externallink>	
 </item>
+
+
+
+
+
+<item>
+<title>-[COLOR yellow] COLOMBIA  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/COLOMBIA.m3u</externallink>	
+</item>
+
