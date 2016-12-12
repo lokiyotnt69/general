@@ -228,11 +228,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR red] SERIES[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://cdn1.hendyla.com/archivos/imagenes/2015/09/13/publicacion-15a2daf00be5da869eae327bfb5fddb9f9d28571c7
-f6c2a5093988c7881b64c7-757_A.jpg</thumbnail>
+<thumbnail></thumbnail>
 <fanart>http://kinirokay.com/wp-content/uploads/2016/01/Soy-adicto-a-una-serie.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
 </item> 	   
+
 
 
 
