@@ -178,7 +178,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] M+ [/COLOR]</title>
+<title>-[COLOR green] M+ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -207,6 +207,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/peliculas2.xml</externallink>	
 </item> 	
 
+
+
+
+<item>
+<title>-[COLOR blue] JHG  [/COLOR] [COLOR red]  MOVISTAR [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart>http://t2.uccdn.com/images/6/4/3/img_como_trabajar_en_movistar_10346_orig.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/diciembre13.m3u</externallink>	
+</item>
 
 
 
@@ -247,7 +257,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] JHG server 2.0 [/COLOR]</title>
+<title>-[COLOR orange] JHG server 2.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
