@@ -145,6 +145,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+<title>-[COLOR yellow] Sagas  [/COLOR] [COLOR blue] JHG[/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://st-listas.20minutos.es/images/2013-11/372969/list_640px.jpg?1385681159</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
+</item>
+
+
+
+
+<item>
 <title>-[COLOR white] TecnoTv [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://tecnotv.co/images/Nueva%20Imagen%20Tecno.png</thumbnail>
