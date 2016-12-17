@@ -156,31 +156,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR white] TecnoTv [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://tecnotv.co/images/Nueva%20Imagen%20Tecno.png</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tecnotv.m3u</externallink>	
-</item>
-
-
-
-
-
-<item>
-<title>-[COLOR orange] JHG  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/JHG.m3u</externallink>	
-</item>
-
-
-
-
-
-
-<item>
 <title>-[COLOR yellow] Lista Peliculas 1.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
@@ -273,12 +248,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
-<title>-[COLOR white] Mundo Youtube [/COLOR]</title>
+<title>-[COLOR white] TecnoTv [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.muypymes.com/wp-content/uploads/2014/04/youtube_channels.jpg</thumbnail>
+<thumbnail>http://tecnotv.co/images/Nueva%20Imagen%20Tecno.png</thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tecnotv.m3u</externallink>	
 </item>
 
 
@@ -286,9 +262,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] JHG server 2.0 [/COLOR]</title>
+<title>-[COLOR orange] JHG  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20server%202.0.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/JHG.m3u</externallink>	
 </item>
+
+
