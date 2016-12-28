@@ -209,6 +209,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR purple] VideoClub JHG[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
+</item>
+
 
 
 
@@ -295,12 +303,3 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-
-<item>
-<title>-[COLOR purple] VideoClub JHG[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
-</item>
