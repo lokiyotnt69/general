@@ -23,15 +23,6 @@
 </item>
 
 
-<item>
-<title>-[COLOR red] El Barco [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/elbarco.xml</externallink>	
-</item> 
-
-
 
 <item>
 <title>-[COLOR red] Walking dead [/COLOR]</title>
@@ -39,15 +30,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/walking%20dead.xml</externallink>	
-</item> 
-
-
-<item>
-<title>-[COLOR red] Mar de plastico [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/Mardeplastico.xml</externallink>	
 </item> 
 
 
@@ -59,7 +41,6 @@
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/BreakingBad.xml</externallink>	
 </item> 
-
 
 
 
@@ -84,6 +65,7 @@
 
 
 
+
 <item>
 <title>-[COLOR green] Los Hombres[/COLOR][COLOR orange] De PAco [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -91,6 +73,26 @@
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/LosHombpaco.xml</externallink>	
 </item> 
+
+
+
+<item>
+<title>-[COLOR red] El Barco [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/elbarco.xml</externallink>	
+</item> 
+
+
+<item>
+<title>-[COLOR red] Mar de plastico [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/Mardeplastico.xml</externallink>	
+</item> 
+
 
 
 
