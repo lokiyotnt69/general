@@ -273,40 +273,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR white] TecnoTv [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://tecnotv.co/images/Nueva%20Imagen%20Tecno.png</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tecnotv.m3u</externallink>	
-</item>
-
-
-
-
-
-
-<item>
-<title>-[COLOR orange] JHG  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/JHG.m3u</externallink>	
-</item>
-
-
-
-
-
-
-<item>
-<title>-[COLOR orange] JHG Locuras [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/locurasjhg.xml</externallink>	
-</item>
-
 
 
 
