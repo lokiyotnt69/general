@@ -114,6 +114,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR purple] VideoClub JHG[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
+</item>
+
+
+
 
 <item>
 <title>-[COLOR skyblue]ESTRENOS 2016[/COLOR]</title>
@@ -147,29 +157,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR blue] JHG  [/COLOR] [COLOR red]  MOVISTAR  [/COLOR] [COLOR yellow] OFF [/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart>http://t2.uccdn.com/images/6/4/3/img_como_trabajar_en_movistar_10346_orig.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/diciembre13.m3u</externallink>	
-</item>
-
-
-
 
 <item>
-<title>-[COLOR yellow] JHG  [/COLOR] [COLOR skyblue]  IPTV [/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20IPTV.xml</externallink>	
-</item>
-
-
-
-<item>
-<title>-[COLOR red] MUNDO [/COLOR] [COLOR red] DEPORTE OFF [/COLOR]</title>
+<title>-[COLOR red] MUNDO [/COLOR] [COLOR red] DEPORTE [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</thumbnail>
 <fanart>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</fanart>
@@ -209,15 +199,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-
-<item>
-<title>-[COLOR purple] VideoClub JHG[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
-</item>
 
 
 
@@ -284,8 +265,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
 <item>
 <title>-[COLOR blue] [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -305,3 +284,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+
+
+<item>
+<title>-[COLOR blue] JHG  [/COLOR] [COLOR red]  MOVISTAR  [/COLOR] [COLOR yellow] OFF [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart>http://t2.uccdn.com/images/6/4/3/img_como_trabajar_en_movistar_10346_orig.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/diciembre13.m3u</externallink>	
+</item>
+
+
+
+
+<item>
+<title>-[COLOR yellow] JHG  [/COLOR] [COLOR skyblue]  IPTV [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20IPTV.xml</externallink>	
+</item>
