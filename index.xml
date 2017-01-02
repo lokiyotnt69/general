@@ -159,17 +159,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] MUNDO [/COLOR] [COLOR red] DEPORTE [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</thumbnail>
-<fanart>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/mundoeporte.m3u</externallink>	
-</item>
-
-
-
-
-<item>
 <title>-[COLOR yellow] Sagas  [/COLOR] [COLOR blue] JHG[/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail>http://st-listas.20minutos.es/images/2013-11/372969/list_640px.jpg?1385681159</thumbnail>
@@ -230,7 +219,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow] COLOMBIA  [/COLOR]</title>
+<title>-[COLOR blue] COLOMBIA  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg</thumbnail>
 <fanart></fanart>
@@ -299,9 +288,31 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+<title>-[COLOR red] MUNDO [/COLOR] [COLOR red] DEPORTE [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</thumbnail>
+<fanart>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/mundoeporte.m3u</externallink>	
+</item>
+
+
+
+
+
+<item>
 <title>-[COLOR yellow] JHG  [/COLOR] [COLOR skyblue]  IPTV [/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20IPTV.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR blue]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
 </item>
