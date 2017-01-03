@@ -264,14 +264,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR blue]  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/MisSeriesfavoritas.xml</externallink>	
-</item>
-
 
 
 
@@ -310,7 +302,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] 1 [/COLOR]</title>
+<title>-[COLOR blue] Movistar%%% [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/2018.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR blue] Movistar Portugal y España [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
