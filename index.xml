@@ -292,16 +292,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow] JHG  [/COLOR] [COLOR skyblue]  IPTV [/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20IPTV.xml</externallink>	
-</item>
-
-
-
-<item>
 <title>-[COLOR blue] Movistar%%% [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
@@ -312,9 +302,29 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] Movistar Portugal y España [/COLOR]</title>
+<title>-[COLOR blue] Movistar España [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/2017.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR blue] Movistar ITALIA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/italia.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR blue] Movistar ALEMANIA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/alemania.xml</externallink>	
 </item>
