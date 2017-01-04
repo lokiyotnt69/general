@@ -115,7 +115,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR purple] VideoClub JHG[/COLOR]</title>
+<title>-[COLOR skyblue] VideoClub JHG[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -135,6 +135,36 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR skyblue] Sagas  [/COLOR] [COLOR blue] JHG[/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://st-listas.20minutos.es/images/2013-11/372969/list_640px.jpg?1385681159</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
+</item>
+
+
+
+
+<item>
+<title>-[COLOR skyblue] PELICULAS  [/COLOR] [COLOR blue] JHG [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>http://st-listas.20minutos.es/images/2012-12/350589/list_640px.jpg?1356060740</thumbnail>
+<fanart>http://cinehelvetico.com/img/cine.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/peliculas2.xml</externallink>	
+</item> 
+
+
+
+<item>
+<title>-[COLOR red] SERIES[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart>http://kinirokay.com/wp-content/uploads/2016/01/Soy-adicto-a-una-serie.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
+</item> 	
+
+
 
 <item>
 <title>-[COLOR gold] M+ [/COLOR]</title>
@@ -147,7 +177,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow]Familiatvbox [/COLOR]</title>
+<title>-[COLOR white]Familiatvbox [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
@@ -157,20 +187,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
 <item>
-<title>-[COLOR yellow] Sagas  [/COLOR] [COLOR blue] JHG[/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail>http://st-listas.20minutos.es/images/2013-11/372969/list_640px.jpg?1385681159</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR yellow] Lista Peliculas 1.0  LATINO [/COLOR]</title>
+<title>-[COLOR white] Lista Peliculas 1.0  LATINO [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -187,31 +205,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/canalcrios.m3u</externallink>	
 </item>
 
-
-
-
-
-
-
-<item>
-<title>-[COLOR red] SERIES[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart>http://kinirokay.com/wp-content/uploads/2016/01/Soy-adicto-a-una-serie.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
-</item> 	   
-
-
-
-
-
-<item>
-<title>-[COLOR purple] PELICULAS  [/COLOR] [COLOR purple] JHG [/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail>http://st-listas.20minutos.es/images/2012-12/350589/list_640px.jpg?1356060740</thumbnail>
-<fanart>http://cinehelvetico.com/img/cine.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/peliculas2.xml</externallink>	
-</item> 
 
 
 
@@ -250,10 +243,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-
 <item>
 <title>-[COLOR blue] [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -265,11 +254,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
 <item>
-<title>-[COLOR blue] JHG  [/COLOR] [COLOR red] Listas   [/COLOR] [COLOR yellow] 1 [/COLOR] </title>
+<title>-[COLOR blue] JHG  [/COLOR] [COLOR red] M+  [/COLOR] [COLOR yellow]  [/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart>http://t2.uccdn.com/images/6/4/3/img_como_trabajar_en_movistar_10346_orig.jpg</fanart>
@@ -279,20 +265,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR red] MUNDO [/COLOR] [COLOR red] DEPORTE [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</thumbnail>
-<fanart>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/mundoeporte.m3u</externallink>	
-</item>
-
-
-
-
 
 <item>
-<title>-[COLOR blue] Movistar%%% [/COLOR]</title>
+<title>-[COLOR blue]  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -302,7 +277,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] Movistar España [/COLOR]</title>
+<title>-[COLOR red] Movistar España [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -312,7 +287,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] Movistar ITALIA [/COLOR]</title>
+<title>-[COLOR red] Movistar ITALIA [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -322,9 +297,30 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] Movistar ALEMANIA [/COLOR]</title>
+<title>-[COLOR red] Movistar ALEMANIA [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/alemania.xml</externallink>	
+</item>
+
+
+
+
+<item>
+<title>-[COLOR red] Movistar USA-UK [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/usa.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR blue] MUNDO [/COLOR] [COLOR blue] DEPORTE [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</thumbnail>
+<fanart>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/mundoeporte.m3u</externallink>	
 </item>
