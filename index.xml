@@ -277,7 +277,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] Movistar España [/COLOR]</title>
+<title>-[COLOR red] Movistar España off[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -287,7 +287,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] Movistar ITALIA [/COLOR]</title>
+<title>-[COLOR red] Movistar ITALIA off[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -297,7 +297,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] Movistar ALEMANIA [/COLOR]</title>
+<title>-[COLOR red] Movistar ALEMANIA off[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -308,7 +308,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] Movistar USA-UK [/COLOR]</title>
+<title>-[COLOR red] Movistar USA-UK off[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -318,7 +318,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] MUNDO [/COLOR] [COLOR blue] DEPORTE [/COLOR]</title>
+<title>-[COLOR blue] MUNDO [/COLOR] [COLOR blue] DEPORTE off[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</thumbnail>
 <fanart>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</fanart>
