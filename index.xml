@@ -287,21 +287,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] Movistar España off[/COLOR]</title>
+<title>-[COLOR red] Movistar España [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/2017.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
 </item>
 
 
 
 <item>
-<title>-[COLOR red] Movistar ITALIA off[/COLOR]</title>
+<title>-[COLOR red] Movistar ITALIA [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.banderas-e-himnos.com/media/flags/flagge-italien.gif</thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/italia.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/italia.m3u</externallink>	
 </item>
 
 
@@ -309,7 +309,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR red] Movistar ALEMANIA[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://cdn23.paredro.com/wp-content/uploads/2014/07/germany.jpg</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/alemania.m3u</externallink>	
 </item>
@@ -320,7 +320,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR red] Movistar USA-UK [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://espanol.mapsofworld.com/wp-content/uploads/2013/12/bandera-de-america.gif</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/usa.m3u</externallink>	
 </item>
