@@ -307,22 +307,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] Movistar ALEMANIA off[/COLOR]</title>
+<title>-[COLOR red] Movistar ALEMANIA[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/alemania.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/alemania.m3u</externallink>	
 </item>
 
 
 
 
 <item>
-<title>-[COLOR red] Movistar USA-UK off[/COLOR]</title>
+<title>-[COLOR red] Movistar USA-UK [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/usa.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/usa.m3u</externallink>	
 </item>
 
 
