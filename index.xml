@@ -245,7 +245,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</thumbnail>
 <fanart>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/mundoeporte.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/mundodeporte.xml</externallink>	
 </item>
 
 
