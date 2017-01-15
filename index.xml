@@ -187,6 +187,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+<title>-[COLOR blue] MUNDO [/COLOR] [COLOR blue] DEPORTE [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</thumbnail>
+<fanart>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/mundodeporte.xml</externallink>	
+</item>
+
+
+
+
+<item>
 <title>-[COLOR blue] JHG  [/COLOR] [COLOR red] M+  [/COLOR] [COLOR yellow]  [/COLOR] </title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
@@ -236,17 +247,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/usa.m3u</externallink>	
 </item>
 
-
-
-
-
-<item>
-<title>-[COLOR blue] MUNDO [/COLOR] [COLOR blue] DEPORTE [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</thumbnail>
-<fanart>http://www.noticias-deportes.com/wp-content/uploads/2014/05/noticias-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/mundodeporte.xml</externallink>	
-</item>
 
 
 
@@ -329,6 +329,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR yellow] LA TAQUILLA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/LATAQUILLA.xml</externallink>	
+</item>
+
+
 
 <item>
 <title>-[COLOR blue]  [/COLOR]</title>
@@ -337,9 +346,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/2018.xml</externallink>	
 </item>
-
-
-
 
 <item>
 <title>-[COLOR orange] JHG server 2.0 [/COLOR]</title>
