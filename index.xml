@@ -288,15 +288,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR yellow] LA TAQUILLA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/LATAQUILLA.xml</externallink>	
-</item>
-
-
 
 <item>
 <title>-[COLOR blue]  [/COLOR]</title>
