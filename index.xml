@@ -168,15 +168,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR yellow] LA LIGA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://files.laliga.es/seccion_logos/laliga-h-16-9.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.m3u</externallink>	
-</item>
-
-
 
 
 <item>
