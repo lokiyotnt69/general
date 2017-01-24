@@ -120,7 +120,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/proyecto5.0.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/hadjistyllis/iptv/master/stand%20category.m3u</externallink>	
 </item>
 
 
@@ -135,6 +135,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+<item>
+<title>-[COLOR yellow] Proyecto 3.0 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/proyecto3.xml</externallink>	
+</item>
 
 <item>
 <title>-[COLOR skyblue] VideoClub JHG[/COLOR]</title>
