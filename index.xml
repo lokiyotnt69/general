@@ -115,18 +115,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR red] Peliculas 2016[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/listapeliculas.m3u</externallink>	
-</item>
-
 
 
 <item>
-<title>-[COLOR orange] JHG server 2.0 DEPORTES [/COLOR]</title>
+<title>-[COLOR orange] JHG server 2.0 DEPORTES OFF [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -164,7 +156,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] CANALES PEQUES [/COLOR]</title>
+<title>-[COLOR orange] CANALES PEQUES off[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
