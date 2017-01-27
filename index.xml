@@ -126,7 +126,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] JHG server 2.0 [/COLOR]</title>
+<title>-[COLOR orange] JHG server 2.0 DEPORTES [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -136,7 +136,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow] Proyecto MOVISTAR PLUS [/COLOR]</title>
+<title>-[COLOR yellow]  MOVISTAR PLUS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.movistar.com.pe/colportal-peru-v2-theme/images/peru/img_share.jpg</thumbnail>
 <fanart>http://www.movistar.com.pe/colportal-peru-v2-theme/images/peru/img_share.jpg</fanart>
@@ -155,7 +155,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] TDT ESPAÑA Y AUTONOMICAS [/COLOR]</title>
+<title>-[COLOR orange] TDT ESPAÑA Y AUTONOMICAS OFF[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -164,7 +164,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] CANALES PEQUES [/COLOR]</title>
+<title>-[COLOR orange] CANALES PEQUES OFF[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
