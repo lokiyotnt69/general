@@ -138,7 +138,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR yellow] Proyecto MOVISTAR PLUS [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.movistar.com.pe/colportal-peru-v2-theme/images/peru/img_share.jpg</thumbnail>
 <fanart>http://www.movistar.com.pe/colportal-peru-v2-theme/images/peru/img_share.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/proyecto3.xml</externallink>	
 </item>
@@ -154,17 +154,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
 <item>
-<title>-[COLOR yellow] Romania off [/COLOR]</title>
+<title>-[COLOR orange] TDT ESPAÑA Y AUTONOMICAS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/rumania.xml</externallink>	
+<externallink></externallink>	
 </item>
 
 
-
+<item>
+<title>-[COLOR orange] CANALES PEQUES [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
 
 
 
