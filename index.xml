@@ -118,13 +118,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] JHG server 2.0 DEPORTES  [/COLOR]</title>
+<title>-[COLOR orange] JHG server 2.0   [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20server%202.0.xml</externallink>	
 </item>
 
+
+
+<item>
+<title>-[COLOR orange] JHG server 2.1   [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
 
 
 <item>
@@ -146,33 +155,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/proyecto3.xml</externallink>	
 </item>
 
-
-
-<item>
-<title>-[COLOR orange] SoloMusica OFF[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/solomusica.xml</externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR orange] TDT ESPAÑA Y AUTONOMICAS OFF[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR orange] CANALES PEQUES off[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/PEQUES.xml</externallink>	
-</item>
 
 
 
