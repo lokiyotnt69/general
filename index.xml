@@ -105,15 +105,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR white] TDT Nuevo [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tdtnuevo.m3u</externallink>	
-</item>
-
-
 
 
 
@@ -128,35 +119,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] JHG server 2.1   [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR orange] JHG server 2.2  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.2.xml</externallink>	
-</item>
-
-
-
-
-<item>
 <title>-[COLOR red] Movistar España [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
 </item>
-
 
 
 
@@ -277,28 +245,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://www.banderadecolombia.net/wp-content/uploads/bandera-de-colombia-con-escudo.jpg</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/COLOMBIA.m3u</externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR orange] TDT   [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/hinojosa.m3u</externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR orange]  Peliculas PeQues [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/pequelandia/master/peliculaspeques.xml</externallink>	
 </item>
 
 
