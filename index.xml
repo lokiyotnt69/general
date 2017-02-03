@@ -189,54 +189,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR skyblue] VideoClub JHG[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR skyblue] VideoClub JHG ***2014**2015***[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/peliculas-/master/VIDEOCLUB20142015.xml</externallink>	
-</item>
-
-
-
-<item>
-<title>-[COLOR skyblue]ESTRENOS 2016[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>	
-</item>
-
-
-
-<item>
-<title>-[COLOR skyblue] Sagas  [/COLOR] [COLOR blue] JHG[/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail>http://st-listas.20minutos.es/images/2013-11/372969/list_640px.jpg?1385681159</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR skyblue] SERIES[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart>http://kinirokay.com/wp-content/uploads/2016/01/Soy-adicto-a-una-serie.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
-</item> 	
-
 
 
 
