@@ -118,13 +118,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR brown] MundoDeporte off[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/mundodeporte.xml</externallink>	
-</item>
 
 
 <item>
@@ -159,15 +152,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR orange] JHG server 2.0  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20server%202.0.xml</externallink>	
-</item>
-
-
 
 <item>
 <title>-[COLOR orange]  JHG server 2.1 DEPORTES off  [/COLOR]</title>
@@ -180,11 +164,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR blue] JHG server 2.2 **4-02-17**off [/COLOR]</title>
+<title>-[COLOR skyblue] JHG server 2.2 **5-02-17** [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.2.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/server2.2.m3u</externallink>	
 </item>
 
 
@@ -199,7 +183,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] TDT ESPAÑA Y AUTONOMICAS  [/COLOR]</title>
+<title>-[COLOR orange] TDT ESPAÑA Y AUTONOMICAS off [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
