@@ -181,13 +181,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+
 <item>
-<title>-[COLOR orange] TDT ESPAÑA Y AUTONOMICAS off [/COLOR]</title>
+<title>-[COLOR white] TDT Nuevo [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/autonomicas.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/autonomicas.m3u</externallink>	
 </item>
+
 
 
 
