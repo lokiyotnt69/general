@@ -110,7 +110,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>-[COLOR yellow] LA LIGA [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://files.laliga.es/seccion_logos/laliga-h-16-9.jpg</thumbnail>
-<fanart></fanart>
+<fanart>http://files.laliga.es/seccion_logos/laliga-h-16-9.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.m3u</externallink>	
 </item>
 
@@ -119,8 +119,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR skyblue] JHG server 2.2 **5-02-17** [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
+<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/server2.2.m3u</externallink>	
 </item>
 
@@ -162,10 +162,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange]  JHG server 2.1   Actualizado (7-2-17) [/COLOR]</title>
+<title>-[COLOR orange]  JHG Server  (Nuevo)  Actualizado (7-2-17) [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
+<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
 </item>
 
@@ -175,8 +175,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR red] MOVISTAR PAISES off[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://k46.kn3.net/taringa/A/E/8/A/6/E/FreddyN4/F15.jpg</thumbnail>
+<fanart>https://k46.kn3.net/taringa/A/E/8/A/6/E/FreddyN4/F15.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/IPTVLISTASfebrero.xml</externallink>	
 </item>
 
@@ -187,7 +187,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>-[COLOR white] TDT Nuevo [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
-<fanart></fanart>
+<fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/autonomicas.m3u</externallink>	
 </item>
 
