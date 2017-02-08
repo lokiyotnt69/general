@@ -102,9 +102,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR orange]  JHG Movistar  (Nuevo)  Actualizado (9-2-17) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
+<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
+</item>
+
+
 
 <item>
-<title>-[COLOR orange] JHG server 2.0 (8-2-2017) [/COLOR]</title>
+<title>-[COLOR orange] JHG server 2.0 (9-2-2017) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -115,7 +124,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow] LA LIGA [/COLOR]</title>
+<title>-[COLOR green] LA LIGA off[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://files.laliga.es/seccion_logos/laliga-h-16-9.jpg</thumbnail>
 <fanart>http://files.laliga.es/seccion_logos/laliga-h-16-9.jpg</fanart>
@@ -134,22 +143,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
 </item>
 
-
-
-
-
-
-
-
-
-
-<item>
-<title>-[COLOR orange]  JHG Movistar  (Nuevo)  Actualizado (9-2-17) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
-<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
-</item>
 
 
 
