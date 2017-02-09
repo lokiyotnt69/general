@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange]  JHG Movistar  2.1   Off [/COLOR]</title>
+<title>-[COLOR orange]  JHG Movistar  2.1   Actualizando! [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
@@ -144,17 +144,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR red] Movistar España **5-2-17**[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
-</item>
-
-
-
-
 
 <item>
 <title>-[COLOR red] MOVISTAR PAISES Actualizado[/COLOR]</title>
@@ -180,7 +169,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR skyblue] VideoClub JHG (en Reformas) Espero que os guste!!![/COLOR]</title>
+<title>-[COLOR skyblue] VideoClub JHG (en Reformas)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
