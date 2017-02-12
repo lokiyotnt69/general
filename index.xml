@@ -95,13 +95,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR skyblue] Fase 1 Movistar  11-02-17 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/fase1.m3u</externallink>	
-</item>
 
 
 
@@ -149,6 +142,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR skyblue] Fase 1 Movistar  11-02-17 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/fase1.m3u</externallink>	
+</item>
 
 
 
