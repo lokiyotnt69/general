@@ -110,7 +110,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR skyblue] JHG server 2.2 DEPORTE  14-02-17 [/COLOR]</title>
+<title>-[COLOR skyblue] JHG server 2.2 DEPORTE  14-02-17 Off [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
@@ -119,15 +119,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
 <item>
-<title>-[COLOR orange] JHG server 2.0 PLUS 14-02-17  [/COLOR]</title>
+<title>-[COLOR yellow]  JHG Movistar  2.1  17-02-17 [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20server%202.0.xml</externallink>	
+<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
+<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
 </item>
-
-
 
 
 
@@ -144,14 +144,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR orange]  JHG Movistar  2.1  15-02-17 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
-<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
-</item>
 
+
+<item>
+<title>-[COLOR yellow] TURQUIA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Tturquia.xml</externallink>	
+</item>
 
 
 
