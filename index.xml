@@ -143,6 +143,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR yellow] FRANCIA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Francia.xml</externallink>	
+</item>
+
 
 
 
@@ -153,6 +161,71 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Tturquia.xml</externallink>	
 </item>
+
+
+
+
+<item>
+<title>-[COLOR yellow] ITALIA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Italia.xml</externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR yellow] USA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/usa.xml</externallink>	
+</item>
+
+
+
+
+<item>
+<title>-[COLOR yellow] ALEMANIA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Alemania.xml</externallink>	
+</item>
+
+
+
+
+<item>
+<title>-[COLOR yellow]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR yellow]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+
+
+<item>
+<title>-[COLOR yellow]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+
 
 
 
