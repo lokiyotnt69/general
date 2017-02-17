@@ -132,15 +132,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR red] MOVISTAR PAISES off[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://k46.kn3.net/taringa/A/E/8/A/6/E/FreddyN4/F15.jpg</thumbnail>
-<fanart>https://k46.kn3.net/taringa/A/E/8/A/6/E/FreddyN4/F15.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/IPTVLISTASfebrero.xml</externallink>	
-</item>
-
-
 
 
 <item>
@@ -191,37 +182,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Alemania.xml</externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR yellow]  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR yellow]  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
-
-
-
-
-<item>
-<title>-[COLOR yellow]  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
 </item>
 
 
