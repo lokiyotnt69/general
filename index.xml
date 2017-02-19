@@ -108,7 +108,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR skyblue] JHG server 2.2 DEPORTE    [/COLOR]</title>
+<title>-[COLOR skyblue] JHG server 2.2 DEPORTE  off  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
@@ -136,6 +136,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/listam3uestrenos.m3u</externallink>	
 </item>
+
 
 
 
