@@ -97,7 +97,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow] **ANGELPLUS** OFF [/COLOR]</title>
+<title>-[COLOR red] **ANGELPLUS** 20-02-17 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
 <fanart></fanart>
@@ -130,7 +130,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow] Peliculas 2016-2017  [/COLOR]</title>
+<title>-[COLOR green] Peliculas 2016-2017  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
