@@ -125,7 +125,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] **ANGELPLUS**  [/COLOR]</title>
+<title>-[COLOR red] **ANGELPLUS** off [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
 <fanart></fanart>
@@ -136,7 +136,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR skyblue] JHG server 2.2 DEPORTE    [/COLOR]</title>
+<title>-[COLOR skyblue] JHG server 2.2 DEPORTE   off [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
@@ -148,7 +148,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange]  JHG Movistar  2.1   [/COLOR]</title>
+<title>-[COLOR orange]  JHG Movistar  2.1  off [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
@@ -161,7 +161,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow] ITALIA [/COLOR]</title>
+<title>-[COLOR yellow] ITALIA off [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
