@@ -98,7 +98,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
 <item>
 <title>-[COLOR yellow]**ESTRENOS 2016**[/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -125,31 +124,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR red] **ANGELPLUS** off [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Angelplus.xml</externallink>	
-</item>
-
-
-
 
 <item>
-<title>-[COLOR skyblue] JHG server 2.2 DEPORTE   off [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
-<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.2.xml</externallink>	
-</item>
-
-
-
-
-
-<item>
-<title>-[COLOR orange]  JHG Movistar  2.1  off [/COLOR]</title>
+<title>-[COLOR orange]  JHG Movistar  2.1  Actualizando! [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
@@ -162,17 +139,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow] ITALIA off [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Italia.xml</externallink>	
-</item>
-
-
-
-<item>
-<title>-[COLOR yellow] Cartelera Cine [/COLOR]</title>
+<title>-[COLOR yellow] Cartelera Cine (Nuevo) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
