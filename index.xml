@@ -98,6 +98,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
 <title>-[COLOR yellow]**ESTRENOS 2016**[/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -177,3 +178,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/basecine.xml</externallink>	
 </item>
+
+
+
+
