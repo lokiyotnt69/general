@@ -126,7 +126,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR skyblue] VideoClub JHG (en Reformas)[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.vulka.es/imagenes/empresas_fotos/90127_big.jpg</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
 </item>
@@ -146,7 +146,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR yellow] Cartelera Cine (Nuevo) [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/basecine.xml</externallink>	
 </item>
