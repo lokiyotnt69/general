@@ -117,23 +117,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-<item>
-<title>-[COLOR skyblue] VideoClub JHG (en Reformas)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
-</item>
-
-
-
-
-
-
-
-
 <item>
 <title>-[COLOR orange]  JHG Movistar  2.1   [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -152,6 +135,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/mundodeporte.xml</externallink>	
 </item>
+
+
+
+<item>
+<title>-[COLOR skyblue] VideoClub JHG (en Reformas)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
+</item>
+
+
 
 
 
