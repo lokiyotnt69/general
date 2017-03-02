@@ -161,7 +161,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] Plus Movistar  [/COLOR]</title>
+<title>[COLOR blue] Plus Movistar  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -171,8 +171,57 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
-<title>[COLOR yellow]  [/COLOR]</title>
+<title>-[COLOR brown] MundoDeporte [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/mundodeporte.xml</externallink>	
+</item>
+
+
+
+
+<item>
+<title>-[COLOR yellow] FRANCIA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Francia.xml</externallink>	
+</item>
+
+
+
+
+
+<item>
+<title>-[COLOR yellow] ITALIA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Italia.xml</externallink>	
+</item>
+
+
+
+
+
+<item>
+<title>-[COLOR yellow] ALEMANIA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Alemania.xml</externallink>	
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR red]  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -190,7 +239,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]  [/COLOR]</title>
+<title>[COLOR blue]  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
