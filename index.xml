@@ -92,13 +92,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR white] TDT Nuevo [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
-<fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/autonomicas.m3u</externallink>	
-</item>
+
 
 
 
@@ -152,6 +146,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+<item>
+<title>-[COLOR white] TDT Nuevo [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
+<fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/TDT.xml</externallink>	
+</item>
 
 
 
