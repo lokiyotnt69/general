@@ -34,7 +34,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                  [B][COLOR lightslategray]A ,ION,ANGEL,,DELIA,MONTSE,LA FAMILIA TVBOX[/COLOR][/B] Por su gran esfuerzo       </title>
+<title>                                  [B][COLOR lightslategray]A ION,ANGEL,DELIA,MONTSE,LA FAMILIA TVBOX[/COLOR][/B] Por su gran esfuerzo       </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -109,7 +109,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR skyblue] JHG server 2.2 DEPORTE  1-03-17 [/COLOR]</title>
+<title>-[COLOR skyblue] JHG server 2.2 DEPORTE  3-03-17 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
@@ -118,17 +118,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR yellow]  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
-
 
 <item>
-<title>[COLOR yellow]  CANALES CRIOS [/COLOR]</title>
+<title>[COLOR green]  CANALES CRIOS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -166,6 +158,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
 </item>
 
+
+<item>
+<title>[COLOR yellow] Plus Movistar Off [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/listamovistar1.xml</externallink>	
+</item>
 
 
 
