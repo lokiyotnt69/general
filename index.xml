@@ -97,7 +97,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] ADDON JHG  CREADO POR JUAN HINOJOSA   En 30 Min Todo Funcionando [/COLOR]</title>
+<title>[COLOR red] ADDON JHG  CREADO POR JUAN HINOJOSA   [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -121,7 +121,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR skyblue] JHG  DEPORTES  3-03-17 [/COLOR]</title>
+<title>-[COLOR skyblue] JHG  DEPORTES [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
@@ -140,13 +140,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR yellow] Cine Latino off [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/cinelatino.xml</externallink>	
-</item>
+
 
 
 
@@ -172,25 +166,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR blue] Plus Movistar  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/listamovistar1.xml</externallink>	
-</item>
 
-
-
-
-
-<item>
-<title>-[COLOR brown] MundoDeporte [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/mundodeporte.xml</externallink>	
-</item>
 
 
 
