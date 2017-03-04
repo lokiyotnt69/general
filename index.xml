@@ -111,57 +111,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail>http://files.laliga.es/seccion_logos/laliga-h-16-9.jpg</thumbnail>
 <fanart>http://files.laliga.es/seccion_logos/laliga-h-16-9.jpg</fanart>
-<externallink>https://github.com/lokiyotnt69/movistar1.0/blob/master/laliga.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.xml</externallink>	
 </item>
 
 
-
-
-
-<item>
-<title>-[COLOR red]  JHG Movistar   [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
-<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
-</item>
-
-
-
-
-
-<item>
-<title>-[COLOR skyblue] JHG  DEPORTES [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
-<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.2.xml</externallink>	
-</item>
-
-
-
-
-<item>
-<title>[COLOR green]  CANALES CRIOS [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Canalescrios.xml</externallink>	
-</item>
-
-
-
-
-
-
-
-<item>
-<title>-[COLOR white] TDT Nuevo [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
-<fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/TDT.xml</externallink>	
-</item>
 
 
 
