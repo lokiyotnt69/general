@@ -106,13 +106,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR red]   [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
 
 
 
@@ -183,54 +176,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
 <item>
-<title>-[COLOR yellow] FRANCIA [/COLOR]</title>
+<title>[COLOR red]   [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Francia.xml</externallink>	
+<externallink></externallink>	
 </item>
 
 
-
-
-
-<item>
-<title>-[COLOR yellow] ITALIA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Italia.xml</externallink>	
-</item>
-
-
-
-
-
-<item>
-<title>-[COLOR yellow] ALEMANIA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/listas-xml/master/Alemania.xml</externallink>	
-</item>
-
-
-
-
-
-
-
-<item>
-<title>[COLOR yellow] Romania (Nuevo)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/RUMANIA.xml</externallink>	
-</item>
 
 
 <item>
