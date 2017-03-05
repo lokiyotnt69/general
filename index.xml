@@ -141,7 +141,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue]  [/COLOR]</title>
+<title>[COLOR blue]   [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -176,3 +176,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+
+<item>
+<title>-[COLOR red] Cartelera Cine (Nuevo) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/basecine.xml</externallink>	
+</item>
