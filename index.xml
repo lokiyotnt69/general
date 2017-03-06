@@ -97,8 +97,49 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <item>
-<title>[COLOR yellow]  QUEDA OFF TEMPORALMENTE   [/COLOR]</title>
+<title>-[COLOR skyblue] JHG  DEPORTES [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
+<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.2.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR red]  JHG Movistar   [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
+<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR white] Mundo Youtube [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.muypymes.com/wp-content/uploads/2014/04/youtube_channels.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]    [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -108,14 +149,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-<item>
-<title>[COLOR red] [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
-</item>
 
 
 
@@ -174,20 +207,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR red]  JHG Movistar   [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
-<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
-</item>
-
 
 <item>
-<title>-[COLOR white] Mundo Youtube [/COLOR]</title>
+<title>[COLOR red] [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.muypymes.com/wp-content/uploads/2014/04/youtube_channels.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
+<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
+<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
 </item>
-
