@@ -98,7 +98,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]  QUEDA OFF TEMPORALMENTE HASTA MAÑANA!!!  [/COLOR]</title>
+<title>[COLOR yellow]  QUEDA OFF TEMPORALMENTE   [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -174,4 +174,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+<item>
+<title>-[COLOR white] Mundo Youtube [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.muypymes.com/wp-content/uploads/2014/04/youtube_channels.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
+</item>
 
