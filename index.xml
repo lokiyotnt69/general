@@ -128,12 +128,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange] JHG server 2.0  [/COLOR]</title>
+<title>-[COLOR orange] JHG server 2.0  Movistar  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20server%202.0.xml</externallink>	
 </item>
+
+
+
+
+<item>
+<title>[COLOR blue] Plus Movistar  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/listamovistar1.xml</externallink>	
+</item>
+
+
 
 
 <item>
@@ -159,11 +172,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]    [/COLOR]</title>
+<title>[COLOR skyblue] JHG MOVISTAR   [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.anahuac.mx/mexico/posgrados/images/convenios/16dce95.png</thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGMovistar.xml</externallink>	
 </item>
 
 
