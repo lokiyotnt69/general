@@ -106,6 +106,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR skyblue] JHG MOVISTAR  Actualizando... [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.anahuac.mx/mexico/posgrados/images/convenios/16dce95.png</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGMovistar.xml</externallink>	
+</item>
+
+
+
 
 
 <item>
@@ -119,7 +129,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red]  JHG Movistar   [/COLOR]</title>
+<title>-[COLOR red]  JHG Movistar 2  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
@@ -168,16 +178,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
 </item>
 
-
-
-
-<item>
-<title>[COLOR skyblue] JHG MOVISTAR   [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.anahuac.mx/mexico/posgrados/images/convenios/16dce95.png</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGMovistar.xml</externallink>	
-</item>
 
 
 
