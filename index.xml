@@ -102,6 +102,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR blue] EN BREVE TODO FUNCIONANDO... PACIENCIA SON LISTAS 24-48H DE 18 A 20H ESTARA TODO OK  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
 
 
 
@@ -186,8 +194,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
-<title>-[COLOR skyblue] Fase 1    [/COLOR]</title>
+<title>-[COLOR skyblue] Fase 1  no usar...  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
