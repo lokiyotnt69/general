@@ -133,27 +133,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR white] TDT  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
-<fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/TDT.xml</externallink>	
-</item>
-
-
-
-
-<item>
-<title>[COLOR green]  CANALES CRIOS [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Canalescrios.xml</externallink>	
-</item>
-
-
-
-<item>
 <title>[COLOR skyblue] JHG MOVISTAR  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.anahuac.mx/mexico/posgrados/images/convenios/16dce95.png</thumbnail>
@@ -162,16 +141,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-
-
-<item>
-<title>-[COLOR orange] JHG server 2.0  Movistar  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20server%202.0.xml</externallink>	
-</item>
 
 
 
