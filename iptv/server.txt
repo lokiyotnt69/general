@@ -1,0 +1,7 @@
+
+
+Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR lime] ******[/COLOR]" URL=""; regex""
+Server:"IPTV España[COLOR lime] 01:[/COLOR]" URL=""; regex""
+Server:"IPTV España[COLOR lime] 02:[/COLOR]" URL=""; regex""
+Server:"IPTV España[COLOR lime] 03:[/COLOR]" URL="http://ip.cs4ip.com:8000/get.php?username=1234567&password=1234567&type=m3u"; regex"" 
+Server:"IPTV España[COLOR lime] 04:[/COLOR]" URL="http://51.255.94.145:980/get.php?username=lorenzo&password=lorenzo&type=m3u8"; regex"ES
