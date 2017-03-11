@@ -8,9 +8,9 @@ Server:"IPTV 4[COLOR lime] 04:[/COLOR]" URL="http://iptv-volkan.net:8000/get.php
 Server:"IPTV 5[COLOR lime] 05:[/COLOR]" URL="http://151.80.36.109:8000//get.php?username=achim&password=CCrFprCUtq&type=m3u"; regex""
 Server:"IPTV 6[COLOR lime] 06:[/COLOR]" URL="http://37.187.175.177:8000/get.php?username=chaaben130&password=chaaben130&type=m3u"; regex""
 Server:"IPTV 7[COLOR lime] 07:[/COLOR]" URL="http://37.187.161.210:8080/get.php?username=fast&password=fast&type=m3u"; regex""
-Server:"IPTV 7[COLOR lime] 08:[/COLOR]" URL="http://www.t12v.com:8000//get.php?username=moroco&password=moroco&type=m3u"; regex""
-Server:"IPTV 7[COLOR lime] 09:[/COLOR]" URL=""; regex""
-Server:"IPTV 7[COLOR lime] 10:[/COLOR]" URL=""; regex""
+Server:"IPTV 8[COLOR lime] 08:[/COLOR]" URL="http://www.t12v.com:8000//get.php?username=moroco&password=moroco&type=m3u"; regex""
+Server:"IPTV 9[COLOR lime] 09:[/COLOR]" URL="http://51.254.44.161:9900//get.php?username=525&password=525&type=m3u "; regex""
+Server:"IPTV 10[COLOR lime] 10:[/COLOR]" URL=""; regex""
 
 
 
