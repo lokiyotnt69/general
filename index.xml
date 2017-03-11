@@ -101,14 +101,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-<!-- <item> 
-<title>[COLOR blue]   [/COLOR]</title>
+ <item> 
+<title>[COLOR blue]  - [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
-</item>-->
+</item>
 
 
 
