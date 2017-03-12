@@ -10,14 +10,11 @@ Server:"IPTV 6[COLOR lime] 06:[/COLOR]" URL=""; regex""
 Server:"IPTV 7[COLOR lime] 07:[/COLOR]" URL=""; regex""
 Server:"IPTV 8[COLOR lime] 08:[/COLOR]" URL=""; regex""
 Server:"IPTV 9[COLOR lime] 09:[/COLOR]" URL=""; regex""
-Server:"IPTV 9[COLOR lime] 10:[/COLOR]" URL=""; regex""
-Server:"IPTV 9[COLOR lime] 11:[/COLOR]" URL=""; regex""
 
 
 
 
-	 get.php?username=&password=&type=m3u
-	 
+
 	 
 	 
 	 
