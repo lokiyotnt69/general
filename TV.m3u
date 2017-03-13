@@ -1,0 +1,777 @@
+#EXTM3U
+#EXTINF:-1, 10 mar del plata
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:-1, 101 TV
+http://cls.todostreaming.eu/101tv/livestream2/master.m3u8
+#EXTINF:-1, 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/master.m3u8
+#EXTINF:-1, 1HD
+http://80.250.191.10:1935/live/hlsstream343/master.m3u8
+#EXTINF:-1, 26 TV
+http://live-edge01.telecentro.net.ar/live/26hd-720/master.m3u8
+#EXTINF:-1, 26 TV
+http://live-edge01.telecentro.net.ar/live/26hd-360/master.m3u8
+#EXTINF:-1, 3-24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/master.m3u8
+#EXTINF:-1, 360 TV
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1, 7 TV
+http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/master.m3u8
+#EXTINF:-1, A3Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1, Alcarria TV
+http://cls.todostreaming.eu/alcarriatv/livestream/master.m3u8
+#EXTINF:-1, Aliento Vision
+http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
+#EXTINF:-1, Andorra TV
+http://194.158.80.31:443/live/rtva/master.m3u8
+#EXTINF:-1, Anime Latino
+http://video7.stream.mx:1935/raxatv/raxatv/master.m3u8
+#EXTINF:-1, Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1, Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1, Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8
+#EXTINF:-1, Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1, Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/master.m3u8
+#EXTINF:-1, Barcelona TV
+http://flv-high.barcelonatv.stream.flumotion.com/barcelonatv/barcelonatv-high.flv.m3u
+#EXTINF:-1, BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1, BYU TV
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+#EXTINF:-1, C25
+http://188.165.135.22/tvbarbastro/livestream/master.m3u8
+#EXTINF:-1, C26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1, C45 Andujar
+http://servers10.com:1935/canal45tv/canal45tv/master.m3u8
+#EXTINF:-1, C5N
+http://c5n.stweb.tv/c5n/live_media/master.m3u8
+#EXTINF:-1, C7 Guadalajara
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:-1, Cable Noticia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1, Cabletel - 12CTV 
+http://190.151.144.22:8083/canallocal.flv
+#EXTINF:-1, Canal 13
+http://13.live.cdn.cl/13hddesktop/13hd-desktop.m3u8
+#EXTINF:-1, Canal 13 HD
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
+#EXTINF:-1, Canal 13 Nicaragua
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/playlist.m3u8
+#EXTINF:-1, Canal 2 (TELEFE)
+http://190.57.237.230/live/canal2.m3u8
+#EXTINF:-1, canal 2 misiones
+http://190.57.237.59/live/canal101010102.m3u8
+#EXTINF:-1, Canal 44
+http://canal44-lh.akamaihd.net/i/ch_canal44@325633/master.m3u8
+#EXTINF:-1, CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1, Canal Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1, Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1, Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/master.m3u8
+#EXTINF:-1, Canal SUN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+#EXTINF:-1, Canal Sur
+http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1, Canal Sur 
+http://champions.rtva.stream.flumotion.com/rtva/champions.flv.m3u
+#EXTINF:-1, Canal uno
+http://173.192.25.13:1935/TELE/smil:CanalUno.smil/playlist.m3u8
+#EXTINF:-1, Canal Zoom
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1, CanalCosta Huelva
+http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
+#EXTINF:-1, CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1, Castilla La Mancha
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1, Castilla Y Leon
+http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8
+#EXTINF:-1, Cetelmon TV
+http://84.232.79.194:8090/cetelmontv.flv
+#EXTINF:-1, CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1, Condavision
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/master.m3u8
+#EXTINF:-1, Cool TV - 103.7 TV 
+http://ar.solumedia.com.ar:1935/cool/hd/master.m3u8
+#EXTINF:-1, Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1, Cubavisión
+http://170.55.15.122:8000/play/a01z
+#EXTINF:-1, CUBAVISION INTERNACIONAL
+http://170.55.15.122:8000/play/a01y
+#EXTINF:-1, Diocesano
+http://178.32.53.254/rtvd/livestream/master.m3u8
+#EXTINF:-1, Discovery 
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, DJING TECHNO
+http://www.iptvsaga.com/play/tv3/0089.m3u8
+#EXTINF:-1, DTV
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
+#EXTINF:-1, DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1, DxTV
+http://186.33.227.199/DXTV/smil:DXTV.smil/master.m3u8
+#EXTINF:-1, DXTV
+http://186.33.227.195/DXTV/DXTV.smil/master.m3u8
+#EXTINF:-1, Educativo
+http://170.55.15.122:8000/play/a00m
+#EXTINF:-1, Educativo 2
+http://170.55.15.122:8000/play/a021
+#EXTINF:-1, Efekto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1, EITB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1, El Correo TV
+http://cls.elitehd-audiovisuales.com/luztv/livestream/master.m3u8
+#EXTINF:-1, El Dia TV
+http://teledifusion.tv:1935/dia/dia/master.m3u8
+#EXTINF:-1, El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1, El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1, Enlace JV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:-1, Enlace TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+#EXTINF:-1, ESTREMADURA TV
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8?DVR
+#EXTINF:-1, Euronews
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/24-live.m3u8
+#EXTINF:-1, Extremadura TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1, Game Of Thrones 24/7 HD
+http://latino-webtv.ml/series/gameofthrones.mp4
+#EXTINF:-1, Girona TV
+http://tvgirona.dnssw.net:1935/live/Icontouch/master.m3u8
+#EXTINF:-1, Gravity Falls 24/7 HD
+http://latino-webtv.ml/series/gravityfalls.mp4
+#EXTINF:-1, Guatevision - Canal 25
+http://162.220.218.101:8081/live/stream1.sdp/chunks.m3u8
+#EXTINF:-1, Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/master.m3u8
+#EXTINF:-1, IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8
+#EXTINF:-1, IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1, Intereconomia 
+http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
+#EXTINF:-1, LA 1
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
+#EXTINF:-1, LA 2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8
+#EXTINF:-1, La Otra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live.m3u8
+#EXTINF:-1, La regional de CLM
+http://cast.streamingconnect.tv:1935/laregional/laregional/master.m3u8
+#EXTINF:-1, La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1, LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1, Lancetot TV
+http://62.210.141.18:1935/directo/lancelot.television/master.m3u8
+#EXTINF:-1, Las estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
+#EXTINF:-1, Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/master.m3u8
+#EXTINF:-1, Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1, LifeDesignHD
+http://edge.wms28.lorini.net/ldtv/ldtv/master.m3u8
+#EXTINF:-1, LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1, Los Simpsons 24/7 HD
+http://latino-webtv.ml/series/simpsons.mp4
+#EXTINF:-1, LRI966 Cadena 103 - 103.1 TV
+http://200.41.182.220:1935/live/myStream/master.m3u8
+#EXTINF:-1, LU90 Canal 7 TV
+http://01.solumedia.com.ar:1935/c7/myStream/master.m3u8
+#EXTINF:-1, M1 Maresme
+https://cdns724ste1010secure.shooowit.net/m1tvlive/smil:live.smil/master.m3u8
+#EXTINF:-1, Marbella TV
+http://cls.provideo.es/marbellatv/livestream/master.m3u8
+#EXTINF:-1, Max Digital 13
+http://www.coninfo.net:1935/13max/live/master.m3u8
+#EXTINF:-1, MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1, Mi Gente
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
+#EXTINF:-1, Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/master.m3u8
+#EXTINF:-1, MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1, Mirame TV
+http://185.23.213.54:1935/mirametv/mirametv/master.m3u8
+#EXTINF:-1, Mola TV
+http://archlinux.frigola.cat:8080/mola/directe.m3u8
+#EXTINF:-1, Multivisión
+http://170.55.15.122:8000/play/a01t
+#EXTINF:-1, Nasa Tv
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:-1, Navarra TV
+http://live2.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/.m3u8
+#EXTINF:-1, Ncdn
+http://livestream-f.akamaihd.net/15754920_4458460_63434067_1_2128@391999?
+#EXTINF:-1, NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1, Noticias 16
+http://mek2.mekstream.com:1935/noticias16/live2/master.m3u8
+#EXTINF:-1, Ol Cadiz
+http://cloud1.cdnstreamserver.com/olcadiz/livestream1/master.m3u8
+#EXTINF:-1, Ol Costa
+http://cloud1.cdnstreamserver.com/olcosta/livestream1/master.m3u8
+#EXTINF:-1, Ol Malaga
+http://cloud1.cdnstreamserver.com/olmalaga/livestream1/master.m3u8
+#EXTINF:-1, Ol Marvella
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/master.m3u8
+#EXTINF:-1, Ol Sevilla
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/master.m3u8
+#EXTINF:-1, Onda Algeciras TV
+http://cls.provideo.es/algecirastv/livestream/master.m3u8
+#EXTINF:-1, Onda Azul
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8
+#EXTINF:-1, Onda Jaen
+http://46.39.192.63:1935/jaen/jaen1.stream_origp/master.m3u8
+#EXTINF:-1, Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1, PakaPaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1, Popular TV
+http://cls.todostreaming.eu/ptvcantabria/livestream/master.m3u8
+#EXTINF:-1, Promar TV
+http://edge.wms28.lorini.net/promar/promar/master.m3u8
+#EXTINF:-1, Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1, Radio One
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1, RCG TV Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1, Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, Ribera TV
+http://orion.comelson.es/ribera/livestream/master.m3u8
+#EXTINF:-1, RT
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
+#EXTINF:-1, RT Vida
+http://178.32.53.254/radiovida/livestream/master.m3u8
+#EXTINF:-1, RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1, RTV CE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/master.m3u8
+#EXTINF:-1, Señal Colombia
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/master.m3u8
+#EXTINF:-1, Señal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1, Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1, SI TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1, sportv
+http://84.91.119.47:8001/1:0:1:12E:67:53:CE40000:0:0:0:
+#EXTINF:-1, STANDBY TV
+http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
+#EXTINF:-1, Tateti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1, Tele B
+http://directe.tvbadalona.cat:1935/live/myStream.sdp/master.m3u8
+#EXTINF:-1, TELE DONOSTI
+http://brightcove03-f.akamaihd.net/livediariovasco_1_500@410469?videoId=5071752331001&lineUpId=&pubId=85688294001&playerId=292369646001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2023,0,0,207&r=VCSPF&g=TIMNFNFRLOJN
+#EXTINF:-1, Tele Rebelde
+http://170.55.15.122:8000/play/a020
+#EXTINF:-1, Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1, TeleBilbao
+http://cls.telebilbao.es/telebilbao/livestream/master.m3u8
+#EXTINF:-1, Telecafé
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1, Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1, TeleCaribe
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/master.m3u8
+#EXTINF:-1, TeleFuturo
+http://qs1.distream.net:2112/tf_str/futu/master.m3u8
+#EXTINF:-1, Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live.m3u8
+#EXTINF:-1, TeleMax
+http://enhd.co:1935/ilive/ilive/master.m3u8
+#EXTINF:-1, Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1, Telemetro
+http://d1p0temutxs3bj.cloudfront.net/telemetrolive/medcomtm/playlist.m3u8
+#EXTINF:-1, Telepin Pinamar HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1, Telesur
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/master.m3u8
+#EXTINF:-1, Televida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1, Terrasa Valles
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/master.m3u8
+#EXTINF:-1, TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1, TLX
+http://live-edge01.telecentro.net.ar/live/tlxhd-360/master.m3u8
+#EXTINF:-1, Travel
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:-1, Trendy Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1, TRT TV
+http://edge.wms28.lorini.net/trttv/trttv/master.m3u8
+#EXTINF:-1, TV 4
+http://188.165.135.22/15o8376r/mystream/master.m3u8
+#EXTINF:-1, TV Blast
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+#EXTINF:-1, TV Galicia
+http://media3.crtvg.es/live/tvge/master.m3u8
+#EXTINF:-1, TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1, TV Mas
+http://50.7.98.234:1935/rtv/videortv/master.m3u8
+#EXTINF:-1, TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:-1, TV Melilla
+http://stream.inmusa.es:1935/tvmelilla/live/master.m3u8
+#EXTINF:-1, TV Pacifico Culiacan
+http://74.63.97.188:1935/gpacifico1/gpculiacan.smil/master.m3u8
+#EXTINF:-1, TV Pacifico Mazatlan
+http://74.63.97.188:1935/gpacifico4/mazatlan.smil/master.m3u8
+#EXTINF:-1, TV Pacifico Mochis
+http://74.63.97.188:1935/gpacifico2/mochis.smil/master.m3u8
+#EXTINF:-1, TV Pacifico Obregon
+http://74.63.97.188:1935/gpacifico3/obregon.smil/master.m3u8
+#EXTINF:-1, TV5MONDE
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1, TV8
+http://streaming.8tv.cat/8TV/8aldia-directe/master.m3u8
+#EXTINF:-1, TVCS
+http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/live.smil/master.m3u8
+#EXTINF:-1, TVE 60 Aniversario
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
+#EXTINF:-1, TVES
+http://cast.streamingconnect.tv:1935/tves2/tves2/master.m3u8
+#EXTINF:-1, TVS
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_720p/playlist.m3u8?
+#EXTINF:-1, Una Voz Con Todos
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+#EXTINF:-1, UNE Medellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
+#EXTINF:-1, UNE TV CARIBE
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+#EXTINF:-1, UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1, Unimas
+http://170.55.15.122:8000/play/a01v
+#EXTINF:-1, Univision23
+http://170.55.15.122:8000/play/a024
+#EXTINF:-1, Urban 106.1 TV
+http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
+#EXTINF:-1, UTV
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1/chunklist_w1182659521.m3u8
+#EXTINF:-1, Valles Oriental TV
+http://video-streaming.laxarxa.com:1935/ocasional5/directe/master.m3u8
+#EXTINF:-1, Virgin TV
+http://wow01.105.net/live/virgin1/master.m3u8
+#EXTINF:-1, VMAS TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:-1, Webcam Safari Africa
+http://206.190.138.100:1935/abs-edge/smil:wil-safari-01-abs.smil/playlist.m3u8
+#EXTINF:-1, Willax TV
+http://m.mediastream.pe/vv_willax/livestream/master.m3u8
+#EXTINF:-1, YES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8#EXTM3U
+#EXTINF:-1, 10 mar del plata
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:-1, 101 TV
+http://cls.todostreaming.eu/101tv/livestream2/master.m3u8
+#EXTINF:-1, 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/master.m3u8
+#EXTINF:-1, 1HD
+http://80.250.191.10:1935/live/hlsstream343/master.m3u8
+#EXTINF:-1, 26 TV
+http://live-edge01.telecentro.net.ar/live/26hd-720/master.m3u8
+#EXTINF:-1, 26 TV
+http://live-edge01.telecentro.net.ar/live/26hd-360/master.m3u8
+#EXTINF:-1, 3-24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/master.m3u8
+#EXTINF:-1, 360 TV
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1, 7 TV
+http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/master.m3u8
+#EXTINF:-1, A3Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1, Alcarria TV
+http://cls.todostreaming.eu/alcarriatv/livestream/master.m3u8
+#EXTINF:-1, Aliento Vision
+http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
+#EXTINF:-1, Andorra TV
+http://194.158.80.31:443/live/rtva/master.m3u8
+#EXTINF:-1, Anime Latino
+http://video7.stream.mx:1935/raxatv/raxatv/master.m3u8
+#EXTINF:-1, Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1, Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1, Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8
+#EXTINF:-1, Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1, Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/master.m3u8
+#EXTINF:-1, Barcelona TV
+http://flv-high.barcelonatv.stream.flumotion.com/barcelonatv/barcelonatv-high.flv.m3u
+#EXTINF:-1, BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1, BYU TV
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+#EXTINF:-1, C25
+http://188.165.135.22/tvbarbastro/livestream/master.m3u8
+#EXTINF:-1, C26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1, C45 Andujar
+http://servers10.com:1935/canal45tv/canal45tv/master.m3u8
+#EXTINF:-1, C5N
+http://c5n.stweb.tv/c5n/live_media/master.m3u8
+#EXTINF:-1, C7 Guadalajara
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:-1, Cable Noticia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1, Cabletel - 12CTV 
+http://190.151.144.22:8083/canallocal.flv
+#EXTINF:-1, Canal 13
+http://13.live.cdn.cl/13hddesktop/13hd-desktop.m3u8
+#EXTINF:-1, Canal 13 HD
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
+#EXTINF:-1, Canal 13 Nicaragua
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/playlist.m3u8
+#EXTINF:-1, Canal 2 (TELEFE)
+http://190.57.237.230/live/canal2.m3u8
+#EXTINF:-1, canal 2 misiones
+http://190.57.237.59/live/canal101010102.m3u8
+#EXTINF:-1, Canal 44
+http://canal44-lh.akamaihd.net/i/ch_canal44@325633/master.m3u8
+#EXTINF:-1, CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1, Canal Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1, Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1, Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/master.m3u8
+#EXTINF:-1, Canal SUN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+#EXTINF:-1, Canal Sur
+http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1, Canal Sur 
+http://champions.rtva.stream.flumotion.com/rtva/champions.flv.m3u
+#EXTINF:-1, Canal uno
+http://173.192.25.13:1935/TELE/smil:CanalUno.smil/playlist.m3u8
+#EXTINF:-1, Canal Zoom
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1, CanalCosta Huelva
+http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
+#EXTINF:-1, CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1, Castilla La Mancha
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1, Castilla Y Leon
+http://cdn.s4.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/master.m3u8
+#EXTINF:-1, Cetelmon TV
+http://84.232.79.194:8090/cetelmontv.flv
+#EXTINF:-1, CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1, Condavision
+http://cls2.todostreaming.eu/azahara/uSCQc5ky/master.m3u8
+#EXTINF:-1, Cool TV - 103.7 TV 
+http://ar.solumedia.com.ar:1935/cool/hd/master.m3u8
+#EXTINF:-1, Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1, Cubavisión
+http://170.55.15.122:8000/play/a01z
+#EXTINF:-1, CUBAVISION INTERNACIONAL
+http://170.55.15.122:8000/play/a01y
+#EXTINF:-1, Diocesano
+http://178.32.53.254/rtvd/livestream/master.m3u8
+#EXTINF:-1, Discovery 
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, DJING TECHNO
+http://www.iptvsaga.com/play/tv3/0089.m3u8
+#EXTINF:-1, DTV
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
+#EXTINF:-1, DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1, DxTV
+http://186.33.227.199/DXTV/smil:DXTV.smil/master.m3u8
+#EXTINF:-1, DXTV
+http://186.33.227.195/DXTV/DXTV.smil/master.m3u8
+#EXTINF:-1, Educativo
+http://170.55.15.122:8000/play/a00m
+#EXTINF:-1, Educativo 2
+http://170.55.15.122:8000/play/a021
+#EXTINF:-1, Efekto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1, EITB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1, El Correo TV
+http://cls.elitehd-audiovisuales.com/luztv/livestream/master.m3u8
+#EXTINF:-1, El Dia TV
+http://teledifusion.tv:1935/dia/dia/master.m3u8
+#EXTINF:-1, El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1, El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1, Enlace JV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:-1, Enlace TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+#EXTINF:-1, ESTREMADURA TV
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8?DVR
+#EXTINF:-1, Euronews
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/24-live.m3u8
+#EXTINF:-1, Extremadura TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1, Game Of Thrones 24/7 HD
+http://latino-webtv.ml/series/gameofthrones.mp4
+#EXTINF:-1, Girona TV
+http://tvgirona.dnssw.net:1935/live/Icontouch/master.m3u8
+#EXTINF:-1, Gravity Falls 24/7 HD
+http://latino-webtv.ml/series/gravityfalls.mp4
+#EXTINF:-1, Guatevision - Canal 25
+http://162.220.218.101:8081/live/stream1.sdp/chunks.m3u8
+#EXTINF:-1, Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/master.m3u8
+#EXTINF:-1, IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8
+#EXTINF:-1, IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1, Intereconomia 
+http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
+#EXTINF:-1, LA 1
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
+#EXTINF:-1, LA 2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8
+#EXTINF:-1, La Otra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live.m3u8
+#EXTINF:-1, La regional de CLM
+http://cast.streamingconnect.tv:1935/laregional/laregional/master.m3u8
+#EXTINF:-1, La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1, LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1, Lancetot TV
+http://62.210.141.18:1935/directo/lancelot.television/master.m3u8
+#EXTINF:-1, Las estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
+#EXTINF:-1, Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/master.m3u8
+#EXTINF:-1, Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1, LifeDesignHD
+http://edge.wms28.lorini.net/ldtv/ldtv/master.m3u8
+#EXTINF:-1, LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1, Los Simpsons 24/7 HD
+http://latino-webtv.ml/series/simpsons.mp4
+#EXTINF:-1, LRI966 Cadena 103 - 103.1 TV
+http://200.41.182.220:1935/live/myStream/master.m3u8
+#EXTINF:-1, LU90 Canal 7 TV
+http://01.solumedia.com.ar:1935/c7/myStream/master.m3u8
+#EXTINF:-1, M1 Maresme
+https://cdns724ste1010secure.shooowit.net/m1tvlive/smil:live.smil/master.m3u8
+#EXTINF:-1, Marbella TV
+http://cls.provideo.es/marbellatv/livestream/master.m3u8
+#EXTINF:-1, Max Digital 13
+http://www.coninfo.net:1935/13max/live/master.m3u8
+#EXTINF:-1, MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1, Mi Gente
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
+#EXTINF:-1, Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/master.m3u8
+#EXTINF:-1, MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1, Mirame TV
+http://185.23.213.54:1935/mirametv/mirametv/master.m3u8
+#EXTINF:-1, Mola TV
+http://archlinux.frigola.cat:8080/mola/directe.m3u8
+#EXTINF:-1, Multivisión
+http://170.55.15.122:8000/play/a01t
+#EXTINF:-1, Nasa Tv
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:-1, Navarra TV
+http://live2.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/.m3u8
+#EXTINF:-1, Ncdn
+http://livestream-f.akamaihd.net/15754920_4458460_63434067_1_2128@391999?
+#EXTINF:-1, NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1, Noticias 16
+http://mek2.mekstream.com:1935/noticias16/live2/master.m3u8
+#EXTINF:-1, Ol Cadiz
+http://cloud1.cdnstreamserver.com/olcadiz/livestream1/master.m3u8
+#EXTINF:-1, Ol Costa
+http://cloud1.cdnstreamserver.com/olcosta/livestream1/master.m3u8
+#EXTINF:-1, Ol Malaga
+http://cloud1.cdnstreamserver.com/olmalaga/livestream1/master.m3u8
+#EXTINF:-1, Ol Marvella
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/master.m3u8
+#EXTINF:-1, Ol Sevilla
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/master.m3u8
+#EXTINF:-1, Onda Algeciras TV
+http://cls.provideo.es/algecirastv/livestream/master.m3u8
+#EXTINF:-1, Onda Azul
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8
+#EXTINF:-1, Onda Jaen
+http://46.39.192.63:1935/jaen/jaen1.stream_origp/master.m3u8
+#EXTINF:-1, Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1, PakaPaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:-1, Popular TV
+http://cls.todostreaming.eu/ptvcantabria/livestream/master.m3u8
+#EXTINF:-1, Promar TV
+http://edge.wms28.lorini.net/promar/promar/master.m3u8
+#EXTINF:-1, Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1, Radio One
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1, RCG TV Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1, Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, Ribera TV
+http://orion.comelson.es/ribera/livestream/master.m3u8
+#EXTINF:-1, RT
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8
+#EXTINF:-1, RT Vida
+http://178.32.53.254/radiovida/livestream/master.m3u8
+#EXTINF:-1, RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1, RTV CE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/master.m3u8
+#EXTINF:-1, Señal Colombia
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/master.m3u8
+#EXTINF:-1, Señal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1, Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1, SI TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1, sportv
+http://84.91.119.47:8001/1:0:1:12E:67:53:CE40000:0:0:0:
+#EXTINF:-1, STANDBY TV
+http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
+#EXTINF:-1, Tateti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1, Tele B
+http://directe.tvbadalona.cat:1935/live/myStream.sdp/master.m3u8
+#EXTINF:-1, TELE DONOSTI
+http://brightcove03-f.akamaihd.net/livediariovasco_1_500@410469?videoId=5071752331001&lineUpId=&pubId=85688294001&playerId=292369646001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2023,0,0,207&r=VCSPF&g=TIMNFNFRLOJN
+#EXTINF:-1, Tele Rebelde
+http://170.55.15.122:8000/play/a020
+#EXTINF:-1, Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1, TeleBilbao
+http://cls.telebilbao.es/telebilbao/livestream/master.m3u8
+#EXTINF:-1, Telecafé
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1, Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1, TeleCaribe
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/master.m3u8
+#EXTINF:-1, TeleFuturo
+http://qs1.distream.net:2112/tf_str/futu/master.m3u8
+#EXTINF:-1, Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live.m3u8
+#EXTINF:-1, TeleMax
+http://enhd.co:1935/ilive/ilive/master.m3u8
+#EXTINF:-1, Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1, Telemetro
+http://d1p0temutxs3bj.cloudfront.net/telemetrolive/medcomtm/playlist.m3u8
+#EXTINF:-1, Telepin Pinamar HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1, Telesur
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/master.m3u8
+#EXTINF:-1, Televida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1, Terrasa Valles
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/master.m3u8
+#EXTINF:-1, TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1, TLX
+http://live-edge01.telecentro.net.ar/live/tlxhd-360/master.m3u8
+#EXTINF:-1, Travel
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:-1, Trendy Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1, TRT TV
+http://edge.wms28.lorini.net/trttv/trttv/master.m3u8
+#EXTINF:-1, TV 4
+http://188.165.135.22/15o8376r/mystream/master.m3u8
+#EXTINF:-1, TV Blast
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+#EXTINF:-1, TV Galicia
+http://media3.crtvg.es/live/tvge/master.m3u8
+#EXTINF:-1, TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1, TV Mas
+http://50.7.98.234:1935/rtv/videortv/master.m3u8
+#EXTINF:-1, TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:-1, TV Melilla
+http://stream.inmusa.es:1935/tvmelilla/live/master.m3u8
+#EXTINF:-1, TV Pacifico Culiacan
+http://74.63.97.188:1935/gpacifico1/gpculiacan.smil/master.m3u8
+#EXTINF:-1, TV Pacifico Mazatlan
+http://74.63.97.188:1935/gpacifico4/mazatlan.smil/master.m3u8
+#EXTINF:-1, TV Pacifico Mochis
+http://74.63.97.188:1935/gpacifico2/mochis.smil/master.m3u8
+#EXTINF:-1, TV Pacifico Obregon
+http://74.63.97.188:1935/gpacifico3/obregon.smil/master.m3u8
+#EXTINF:-1, TV5MONDE
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1, TV8
+http://streaming.8tv.cat/8TV/8aldia-directe/master.m3u8
+#EXTINF:-1, TVCS
+http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/live.smil/master.m3u8
+#EXTINF:-1, TVE 60 Aniversario
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
+#EXTINF:-1, TVES
+http://cast.streamingconnect.tv:1935/tves2/tves2/master.m3u8
+#EXTINF:-1, TVS
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_720p/playlist.m3u8?
+#EXTINF:-1, Una Voz Con Todos
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+#EXTINF:-1, UNE Medellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
+#EXTINF:-1, UNE TV CARIBE
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+#EXTINF:-1, UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1, Unimas
+http://170.55.15.122:8000/play/a01v
+#EXTINF:-1, Univision23
+http://170.55.15.122:8000/play/a024
+#EXTINF:-1, Urban 106.1 TV
+http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
+#EXTINF:-1, UTV
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1/chunklist_w1182659521.m3u8
+#EXTINF:-1, Valles Oriental TV
+http://video-streaming.laxarxa.com:1935/ocasional5/directe/master.m3u8
+#EXTINF:-1, Virgin TV
+http://wow01.105.net/live/virgin1/master.m3u8
+#EXTINF:-1, VMAS TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:-1, Webcam Safari Africa
+http://206.190.138.100:1935/abs-edge/smil:wil-safari-01-abs.smil/playlist.m3u8
+#EXTINF:-1, Willax TV
+http://m.mediastream.pe/vv_willax/livestream/master.m3u8
+#EXTINF:-1, YES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
