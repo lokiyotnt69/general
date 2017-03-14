@@ -3,13 +3,16 @@
 Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR lime] ******[/COLOR]" URL=""; regex""
 Server:"IPTV 1[COLOR lime] 01:[/COLOR]" URL="http://www.t12v.com:8000/get.php?username=moroco&password=moroco&type=m3u"; regex""
 Server:"IPTV 2[COLOR red] 02:[/COLOR]" URL=" http://88.198.185.5:25461/get.php?username=KECQKA19mH&password=N9e1r33ZHb&type=m3u"; regex""
-Server:"IPTV 3[COLOR red] 03:[/COLOR]" URL=""; regex"" 
+Server:"IPTV 3[COLOR red] 03:[/COLOR]" URL="http://37.187.175.177:8000/get.php?username=riadh1375&password=riadh1375&type=m3u"; regex"" 
 Server:"IPTV 4[COLOR lime] 04:[/COLOR]" URL="http://4u.best-ul.com:8000/get.php?username=alexander&password=alexander&type=m3u"; regex""
 Server:"IPTV 5[COLOR lime] 05:[/COLOR]" URL="http://www.t12v.com:8000/get.php?username=moroco&password=moroco&type=m3u"; regex""
 Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL=""; regex""
 Server:"IPTV 7[COLOR red] 07:[/COLOR]" URL=""; regex""
 Server:"IPTV Paises[COLOR lime] 08:[/COLOR]" URL="http://supervip.mine.nu:36000/get.php?username=dodi&password=dod123&type=m3u"; regex""
 Server:"IPTV Paises[COLOR lime] 09:[/COLOR]" URL="http://dreamlord.tk:5454/get.php?username=PlexDec&password=DecPlex&type=m3u"; regex""
+Server:"IPTV Paises[COLOR lime] 09:[/COLOR]" URL="http://iptv.bighd.us:1557/get.php?username=Prova&password=Prova&type=m3u"; regex""
+Server:"IPTV Paises[COLOR lime] 09:[/COLOR]" URL=""; regex""
+Server:"IPTV Paises[COLOR lime] 09:[/COLOR]" URL=""; regex""
 
 
 
