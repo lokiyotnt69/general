@@ -130,7 +130,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] Disfruta Con la Familia  [/COLOR]</title>
+<title>[COLOR red] Disfruta Con la Familia  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -149,7 +149,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item> 
-<title>[COLOR blue]  TV  [/COLOR]</title>
+<title>[COLOR green]  TV  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
