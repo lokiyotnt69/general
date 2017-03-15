@@ -109,15 +109,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR white] TUTORIALES KODI[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.muypymes.com/wp-content/uploads/2014/04/youtube_channels.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
-</item>
-
-
 
 
 <item> 
@@ -151,14 +142,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR skyblue]  JHG TV + 2  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
-<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
-</item>
-
 
 <item> 
 <title>[COLOR green]  TV  [/COLOR]</title>
@@ -167,6 +150,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/TV.m3u</externallink>	
 </item>
+
+
+
+
+<item>
+<title>-[COLOR white] TUTORIALES KODI[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.muypymes.com/wp-content/uploads/2014/04/youtube_channels.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
+</item>
+
+
+
+
+
 
 <item>
 <title>[COLOR blue]   [/COLOR]</title>
