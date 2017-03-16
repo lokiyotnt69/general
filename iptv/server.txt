@@ -6,10 +6,6 @@ Server:"IPTV 2[COLOR lime] 02:[/COLOR]" URL="http://46.105.104.133:8000/get.php?
 Server:"IPTV 3[COLOR lime] 03:[/COLOR]" URL="http://thgip.tk:8000/get.php?username=7star77&password=vg6gbFokn9&type=m3u"; regex"" 
 Server:"IPTV 4[COLOR red] 04:[/COLOR]" URL=""; regex""
 Server:"IPTV 5[COLOR red] 05:[/COLOR]" URL=""; regex""
-Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL=""; regex""
-Server:"IPTV 7[COLOR red] 07:[/COLOR]" URL=""; regex""
-Server:"IPTV Paises[COLOR red] 08:[/COLOR]" URL=""; regex""
-Server:"IPTV Paises[COLOR red] 09:[/COLOR]" URL=""; regex""
 Server:"IPTV Paises[COLOR red] 10:[/COLOR]" URL=""; regex""
 
 
