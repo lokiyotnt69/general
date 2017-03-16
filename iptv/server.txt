@@ -4,8 +4,8 @@ Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR lime] ******[/COLOR]" URL=""; 
 Server:"IPTV 1[COLOR lime] 01:[/COLOR]" URL="http://www.t12v.com:8000/get.php?username=moroco&password=moroco&type=m3u"; regex""
 Server:"IPTV 2[COLOR lime] 02:[/COLOR]" URL="http://46.105.104.133:8000/get.php?username=moroco&password=moroco&type=m3u"; regex""
 Server:"IPTV 3[COLOR lime] 03:[/COLOR]" URL="http://thgip.tk:8000/get.php?username=7star77&password=vg6gbFokn9&type=m3u"; regex"" 
-Server:"IPTV 4[COLOR red] 04:[/COLOR]" URL="http://195.154.154.185:5890/get.php?username=haj&password=haj&type=m3u"; regex""
-Server:"IPTV 5[COLOR red] 05:[/COLOR]" URL="http://theiptv.ddns.net:25461/get.php?username=Francisco&password=Francisco&type=m3u"; regex""
-Server:"IPTV 6[COLOR red] 10:[/COLOR]" URL="http://premium-ott.com:8000/get.php?username=cimino&password=123456&type=m3u"; regex""
+Server:"IPTV 4[COLOR red] 04:[/COLOR]" URL=""; regex""
+Server:"IPTV 5[COLOR lime] 05:[/COLOR]" URL="http://theiptv.ddns.net:25461/get.php?username=Francisco&password=Francisco&type=m3u"; regex""
+Server:"IPTV 6[COLOR red] 6:[/COLOR]" URL="http://premium-ott.com:8000/get.php?username=cimino&password=123456&type=m3u"; regex""
 
 
