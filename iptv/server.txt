@@ -10,7 +10,7 @@ Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL="http://79.137.40.18:8080/get.php?use
 Server:"IPTV 7[COLOR red] 07:[/COLOR]" URL="http://mainxc.dyndns.org:8080/get.php?username=tonynew&password=tonynew&type=m3u"; regex""
 Server:"IPTV Paises[COLOR red] 08:[/COLOR]" URL="http://supervip.mine.nu:36000/get.php?username=dodi&password=dod123&type=m3u"; regex""
 Server:"IPTV Paises[COLOR red] 09:[/COLOR]" URL="http://dreamlord.tk:5454/get.php?username=PlexDec&password=DecPlex&type=m3u"; regex""
-Server:"IPTV Paises[COLOR red] 10:[/COLOR]" URL=""; regex""
+Server:"IPTV Paises[COLOR red] 10:[/COLOR]" URL="http://167.114.172.33:8000/get.php?username=Z9C09GI3U3&password=8z8JwkrUQO&type=m3u"; regex""
 
 
 
