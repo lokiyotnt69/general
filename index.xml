@@ -111,7 +111,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] **PELICULAS**[/COLOR]</title>
+<title>-[COLOR red] ESTRENOS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
 <fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
@@ -161,10 +161,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>-[COLOR skyblue] LISTA Nueva.. en prueba [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
+<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
+<externallink></externallink>	
+</item>
 
 
 <item>
-<title>-[COLOR white] TUTORIALES KODI[/COLOR]</title>
+<title>-[COLOR white] TUTORIALES KODI En BREVE[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.muypymes.com/wp-content/uploads/2014/04/youtube_channels.jpg</thumbnail>
 <fanart></fanart>
