@@ -134,31 +134,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item> 
-<title>[COLOR green]  TV  [/COLOR]</title>
+
+
+<item>
+<title>[COLOR red] Disfruta Con la Familia  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/TV.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/Disfrutaconlafamilia.xml</externallink>	
 </item>
 
 
-<item>
-<title>-[COLOR skyblue] LISTA Nueva.. en prueba [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
-<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/server2.2.m3u</externallink>	
-</item>
 
-
-<item>
-<title>-[COLOR white] TUTORIALES KODI En BREVE[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.muypymes.com/wp-content/uploads/2014/04/youtube_channels.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
-</item>
 
 
 
