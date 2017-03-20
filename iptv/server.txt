@@ -5,4 +5,9 @@ Server:"IPTV 1[COLOR lime] 01:[/COLOR]" URL="http://163.172.15.23:8000/get.php?u
 Server:"IPTV 2[COLOR lime] 02:[/COLOR]" URL="http://163.172.213.25:8000/get.php?username=mariano&password=mariano&type=m3u"; regex""
 Server:"IPTV 3[COLOR lime] 03:[/COLOR]" URL="http://163.172.213.25:8000/get.php?username=gregorio&password=gregorio&type=m3u"; regex"" 
 Server:"IPTV 4[COLOR lime] 04:[/COLOR]" URL="http://ip.kmsat.info:8000/get.php?username=964725081007&password=001DEC061EE1&type=m3u"; regex""
-Server:"IPTV 5[COLOR red] 05:[/COLOR]" URL=""; regex""
+Server:"IPTV 5[COLOR red] 05:[/COLOR]" URL="http://ip.openfor.tv:8000/get.php?username=maundyboy&password=KYORFfHrD1&type=m3u"; regex""
+Server:"IPTV 5[COLOR red] 05:[/COLOR]" URL="http://ipsatpro.com:8000/get.php?username=alexbkk&password=alexbkk&type=m3u"; regex""
+Server:"IPTV 5[COLOR red] 05:[/COLOR]" URL="http://ip.kmsat.info:8000/get.php?username=964725081007&password=001DEC061EE1&type=m3u"; regex""
+
+
+
