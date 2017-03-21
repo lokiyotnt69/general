@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item> 
-<title>[COLOR blue] Servido [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
+<title>[COLOR blue] Servidor [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
 <fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
@@ -172,7 +172,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR skyblue]  JHG TV + 2  [/COLOR]</title>
+<title>-[COLOR skyblue] DEPORTES (nuevo) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
