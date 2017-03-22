@@ -131,6 +131,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>[COLOR skyblue] TV+ 2.2[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
+<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/server2.2.m3u</externallink>	
+</item>
 
 
 <item>
@@ -140,11 +147,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>	
 </item>
-
-
-
-
-
 
 
 
@@ -159,27 +161,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
 <item>
-<title>-[COLOR red] Lista Remota 1.0  OFF[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
-</item>
-
-
-
-<item>
-<title>[COLOR skyblue] LISTA 2 en reformas[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
-<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/server2.2.m3u</externallink>	
-</item>
-
-<item>
-<title>-[COLOR white] TDT EN REFORMAS 1[/COLOR]</title>
+<title>-[COLOR white] TDT [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
@@ -188,8 +171,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
-<title>-[COLOR blue] MUNDO INFANTIL En Reformas [/COLOR]</title>
+<title>-[COLOR red] MUNDO INFANTIL En Reformas [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -199,13 +183,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR green]  CANALES CRIOS  EN REFORMAS OFF[/COLOR]</title>
+<title>[COLOR red]  CANALES CRIOS  EN REFORMAS OFF[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Canalescrios.xml</externallink>	
+<externallink></externallink>	
 </item>
 
+
+<item>
+<title>-[COLOR red] Lista para Reformas.  OFF[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
+<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
+</item>
 
 
 
