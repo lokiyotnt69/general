@@ -122,24 +122,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
- 
-<item>
-<title>[COLOR skyblue]JHG  TV+ OFF[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.anahuac.mx/mexico/posgrados/images/convenios/16dce95.png</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGMovistar.xml</externallink>	
-</item>
-
-
-<item>
-<title>[COLOR skyblue] TV+ 2.2 OFF[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
-<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/server2.2.m3u</externallink>	
-</item>
-
 
 <item>
 <title>-[COLOR white] ESTRENOS 2016  NUEVO[/COLOR]</title>
@@ -150,26 +132,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
 <item>
-<title>-[COLOR skyblue] DEPORTES OFF [/COLOR]</title>
+<title>[COLOR blue] ESTRENOS 2017  [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
-<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/ESTRENOS2017.xml</externallink>	
 </item>
 
-
-
-
-
-<item>
-<title>-[COLOR white] TDT [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
-<fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tdt.m3u</externallink>	
-</item>
 
 
 
@@ -184,32 +154,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR red]  CANALES CRIOS  EN REFORMAS OFF[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
 
 
-<item>
-<title>-[COLOR red] Lista para Reformas.  OFF[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
-</item>
-
-
-
-<item>
-<title>[COLOR blue] ESTRENOS 2017  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/ESTRENOS2017.xml</externallink>	
-</item>
 
 
 <item>
