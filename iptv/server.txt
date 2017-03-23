@@ -7,6 +7,10 @@ Server:"IPTV 3[COLOR lime] 03:[/COLOR]" URL="http://globiptv.com:8000/get.php?us
 Server:"IPTV 4[COLOR lime] 04:[/COLOR]" URL="http://ip.kmsat.info:8000/get.php?username=964725081007&password=001DEC061EE1&type=m3u"; regex""
 Server:"IPTV 5[COLOR lime] 05:[/COLOR]" URL="http://iptvsido.spdns.org:8080/get.php?username=STAR7ARAB&password=STAR7ARAB&type=m3u"; regex""
 Server:"IPTV 6[COLOR lime] 06:[/COLOR]" URL="http://xcmain.mine.nu:8080/get.php?username=grspan&password=sxlk2slkx&type=m3u"; regex""
-Server:"IPTV 7[COLOR red] 07:[/COLOR]" URL=""; regex""
+Server:"IPTV 7[COLOR red] 07:[/COLOR]" URL="http://neworldiptv.servepics.com:8000/get.php?username=julien&password=julien&type=m3u"; regex""
 Server:"IPTV 8[COLOR red] 08:[/COLOR]" URL=""; regex""
 Server:"IPTV 9[COLOR red] 09:[/COLOR]" URL=""; regex""
+
+
+
+
