@@ -108,15 +108,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR skyblue]JHG  TV+ OFF[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.anahuac.mx/mexico/posgrados/images/convenios/16dce95.png</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGMovistar.xml</externallink>	
-</item>
-
-
 
 
 <item> 
@@ -143,8 +134,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR blue] ESTRENOS 2017  [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://m1.paperblog.com/i/169/1690500/top-10-peliculas-estrenadas-2012-L-yyrTGe.jpeg</thumbnail>
+<fanart>http://m1.paperblog.com/i/169/1690500/top-10-peliculas-estrenadas-2012-L-yyrTGe.jpeg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/ESTRENOS2017.xml</externallink>	
 </item>
 
@@ -153,10 +144,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] MUNDO INFANTIL En Reformas [/COLOR]</title>
+<title>-[COLOR red] MUNDO INFANTIL  [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/1118752487/LOGO_MUNDO_INF.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/1118752487/LOGO_MUNDO_INF.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Mundoinfantil.xml</externallink>	
 </item>
 
