@@ -110,13 +110,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item> 
-<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
-<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
-</item> 
 
 
 
@@ -149,10 +142,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-
 <item>
 <title>-[COLOR red] MUNDO INFANTIL  [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -160,8 +149,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://pbs.twimg.com/profile_images/1118752487/LOGO_MUNDO_INF.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Mundoinfantil.xml</externallink>	
 </item>
-
-
 
 
 
@@ -177,7 +164,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR white] TDT en reformas [/COLOR]</title>
+<title>-[COLOR gold] TDT  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
@@ -188,8 +175,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item> 
+<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV En Reformas[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
+<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
+</item> 
+
+
+
 <item>
-<title>[COLOR yellow] LA LIGA PROXIMAMENTE!! [/COLOR]</title>
+<title>[COLOR white] LA LIGA PROXIMAMENTE!! [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -198,7 +195,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] SERIES PROXIMAMENTE  [/COLOR]</title>
+<title>[COLOR white] SERIES PROXIMAMENTE  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -208,7 +205,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow]  MOTOGP Y F1 (PROXIMAMENTE) [/COLOR]</title>
+<title>-[COLOR white]  MOTOGP Y F1 (PROXIMAMENTE) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
 <fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
