@@ -206,21 +206,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] Canales Musica (PRoximamente) [/COLOR]</title>
+<title>[COLOR yellow] Canales Musica  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/MUSICA.xml</externallink>	
 </item>
 
 
 
 <item>
-<title>[COLOR yellow] DOCUMENTALES (proximamente) [/COLOR]</title>
+<title>[COLOR yellow] DOCUMENTALES  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/documentales.xml</externallink>	
 </item>
 
 
