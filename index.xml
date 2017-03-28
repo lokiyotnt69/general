@@ -185,14 +185,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
 <item>
-<title>[COLOR white] DEPORTES OFF [/COLOR]</title>
+<title>[COLOR yellow] DOCUMENTALES  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/documentales.xml</externallink>	
 </item>
-
 
 
 
@@ -206,6 +207,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+<item>
+<title>[COLOR white] DEPORTES OFF [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.xml</externallink>	
+</item>
+
+
+
 <item>
 <title>[COLOR yellow] Canales Musica OFF [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -213,18 +225,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/MUSICA.xml</externallink>	
 </item>
-
-
-
-<item>
-<title>[COLOR yellow] DOCUMENTALES  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/documentales.xml</externallink>	
-</item>
-
-
 
 
 
