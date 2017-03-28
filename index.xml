@@ -127,7 +127,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR white] ESTRENOS 2016  NUEVO[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>https://farm2.staticflickr.com/1538/23857425649_df6c7cf6e3_z.jpg</thumbnail>
 <fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>	
 </item>
@@ -157,8 +157,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR red]  CANALES CRIOS  [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://2clicks.files.wordpress.com/2006/08/pequestop.jpg</thumbnail>
+<fanart>https://2clicks.files.wordpress.com/2006/08/pequestop.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Canalescrios.xml</externallink>	
 </item>
 
@@ -191,8 +191,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR yellow] DOCUMENTALES  [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://i158.photobucket.com/albums/t118/Trujan1/GrandesDocumentales_zps2eef2654.jpg</thumbnail>
+<fanart>http://i158.photobucket.com/albums/t118/Trujan1/GrandesDocumentales_zps2eef2654.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/documentales.xml</externallink>	
 </item>
 
@@ -201,27 +201,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-
-<item>
-<title>-[COLOR white]  MOTOGP Y F1 (PROXIMAMENTE) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
-<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
-</item>
-
-
-
-<item>
-<title>[COLOR white] DEPORTES OFF [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.xml</externallink>	
-</item>
 
 
 
