@@ -114,6 +114,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
 <title>[COLOR skyblue] TV+ MOVISTAR  [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -197,6 +198,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+
+
+
+
 <item>
 <title>-[COLOR white]  MOTOGP Y F1 (PROXIMAMENTE) [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -204,7 +212,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
 </item>
-
 
 
 
@@ -218,21 +225,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR yellow] Canales Musica OFF [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/MUSICA.xml</externallink>	
-</item>
 
-
-
-
-<item>
-<title>-[COLOR red] Peliculas LATINO [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
-</item>
