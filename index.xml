@@ -200,6 +200,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR white] TOP  MUSICA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Topmusica.m3u</externallink>	
+</item>
+
+
+
 
 
 
@@ -210,5 +220,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
 </item>
+
 
 
