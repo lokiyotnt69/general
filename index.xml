@@ -114,6 +114,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR white] Tv 2.1  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
+<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
+</item>
+
 
 <item>
 <title>[COLOR skyblue] TV+ MOVISTAR  [/COLOR]</title>
@@ -132,14 +140,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>	
 </item>
 
-
-<item>
-<title>[COLOR blue] ESTRENOS 2017 (En Reformas) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://m1.paperblog.com/i/169/1690500/top-10-peliculas-estrenadas-2012-L-yyrTGe.jpeg</thumbnail>
-<fanart>http://m1.paperblog.com/i/169/1690500/top-10-peliculas-estrenadas-2012-L-yyrTGe.jpeg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/ESTRENOS2017.xml</externallink>	
-</item>
 
 
 
@@ -174,6 +174,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR white] TOP  MUSICA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Topmusica.m3u</externallink>	
+</item>
+
+
 
 
 <item> 
@@ -185,6 +194,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 
+
+<item>
+<title>[COLOR blue] ESTRENOS 2017 (En Reformas) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://m1.paperblog.com/i/169/1690500/top-10-peliculas-estrenadas-2012-L-yyrTGe.jpeg</thumbnail>
+<fanart>http://m1.paperblog.com/i/169/1690500/top-10-peliculas-estrenadas-2012-L-yyrTGe.jpeg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/ESTRENOS2017.xml</externallink>	
+</item>
 
 
 
@@ -198,15 +215,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-<item>
-<title>[COLOR white] TOP  MUSICA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Topmusica.m3u</externallink>	
-</item>
 
 
 
