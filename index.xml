@@ -113,10 +113,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR white]  tv + 2.1 (--) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
+<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.1.xml</externallink>	
+</item>
+
 
 
 <item>
-<title>[COLOR skyblue] TV+ MOVISTAR  [/COLOR]</title>
+<title>[COLOR skyblue] TV+ MOVISTAR (En ReFormas) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
@@ -125,7 +133,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR white] ESTRENOS 2016  NUEVO[/COLOR]</title>
+<title>-[COLOR white] ESTRENOS 2016  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://farm2.staticflickr.com/1538/23857425649_df6c7cf6e3_z.jpg</thumbnail>
 <fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
