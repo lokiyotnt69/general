@@ -164,7 +164,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red]  CANALES CRIOS  [/COLOR]</title>
+<title>[COLOR red]  CANALES CRIOS OFF [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://2clicks.files.wordpress.com/2006/08/pequestop.jpg</thumbnail>
 <fanart>https://2clicks.files.wordpress.com/2006/08/pequestop.jpg</fanart>
@@ -174,7 +174,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR gold] TDT [/COLOR]</title>
+<title>-[COLOR gold] TDT  OFF [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
@@ -207,7 +207,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] DOCUMENTALES  [/COLOR]</title>
+<title>[COLOR yellow] DOCUMENTALES OFF [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i158.photobucket.com/albums/t118/Trujan1/GrandesDocumentales_zps2eef2654.jpg</thumbnail>
 <fanart>http://i158.photobucket.com/albums/t118/Trujan1/GrandesDocumentales_zps2eef2654.jpg</fanart>
