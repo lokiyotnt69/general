@@ -2,7 +2,7 @@
 
 Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR lime] ******[/COLOR]" URL=""; regex""
 Server:"IPTV 1[COLOR lime]01:[/COLOR]" URL="http://kepleriptv.cechire.org:15003/get.php?username=SSLazio1900pa&password=g2PVYfz4xR&type=m3u"; regex"" 
-Server:"IPTV 2[COLOR lime]02:[/COLOR]" URL="http://217.23.12.7:58080/get.php?username=cimoronow2&password=b9jM03sR7p&type=m3u"; regex""
+Server:"IPTV 2[COLOR red]02:[/COLOR]" URL=""; regex""
 Server:"IPTV 3[COLOR lime]03:[/COLOR]" URL="http://ipsatpro.org:8000/get.php?username=iudtest115&password=iudtest115&type=m3u"; regex""
 Server:"IPTV 4[COLOR lime]04:[/COLOR]" URL="http://dcciptv.cechire.net:15004/get.php?username=GiroNew&password=zufg2wbOka&type=m3u"; regex""
 Server:"IPTV 5[COLOR red]05:[/COLOR]" URL=""; regex""
