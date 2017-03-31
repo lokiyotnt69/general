@@ -192,6 +192,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>-[COLOR red] TOP RADIOS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/RADIOS.m3u</externallink>	
+</item>
+
 
 
 
@@ -231,14 +239,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-<item>
-<title>-[COLOR red] COLOMBIA off [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Colombia.m3u</externallink>	
-</item>
 
 
 <item>
