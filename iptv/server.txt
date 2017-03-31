@@ -1,8 +1,19 @@
 
 
 Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR lime] ******[/COLOR]" URL=""; regex""
-Server:"IPTV 3[COLOR red]03:[/COLOR]" URL="http://biwsat.com:8080/get.php?username=bwy7VcFnGF&password=8HFDYHWbwv&type=m3u"; regex"" 
-Server:"IPTV 4[COLOR red]04:[/COLOR]" URL="http://worldiptvbox.ddns.net:5210/get.php?username=i9fcQOFksC&password=iIo09Cp18b&type=m3u"; regex""
+Server:"IPTV 1[COLOR lime]01:[/COLOR]" URL="http://kepleriptv.cechire.org:15003/get.php?username=SSLazio1900pa&password=g2PVYfz4xR&type=m3u"; regex"" 
+Server:"IPTV 2[COLOR lime]02:[/COLOR]" URL="http://217.23.12.7:58080/get.php?username=cimoronow2&password=b9jM03sR7p&type=m3u"; regex""
+Server:"IPTV 3[COLOR lime]03:[/COLOR]" URL="http://ipsatpro.org:8000/get.php?username=iudtest115&password=iudtest115&type=m3u"; regex""
+Server:"IPTV 4[COLOR lime]04:[/COLOR]" URL="http://dcciptv.cechire.net:15004/get.php?username=GiroNew&password=zufg2wbOka&type=m3u"; regex""
 Server:"IPTV 5[COLOR red]05:[/COLOR]" URL=""; regex""
-Server:"IPTV 5[COLOR red]05:[/COLOR]" URL=""; regex""
-Server:"IPTV 5[COLOR red]05:[/COLOR]" URL=""; regex""
+Server:"IPTV 6[COLOR lime]06:[/COLOR]" URL="http://link.softiptv.com:2500/get.php?username=OKfD01hyod&password=qRcJT1gcdK&type=m3u"; regex""
+Server:"IPTV 7[COLOR lime]07:[/COLOR]" URL="http://149.56.16.58:25461/get.php?username=MAmammaaaa&password=88888&type=m3u"; regex""
+Server:"IPTV 8[COLOR lime]08:[/COLOR]" URL="http://link.softiptv.com:2500/get.php?username=fWIpuI2nRD&password=PG1DGS1lNh&type=m3u"; regex""
+Server:"IPTV 9[COLOR red]09:[/COLOR]" URL=""; regex""
+Server:"IPTV 9[COLOR red]09:[/COLOR]" URL=""; regex""
+Server:"IPTV 9[COLOR red]09:[/COLOR]" URL=""; regex""
+Server:"IPTV 9[COLOR red]09:[/COLOR]" URL=""; regex""
+
+
+
+
