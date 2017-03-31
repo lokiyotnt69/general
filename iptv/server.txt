@@ -10,9 +10,7 @@ Server:"IPTV 6[COLOR lime]06:[/COLOR]" URL="http://link.softiptv.com:2500/get.ph
 Server:"IPTV 7[COLOR lime]07:[/COLOR]" URL="http://149.56.16.58:25461/get.php?username=MAmammaaaa&password=88888&type=m3u"; regex""
 Server:"IPTV 8[COLOR lime]08:[/COLOR]" URL="http://link.softiptv.com:2500/get.php?username=fWIpuI2nRD&password=PG1DGS1lNh&type=m3u"; regex""
 Server:"IPTV 9[COLOR red]09:[/COLOR]" URL=""; regex""
-Server:"IPTV 9[COLOR red]09:[/COLOR]" URL=""; regex""
-Server:"IPTV 9[COLOR red]09:[/COLOR]" URL=""; regex""
-Server:"IPTV 9[COLOR red]09:[/COLOR]" URL=""; regex""
+
 
 
 
