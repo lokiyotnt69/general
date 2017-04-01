@@ -168,10 +168,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail>https://2clicks.files.wordpress.com/2006/08/pequestop.jpg</thumbnail>
 <fanart>https://2clicks.files.wordpress.com/2006/08/pequestop.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Canalescrios.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/canalescrios.m3u</externallink>	
 </item>
 
-
+https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/canalescrios.m3u
 
 <item>
 <title>-[COLOR gold] TDT  OFF [/COLOR]</title>
@@ -242,7 +242,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] Pruebas JHG +2off[/COLOR]</title>
+<title>-[COLOR red] Pruebas JHG + PLUS (nuevo[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
 <fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
