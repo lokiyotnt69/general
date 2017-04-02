@@ -120,6 +120,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 
+<item>
+<title>-[COLOR gold] Pruebas JHG + PLUS (En Breve....[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
+<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/movistar3.xml</externallink>	
+</item>
 
 
 <item>
@@ -133,7 +140,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
 <item>
 <title>-[COLOR white] ESTRENOS 2016  [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -141,7 +147,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>	
 </item>
-
 
 
 
@@ -233,13 +238,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR red] Pruebas JHG + PLUS (En Breve....[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/movistar3.xml</externallink>	
-</item>
 
 
 <item>
