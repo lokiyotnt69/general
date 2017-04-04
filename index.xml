@@ -110,14 +110,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20server%202.0.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20server%202.xml</externallink>	
 </item>
 
 
 
  
 <item>
-<title>[COLOR skyblue] TODOPLUS (EN FASE) [/COLOR]</title>
+<title>[COLOR skyblue] TODOPLUS (EN FASE off) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
@@ -128,7 +128,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title>-[COLOR gold]  JHG + PLUS [/COLOR]</title>
+<title>-[COLOR gold]  JHG + PLUS Off [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
 <fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
