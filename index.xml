@@ -103,26 +103,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-<item>
-<title>[COLOR white] DEPORTES 2.0 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/JHG%20server%202.xml</externallink>	
-</item>
-
-
-
  
 <item>
-<title>[COLOR skyblue] TODOPLUS (EN FASE off) [/COLOR]</title>
+<title>[COLOR skyblue] TODOPLUS  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.2.xml</externallink>	
 </item>
+
  
 
  
@@ -173,23 +162,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-<item>
-<title>[COLOR blue]  CANALES CRIOS   [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://2clicks.files.wordpress.com/2006/08/pequestop.jpg</thumbnail>
-<fanart>https://2clicks.files.wordpress.com/2006/08/pequestop.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Canalescrios.xml</externallink>	
-</item>
-
-
-
 <item>
 <title>-[COLOR gold] TDT  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/TDT.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tdt.m3u</externallink>	
 </item>
 
 
@@ -226,15 +204,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR yellow] DOCUMENTALES  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i158.photobucket.com/albums/t118/Trujan1/GrandesDocumentales_zps2eef2654.jpg</thumbnail>
-<fanart>http://i158.photobucket.com/albums/t118/Trujan1/GrandesDocumentales_zps2eef2654.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/documentales.xml</externallink>	
-</item>
-
-
 
 
 
@@ -265,7 +234,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red]M+ (Nuevo) [/COLOR]</title>
+<title>-[COLOR red] pruebas 2.1 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
