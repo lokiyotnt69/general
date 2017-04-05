@@ -97,19 +97,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-
-
-
-<item>
-<title>-[COLOR white] La LIGA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</thumbnail>
-<fanart>http://www.informativostv.com/informativostv/images/CanalPlus/canalplus/ccierre08.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/jhgserver2.1.xml</externallink>	
-</item>
+ 
 
  
 <item>
@@ -213,6 +201,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+<item>
+<title>[COLOR white] Serie Dragon Ball [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
+<fanart>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/dragonball.m3u</externallink>	
+</item>
+ 
 
 
 
