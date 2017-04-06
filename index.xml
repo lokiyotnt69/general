@@ -135,6 +135,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR green] Canales Variados [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/canalesvariados.m3u</externallink>	
+</item>
+
+
 
 <item>
 <title>-[COLOR white] ESTRENOS 2016  [/COLOR]</title>
@@ -153,7 +162,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://pbs.twimg.com/profile_images/1118752487/LOGO_MUNDO_INF.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Mundoinfantil.xml</externallink>	
 </item>
-
 
 
 
@@ -191,14 +199,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] ESTRENOS 2017 (En Reformas) [/COLOR]</title>
+<title>-[COLOR red] Cartelera cine (En Fase para Finde SEmana) [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://m1.paperblog.com/i/169/1690500/top-10-peliculas-estrenadas-2012-L-yyrTGe.jpeg</thumbnail>
-<fanart>http://m1.paperblog.com/i/169/1690500/top-10-peliculas-estrenadas-2012-L-yyrTGe.jpeg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/ESTRENOS2017.xml</externallink>	
+<thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/basecine.xml</externallink>	
 </item>
-
-
 
 
 
@@ -229,15 +235,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-<item>
-<title>-[COLOR red] Canales Variados [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/canalesvariados.m3u</externallink>	
-</item>
 
 
 <item>
