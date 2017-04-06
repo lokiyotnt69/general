@@ -189,8 +189,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR red] TOP RADIOS [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://static.radio.es/images/broadcasts/81/8d/3396/c300.png</thumbnail>
+<fanart>http://static.radio.es/images/broadcasts/81/8d/3396/c300.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/RADIOS.m3u</externallink>	
 </item>
 
