@@ -156,7 +156,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] MUNDO INFANTIL  [/COLOR]</title>
+<title>-[COLOR purple] MUNDO INFANTIL  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1118752487/LOGO_MUNDO_INF.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/1118752487/LOGO_MUNDO_INF.jpg</fanart>
@@ -187,7 +187,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] TOP RADIOS [/COLOR]</title>
+<title>-[COLOR skyblue] TOP RADIOS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://static.radio.es/images/broadcasts/81/8d/3396/c300.png</thumbnail>
 <fanart>http://static.radio.es/images/broadcasts/81/8d/3396/c300.png</fanart>
@@ -225,7 +225,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] Pruebas JHG [/COLOR]</title>
+<title>-[COLOR brown] Pruebas JHG [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
 <fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
@@ -238,7 +238,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red] pruebas 2.1 [/COLOR]</title>
+<title>-[COLOR brown] pruebas 2.1 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
