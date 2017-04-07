@@ -219,6 +219,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 
+<item>
+<title>-[COLOR green] ITALIA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/italia.m3u</externallink>	
+</item>
 
 
 
@@ -235,7 +242,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] ++ [/COLOR]</title>
+<title>[COLOR white] F1 (EN REFORMAS) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -244,18 +251,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR skyblue] Mundial MOTOGP Y F1 (En ReFormas) [/COLOR]</title>
+<title>[COLOR skyblue] ++ (En ReFormas) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/server2.2.m3u</externallink>	
 </item>
  
-
-<item>
-<title>-[COLOR brown] ITALIA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/italia.m3u</externallink>	
-</item>
