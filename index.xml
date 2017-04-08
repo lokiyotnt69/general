@@ -20,8 +20,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
+<fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
 </item>
 
  
@@ -29,8 +29,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>                                          [COLOR yellow][B]  A G R A D E C I M I E N T O S:[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
+<fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
 </item>
 
 <item>
@@ -53,16 +53,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
+<fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
 </item>
 
 <item>
 <title>                                                                     [COLOR yellow][B]  Y[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
+<fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
 </item>
 
 <item>
@@ -85,8 +85,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
+<fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
 </item>
 
 
@@ -97,6 +97,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -148,8 +154,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR green] Canales Variados [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
+<fanart>https://k14.kn3.net/18FC515B3.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/canalesvariados.m3u</externallink>	
 </item>
 
@@ -212,7 +218,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>-[COLOR red] Cartelera cine (En Fase para Finde SEmana) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
-<fanart></fanart>
+<fanart>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/basecine.xml</externallink>	
 </item>
 
@@ -233,8 +239,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR green] ITALIA [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.fimatstore.com/flags/it.jpg</thumbnail>
+<fanart>http://www.fimatstore.com/flags/it.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/italia.m3u</externallink>	
 </item>
 
@@ -255,8 +261,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR white] DEPORTES 2.0 (EN REFORMAS) [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/JHG%20server%202.0.xml</externallink>	
 </item>
 
