@@ -156,7 +156,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
 <fanart>https://k14.kn3.net/18FC515B3.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/canalesvariados.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/canalesvariados.m3u</externallink>	
 </item>
 
 
@@ -210,17 +210,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/RADIOS.m3u</externallink>	
 </item>
 
-
-
-
-
-<item>
-<title>-[COLOR red] Cartelera cine (En Fase para Finde SEmana) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
-<fanart>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/basecine.xml</externallink>	
-</item>
 
 
 
