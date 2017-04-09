@@ -107,11 +107,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title>[COLOR skyblue] TODOPLUS  [/COLOR]</title>
+<title>[COLOR skyblue] TODOPLUS  (En Reformas)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/jhgserver2.2.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/todoplus.m3u</externallink>	
 </item>
 
  
@@ -119,7 +119,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title>-[COLOR gold]  JHG + PLUS  [/COLOR]</title>
+<title>-[COLOR gold]  JHG + PLUS (En Reformas) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
 <fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
@@ -142,7 +142,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR green] Canales Variados [/COLOR]</title>
+<title>-[COLOR green] Canales Variados (En Reformas) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
 <fanart>https://k14.kn3.net/18FC515B3.png</fanart>
@@ -216,7 +216,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR green] ITALIA [/COLOR]</title>
+<title>-[COLOR green] ITALIA (En Reformas)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.fimatstore.com/flags/it.jpg</thumbnail>
 <fanart>http://www.fimatstore.com/flags/it.jpg</fanart>
