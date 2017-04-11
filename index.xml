@@ -157,15 +157,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
- 
-<item>
-<title>[COLOR white]  DEPORTES (NUEVO) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MOVIDEPORTES.m3u</externallink>	
-</item>
-
 
 
 
@@ -287,5 +278,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
+ 
+<item>
+<title>[COLOR white]  DEPORTES (off) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MOVIDEPORTES.m3u</externallink>	
+</item>
+
  
  
