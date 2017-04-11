@@ -148,7 +148,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item> 
-<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV ( en reformas)[/COLOR]</title>
+<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
 <fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
@@ -157,6 +157,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+ 
+<item>
+<title>[COLOR white]  DEPORTES (NUEVO) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MOVIDEPORTES.m3u</externallink>	
+</item>
 
 
 
@@ -258,14 +266,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 
- 
-<item>
-<title>[COLOR white]  DEPORTES (NUEVO) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MOVIDEPORTES.m3u</externallink>	
-</item>
 
 
 
