@@ -258,7 +258,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR skyblue] Canales brasil (En ReFormas) [/COLOR]</title>
+<title>[COLOR skyblue] Canales  (En ReFormas) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
 <fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
@@ -270,7 +270,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] MUNDO LATINO [/COLOR]</title>
+<title>[COLOR white] MUNDO LATINO (En Reformas) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -279,7 +279,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] 3.0 [/COLOR]</title>
+<title>[COLOR white] Mundo JHG (Paises) off [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
