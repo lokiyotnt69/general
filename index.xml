@@ -104,6 +104,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
+<item>
+<title>[COLOR white] Tv 2.2 (EN REFORMAS) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
+</item>
+
+
  
  
 <item>
@@ -237,13 +246,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR white] NUEVA LISTA (EN REFORMAS) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
-</item>
 
 
 <item>
