@@ -249,10 +249,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR skyblue] Canales  (En ReFormas) [/COLOR]</title>
+<title>[COLOR skyblue] CANALES  [/COLOR][COLOR yellow] BRASIL [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
-<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/121/307/products/brazil11-ca247d22ba439c04cb14918267447136-320-0.jpg</thumbnail>
+<fanart>http://d26lpennugtm8s.cloudfront.net/stores/121/307/products/brazil11-ca247d22ba439c04cb14918267447136-320-0.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/server2.2.m3u</externallink>	
 </item>
  
@@ -271,7 +271,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] Mundo JHG (Paises) off [/COLOR]</title>
+<title>[COLOR white]  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
