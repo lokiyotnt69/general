@@ -274,8 +274,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR white]   ZUMBA Y FITNESS para Delia [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
 </item>
  
