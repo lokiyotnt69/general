@@ -258,10 +258,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
-
-
-
-
  
 <item>
 <title>[COLOR white] MUNDO LATINO (En Reformas) [/COLOR]</title>
@@ -301,14 +297,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
- 
+
  
 <item>
-<title>[COLOR white]  Nueva lista En Breve [/COLOR]</title>
+<title>[COLOR white]  SALA DE PRUEBAS[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MOVIDEPORTES.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTVLISTAS.xml</externallink>	
 </item>
 
  
