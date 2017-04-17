@@ -262,7 +262,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white]   ZUMBA Y FITNESS para Delia [/COLOR]</title>
+<title>[COLOR white]   ZUMBA Y FITNESS [/COLOR][COLOR yellow] DELIA  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
 <fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
@@ -282,7 +282,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title>[COLOR blue] CINE JHG [/COLOR]</title>
+<title>[COLOR blue] TODO CINE (***) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/sw8S94pPpkM/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/sw8S94pPpkM/hqdefault.jpg</fanart>
@@ -319,3 +319,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A-xml.xml</externallink>	
 </item>
+
+
+
+ 
+<item>
+<title>[COLOR green] ZONA TERROR (EN FASE) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/INDEXTerror.xml</externallink>	
+</item>
+
