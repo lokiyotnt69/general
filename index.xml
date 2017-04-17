@@ -126,18 +126,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 
-<item>
-<title>-[COLOR green] Canales Variados  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
-<fanart>https://k14.kn3.net/18FC515B3.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/canalesvariados.m3u</externallink>	
-</item>
 
  
  
 <item>
-<title>-[COLOR gold]  JHG + PLUS (En Reformas) [/COLOR]</title>
+<title>-[COLOR gold]  JHG + PLUS  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
 <fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
@@ -260,7 +253,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title>[COLOR white] MUNDO LATINO (En Reformas) [/COLOR]</title>
+<title>[COLOR white] MUNDO LATINO  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -289,7 +282,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title>[COLOR yellow] CINEJHG [/COLOR]</title>
+<title>[COLOR blue] CINE JHG [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/sw8S94pPpkM/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/sw8S94pPpkM/hqdefault.jpg</fanart>
@@ -309,6 +302,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
  
+<item>
+<title>-[COLOR green] Canales Variados (EN REFORMAS) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
+<fanart>https://k14.kn3.net/18FC515B3.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/canalesvariados.m3u</externallink>	
+</item>
  
 
  
