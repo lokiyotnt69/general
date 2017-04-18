@@ -126,22 +126,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  
- 
-<item>
-<title>[COLOR skyblue] TODOPLUS  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
-<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/todoplus.m3u</externallink>	
-</item>
-
- 
 
 
  
  
 <item>
-<title>-[COLOR gold]  JHG + PLUS  [/COLOR]</title>
+<title>-[COLOR gold]  TV + 2.1 (En Reformas) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
 <fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
@@ -331,6 +321,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A-xml.xml</externallink>	
 </item>
 
+
+ 
+<item>
+<title>[COLOR skyblue] TODOPLUS (OFF) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
+<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/todoplus.m3u</externallink>	
+</item>
 
 
  
