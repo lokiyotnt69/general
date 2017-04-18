@@ -126,6 +126,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  
+<item>
+<title>[COLOR red] Listas  [/COLOR][COLOR gold] España[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTVLISTAS.xml</externallink>	
+</item>
  
  
 
@@ -293,13 +300,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
  
-<item>
-<title>[COLOR white]  SALA DE PRUEBAS[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTVLISTAS.xml</externallink>	
-</item>
 
  
 
