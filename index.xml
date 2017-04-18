@@ -104,6 +104,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
+
+<item>
+<title>[COLOR plum] MUNDO [/COLOR][COLOR white] DEPORTE [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://mundodeporteradio.files.wordpress.com/2012/09/my_logo_mundo_deporte6.png</thumbnail>
+<fanart>https://mundodeporteradio.files.wordpress.com/2012/09/my_logo_mundo_deporte6.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/SOLODEPORTE.xml</externallink>	
+</item>
+ 
+ 
+ 
  
 <item>
 <title>[COLOR white] Tv + 2.2  [/COLOR]</title>
