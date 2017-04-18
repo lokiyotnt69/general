@@ -105,6 +105,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
  
+ 
+ 
+ 
+ 
+ 
 
 <item>
 <title>[COLOR plum] MUNDO [/COLOR][COLOR white] DEPORTE [/COLOR]</title>
@@ -125,15 +130,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+
  
 <item>
-<title>[COLOR red] Listas  [/COLOR][COLOR gold] España[/COLOR]</title>
+<title>[COLOR white]  SALA DE ESPAÑA [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTVLISTAS.xml</externallink>	
+<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
+<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
 </item>
- 
  
 
 
@@ -305,14 +311,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>[COLOR white]  SALA DE PRUEBAS ESPAÑA [/COLOR]</title>
+<title>[COLOR red] Listas  [/COLOR][COLOR gold] En Fase ......[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A-xml.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTVLISTAS.xml</externallink>	
 </item>
-
-
+ 
 
  
 <item>
