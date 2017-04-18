@@ -236,6 +236,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
 <title>-[COLOR brown] Pruebas JHG [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -247,6 +248,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+ 
+<item>
+<title>-[COLOR green] Canales Variados (ESPAÑA y LAtinos)(EN REFORMAS) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
+<fanart>https://k14.kn3.net/18FC515B3.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Canalesvariados.xml</externallink>	
+</item>
+ 
 
 
 
@@ -308,15 +318,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTVLISTAS.xml</externallink>	
 </item>
 
- 
- 
-<item>
-<title>-[COLOR green] Canales Variados (EN REFORMAS) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
-<fanart>https://k14.kn3.net/18FC515B3.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/canalesvariados.m3u</externallink>	
-</item>
  
 
  
