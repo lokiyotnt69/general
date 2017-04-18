@@ -102,6 +102,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
+
  
  
 
@@ -115,7 +116,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
- 
 <item>
 <title>[COLOR white] Tv + 2.2  [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -126,24 +126,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  
-
-<item>
-<title>-[COLOR  red] LISTA ESPAÑA 2 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</thumbnail>
-<fanart>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Sportdevil.xml</externallink>	
-</item>
-
  
  
-<item>
-<title>-[COLOR gold]  TV + 2.1 (En Reformas) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Movistar33.M3U</externallink>	
-</item>
 
 
 
@@ -155,7 +139,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
 </item> 
-
 
 
 
@@ -329,15 +312,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A-xml.xml</externallink>	
 </item>
 
-
- 
-<item>
-<title>[COLOR skyblue] TODOPLUS (OFF) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.frocus.net/images/logotv/original/2plus.jpg</thumbnail>
-<fanart>http://www.frocus.net/images/logotv/original/2plus.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/todoplus.m3u</externallink>	
-</item>
 
 
  
