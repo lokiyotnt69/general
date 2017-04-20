@@ -189,24 +189,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR white] TOP  MUSICA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://4.bp.blogspot.com/-uv6zByuAGxU/Td7c2BZMyEI/AAAAAAAAALo/r52ZAROmhq8/s1600/3-top_musica.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-uv6zByuAGxU/Td7c2BZMyEI/AAAAAAAAALo/r52ZAROmhq8/s1600/3-top_musica.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/Topmusica.m3u</externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR skyblue] TOP RADIOS [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://static.radio.es/images/broadcasts/81/8d/3396/c300.png</thumbnail>
-<fanart>http://static.radio.es/images/broadcasts/81/8d/3396/c300.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/RADIOS.m3u</externallink>	
-</item>
-
-
 
 
 
@@ -305,6 +287,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 
+<item>
+<title>[COLOR white] Musica [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/b6/13/1a/b6131ab63ce79e45706aaa05517662fd.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/b6/13/1a/b6131ab63ce79e45706aaa05517662fd.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/MusicayRadio.xml</externallink>	
+</item>
  
 
  
@@ -330,7 +319,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] - [/COLOR]</title>
+<title>[COLOR white] . [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
