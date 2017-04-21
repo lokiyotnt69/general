@@ -305,8 +305,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR white] . [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/arenavision.xml</externallink>	
 </item>
  
