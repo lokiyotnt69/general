@@ -4,7 +4,7 @@ Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR lime] ******[/COLOR]" URL=""; 
 Server:"IPTV 1[COLOR lime] 01:[/COLOR]" URL="http://164.132.171.117:8000/get.php?username=sadil57&password=sadil57&type=m3u"; regex"" 
 Server:"IPTV 2[COLOR lime] 02:[/COLOR]" URL="http://kepleriptv.cechire.org:15003/get.php?username=SSLazio1900pa&password=g2PVYfz4xR&type=m3u"; regex""
 Server:"IPTV 3[COLOR lime] 03:[/COLOR]" URL="http://smartiptvspain.mine.nu:980/get.php?username=mariano&password=mariano&type=m3u"; regex""
-Server:"IPTV 4[COLOR blue] 04:[/COLOR]" URL=""; regex""
+Server:"IPTV 4[COLOR blue] 04:[/COLOR]" URL="http://193.70.54.207:8000/get.php?username=Tomaso3&password=Tomaso3&type=m3u"; regex""
 Server:"IPTV 5[COLOR lime] 05:[/COLOR]" URL=""; regex""
 Server:"IPTV 6[COLOR lime] 06:[/COLOR]" URL="; regex""
 Server:"IPTV 7[COLOR lime] 07:[/COLOR]" URL=""; regex""
