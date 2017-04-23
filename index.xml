@@ -137,12 +137,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
 <item>
- <title>[COLOR yellow][COLOR  yellow] PLUS M+  [/COLOR][/COLOR][COLOR yellow]J[/COLOR][COLOR green]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow]</title>
+<title>[COLOR white] Plus M+ [/COLOR]</title>
 <link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dcinestrenostv.tv%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fcinestrenostv.tv.cfg%26definedIn%3dcustoms.cfg%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
-<thumbnail>http://tventretenimiento.es/images/entreteni.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/cinestrenostv.xml</externallink>	
 </item>
 
 
