@@ -290,10 +290,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>[COLOR red] Listas  [/COLOR][COLOR gold] En Fase ......[/COLOR]</title>
+<title>[COLOR red] Listas  [/COLOR][COLOR gold] Paises[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://dondeycuanto.com/wp-content/uploads/2016/08/cuantos-paises-hay-en-el-mundo.jpg</thumbnail>
+<fanart>http://dondeycuanto.com/wp-content/uploads/2016/08/cuantos-paises-hay-en-el-mundo.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTVLISTAS.xml</externallink>	
 </item>
  
