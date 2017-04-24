@@ -3,14 +3,16 @@
 Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR lime] ******[/COLOR]" URL=""; regex""
 Server:"IPTV 1[COLOR lime] 01:[/COLOR]" URL="http://5.196.79.166:3500//get.php?username=musti854&password=kara987s&type=m3u"; regex"" 
 Server:"IPTV 2[COLOR lime] 02:[/COLOR]" URL="http://kepleriptv.cechire.org:15003/get.php?username=SSLazio1900pa&password=g2PVYfz4xR&type=m3u"; regex""
-Server:"IPTV 3[COLOR blue] 03:[/COLOR]" URL="http://iptv.alphacs.tv:8080//get.php?username=flash&password=vflMpUO9lE&type=m3u"; regex""
+Server:"IPTV 3[COLOR lime] 03:[/COLOR]" URL="http://iptv.alphacs.tv:8080//get.php?username=flash&password=vflMpUO9lE&type=m3u"; regex""
 Server:"IPTV 4[COLOR lime] 04:[/COLOR]" URL="http://193.70.54.207:8000/get.php?username=Tomaso3&password=Tomaso3&type=m3u"; regex""
 Server:"IPTV 5[COLOR lime] 05:[/COLOR]" URL="http://pro213.com/get.php?username=youssef895&password=w9nlj5&type=m3u"; regex""
-Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL="http://yasar.club:6464//get.php?username=cengiztaskinsoy&password=qko07Ajmd&type=m3u"; regex""
-Server:"IPTV 7[COLOR red] 07:[/COLOR]" URL="http://gigasip.dyndns.tv:3838//get.php?username=lehainamskypeny&password=ntIldMxfXxnY&type=m3u"; regex""
-Server:"IPTV 8[COLOR red] 08:[/COLOR]" URL="http://ndasat.pro:8000//get.php?username=76879463485834&password=1593574628&type=m3u"; regex""
-Server:"IPTV 9[COLOR red] 09:[/COLOR]" URL="http://titaniptv.com:9140//get.php?username=8Iz41jioU7&password=titaniptv.com&type=m3u"; regex""
-
+Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL=""; regex""
+Server:"IPTV 7[COLOR lime] 07:[/COLOR]" URL="http://gigasip.dyndns.tv:3838//get.php?username=lehainamskypeny&password=ntIldMxfXxnY&type=m3u"; regex""
+Server:"IPTV 8[COLOR red] 08:[/COLOR]" URL=""; regex""
+Server:"IPTV 9[COLOR lime] 09:[/COLOR]" URL="http://titaniptv.com:9140//get.php?username=8Iz41jioU7&password=titaniptv.com&type=m3u"; regex""
+Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL=""; regex""
+Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL=""; regex""
+Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL=""; regex""
 
 
 
