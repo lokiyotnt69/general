@@ -106,15 +106,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
- 
- 
-<item>
-<title>-[COLOR brown] ESPECIAL THE WALKING DEAD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://cde.laprensa.e3.pe/ima/0/0/1/2/6/126285.jpg</thumbnail>
-<fanart>https://cde.laprensa.e3.pe/ima/0/0/1/2/6/126285.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/plantillaNueva.xml</externallink>	
-</item>
+
  
  
 
@@ -194,7 +186,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
+ 
+ 
+<item>
+<title>-[COLOR brown] ESPECIAL THE WALKING DEAD [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://cde.laprensa.e3.pe/ima/0/0/1/2/6/126285.jpg</thumbnail>
+<fanart>https://cde.laprensa.e3.pe/ima/0/0/1/2/6/126285.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/plantillaNueva.xml</externallink>	
+</item>
 
 
 
@@ -222,29 +222,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-
- 
-<item>
-<title>-[COLOR green] Canales Variados (ESPAÑA y LAtinos)(EN REFORMAS) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
-<fanart>https://k14.kn3.net/18FC515B3.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Canalesvariados.xml</externallink>	
-</item>
- 
-
-
- 
-
-<item>
-<title>[COLOR skyblue] CANALES  [/COLOR][COLOR yellow] BRASIL [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/121/307/products/brazil11-ca247d22ba439c04cb14918267447136-320-0.jpg</thumbnail>
-<fanart>http://d26lpennugtm8s.cloudfront.net/stores/121/307/products/brazil11-ca247d22ba439c04cb14918267447136-320-0.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/server2.2.m3u</externallink>	
-</item>
- 
  
  
  
@@ -258,7 +235,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title> AdryanList</title>
+<title> [COLOR red] AdryanList [/COLOR]</title>
 <link>NA</link>
 <externallink>http://adryanlist.info</externallink>
 <thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
@@ -266,14 +243,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
- 
+
 <item>
-<title>[COLOR white] MUNDO LATINO  [/COLOR]</title>
+<title>[COLOR skyblue] CANALES  [/COLOR][COLOR yellow] BRASIL [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/mundolatino.m3u</externallink>	
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/121/307/products/brazil11-ca247d22ba439c04cb14918267447136-320-0.jpg</thumbnail>
+<fanart>http://d26lpennugtm8s.cloudfront.net/stores/121/307/products/brazil11-ca247d22ba439c04cb14918267447136-320-0.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/server2.2.m3u</externallink>	
 </item>
+ 
 
 
 <item>
@@ -295,7 +273,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
-
  
 
 <item>
@@ -306,7 +283,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/MusicayRadio.xml</externallink>	
 </item>
  
-
  
 
  
@@ -321,11 +297,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 
+ 
 <item>
-<title>[COLOR white] ARENAVISION [/COLOR]</title>
+<title>-[COLOR green] Canales Variados (ESPAÑA y LAtinos)(EN REFORMAS) [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/arenavision.xml</externallink>	
+<thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
+<fanart>https://k14.kn3.net/18FC515B3.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Canalesvariados.xml</externallink>	
 </item>
+ 
+ 
+<item>
+<title>[COLOR white] MUNDO LATINO  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/mundolatino.m3u</externallink>	
+</item>
+ 
+
  
