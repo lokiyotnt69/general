@@ -237,6 +237,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
  
  
  
@@ -257,6 +258,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
  
+ 
+
+
+<item>
+ <title> PELIS A LA CARTA </title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
+<thumbnail>http://blog.tvalacarta.info/img/pelisalacarta-256x256.png</thumbnail>
+<fanart></fanart>
+</item>
+
  
 
 <item>
