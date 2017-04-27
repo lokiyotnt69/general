@@ -112,6 +112,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
+<item>
+<title>[COLOR white]  LISTA CANALES ESPAÑA[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
+<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
+</item>
+ 
+ 
  
  
 
@@ -134,16 +143,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
- 
-<item>
-<title>[COLOR white] Tv + 2.2  [/COLOR]</title>
+
+
+
+<item> 
+<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
-</item>
-
-
+<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
+<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
+</item> 
 
 
 
@@ -157,26 +166,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
- 
-<item>
-<title>[COLOR white]  SALA DE ESPAÑA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
-<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
-</item>
- 
 
 
-
-
-<item> 
-<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
-<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
-</item> 
 
 
 
@@ -214,30 +205,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-<item>
-<title>[COLOR white] Serie Dragon Ball [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
-<fanart>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/dragonball.m3u</externallink>	
-</item>
- 
-
-
-
-
-
-<item>
-<title>-[COLOR brown] Pruebas JHG [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
-</item>
-
-
-
  
  
  
@@ -259,8 +226,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
-
-
 
  
 
@@ -304,28 +269,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
-
  
+
+
 <item>
-<title>[COLOR red] Listas  [/COLOR][COLOR gold] Paises[/COLOR]</title>
+<title>[COLOR white] Serie Dragon Ball [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://dondeycuanto.com/wp-content/uploads/2016/08/cuantos-paises-hay-en-el-mundo.jpg</thumbnail>
-<fanart>http://dondeycuanto.com/wp-content/uploads/2016/08/cuantos-paises-hay-en-el-mundo.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTVLISTAS.xml</externallink>	
+<thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
+<fanart>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/dragonball.m3u</externallink>	
 </item>
  
 
  
-
- 
-<item>
-<title>-[COLOR green] Canales Variados (ESPAÑA y LAtinos)(EN REFORMAS) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://k14.kn3.net/18FC515B3.png</thumbnail>
-<fanart>https://k14.kn3.net/18FC515B3.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Canalesvariados.xml</externallink>	
-</item>
- 
+  
  
 <item>
 <title>[COLOR white] MUNDO LATINO  [/COLOR]</title>
@@ -335,5 +292,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/mundolatino.m3u</externallink>	
 </item>
  
+
+
+<item>
+<title>-[COLOR brown] Pruebas JHG [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
+<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
+</item>
 
  
