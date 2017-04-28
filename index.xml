@@ -188,6 +188,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR white] CANALES CRIOS(Nuevo) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Canalescrios.xml</externallink>	
+</item>
+
 
 
 
@@ -223,7 +231,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
+ 
  
  
  
