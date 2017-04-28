@@ -10,9 +10,9 @@ Server:"IPTV 6[COLOR lime] 06:[/COLOR]" URL="http://213.32.96.34:1985/get.php?us
 Server:"IPTV 7[COLOR lime] 07:[/COLOR]" URL="http://gigasip.dyndns.tv:3838//get.php?username=lehainamskypeny&password=ntIldMxfXxnY&type=m3u"; regex""
 Server:"IPTV 8[COLOR lime] 08:[/COLOR]" URL="http://ramboiptv.net:8000/get.php?username=mohnd03&password=Dh4eWdNrxH&type=m3u"; regex""
 Server:"IPTV 9[COLOR lime] 09:[/COLOR]" URL="http://titaniptv.com:9140//get.php?username=8Iz41jioU7&password=titaniptv.com&type=m3u"; regex""
-Server:"IPTV 10[COLOR red] 10:[/COLOR]" URL=""; regex""
-Server:"IPTV [COLOR red] 11:[/COLOR]" URL=""; regex""
-Server:"IPTV [COLOR red] 11:[/COLOR]" URL=""; regex""
+Server:"IPTV 10[COLOR red] 10:[/COLOR]" URL="http://vip.groupiptv.com:7000/get.php?username=franklin&password=franklin&type=m3u"; regex""
+Server:"IPTV [COLOR red] 11:[/COLOR]" URL="http://srv.galaxyiptv.net:8080/get.php?username=ziiqnytq&password=Ed1stI75a0&type=m3u"; regex""
+Server:"IPTV [COLOR red] 12:[/COLOR]" URL=""; regex""
 
 
 
