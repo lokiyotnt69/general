@@ -197,7 +197,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] CANALES CRIOS(Nuevo) [/COLOR]</title>
+<title>[COLOR blue] CANALES CRIOS(Nuevo) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</fanart>
@@ -206,7 +206,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] Mundial Motos y Formula 1 [/COLOR]</title>
+<title>[COLOR gold] Mundial Motos y Formula 1 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.corsedimoto.com/wp-content/uploads/sites/43/2016/01/17/09/agenda_motociclismo_2015_01.jpg</thumbnail>
 <fanart>http://www.corsedimoto.com/wp-content/uploads/sites/43/2016/01/17/09/agenda_motociclismo_2015_01.jpg</fanart>
