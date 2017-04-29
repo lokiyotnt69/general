@@ -123,7 +123,37 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
  
- 
+ <item>
+  <title>[COLOR red][COLOR  gold]  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow][/COLOR]ARENAVISION ESPAÑA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			 <title>[COLOR red][COLOR  yellow]JHG  [/COLOR][COLOR  blue] MASTER [/COLOR][makelist.param2] [/COLOR]</title>
+			
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHGMASTER +[makelist.param2]</link>
+			
+			<regex>
+			<name>hash</name>
+			<expres>\/embed\/(.*?)"</expres>
+			<page>http://freelive365.com/[makelist.param1]</page>
+			<referer>http://freelive365.com/</referer>
+			</regex>
+			<regex>
+			<name>code</name>
+			<expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+			<page></page>
+			</regex>
+
+			
+			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=6</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
  
  
