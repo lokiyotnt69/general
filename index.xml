@@ -291,7 +291,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
-
+  
+<item>
+<title>[COLOR white] Canales Toros[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
+</item>
+ 
  
 
 
