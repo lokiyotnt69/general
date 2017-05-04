@@ -166,14 +166,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR plum] MUNDO [/COLOR][COLOR white] DEPORTE [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://mundodeporteradio.files.wordpress.com/2012/09/my_logo_mundo_deporte6.png</thumbnail>
-<fanart>https://mundodeporteradio.files.wordpress.com/2012/09/my_logo_mundo_deporte6.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/SOLODEPORTE.xml</externallink>	
-</item>
- 
  
 
 
@@ -225,14 +217,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  
- 
-<item>
-<title>-[COLOR brown] ESPECIAL THE WALKING DEAD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://cde.laprensa.e3.pe/ima/0/0/1/2/6/126285.jpg</thumbnail>
-<fanart>https://cde.laprensa.e3.pe/ima/0/0/1/2/6/126285.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/plantillaNueva.xml</externallink>	
-</item>
 
 
  
@@ -244,7 +228,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
 </item>
  
-
  
 
  
@@ -291,6 +274,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
+ 
 
 
 <item>
@@ -304,7 +288,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] CANALES CRIOS(REFORMAS) [/COLOR]</title>
+<title>[COLOR blue] CANALES CRIOS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</fanart>
