@@ -103,15 +103,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 
-  
-  
-<item>
-<title>[COLOR white] LISTA [/COLOR][COLOR skyblue] M+ (NUEVO) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.m3u</externallink>	
-</item>
  
  
  
@@ -325,5 +316,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
  
+  
+  
+<item>
+<title>[COLOR white] LISTA [/COLOR][COLOR skyblue] M+ (NUEVO)OFF [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.m3u</externallink>	
+</item>
 
  
