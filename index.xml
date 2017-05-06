@@ -103,24 +103,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
   
  
-<item>
-<title>[COLOR white] LA LIGA EN REFORMAS[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://fotos02.estadiodeportivo.com/2016/07/25/646x260/la-liga-horarios-jornada.jpg</thumbnail>
-<fanart>http://fotos02.estadiodeportivo.com/2016/07/25/646x260/la-liga-horarios-jornada.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.xml</externallink>	
-</item>
- 
- 
-
-<item>
-<title>[COLOR gold] Mundial Motos y Formula 1(Reformandolo!!!) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.corsedimoto.com/wp-content/uploads/sites/43/2016/01/17/09/agenda_motociclismo_2015_01.jpg</thumbnail>
-<fanart>http://www.corsedimoto.com/wp-content/uploads/sites/43/2016/01/17/09/agenda_motociclismo_2015_01.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/MundialMotosyF1.xml</externallink>	
-</item>
- 
  
  
 <item>
