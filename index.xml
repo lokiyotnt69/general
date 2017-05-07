@@ -121,6 +121,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
+ 
+ 
+ <item>
+<title>[COLOR gold] Mundial Motos y Formula 1 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.corsedimoto.com/wp-content/uploads/sites/43/2016/01/17/09/agenda_motociclismo_2015_01.jpg</thumbnail>
+<fanart>http://www.corsedimoto.com/wp-content/uploads/sites/43/2016/01/17/09/agenda_motociclismo_2015_01.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/MundialMotosyF1.xml</externallink>	
+</item>
+ 
+ 
+ 
+ 
 <item>
 <title>[COLOR lime]CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]3[/COLOR].[COLOR red]8[/COLOR].</title>
 <link>http://ignorame</link>
@@ -158,27 +171,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/Taquilla.xml</externallink>	
 </item>
  
- 
-<item>
-<title>[COLOR white]  LISTA CANALES ESPAÑA[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
-<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
-</item>
- 
- 
- 
- 
 
-<item>
-<title>[COLOR gold] TV España  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://st-listas.20minutos.es/images/2012-08/340955/list_640px.jpg?1346108164</thumbnail>
-<fanart>http://st-listas.20minutos.es/images/2012-08/340955/list_640px.jpg?1346108164</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Server1.xml</externallink>	
-</item>
-
+ 
+ 
+ 
 
 
  
