@@ -118,58 +118,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
   
  
 
-  
- 
- 
-<item>
-<title>[COLOR white] LA LIGA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://fotos02.estadiodeportivo.com/2016/07/25/646x260/la-liga-horarios-jornada.jpg</thumbnail>
-<fanart>http://fotos02.estadiodeportivo.com/2016/07/25/646x260/la-liga-horarios-jornada.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.xml</externallink>	
-</item>
- 
- 
- 
- 
- <item>
-<title>[COLOR gold] Mundial Motos y Formula 1 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.corsedimoto.com/wp-content/uploads/sites/43/2016/01/17/09/agenda_motociclismo_2015_01.jpg</thumbnail>
-<fanart>http://www.corsedimoto.com/wp-content/uploads/sites/43/2016/01/17/09/agenda_motociclismo_2015_01.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/MundialMotosyF1.xml</externallink>	
-</item>
- 
- 
- 
- 
-<item>
-<title>[COLOR lime]CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]3[/COLOR].[COLOR red]8[/COLOR].</title>
-<link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/6fioR4R.png</thumbnail>
-<fanart>http://i.imgur.com/z53W91X.png</fanart>
-<externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#067;&#097;&#114;&#108;&#101;&#115;&#116;&#111;/&#076;&#105;&#115;&#116;&#097;&#115;/&#109;&#097;&#115;&#116;&#101;&#114;/&#099;&#097;&#114;&#105;&#110;&#100;&#101;&#120;</externallink>
-</item>
- 
- 
-<item>
-<title> [COLOR red] AdryanList [/COLOR]</title>
-<link>NA</link>
-<externallink>http://adryanlist.info</externallink>
-<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
- 
- 
 
 
-<item>
-<title>[COLOR yellow] JOTAVCDON [/COLOR]</title>
+
+<item> 
+<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://www.google.es/search?q=jotavcdon&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiCopXg7c_TAhVJ6xQKHf2KA1sQ_AUIBygC&biw=1248&bih=519#imgrc=D1dGtM5HasHsZM:</thumbnail>
-<fanart>https://www.google.es/search?q=jotavcdon&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiCopXg7c_TAhVJ6xQKHf2KA1sQ_AUIBygC&biw=1248&bih=519#imgrc=D1dGtM5HasHsZM:</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JotaVCDon.xml</externallink>	
+<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
+<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
 </item> 
+
+ 
+ 
+
+ 
+ 
  
 
 <item>
@@ -190,20 +154,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
- 
-
-
- 
+  
 
 
 
-<item> 
-<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
-<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
-</item> 
+
+
+
 
 
 
@@ -217,9 +174,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
-
-
-
 
 
 
@@ -247,14 +201,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  
-<item>
-<title>[COLOR skyblue] Canales Toros[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://agendatv.com.mx/wp-content/uploads/stories/2011/toros%20tv%20logo.bmp</thumbnail>
-<fanart>http://agendatv.com.mx/wp-content/uploads/stories/2011/toros%20tv%20logo.bmp</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
-</item>
- 
  
 
  
@@ -270,7 +216,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white]   ZUMBA Y FITNESS [/COLOR][COLOR yellow] DELIA  [/COLOR]</title>
+<title>[COLOR yellow]   ZUMBA Y FITNESS [/COLOR][COLOR yellow] DELIA  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
 <fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
@@ -291,7 +237,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>[COLOR white] Musica [/COLOR]</title>
+<title>[COLOR yellow] Musica [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/b6/13/1a/b6131ab63ce79e45706aaa05517662fd.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/b6/13/1a/b6131ab63ce79e45706aaa05517662fd.jpg</fanart>
@@ -347,6 +293,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
   
   
+  
 <item>
 <title>[COLOR white] LISTA [/COLOR][COLOR skyblue] M+ (NUEVO)OFF [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -365,7 +312,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 
-  
+<item>
+<title>[COLOR white] JHG [/COLOR][COLOR gold] M+[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
+</item>
+
+ 
+
+ 
 <item>
 <title>[COLOR white] . [/COLOR]</title>
 <link>http://Ignoreme</link>
