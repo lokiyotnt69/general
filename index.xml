@@ -129,8 +129,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
 </item> 
 
- 
- 
 
  
  
@@ -198,31 +196,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  
-
-
- 
  
 
  
 
-<item>
-<title>[COLOR skyblue] CANALES  [/COLOR][COLOR yellow] BRASIL [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/121/307/products/brazil11-ca247d22ba439c04cb14918267447136-320-0.jpg</thumbnail>
-<fanart>http://d26lpennugtm8s.cloudfront.net/stores/121/307/products/brazil11-ca247d22ba439c04cb14918267447136-320-0.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/server2.2.m3u</externallink>	
-</item>
- 
 
 
 <item>
-<title>[COLOR yellow]   ZUMBA Y FITNESS [/COLOR][COLOR yellow] DELIA  [/COLOR]</title>
+<title>[COLOR yellow] ZUMBA Y FITNESS [/COLOR][COLOR yellow] DELIA  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
 <fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
 </item>
- 
+
  
  
 <item>
@@ -232,9 +219,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://musicak.com/wp-content/2011/09/la_lista_de_los_40_principales.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Zona40principales/master/top40principales.xml</externallink>	
 </item>
- 
- 
- 
+
+
 
 <item>
 <title>[COLOR yellow] Musica [/COLOR]</title>
@@ -260,23 +246,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 
-<item>
-<title>[COLOR blue] CANALES CRIOS [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Canalescrios.xml</externallink>	
-</item>
 
-  
- 
-<item>
-<title>[COLOR white] MUNDO LATINO  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/mundolatino.m3u</externallink>	
-</item>
  
 
 
@@ -290,17 +260,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
  
- 
+
   
   
   
-<item>
-<title>[COLOR white] LISTA [/COLOR][COLOR skyblue] M+ (NUEVO)OFF [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.xml</externallink>	
-</item>
 
 
 <item>
@@ -313,15 +276,32 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] JHG [/COLOR][COLOR gold] M+[/COLOR]</title>
+<title>[COLOR fushia] JHG [/COLOR][COLOR gold] M+[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
 <fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
 </item>
 
- 
 
+<item>
+<title>[COLOR fushia] LISTA [/COLOR][COLOR gold] M+2 (NUEVO)OFF [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.xml</externallink>	
+</item>
+  
+ 
+<item>
+<title>[COLOR white] MUNDO LATINO  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/mundolatino.m3u</externallink>	
+</item> 
+
+ 
  
 <item>
 <title>[COLOR white] . [/COLOR]</title>
