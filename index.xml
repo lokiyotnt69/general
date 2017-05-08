@@ -117,7 +117,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
   
  
-
+  
+<item>
+<title>[COLOR white] TDT (nuevo) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+ 
 
  
 <item>
@@ -308,7 +316,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/mundolatino.m3u</externallink>	
 </item> 
 
- 
+
  
 <item>
 <title>[COLOR white] . [/COLOR]</title>
@@ -317,4 +325,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Addonraro.xml</externallink>	
 </item>
- 
+
+
+<item>
+<title>[COLOR white] TDT  [/COLOR][COLOR green] Y [/COLOR]   [COLOR white] CANALES CRIOS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/TDTYCRIOS.xml </externallink>	
+</item>
+  
