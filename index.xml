@@ -119,7 +119,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 
-
+ 
+<item>
+<title>[COLOR skyblue] Canales Toros[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://agendatv.com.mx/wp-content/uploads/stories/2011/toros%20tv%20logo.bmp</thumbnail>
+<fanart>http://agendatv.com.mx/wp-content/uploads/stories/2011/toros%20tv%20logo.bmp</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
+</item>
 
 <item> 
 <title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
