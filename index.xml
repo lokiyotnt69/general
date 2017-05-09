@@ -152,17 +152,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 
- 
-  
- 
 
- <item>
-<title>[COLOR white]  LISTA CANALES ESPAÑA[/COLOR]</title>
+<item>
+<title>-[COLOR brown] *** LIVE SPORTS ***  [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
-<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
-</item>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>http://pastebin.com/raw/59kN8gde</externallink>	
+</item>   
+  
  
  
   
@@ -204,7 +202,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/tdt.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/tdt.m3u</externallink>	
 </item>
 
 
@@ -216,7 +214,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] ZUMBA Y FITNESS [/COLOR][COLOR yellow] DELIA  [/COLOR]</title>
+<title>[COLOR yellow] ZUMBA Y FITNESS [/COLOR][COLOR gold]DEDICADO A DELIA  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
 <fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
@@ -250,6 +248,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+<title>-[COLOR brown] Pruebas JHG [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
+<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
+</item>
+
+
+<item>
 <title>[COLOR white] Serie Dragon Ball [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
@@ -261,15 +268,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  
-
-
-<item>
-<title>-[COLOR brown] Pruebas JHG [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
-</item>
 
  
  
@@ -332,4 +330,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/TDTYCRIOS.xml </externallink>	
 </item>
-  
+
+
+ <item>
+<title>[COLOR white]  LISTA CANALES ESPAÑA[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
+<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
+</item>
+ 
