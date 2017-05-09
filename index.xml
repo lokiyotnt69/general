@@ -102,8 +102,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR white] EN BREVE TODO FUNCIONANDO!!! [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+<externallink>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</externallink>	
 </item>
  
 
@@ -121,12 +121,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR white] WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGSERVER.xml</externallink>	
 </item>
 
-item>
+
+<item>
+<title>-[COLOR brown] *** LIVE SPORTS ***  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/LIVESPORTS.xml</externallink>	
+</item>   
+  
+
+
+<item>
 <title>[COLOR fushia] JHG [/COLOR][COLOR gold] M+[/COLOR] En Breve Funcionando</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
