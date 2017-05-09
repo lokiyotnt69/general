@@ -20,8 +20,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
-<fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 </item>
 
  
@@ -53,8 +53,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
-<fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 </item>
 
 <item>
@@ -85,8 +85,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
-<fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 </item>
 
 
@@ -119,12 +119,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
   
 <item>
-<title>[COLOR white]  [/COLOR]</title>
+<title>[COLOR white] WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGSERVER.xml</externallink>	
 </item>
+
+item>
+<title>[COLOR fushia] JHG [/COLOR][COLOR gold] M+[/COLOR] En Breve Funcionando</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
+</item>
+
  
 <item>
 <title>[COLOR gold] Mundial Motos y Formula 1 [/COLOR]</title>
@@ -142,14 +151,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://agendatv.com.mx/wp-content/uploads/stories/2011/toros%20tv%20logo.bmp</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
 </item>
-----------------------------------------------------------------------------------------------------------
-<item> 
-<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
-<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
-</item> 
+
 
 
 
@@ -162,7 +164,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>   
   
  
-  
   
 
 
@@ -178,11 +179,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-
-
 <item>
 <title>[COLOR orange] JHG [/COLOR][COLOR gold] UFC [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -192,7 +188,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
-
+----------------------------------------------------------------------------------------------------------
 
 
 
