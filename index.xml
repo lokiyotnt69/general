@@ -137,14 +137,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
   
 
 
-<item>
-<title>[COLOR fushia] JHG [/COLOR][COLOR gold] M+[/COLOR] En Breve Funcionando</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
-</item>
-
  
 <item>
 <title>[COLOR gold] Mundial Motos y Formula 1 [/COLOR]</title>
@@ -198,10 +190,28 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/UFC1.xml</externallink>	
 </item>
  
- 
-----------------------------------------------------------------------------------------------------------
+<item>
+<title> ACTUALIZANDO!!!!  </title>
+<link>http://</link>
+</item>
 
 
+
+<title>[COLOR fushia] LISTA [/COLOR][COLOR gold] M+2 (Actualizando)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.xml</externallink>	
+</item>
+  
+
+<item>
+<title>[COLOR fushia] JHG [/COLOR][COLOR gold] M+[/COLOR] En Breve Funcionando</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
+</item>
 
 
 <item>
