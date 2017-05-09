@@ -156,16 +156,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-
-<item>
-<title>-[COLOR brown] *** LIVE SPORTS ***  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>http://pastebin.com/raw/59kN8gde</externallink>	
-</item>   
-  
  
   
 
@@ -190,8 +180,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/UFC1.xml</externallink>	
 </item>
  
+ 
 <item>
-<title> ACTUALIZANDO!!!!  </title>
+<title>[COLOR yellow] ACTUALIZANDO!!!! Casi todo ya Va funcionando [/COLOR]</title>
 <link>http://</link>
 </item>
 
