@@ -176,21 +176,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/UFC1.xml</externallink>	
 </item>
  
- 
-<item>
-<title>[COLOR yellow] ACTUALIZANDO!!!! Casi todo ya Va funcionando [/COLOR]</title>
-<link>http://</link>
-</item>
 
 
 
-<title>[COLOR fushia] LISTA [/COLOR][COLOR gold] M+2 (Actualizando)[/COLOR]</title>
+
+<title>[COLOR fushia] LISTA [/COLOR][COLOR gold] M+2 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.xml</externallink>	
 </item>
-  
+ 
+
+
+<item>
+<title>[COLOR yellow] ACTUALIZANDO!!!! [/COLOR]</title>
+<link>http://</link>
+</item>
+ 
 
 <item>
 <title>[COLOR fushia] JHG [/COLOR][COLOR gold] M+[/COLOR] En Breve Funcionando</title>
