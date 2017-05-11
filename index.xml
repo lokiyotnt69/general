@@ -162,6 +162,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>  
   
 
+  
 <item>
 <title>[COLOR red] LISTA [/COLOR][COLOR gold] MOVISTAR 2(Sportdevil) [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -171,6 +172,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>-[COLOR gold] TDT  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
+<fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/tdt.m3u</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR gold] TDT (Sportdevil) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/TDTYCRIOS.xml </externallink>	
+</item>
+ 
 
 
 
@@ -203,13 +221,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR orange] JHG [/COLOR][COLOR gold] UFC [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
-<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/UFC1.xml</externallink>	
-</item>
  
 
 
@@ -222,7 +233,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>[COLOR fushia] JHG [/COLOR][COLOR gold] M+[/COLOR] En Breve Funcionando</title>
+<title>[COLOR fushia] LISTA[/COLOR][COLOR gold]  MOVISTAR 3[/COLOR] En Breve Funcionando</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
 <fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
@@ -239,31 +250,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>-[COLOR gold] TDT  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
-<fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/tdt.m3u</externallink>	
-</item>
-
+ 
 
 <item>
-<title>[COLOR white] TDT (nuevo) [/COLOR]</title>
+<title>[COLOR orange] JHG [/COLOR][COLOR gold] UFC [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/TDTYCRIOS.xml </externallink>	
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/UFC1.xml</externallink>	
 </item>
  
- 
-
- 
 
 
 
 <item>
-<title>[COLOR yellow] ZUMBA Y FITNESS [/COLOR][COLOR gold]DEDICADO A DELIA  [/COLOR]</title>
+<title>[COLOR yellow] ZUMBA  [/COLOR][COLOR gold] Y [/COLOR][COLOR gold] FITNESS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
 <fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
