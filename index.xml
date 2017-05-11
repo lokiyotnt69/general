@@ -153,16 +153,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR red] LISTA [/COLOR][COLOR gold] MOVISTAR 1 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/movistar1mayo.xml</externallink>	
+</item>  
+  
 
 <item>
-<title>[COLOR red] LISTA [/COLOR][COLOR gold] M+2 [/COLOR]</title>
+<title>[COLOR red] LISTA [/COLOR][COLOR gold] MOVISTAR 2(Sportdevil) [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.xml</externallink>	
 </item>
-  
-  
+
+
+
 
 
 <item>
@@ -174,6 +183,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
  
 
+ 
+<item>
+<title>[COLOR lime]CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]3[/COLOR].[COLOR red]8[/COLOR].</title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/6fioR4R.png</thumbnail>
+<fanart>http://i.imgur.com/z53W91X.png</fanart>
+<externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#067;&#097;&#114;&#108;&#101;&#115;&#116;&#111;/&#076;&#105;&#115;&#116;&#097;&#115;/&#109;&#097;&#115;&#116;&#101;&#114;/&#099;&#097;&#114;&#105;&#110;&#100;&#101;&#120;</externallink>
+</item>
+ 
+ 
+<item>
+<title> [COLOR red] AdryanList [/COLOR]</title>
+<link>NA</link>
+<externallink>http://adryanlist.info</externallink>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+</item>
 
 
 
