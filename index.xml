@@ -167,7 +167,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
   
 <item>
 <title>[COLOR red] LISTA [/COLOR][COLOR gold] MOVISTAR 2(Sportdevil) [/COLOR]</title>
@@ -176,6 +175,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.xml</externallink>	
 </item>
+
 
 <item>
 <title>[COLOR white] NUEVO [/COLOR][COLOR white] IPTV [/COLOR]</title>
@@ -245,13 +245,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 
-<item>
-<title>[COLOR fushia] LISTA[/COLOR][COLOR gold]  MOVISTAR 3[/COLOR] En Breve Funcionando</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
-</item>
 
 
 <item>
@@ -308,6 +301,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
+<item>
+<title>[COLOR white]  LISTA Paises [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
+<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
+</item>
+  
+ 
 
 
 <item>
@@ -342,4 +344,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR fushia] LISTA[/COLOR][COLOR gold]  MOVISTAR 3[/COLOR] En Breve Funcionando</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
+</item>
 
