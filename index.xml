@@ -157,6 +157,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR red] LISTA [/COLOR][COLOR gold] MOVISTAR 1 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/movistar1mayo.xml</externallink>	
+</item> 
+
+
+
+
   
 <item>
 <title>[COLOR red] LISTA [/COLOR][COLOR gold] MOVISTAR 2(Sportdevil) [/COLOR]</title>
@@ -330,31 +341,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 
- 
-<item>
-<title>[COLOR white] . [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/Addonraro.xml</externallink>	
-</item>
-
- 
-<item>
-<title>[COLOR white] * [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTULTRA.xml</externallink>	
-</item>
 
 
-
- <item>
-<title>[COLOR white]  LISTA CANALES ESPAÑA[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
-<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
-</item>
- 
