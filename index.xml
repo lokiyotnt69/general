@@ -97,6 +97,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+ 
+<item>
+<title>[COLOR skyblue] LA LIGA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://fotos02.estadiodeportivo.com/2016/07/25/646x260/la-liga-horarios-jornada.jpg</thumbnail>
+<fanart>http://fotos02.estadiodeportivo.com/2016/07/25/646x260/la-liga-horarios-jornada.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.xml</externallink>	
+</item>
+
   
 <item>
 <title>[COLOR yellow] Lista  [/COLOR][COLOR red] MOVISTAR(NUEVO) [/COLOR]</title>
