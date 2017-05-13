@@ -356,11 +356,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR red] **[/COLOR][COLOR gold] ** [/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
-</item>
 
+ 
+  
+<item>
+<title>[COLOR white] ** [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
+</item>
+ 
