@@ -211,6 +211,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
+ 
 <item>
 <title> [COLOR red] AdryanList [/COLOR]</title>
 <link>NA</link>
@@ -231,6 +232,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/Taquilla.xml</externallink>	
 </item>
 
+ 
+
+<item>
+<title>-[COLOR  red] EN  [/COLOR][COLOR  blue] BREVE [/COLOR][COLOR  yellow] SAGAS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
+</item>
 
  
 
