@@ -108,14 +108,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  
-<item>
-<title>[COLOR skyblue] LA LIGA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://fotos02.estadiodeportivo.com/2016/07/25/646x260/la-liga-horarios-jornada.jpg</thumbnail>
-<fanart>http://fotos02.estadiodeportivo.com/2016/07/25/646x260/la-liga-horarios-jornada.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.xml</externallink>	
-</item>
 
+  
+  
+  
+ 
+ 
   
 <item>
 <title>[COLOR yellow] Lista  [/COLOR][COLOR red] MOVISTAR(NUEVO) [/COLOR]</title>
@@ -125,16 +123,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/samuel.xml</externallink>	
 </item>
    
-  
-<item>
-<title>[COLOR white] Top MOVISTAR [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/samuel2.xml</externallink>	
-</item>
-   
 
+
+<item>
+<title>[COLOR red] LISTA [/COLOR][COLOR gold] MOVISTAR 1 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/movistar1mayo.xml</externallink>	
+</item> 
+
+
+ 
+<item>
+<title>[COLOR white]  LISTA Paises [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
+<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
+</item>
 
 
 <item>
@@ -143,6 +150,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGSERVER.xml</externallink>	
+</item>
+
+ 
+
+
+<item>
+<title>[COLOR white] LISTAS  [/COLOR][COLOR white] IPTV [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTULTRA.xml</externallink>	
 </item>
 
 
@@ -154,24 +172,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/LIVESPORTS.xml</externallink>	
 </item> 
 
-  
- 
-<item>
-<title>[COLOR gold] Mundial Motos y Formula 1 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.corsedimoto.com/wp-content/uploads/sites/43/2016/01/17/09/agenda_motociclismo_2015_01.jpg</thumbnail>
-<fanart>http://www.corsedimoto.com/wp-content/uploads/sites/43/2016/01/17/09/agenda_motociclismo_2015_01.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/MundialMotosyF1.xml</externallink>	
-</item>
 
- 
-<item>
-<title>[COLOR skyblue] Canales Toros[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://agendatv.com.mx/wp-content/uploads/stories/2011/toros%20tv%20logo.bmp</thumbnail>
-<fanart>http://agendatv.com.mx/wp-content/uploads/stories/2011/toros%20tv%20logo.bmp</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
-</item>
+
 
 
 <item>
@@ -184,33 +186,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR red] LISTA [/COLOR][COLOR gold] MOVISTAR 1 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/movistar1mayo.xml</externallink>	
-</item> 
-
-
-
-  
-<item>
-<title>[COLOR red] LISTA [/COLOR][COLOR gold] MOVISTAR 2(Sportdevil) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.xml</externallink>	
-</item>
-
-
-<item>
-<title>[COLOR white] LISTAS  [/COLOR][COLOR white] IPTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/IPTULTRA.xml</externallink>	
-</item>
 
 <item>
 <title>-[COLOR gold] TDT  [/COLOR]</title>
@@ -264,7 +239,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR  skyblue] TAQUILLAS MOVISTAR(Nuevo) [/COLOR]</title>
+<title>-[COLOR  skyblue] TAQUILLAS MOVISTAR [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
@@ -316,14 +291,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 
- 
-<item>
-<title>[COLOR white]  LISTA Paises [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
-<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
-</item>
   
  
 
