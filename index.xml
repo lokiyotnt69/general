@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
 <item>
 <title>                               [COLOR lime][B]  B I E N V E N I D O S[/COLOR][COLOR yellow] A [/COLOR][COLOR deepskyblue]J.H.G. M A S T E R[/B][/COLOR]   </title>
 <link>$doregex[openDialog]</link>
@@ -102,7 +105,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] ACTUALIZANDO TODAS LAS LISTAS M+ [/COLOR]</title>
+<title>[COLOR yellow]  [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -110,7 +113,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
   
-  
+<item>
+<title>[COLOR skyblue] LA LIGA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://fotos02.estadiodeportivo.com/2016/07/25/646x260/la-liga-horarios-jornada.jpg</thumbnail>
+<fanart>http://fotos02.estadiodeportivo.com/2016/07/25/646x260/la-liga-horarios-jornada.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/laliga.xml</externallink>	
+</item>   
   
  
  
