@@ -101,6 +101,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR yellow] ACTUALIZANDO TODAS LAS LISTAS M+ [/COLOR]</title>
+<link>http://</link>
+</item>
 
 
  
@@ -201,7 +205,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] NUEVO [/COLOR][COLOR white] IPTV [/COLOR]</title>
+<title>[COLOR white] LISTAS  [/COLOR][COLOR white] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
@@ -358,7 +362,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
   
 <item>
-<title>[COLOR white] 3 [/COLOR]</title>
+<title>[COLOR white] - [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
