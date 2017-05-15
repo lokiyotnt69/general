@@ -105,18 +105,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]  [/COLOR]</title>
+<title>[COLOR yellow] ****ZONA [/COLOR][COLOR yellow] IPTV**** [/COLOR]</title>
 <link>http://</link>
 </item>
-
-
- 
-
-
-  
- 
-
-
 
 
 
@@ -149,6 +140,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 
+
+
+<item>
+<title>[COLOR yellow] ****ZONA [/COLOR][COLOR yellow] MOVISTAR**** [/COLOR]</title>
+<link>http://</link>
+</item>
 
  
 <item>
@@ -192,6 +189,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+<item>
+<title>[COLOR yellow] ****ADDONS [/COLOR][COLOR yellow] AMIGOS**** [/COLOR]</title>
+<link>http://</link>
+</item>
+
 <item>
 <title>[COLOR pink] JOTAVCDON [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -224,6 +227,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+<item>
+<title>[COLOR yellow] ****ZONA [/COLOR][COLOR yellow] CINE**** [/COLOR]</title>
+<link>http://</link>
+</item>
+
 <item>
 <title>-[COLOR  skyblue] TAQUILLAS MOVISTAR [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -243,6 +252,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
  
+
+
+<item>
+<title>[COLOR yellow] [/COLOR][COLOR yellow] **** [/COLOR]</title>
+<link>http://</link>
+</item>
 
 <item>
 <title>[COLOR orange] JHG [/COLOR][COLOR gold] UFC [/COLOR]</title>
@@ -264,6 +279,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
  
+<item>
+<title>[COLOR yellow] ***ZONA [/COLOR][COLOR yellow] MUSICA**** [/COLOR]</title>
+<link>http://</link>
+</item>
  
 <item>
 <title>[COLOR yellow] LOS 40 PRINCIPALES [/COLOR]</title>
