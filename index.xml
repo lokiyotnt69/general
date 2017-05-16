@@ -105,7 +105,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] *********************************ZONA [/COLOR][COLOR yellow] IPTV************************************************ [/COLOR]</title>
+<title>[COLOR yellow] *********************************ZONA [/COLOR][COLOR yellow] IPTV******************************************* [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -191,7 +191,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] ****ADDONS [/COLOR][COLOR yellow] AMIGOS************************************************************* [/COLOR]</title>
+<title>[COLOR yellow] ****ADDONS [/COLOR][COLOR yellow] AMIGOS*********************************************************** [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -229,9 +229,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] ****ZONA [/COLOR][COLOR yellow] CINE**** [/COLOR]</title>
+<title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow] CINE********************************************************* [/COLOR]</title>
 <link>http://</link>
 </item>
+
+
+
+
+  
+<item>
+<title>[COLOR white] CINE HD (Nuevo)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CINEHD2017.m3u</externallink>	
+</item>
+
+
 
 <item>
 <title>-[COLOR  skyblue] TAQUILLAS MOVISTAR [/COLOR]</title>
@@ -255,7 +269,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] [/COLOR][COLOR yellow] **** [/COLOR]</title>
+<title>[COLOR yellow]************************************************************************ [/COLOR][COLOR yellow] **** [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -280,7 +294,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>[COLOR yellow] ***ZONA [/COLOR][COLOR yellow] MUSICA**** [/COLOR]</title>
+<title>[COLOR yellow] ****************************ZONA [/COLOR][COLOR yellow] MUSICA********************************************* [/COLOR]</title>
 <link>http://</link>
 </item>
  
@@ -308,7 +322,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>[COLOR yellow] ***************************ZONA [/COLOR][COLOR yellow] **REPARACIONES********************************************************* [/COLOR]</title>
+<title>[COLOR yellow] ***************************ZONA [/COLOR][COLOR yellow] **REPARACIONES***************************************************** [/COLOR]</title>
 <link>http://</link>
 </item>  
  
