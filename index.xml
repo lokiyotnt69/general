@@ -142,11 +142,26 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
 <title>[COLOR yellow] **************************************ZONA [/COLOR][COLOR yellow] MOVISTAR*************************************** [/COLOR]</title>
 <link>http://</link>
 </item>
 
+ 
+
+
+<item>
+<title>-[COLOR  red] LISTA ESPAÑA 2 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</thumbnail>
+<fanart>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</fanart>
+<externallink></externallink>	
+</item> 
+ 
+ 
+ 
+ 
  
 <item>
 <title>[COLOR white]  LISTA Paises [/COLOR]</title>
@@ -176,6 +191,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/tdt.m3u</externallink>	
 </item>
+
 
 
 <item>
@@ -236,9 +252,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
   
 <item>
-<title>[COLOR white] CINE HD (Nuevo)[/COLOR]</title>
+<title>[COLOR white] CINE HD ACCIÓN (Nuevo)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
