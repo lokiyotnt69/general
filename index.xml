@@ -152,15 +152,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  
-<item>
-<title>-[COLOR  red] LISTA MOVISTAR ESPAÑA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</thumbnail>
-<fanart>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/JHG%20server%202.0.m3u</externallink>	
-</item> 
- 
- 
  
  
  
@@ -356,6 +347,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
 <item>
 <title>[COLOR white] Serie Dragon Ball [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -367,6 +359,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
   
 
+ 
+<item>
+<title>-[COLOR  red] LISTA MOVISTAR ESPAÑA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</thumbnail>
+<fanart>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/JHG%20server%202.0.m3u</externallink>	
+</item> 
+ 
 
  
 <item>
