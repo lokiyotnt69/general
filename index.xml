@@ -323,6 +323,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+<item>
+<title>[COLOR white] TOP  [/COLOR][COLOR white] MÚSICA (Nuevo)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://4.bp.blogspot.com/-uv6zByuAGxU/Td7c2BZMyEI/AAAAAAAAALo/r52ZAROmhq8/s1600/3-top_musica.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-uv6zByuAGxU/Td7c2BZMyEI/AAAAAAAAALo/r52ZAROmhq8/s1600/3-top_musica.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASETOPMUSICA.xml</externallink>	
+</item> 
+ 
+
+
+
 <item>
 <title>[COLOR yellow] Musica [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -331,8 +343,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/MusicayRadio.xml</externallink>	
 </item>
  
- 
- 
+  
 
  
 
