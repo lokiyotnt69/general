@@ -123,7 +123,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] LISTAS  [/COLOR][COLOR white] IPTV [/COLOR]</title>
+<title>[COLOR white] LISTAS 2.0 [/COLOR][COLOR white] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
@@ -150,16 +150,36 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 
+  
 
 <item>
-<title>[COLOR red] MOVISTAR [/COLOR][COLOR blue] ESPAÑA [/COLOR]</title>
+<title>[COLOR white] JHG [/COLOR][COLOR gold] M+[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B1.xml</externallink>	
+</item>
+ 
+ 
+  
+<item>
+<title>[COLOR white] JHG [/COLOR][COLOR white] M+2 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</thumbnail>
+<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B2.xml</externallink>	
+</item>
+
+
+ 
+
+<item>
+<title>[COLOR red] JHG [/COLOR][COLOR blue] M+3[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/movistar1mayo.xml</externallink>	
-</item>  
-  
-
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B3.xml</externallink>	
+</item> 
  
  
 <item>
@@ -430,6 +450,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
  
+
+<item>
+<title>[COLOR red] MOVISTAR [/COLOR][COLOR blue] ESPAÑA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/movistar1mayo.xml</externallink>	
+</item>  
   
 
 
