@@ -163,7 +163,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
   
 <item>
-<title>[COLOR white] JHG [/COLOR][COLOR white] M+2 [/COLOR]</title>
+<title>[COLOR white] JHG [/COLOR][COLOR white] M+2 off [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</thumbnail>
 <fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
@@ -191,14 +191,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-<item>
-<title>[COLOR blue] CANALES CRIOS [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Canalescrios.xml</externallink>	
-</item>
 
 
 
@@ -460,6 +452,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>  
   
 
+
+<item>
+<title>[COLOR blue] CANALES CRIOS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/365131651/logo_de_peques_fondo_blanco_400x400.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Canalescrios.xml</externallink>	
+</item>
 
  
  
