@@ -150,37 +150,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 
-  
-
-<item>
-<title>[COLOR white] JHG [/COLOR][COLOR gold] M+[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B1.xml</externallink>	
-</item>
  
- 
-  
 <item>
-<title>[COLOR white] JHG [/COLOR][COLOR white] M+2 off [/COLOR]</title>
+<title>-[COLOR  red] LISTA MOVISTAR ESPAÑA (Nuevo)[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</thumbnail>
-<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B2.xml</externallink>	
-</item>
-
-
- 
-
-<item>
-<title>[COLOR red] JHG [/COLOR][COLOR blue] M+3[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B3.xml</externallink>	
+<thumbnail>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</thumbnail>
+<fanart>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/LISTAJunio</externallink>	
 </item> 
  
+  
+
  
 <item>
 <title>[COLOR white]  LISTA Paises [/COLOR]</title>
@@ -421,15 +401,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
   
 
- 
-<item>
-<title>-[COLOR  red] LISTA MOVISTAR ESPAÑA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</thumbnail>
-<fanart>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/JHG%20server%202.0.m3u</externallink>	
-</item> 
- 
 
  
 <item>
