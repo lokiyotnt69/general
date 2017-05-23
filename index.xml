@@ -273,8 +273,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR pink] PELICULAS [/COLOR][COLOR white] JHG [/COLOR][COLOR blue] 2.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
 </item>
 
