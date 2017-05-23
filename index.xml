@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
+<title>[COLOR skyblue] WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</fanart>
@@ -169,8 +169,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
 </item>
-
-
 
 
 
@@ -239,6 +237,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow] CINE********************************************************* [/COLOR]</title>
 <link>http://</link>
 </item>
+
 
 
 
