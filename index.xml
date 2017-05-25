@@ -150,14 +150,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 
- 
-<item>
-<title>-[COLOR  red] LISTA MOVISTAR ESPAÑA (Nuevo)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</thumbnail>
-<fanart>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/LISTAJunio</externallink>	
-</item> 
+
  
   
 
@@ -211,7 +204,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>[COLOR lime]CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]3[/COLOR].[COLOR red]8[/COLOR].</title>
+<title>[COLOR lime]CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]4[/COLOR].[COLOR red]0[/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/6fioR4R.png</thumbnail>
 <fanart>http://i.imgur.com/z53W91X.png</fanart>
@@ -357,7 +350,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>-[COLOR  red] EN  [/COLOR][COLOR  blue] BREVE [/COLOR][COLOR  yellow] SAGAS [/COLOR]</title>
+<title>-[COLOR  red] JHG  [/COLOR][COLOR  blue] MASTER [/COLOR][COLOR  yellow] SAGAS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
@@ -373,7 +366,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
 </item>
 
-
+ 
+<item>
+<title>-[COLOR  red] LISTA MOVISTAR ESPAÑA (OFF)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</thumbnail>
+<fanart>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/LISTAJunio</externallink>	
+</item> 
 
 <item>
 <title>[COLOR white] Serie Dragon Ball [/COLOR]</title>
