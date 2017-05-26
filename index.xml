@@ -112,6 +112,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+<title>[COLOR yellow] ACTUALIZANDO!!!! [/COLOR]</title>
+<link>http://</link>
+</item>
+
+
+<item>
 <title>[COLOR skyblue] WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</thumbnail>
@@ -150,32 +156,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 
-<item> 
-<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
-<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
-</item> 
-
-
- 
 
 <item>
-<title>[COLOR red] MOVISTAR [/COLOR][COLOR blue] ESPAÑA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/movistar1mayo.xml</externallink>	
-</item>  
- 
-<item>
-<title>[COLOR white] JHG [/COLOR][COLOR gold] M+[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B1.xml</externallink>	
+<title>[COLOR yellow] ACTUALIZANDO!!!! [/COLOR]</title>
+<link>http://</link>
 </item>
+
+
+
    
 
  
@@ -257,26 +245,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-  
 <item>
-<title>[COLOR white] CINE HD ACCIÓN (Nuevo)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CINEHD2017.m3u</externallink>	
+<title>[COLOR yellow] ACTUALIZANDO!!!! [/COLOR]</title>
+<link>http://</link>
 </item>
 
-  
-<item>
-<title>[COLOR white] CINE HD COMEDIA (Nuevo)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/ComediaHD.m3u</externallink>	
-</item>
+
+
+
+
 
 <item>
 <title>-[COLOR  skyblue] TAQUILLAS MOVISTAR [/COLOR]</title>
@@ -296,6 +273,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
  
+ 
+<item>
+<title>[COLOR white] SERIES [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/PlantillaSeries1.xml</externallink>	
+</item>
+
 
 
 <item>
@@ -358,17 +344,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR yellow] ***************************ZONA [/COLOR][COLOR yellow] **REPARACIONES***************************************************** [/COLOR]</title>
 <link>http://</link>
 </item>  
- 
 
 
- 
 <item>
-<title>[COLOR white] SERIES [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/PlantillaSeries1.xml</externallink>	
+<title>[COLOR yellow] ACTUALIZANDO!!!! [/COLOR]</title>
+<link>http://</link>
 </item>
+ 
+
+<item> 
+<title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
+<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
+</item> 
+
 
  
  
@@ -409,6 +400,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
   
+
+<item>
+<title>[COLOR red] MOVISTAR [/COLOR][COLOR blue] ESPAÑA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/movistar1mayo.xml</externallink>	
+</item>  
+ 
+<item>
+<title>[COLOR white] JHG [/COLOR][COLOR gold] M+[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B1.xml</externallink>	
+</item> 
 
 
  
