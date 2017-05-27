@@ -163,17 +163,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-   
-
  
 <item>
-<title>[COLOR white]  LISTA Paises [/COLOR]</title>
+<title>[COLOR white] JHG [/COLOR][COLOR gold] M+[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
-<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
-</item>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B1.xml</externallink>	
+</item> 
+
+
+ 
+ 
 
 
 
@@ -204,6 +205,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR yellow] ****ADDONS [/COLOR][COLOR yellow] AMIGOS*********************************************************** [/COLOR]</title>
 <link>http://</link>
 </item>
+
+
 
 <item>
 <title>[COLOR pink] JOTAVCDON [/COLOR]</title>
@@ -244,11 +247,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-<item>
-<title>[COLOR yellow] ACTUALIZANDO!!!! [/COLOR]</title>
-<link>http://</link>
-</item>
 
 
 
@@ -346,11 +344,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>  
 
 
-<item>
-<title>[COLOR yellow] ACTUALIZANDO!!!! [/COLOR]</title>
-<link>http://</link>
-</item>
- 
 
 <item> 
 <title>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR]</title>
@@ -361,16 +354,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 
- 
- 
 
 <item>
-<title>-[COLOR  red] JHG  [/COLOR][COLOR  blue] MASTER [/COLOR][COLOR  yellow] SAGAS [/COLOR]</title>
+<title>[COLOR white]  LISTA Paises [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
-</item>
+<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
+<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
+</item> 
+ 
+
 
 
 <item>
@@ -381,23 +374,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
 </item>
 
- 
-<item>
-<title>-[COLOR  red] LISTA MOVISTAR ESPAÑA (OFF)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</thumbnail>
-<fanart>http://www.bandera-de.com/wp-content/uploads/2016/04/espan%CC%83a-730x548.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/LISTAJunio</externallink>	
-</item> 
 
-<item>
-<title>[COLOR white] Serie Dragon Ball [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
-<fanart>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/dragonball.m3u</externallink>	
-</item>
- 
+
  
   
 
@@ -435,7 +413,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/movistar1mayo.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.xml</externallink>	
 </item>  
 
  
@@ -444,7 +422,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://pastebin.com/raw/8BWWxG7U</externallink>	
+<externallink></externallink>	
 </item>
 
 
