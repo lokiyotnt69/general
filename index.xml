@@ -154,15 +154,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] ACTUALIZANDO!!!! [/COLOR]</title>
+<title>[COLOR yellow] EN REPARACION [/COLOR]</title>
 <link>http://</link>
 </item>
 
 
  
  
-
-
 
 
 <item>
@@ -188,7 +186,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] ****ADDONS [/COLOR][COLOR yellow] AMIGOS*********************************************************** [/COLOR]</title>
+<title>[COLOR red] ****ADDONS [/COLOR][COLOR yellow] AMIGOS*********************************************************** [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -216,7 +214,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]JotaVCDon[/COLOR]</title>
+<title>[COLOR yellow]*JotaVCDon*[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://2.bp.blogspot.com/-wtedNlgAzHY/WNhGbqR2UKI/AAAAAAAAEtQ/qYZ6G62CCp8nJOLW6TGIHw1ZinesxWAiwCLcB/s1600/LOGO+ADDON+DEF..jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-wtedNlgAzHY/WNhGbqR2UKI/AAAAAAAAEtQ/qYZ6G62CCp8nJOLW6TGIHw1ZinesxWAiwCLcB/s1600/LOGO+ADDON+DEF..jpg</fanart>
@@ -226,7 +224,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow] CINE********************************************************* [/COLOR]</title>
+<title>[COLOR white] ****************ZONA [/COLOR][COLOR yellow] CINE********************************************************* [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -247,7 +245,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR pink] PELICULAS [/COLOR][COLOR white] JHG [/COLOR][COLOR blue] 2.0 [/COLOR]</title>
+<title>-[COLOR red] PELICULAS [/COLOR][COLOR red] JHG [/COLOR][COLOR blue] 2.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -267,7 +265,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]************************************************************************ [/COLOR][COLOR yellow] **** [/COLOR]</title>
+<title>[COLOR white]************************************************************************ [/COLOR][COLOR yellow] **** [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -292,7 +290,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>[COLOR yellow] ****************************ZONA [/COLOR][COLOR yellow] MUSICA********************************************* [/COLOR]</title>
+<title>[COLOR white] ****************************ZONA [/COLOR][COLOR yellow] MUSICA********************************************* [/COLOR]</title>
 <link>http://</link>
 </item>
  
