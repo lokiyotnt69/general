@@ -111,10 +111,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR yellow] ACTUALIZANDO!!!! [/COLOR]</title>
-<link>http://</link>
-</item>
 
 
 <item>
@@ -138,7 +134,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR brown] LIVE SPORTS  [/COLOR]</title>
+<title>-[COLOR brown] LIVE SPORTS DEPORTES [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
 <fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
