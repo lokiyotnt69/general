@@ -112,6 +112,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR white] ZONA DEPORTES[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Zonadeportes1.xml</externallink>	
+</item>
+
+
 
 <item>
 <title>[COLOR skyblue] WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
@@ -134,7 +143,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR brown] LIVE SPORTS DEPORTES [/COLOR]</title>
+<title>-[COLOR brown] LIVE SPORTS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
 <fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
