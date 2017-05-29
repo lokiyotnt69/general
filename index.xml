@@ -127,16 +127,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] ****ADDONS [/COLOR][COLOR yellow] AMIGOS****************************************************** [/COLOR]</title>
+<title>[COLOR red]*ADDONS [/COLOR][COLOR yellow] AMIGOS*[/COLOR]</title>
 <link>http://</link>
 </item>
-
 
  
 
  
 <item>
-<title>[COLOR lime]CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]4[/COLOR].[COLOR red]0[/COLOR].</title>
+<title>[COLOR lime]*CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]4[/COLOR].[COLOR red]0[/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/6fioR4R.png</thumbnail>
 <fanart>http://i.imgur.com/z53W91X.png</fanart>
@@ -146,7 +145,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title> [COLOR red] AdryanList [/COLOR]</title>
+<title> [COLOR red]*AdryanList [/COLOR]</title>
 <link>NA</link>
 <externallink>http://adryanlist.info</externallink>
 <thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
@@ -163,9 +162,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>-[COLOR red] PELICULAS [/COLOR][COLOR red] JHG [/COLOR][COLOR blue] 2.0 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
+</item>
+
 
 <item>
-<title>[COLOR white] Lista NUMERO 1(paises)[/COLOR]</title>
+<title>[COLOR white]*Lista NUMERO 1(paises)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
