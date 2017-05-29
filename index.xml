@@ -108,13 +108,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] ZONA DEPORTES[/COLOR]</title>
+<title>[COLOR white] *ZONA DEPORTES[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Zonadeportes1.xml</externallink>	
 </item>
 
+
+
+<item>
+<title>[COLOR white] *WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGSERVER.xml</externallink>	
+</item>
 
 
 <item>
