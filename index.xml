@@ -32,8 +32,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>                                          [COLOR yellow][B]  A G R A D E C I M I E N T O S:[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
-<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
-<fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 </item>
 
 <item>
@@ -64,8 +64,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>                                                                     [COLOR yellow][B]  Y[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
-<thumbnail>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</thumbnail>
-<fanart>http://porque-se.com/wp-content/uploads/2016/02/importancia-de-la-familia-300x300.png</fanart>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 </item>
 
 <item>
@@ -101,10 +101,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 
-<item>
-<title>[COLOR yellow] **********EN********* [/COLOR][COLOR yellow] ******************REFORMAS************************************ [/COLOR]</title>
-<link>http://</link>
-</item>
 
 
 <item>
@@ -118,7 +114,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] *WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
+<title>[COLOR white]*WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</fanart>
@@ -131,7 +127,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://</link>
 </item>
 
- 
+
 
  
 <item>
@@ -145,7 +141,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title> [COLOR red]*AdryanList [/COLOR]</title>
+<title> [COLOR blue]*AdryanList [/COLOR]</title>
 <link>NA</link>
 <externallink>http://adryanlist.info</externallink>
 <thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
@@ -154,7 +150,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]*JotaVCDon*[/COLOR]</title>
+<title>[COLOR gold]*JotaVCDon*[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://2.bp.blogspot.com/-wtedNlgAzHY/WNhGbqR2UKI/AAAAAAAAEtQ/qYZ6G62CCp8nJOLW6TGIHw1ZinesxWAiwCLcB/s1600/LOGO+ADDON+DEF..jpg</thumbnail>
 <fanart>https://2.bp.blogspot.com/-wtedNlgAzHY/WNhGbqR2UKI/AAAAAAAAEtQ/qYZ6G62CCp8nJOLW6TGIHw1ZinesxWAiwCLcB/s1600/LOGO+ADDON+DEF..jpg</fanart>
@@ -162,14 +158,65 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+
 <item>
-<title>-[COLOR red] PELICULAS [/COLOR][COLOR red] JHG [/COLOR][COLOR blue] 2.0 [/COLOR]</title>
+<title>[COLOR red]*ZONA [/COLOR][COLOR yellow] CINE*[/COLOR]</title>
+<link>http://</link>
+</item>
+
+
+<item>
+<title>-[COLOR red] PELICULAS [/COLOR][COLOR red] JHG [/COLOR][COLOR red] 2.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
 </item>
 
+<item>
+<title>[COLOR orange]*JHG [/COLOR][COLOR orange] UFC [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
+<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/UFC1.xml</externallink>	
+</item>
+ 
+
+<item>
+<title>[COLOR yellow]*ZUMBA  [/COLOR][COLOR gold] Y [/COLOR][COLOR yellow] FITNESS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
+<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
+</item>
+
+ 
+<item>
+<title>[COLOR blue]*LOS 40 PRINCIPALES [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://musicak.com/wp-content/2011/09/la_lista_de_los_40_principales.jpg</thumbnail>
+<fanart>https://musicak.com/wp-content/2011/09/la_lista_de_los_40_principales.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Zona40principales/master/top40principales.xml</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR purple]*TOP  [/COLOR][COLOR purple] MÚSICA (Nuevo)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://4.bp.blogspot.com/-uv6zByuAGxU/Td7c2BZMyEI/AAAAAAAAALo/r52ZAROmhq8/s1600/3-top_musica.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-uv6zByuAGxU/Td7c2BZMyEI/AAAAAAAAALo/r52ZAROmhq8/s1600/3-top_musica.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASETOPMUSICA.xml</externallink>	
+</item> 
+
+
+
+
+
+<item>
+<title>[COLOR white] ****************ZONA [/COLOR][COLOR yellow] ********************************************************* [/COLOR]</title>
+<link>http://</link>
+</item>
 
 <item>
 <title>[COLOR white]*Lista NUMERO 1(paises)[/COLOR]</title>
@@ -178,15 +225,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/lista1.m3u</externallink>	
 </item>
-
-
-
-
-
-
-
-
-
 
 
 
