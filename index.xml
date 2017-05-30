@@ -242,8 +242,33 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR red] JHG [/COLOR][COLOR blue] M+3[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B3.xml</externallink>	
+</item> 
 
 
 
+
+<item>
+<title>-[COLOR gold] TDT  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
+<fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/tdt.m3u</externallink>	
+</item>
+
+
+
+<item>
+<title>[COLOR gold] TDT (Sportdevil) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/TDTYCRIOS.xml </externallink>	
+</item>
 
 
