@@ -150,6 +150,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+  
+<item>
+<title>[COLOR white] JHG [/COLOR][COLOR white] M+2 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</thumbnail>
+<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B2.m3u</externallink>	
+</item>
 
 <item>
 <title>[COLOR red]*ZONA [/COLOR][COLOR yellow] CINE*[/COLOR]</title>
@@ -212,6 +220,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 
+<item>
+<title>[COLOR green]*SAGA Dragon Ball [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
+<fanart>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/SagaGoku.xml</externallink>	
+</item>
+ 
 
 
 
