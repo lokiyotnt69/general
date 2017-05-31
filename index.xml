@@ -160,25 +160,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] JHG [/COLOR][COLOR blue] M+3[/COLOR]</title>
+<title>[COLOR red] JHG [/COLOR][COLOR blue] Movistar3[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B3.xml</externallink>	
 </item> 
-
-
-
-<item>
-<title>[COLOR white] JHG [/COLOR][COLOR gold] MOVISTAR [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
-</item>
-
-
-
 
 
 
@@ -310,6 +297,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+<item>
+<title>[COLOR white] JHG [/COLOR][COLOR gold] MOVISTAR [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
+<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
+</item>
 
 
 
