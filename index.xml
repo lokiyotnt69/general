@@ -168,10 +168,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR red]*ZONA [/COLOR][COLOR yellow] CINE*[/COLOR]</title>
+<title>[COLOR red]*ZONA [/COLOR][COLOR red] CINE*[/COLOR]</title>
 <link>http://</link>
 </item>
 
+
+<item>
+<title>[COLOR red]*DIABLO [/COLOR][COLOR skyblue] HD [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.elsheck.com/site/wp-content/uploads/2016/05/08051688cc34360med.jpg</thumbnail>
+<fanart>http://www.elsheck.com/site/wp-content/uploads/2016/05/08051688cc34360med.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xml</externallink>	
+</item>
 
 
 <item>
