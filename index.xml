@@ -167,10 +167,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B2.m3u</externallink>	
 </item>
 
-<item>
-<title>[COLOR red]*ZONA [/COLOR][COLOR red] CINE*[/COLOR]</title>
-<link>http://</link>
-</item>
+
 
 
 
@@ -194,7 +191,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red]*PELICULAS [/COLOR][COLOR red] JHG [/COLOR][COLOR red] 2.0 [/COLOR]</title>
+<title>[COLOR orange]*PELICULAS [/COLOR][COLOR orange] JHG [/COLOR][COLOR gold] 2.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
