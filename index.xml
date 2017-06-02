@@ -168,16 +168,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
   
-<item>
-<title>[COLOR white] TV DIGITAL2 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.m3u</externallink>	
-</item>
+
 
 <item>
-<title>[COLOR red]*DIABLO [/COLOR][COLOR skyblue] HD [/COLOR]</title>
+<title>[COLOR red]*Listas[/COLOR][COLOR skyblue] Cine [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.elsheck.com/site/wp-content/uploads/2016/05/08051688cc34360med.jpg</thumbnail>
 <fanart>http://www.elsheck.com/site/wp-content/uploads/2016/05/08051688cc34360med.jpg</fanart>
@@ -369,9 +363,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-      <title>[COLOR yellow]=====> [/COLOR][COLOR orange]DJL IPTV ADDON [/COLOR][B][COLOR white]AQUI [/COLOR][/B]</title>
-      <thumbnail>https://www.tpg.com.au/images/IPTV_MainBanner.jpg</thumbnail>
-      <fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
-      <link></link>http://ignoreme
-      <externallink>http://bit.ly/DJLIPTV</externallink>
+<title>[COLOR white] TV DIGITAL2 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.m3u</externallink>	
 </item>
+
+
+<item>
+<title>[COLOR white]  LISTA Paises [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
+<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
+</item> 
+ 
