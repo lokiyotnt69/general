@@ -398,3 +398,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
 </item> 
  
+ 
+ 
+
+
+<item>
+<title>[COLOR yellow] ***[/COLOR][COLOR salmon] *** [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://163.172.213.25:8000/get.php?username=Josevalencia&password=Josevalencia&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item> 
