@@ -161,7 +161,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]*JHG [/COLOR][COLOR salmon] MOVISTAR3[/COLOR]</title>                  
+<title>[COLOR red]*JHG [/COLOR][COLOR blue] MOVISTAR3[/COLOR]</title>                  
 <link>$doregex[makelist2]</link>
 <regex>
 <name>makelist2</name>
@@ -179,7 +179,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
 <item>
 <title>[COLOR white]  LISTA Paises [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -189,14 +188,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
  
 
-<item>
-<title>[COLOR white] JHG [/COLOR][COLOR gold] MOVISTAR [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
-</item>
-  
+ 
 
 
 <item>
@@ -391,13 +383,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/TDTYCRIOS.xml </externallink>	
 </item>
 
-<item>
-<title>[COLOR white] TV DIGITAL2 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MovistarDiablo.m3u</externallink>	
-</item>
 
 
 <item>
@@ -405,44 +390,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
 <fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B1.xml</externallink>	
+<externallink>https://pastebin.com/r2BjdXWS</externallink>	
 </item>
  
 
-<item>
-<title>[COLOR red] JHG [/COLOR][COLOR blue] Movistar3[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>http://www.jiyu.es/wp-content/uploads/2016/01/movistar.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/M%2B3.xml</externallink>	
-</item> 
 
 
 
-<item>
-<title>[COLOR white]  LISTA Paises [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
-<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
-</item> 
  
- 
- 
- 
-<item>
-<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] TECNOTV - http://144.217.255.123:8000 [/COLOR][COLOR white] ESP/LATINO/PELICULAS/FR/IT/RO [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://144.217.255.123:8000/get.php?username=tecnotv&password=roxtvplus2017&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
