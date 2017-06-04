@@ -137,6 +137,38 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 
+<item>
+<title>[COLOR yellow]-CinestrenoTV Sportsdevil Perfect [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dcinestrenostv.tv%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fcinestrenostv.tv.cfg%26definedIn%3dcustoms.cfg%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<thumbnail></thumbnail>
+</item>
+ 
+
+ 
+ 
+<NOPitem>
+<title>[COLOR yellow]-Cinestrenos.TV - Todos Los Canales  REGEX[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>Kannal: - [makelist.param2]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+ 
+ 
+ 
+ 
 
 
 <item>
