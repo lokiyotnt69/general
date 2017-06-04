@@ -336,6 +336,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
 <item>
    <title>[COLOR red]*SAGA ANDROIDES [/COLOR]</title>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/6e/87/10/6e87101c0b15ca5c88991497b0ecb81a.png</fanart>
@@ -353,7 +354,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/6e/87/10/6e87101c0b15ca5c88991497b0ecb81a.png</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page></page>
+      <page>http://diskokosmiko.mx/SeriesHD/04-dragon-ball-z-saga-de-los-androides-38285/list,1,1</page>
       <cookieJar></cookieJar>
 </regex>
 <regex>
