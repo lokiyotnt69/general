@@ -350,8 +350,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
       <listrepeat><![CDATA[
                <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/6e/87/10/6e87101c0b15ca5c88991497b0ecb81a.png</fanart>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/6e/87/10/6e87101c0b15ca5c88991497b0ecb81a.png</thumbnail>
+<fanart>http://fdzeta.com/subir/images/sCu4.jpg</fanart>
+<thumbnail>http://fdzeta.com/subir/images/sCu4.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/SeriesHD/04-dragon-ball-z-saga-de-los-androides-38285/list,1,1</page>
@@ -383,8 +383,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
       <listrepeat><![CDATA[
                <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart>https://i.ytimg.com/vi/QYvBw7HuLKk/maxresdefault.jpg</fanart>
-<thumbnail>https://i.ytimg.com/vi/QYvBw7HuLKk/maxresdefault.jpg</thumbnail>
+<fanart>http://fdzeta.com/subir/images/sCu4.jpg</fanart>
+<thumbnail>http://fdzeta.com/subir/images/sCu4.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/SeriesHD/02-dragon-ball-z-saga-freezer-38283/list,1,4</page>
