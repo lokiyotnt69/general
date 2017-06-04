@@ -337,6 +337,47 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+   <title>[COLOR red]*SAGA ANDROIDES [/COLOR]</title>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/6e/87/10/6e87101c0b15ca5c88991497b0ecb81a.png</fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/6e/87/10/6e87101c0b15ca5c88991497b0ecb81a.png</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/6e/87/10/6e87101c0b15ca5c88991497b0ecb81a.png</fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/6e/87/10/6e87101c0b15ca5c88991497b0ecb81a.png</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page></page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+
+
+
+
+
+
+
+
+
+
+<item>
 <title>[COLOR white] ****************ZONA [/COLOR][COLOR yellow] **************Reparaciones******************************************* [/COLOR]</title>
 <link>http://</link>
 </item>
