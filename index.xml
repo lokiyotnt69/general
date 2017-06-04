@@ -372,8 +372,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
    <title>[COLOR red]*SAGA FREEZER [/COLOR]</title>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://i.ytimg.com/vi/QYvBw7HuLKk/maxresdefault.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/QYvBw7HuLKk/maxresdefault.jpg</thumbnail>
    	<genre>
 
 
@@ -383,8 +383,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
       <listrepeat><![CDATA[
                <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://i.ytimg.com/vi/QYvBw7HuLKk/maxresdefault.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/QYvBw7HuLKk/maxresdefault.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/SeriesHD/02-dragon-ball-z-saga-freezer-38283/list,1,4</page>
