@@ -289,7 +289,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] ***************FAMILIA [/COLOR][COLOR yellow] *************CATOAL*********DRAGON BALL********************* [/COLOR]</title>
+<title>[COLOR red] ***************FAMILIA [/COLOR][COLOR yellow] *************CATOAL*********DRAGON BALL********************* [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -297,7 +297,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR green]*SAGA Dragon Ball [/COLOR]</title>
+<title>[COLOR red]*SAGA Dragon Ball [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
 <fanart>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</fanart>
