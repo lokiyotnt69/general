@@ -295,11 +295,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/SagaGoku.xml</externallink>	
 </item>
  
-<item>
-   <title>[COLOR red]*Dragon Ball Super T1[/COLOR]</title>
-<fanart>https://orig02.deviantart.net/c8fe/f/2015/186/7/6/dragon_ball_super_folder_icon_by_magnuncrux-d901ub1.png</fanart>
-<thumbnail>https://orig02.deviantart.net/c8fe/f/2015/186/7/6/dragon_ball_super_folder_icon_by_magnuncrux-d901ub1.png</thumbnail>
-   	<genre>
+
 
 
 
@@ -364,8 +360,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
    <title>[COLOR red]*SAGA ANDROIDES [/COLOR]</title>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/6e/87/10/6e87101c0b15ca5c88991497b0ecb81a.png</fanart>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/6e/87/10/6e87101c0b15ca5c88991497b0ecb81a.png</thumbnail>
+<fanart>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</fanart>
+<thumbnail>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</thumbnail>
    	<genre>
 
 
@@ -375,8 +371,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
       <listrepeat><![CDATA[
                <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
                <link>$doregex[finalURL]</link>
-<fanart>http://fdzeta.com/subir/images/sCu4.jpg</fanart>
-<thumbnail>http://fdzeta.com/subir/images/sCu4.jpg</thumbnail>
+<fanart>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</fanart>
+<thumbnail>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
       <page>http://diskokosmiko.mx/SeriesHD/04-dragon-ball-z-saga-de-los-androides-38285/list,1,1</page>
