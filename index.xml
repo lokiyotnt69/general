@@ -359,39 +359,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-   <title>[COLOR red]*SAGA ANDROIDES [/COLOR]</title>
-<fanart>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</fanart>
-<thumbnail>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</thumbnail>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-               <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-<fanart>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</fanart>
-<thumbnail>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</thumbnail>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/SeriesHD/04-dragon-ball-z-saga-de-los-androides-38285/list,1,1</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
-
-
-
-<item>
    <title>[COLOR red]*SAGA FREEZER [/COLOR]</title>
 <fanart>https://i.ytimg.com/vi/QYvBw7HuLKk/maxresdefault.jpg</fanart>
 <thumbnail>https://i.ytimg.com/vi/QYvBw7HuLKk/maxresdefault.jpg</thumbnail>
@@ -424,6 +391,49 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+<item>
+   <title>[COLOR red]*SAGA ANDROIDES [/COLOR]</title>
+<fanart>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</fanart>
+<thumbnail>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</fanart>
+<thumbnail>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/SeriesHD/04-dragon-ball-z-saga-de-los-androides-38285/list,1,1</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]*DRAGONBALL [/COLOR][COLOR red]SUPER [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/DragonballSuper.xml</externallink>	
+</item>
 
 
 
