@@ -138,11 +138,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
  
-
  
  
 <item>
-<title>[COLOR yellow]-Cinestrenos.TV - Todos Los Canales  REGEX[/COLOR]</title>
+<title>[COLOR cyan]*CinestrenoTV Sportsdevil Perfect [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dcinestrenostv.tv%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fcinestrenostv.tv.cfg%26definedIn%3dcustoms.cfg%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<thumbnail></thumbnail>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow]*Cinestrenos.TV - Todos Los Canales  REGEX[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -184,7 +193,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] JHG MASTER Server 2 [/COLOR](ESPAÑA) </title>
+<title>[COLOR red]*JHG MASTER Server 2 [/COLOR](ESPAÑA) </title>
 <link>http://Ignoreme</link>
 <externallink>http://192.99.149.20:8080/get.php?username=grspan&amp;password=sxlk2slkx&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
@@ -194,7 +203,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red]LISTA Nueva [/COLOR][COLOR red] JHG [/COLOR][COLOR white] UK/IT/FR/TR/DE/PT/ESP [/COLOR]</title>                  
+<title>[COLOR red]*LISTA Nueva [/COLOR][COLOR red] JHG [/COLOR][COLOR white] UK/IT/FR/TR/DE/PT/ESP [/COLOR]</title>                  
 <link>$doregex[makelist2]</link>
 <regex>
 <name>makelist2</name>
@@ -214,7 +223,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white]  LISTA Paises [/COLOR]</title>
+<title>[COLOR white]*LISTA Paises [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
 <fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
@@ -309,7 +318,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-   <title>[COLOR red] DRAGON BALL Z[/COLOR]</title>
+   <title>[COLOR red]*DRAGON BALL Z[/COLOR]</title>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</fanart>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</thumbnail>
    	<genre>
@@ -434,7 +443,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-   <title>[COLOR red] DRAGON BALLZ [/COLOR][COLOR red] SAGA BUU[/COLOR]</title>
+   <title>[COLOR red]*DRAGON BALLZ [/COLOR][COLOR red] SAGA BUU[/COLOR]</title>
 <fanart>https://img.yescdn.ru/2016/02/14/poster/808ed14a34616c728087509599c6e86c-dragon-ball-z-kai-season-4.jpg</fanart>
 <thumbnail>https://img.yescdn.ru/2016/02/14/poster/808ed14a34616c728087509599c6e86c-dragon-ball-z-kai-season-4.jpg</thumbnail>
    	<genre>
@@ -504,7 +513,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] JHG [/COLOR][COLOR gold] MOVISTAR [/COLOR]</title>
+<title>[COLOR white]*JHG [/COLOR][COLOR gold] MOVISTAR [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
 <fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
@@ -515,7 +524,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR gold] TDT  [/COLOR]</title>
+<title>-[COLOR gold]*TDT  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
 <fanart>http://www.sierranortetc.com/images/logo_tdt.jpg</fanart>
@@ -525,7 +534,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold] TDT (Sportdevil) [/COLOR]</title>
+<title>[COLOR gold]*TDT (Sportdevil) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
@@ -535,7 +544,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white] JHG [/COLOR][COLOR gold] M+1[/COLOR]</title>
+<title>[COLOR white]*JHG [/COLOR][COLOR gold] M+1[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
 <fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
