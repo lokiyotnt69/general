@@ -46,7 +46,7 @@
 
 
 <item>
-      <title>[COLOR orange]DJL IPTV ADDON [/COLOR][B][COLOR white]AQUI [/COLOR][/B]</title>
+      <title>[COLOR orange]*DJL IPTV ADDON [/COLOR][B][COLOR white]AQUI [/COLOR][/B]</title>
       <link>http://ignoreme</link>
 	  <thumbnail>https://www.tpg.com.au/images/IPTV_MainBanner.jpg</thumbnail>
       <fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
@@ -55,9 +55,25 @@
  
 
 <item>
-<title>[COLOR red] **CANALES VARIADOS!! [/COLOR]</title>
+<title>[COLOR red]**CANALES VARIADOS!! [/COLOR]</title>
 <link>http://</link>
 </item>
+ 
+ 
+ 
+
+
+<item>
+<title>[COLOR white]*LISTA Paises [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
+<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
+</item>  
+ 
+ 
+ 
+ 
  
 <!-- 
  
