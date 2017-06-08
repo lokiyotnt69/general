@@ -26,13 +26,25 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR white]*TV DIGITAL(Nuevo)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://media.cubadebate.cu/wp-content/uploads/2013/12/television-digital.jpg</thumbnail>
+<fanart>http://media.cubadebate.cu/wp-content/uploads/2013/12/television-digital.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/baselog.xml</externallink>	
+</item>
+
+
+
+ 
+
 <item>
 <title>[COLOR red] ***ADDONS AMIGOS!!! [/COLOR]</title>
 <link>http://</link>
 </item>
-
-
- 
  
 <item>
 <title> [COLOR blue]*AdryanList [/COLOR]</title>
@@ -41,7 +53,6 @@
 <thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
-
 
 
 
@@ -75,7 +86,6 @@
  
  
  
-<!-- 
  
 <item>
 <title>[COLOR cyan]*CinestrenoTV Sportsdevil Perfect [/COLOR]</title>
@@ -106,14 +116,6 @@
 </item> 
  
  
-
-<item>
-<title>[COLOR white]*[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
 
  
  
