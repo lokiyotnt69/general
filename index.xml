@@ -26,9 +26,6 @@
 
 
 
-
-
-
 <item>
 <title>[COLOR white]*TV DIGITAL(Nuevo)[/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -47,7 +44,6 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
 </item>  
  
-
  
  
  
@@ -83,57 +79,12 @@
  
 
 <item>
-<title>[COLOR red]**CANALES VARIADOS!! [/COLOR]</title>
+<title>[COLOR red]*******************************! [/COLOR]</title>
 <link>http://</link>
 </item>
  
  
  
-
-
-<item>
-<title>[COLOR white]*LISTA Paises [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
-<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
-</item>  
- 
- 
- 
- 
- 
- 
-<item>
-<title>[COLOR cyan]*CinestrenoTV Sportsdevil Perfect [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dcinestrenostv.tv%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fcinestrenostv.tv.cfg%26definedIn%3dcustoms.cfg%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-<thumbnail></thumbnail>
-</item>
- 
- 
- 
-<item>
-<title>[COLOR yellow]*Cinestrenos.TV - Todos Los Canales  REGEX[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>Kannal: - [makelist.param2]</title>
-<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
-<referer></referer>
-<thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item> 
- 
- 
-
  
  
 
@@ -142,14 +93,6 @@
 
 
 
-
-<item>
-<title>[COLOR white]*LISTA Paises [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
-<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
-</item> 
  
 <item>
 <title>[COLOR red] ZONA[/COLOR][COLOR red] DIABLO[/COLOR][COLOR red] PROXIMAMENTE[/COLOR]</title>
@@ -170,27 +113,12 @@
 
 
 
-
-
-
-
-
-
 <item>
 <title>[COLOR red]*Listas[/COLOR][COLOR skyblue] Cine [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.elsheck.com/site/wp-content/uploads/2016/05/08051688cc34360med.jpg</thumbnail>
 <fanart>http://www.elsheck.com/site/wp-content/uploads/2016/05/08051688cc34360med.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xml</externallink>	
-</item>
-
-
-<item>
-<title>[COLOR  skyblue]*TAQUILLAS MOVISTAR [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/Taquilla.xml</externallink>	
 </item>
 
 
@@ -205,44 +133,24 @@
 
 
 
-
-
-
-
-<item>
-<title>[COLOR orange]*JHG [/COLOR][COLOR orange] UFC [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</thumbnail>
-<fanart>http://www.teleprogreso.tv/micanal/wp-content/uploads/2016/09/ufc.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/UFC1.xml</externallink>	
-</item>
- 
-
-<item>
-<title>[COLOR yellow]*ZUMBA  [/COLOR][COLOR gold] Y [/COLOR][COLOR yellow] FITNESS [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.alamedastudio.es/images/articulos/zumba.jpg</thumbnail>
-<fanart>http://www.alamedastudio.es/images/articulos/zumba.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/mundoyoutube/master/estopa.xml</externallink>	
-</item>
-
  
 <item>
-<title>[COLOR blue]*LOS 40 PRINCIPALES [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://musicak.com/wp-content/2011/09/la_lista_de_los_40_principales.jpg</thumbnail>
-<fanart>https://musicak.com/wp-content/2011/09/la_lista_de_los_40_principales.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Zona40principales/master/top40principales.xml</externallink>	
+<title>[COLOR red] ZONA[/COLOR][COLOR red] ENTRETENIMIENTO[/COLOR][COLOR red] [/COLOR]</title>
+<link>http://</link>
 </item>
 
 
+
 <item>
-<title>[COLOR purple]*TOP  [/COLOR][COLOR purple] MÚSICA (Nuevo)[/COLOR]</title>
+<title>[COLOR orange]*ZONA [/COLOR][COLOR orange] ENTRETENIMIENTO[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://4.bp.blogspot.com/-uv6zByuAGxU/Td7c2BZMyEI/AAAAAAAAALo/r52ZAROmhq8/s1600/3-top_musica.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-uv6zByuAGxU/Td7c2BZMyEI/AAAAAAAAALo/r52ZAROmhq8/s1600/3-top_musica.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASETOPMUSICA.xml</externallink>	
-</item> 
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>	
+</item>
+
+
+
 
 
 
@@ -442,38 +350,6 @@
 
 
 <item>
-<title>[COLOR white]*Lista NUMERO 1(paises)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/lista1.m3u</externallink>	
-</item>
-
-
-
-
-<item>
-<title>[COLOR brown]*Pruebas JHG [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
-</item>
-
-
-
-<item>
-<title>[COLOR white]*JHG [/COLOR][COLOR gold] MOVISTAR [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/Angelplus.xml</externallink>	
-</item>
-
-
-
-
-<item>
 <title>-[COLOR gold]*TDT  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.sierranortetc.com/images/logo_tdt.jpg</thumbnail>
@@ -493,26 +369,13 @@
 
 
 
-<item>
-<title>[COLOR white]*JHG [/COLOR][COLOR gold] M+1[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</thumbnail>
-<fanart>https://el-mejor.com/subidas/lo-mejor-en-deportes.jpg</fanart>
-<externallink>https://pastebin.com/r2BjdXWS</externallink>	
-</item>
- 
-
-
-
--->
-
 
 
 <item>
-<title>[COLOR white]*ZONA DEPORTES[/COLOR]</title>
+<title>[COLOR brown]*Pruebas JHG [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Zonadeportes1.xml</externallink>	
+<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
+<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
 </item>
- 
+
