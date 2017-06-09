@@ -38,6 +38,19 @@
 </item>
 
 
+
+<item>
+<title>[COLOR white]*LISTA Paises [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
+<fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
+</item>  
+ 
+
+ 
+ 
+ 
 <item>
 <title>[COLOR red] ********************************************************************************* [/COLOR]</title>
 <link>http://</link>
@@ -124,31 +137,6 @@
  
  
 
-
-<item>
-<title>[COLOR white]*ZONA DEPORTES[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Zonadeportes1.xml</externallink>	
-</item>
-
-
-
-<item>
-<title>[COLOR white]*WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGSERVER.xml</externallink>	
-</item>
-
-
-<item>
-<title>[COLOR red]*JHG MASTER Server 2 [/COLOR](ESPAÑA) </title>
-<link>http://Ignoreme</link>
-<externallink>http://192.99.149.20:8080/get.php?username=grspan&amp;password=sxlk2slkx&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-</item>
 
 
 
@@ -515,14 +503,16 @@
  
 
 
-<item>
-<title>[COLOR blue]*WALKING DEAD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/plantillaNueva.xml</externallink>	
-</item>
 
 -->
 
+
+
+<item>
+<title>[COLOR white]*ZONA DEPORTES[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Zonadeportes1.xml</externallink>	
+</item>
  
