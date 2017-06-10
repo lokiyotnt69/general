@@ -13,12 +13,6 @@
 
 
 <item>
-<title>[COLOR orange] ***EMPEZAMOS REFORMAS!!!! [/COLOR]</title>
-<link>http://</link>
-</item>
-
-
-<item>
 <title>[COLOR red] * [/COLOR][COLOR yellow] EN [/COLOR] [COLOR red] REFORMAS [/COLOR]</title>
 <link>http://</link>
 </item>
@@ -31,14 +25,12 @@
 </item>
  
 <item>
-<title> [COLOR blue]*AdryanList [/COLOR]</title>
+<title> [COLOR skyblue]**AdryanList** [/COLOR]</title>
 <link>NA</link>
 <externallink>http://adryanlist.info</externallink>
 <thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
-
-
 
 
 
@@ -66,13 +58,6 @@
 </item>  
  
  
- 
- 
-<item>
-<title>[COLOR orange] ********************************************************************************* [/COLOR]</title>
-<link>http://</link>
-</item>
-
  
 
  
@@ -127,7 +112,7 @@
 
 
 <item>
-<title>[COLOR red]*Listas[/COLOR][COLOR skyblue] Cine [/COLOR]</title>
+<title>[COLOR red] * [/COLOR][COLOR yellow] LISTAS [/COLOR] [COLOR red] CINE[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.elsheck.com/site/wp-content/uploads/2016/05/08051688cc34360med.jpg</thumbnail>
 <fanart>http://www.elsheck.com/site/wp-content/uploads/2016/05/08051688cc34360med.jpg</fanart>
@@ -158,184 +143,12 @@
 
 
 
-
-
-
 <item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] SAGA [/COLOR] [COLOR red] DRAGONBALL  [/COLOR]</title>
+<title>[[COLOR red] * [/COLOR][COLOR yellow] SAGAS[/COLOR] [COLOR red] DRAGON BALL [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
 <fanart>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/SagaGoku.xml</externallink>	
-</item>
- 
-
-
-
-
-<item>
-   <title>[COLOR red] * [/COLOR][COLOR yellow] DRAGONBALL [/COLOR] [COLOR red] Z [/COLOR]</title>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</fanart>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</thumbnail>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-               <title>[B][COLOR red] DRAGON BALL Z[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</fanart>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</thumbnail>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/SeriesHD/01-dragon-ball-z-saga-de-los-saiyajins-38255/list,1,2</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
- 
-	
-	
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-               <title>[B][COLOR red] Episodio[/COLOR] -[COLOR blue][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-<fanart>https://orig02.deviantart.net/c8fe/f/2015/186/7/6/dragon_ball_super_folder_icon_by_magnuncrux-d901ub1.png</fanart>
-<thumbnail>https://orig02.deviantart.net/c8fe/f/2015/186/7/6/dragon_ball_super_folder_icon_by_magnuncrux-d901ub1.png</thumbnail>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/SeriesHD/dragon-ball-super-t1-54167/list,1,2</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
-
-
-
-<item>
-   <title>[COLOR red]*SAGA FREEZER [/COLOR]</title>
-<fanart>https://i.ytimg.com/vi/QYvBw7HuLKk/maxresdefault.jpg</fanart>
-<thumbnail>https://i.ytimg.com/vi/QYvBw7HuLKk/maxresdefault.jpg</thumbnail>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-               <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-<fanart>http://fdzeta.com/subir/images/sCu4.jpg</fanart>
-<thumbnail>http://fdzeta.com/subir/images/sCu4.jpg</thumbnail>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/SeriesHD/02-dragon-ball-z-saga-freezer-38283/list,1,4</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
-
-
-
-
-
-<item>
-   <title>[COLOR red]*SAGA ANDROIDES [/COLOR]</title>
-<fanart>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</fanart>
-<thumbnail>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</thumbnail>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-               <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-<fanart>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</fanart>
-<thumbnail>http://oi1060.photobucket.com/albums/t452/ElMatyBarto/logo10800.jpg</thumbnail>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/SeriesHD/04-dragon-ball-z-saga-de-los-androides-38285/list,1,1</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
-
-<item>
-   <title>[COLOR red]*DRAGON BALLZ [/COLOR][COLOR red] SAGA BUU[/COLOR]</title>
-<fanart>https://img.yescdn.ru/2016/02/14/poster/808ed14a34616c728087509599c6e86c-dragon-ball-z-kai-season-4.jpg</fanart>
-<thumbnail>https://img.yescdn.ru/2016/02/14/poster/808ed14a34616c728087509599c6e86c-dragon-ball-z-kai-season-4.jpg</thumbnail>
-   	<genre>
-
-
-<link>$doregex[makelist]</link>
-<regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-               <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
-               <link>$doregex[finalURL]</link>
-<fanart>https://img.yescdn.ru/2016/02/14/poster/808ed14a34616c728087509599c6e86c-dragon-ball-z-kai-season-4.jpg</fanart>
-<thumbnail>https://img.yescdn.ru/2016/02/14/poster/808ed14a34616c728087509599c6e86c-dragon-ball-z-kai-season-4.jpg</thumbnail>
-      ]]></listrepeat>
-      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
-      <page>http://diskokosmiko.mx/SeriesHD/07-dragon-ball-z-saga-de-buu-38288/list,1,3</page>
-      <cookieJar></cookieJar>
-</regex>
-<regex>
-      <name>finalURL</name>
-      <expres>Url":"(.*?)"</expres>
-      <page>http://diskokosmiko.mx/[makelist.param2]</page>
-      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
-      <referer>http://diskokosmiko.mx/</referer>
-      <x-req>XMLHttpRequest</x-req>
-      <cookiejar></cookiejar>
-</regex>	
-</item>
-
-
-<item>
-<title>[COLOR red]*DRAGONBALL [/COLOR][COLOR red]SUPER [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/DragonballSuper.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/SagaDBZ.xml</externallink>	
 </item>
 
 
