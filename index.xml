@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR red]*  [/COLOR][COLOR red]*  [/COLOR]</title>
+<title>[COLOR red] * [/COLOR][COLOR yellow] JHG [/COLOR] [COLOR red] MASTER [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -19,9 +19,30 @@
 
 
 <item>
-<title>[COLOR orange] ***EN UN RATO SE OS ACTUALIZARA JHG!!!!! [/COLOR]</title>
+<title>[COLOR red] * [/COLOR][COLOR yellow] EN [/COLOR] [COLOR red] REFORMAS [/COLOR]</title>
 <link>http://</link>
 </item>
+
+
+
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] ADDONS [/COLOR] [COLOR red] AMIGOS [/COLOR]</title>
+<link>http://</link>
+</item>
+ 
+<item>
+<title> [COLOR blue]*AdryanList [/COLOR]</title>
+<link>NA</link>
+<externallink>http://adryanlist.info</externallink>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+</item>
+
+
+
+
+
+
 
 
 [COLOR red] * [/COLOR][COLOR yellow]  [/COLOR] [COLOR red]  [/COLOR]
@@ -54,36 +75,6 @@
 
  
 
-<item>
-<title>[COLOR red] ***ADDONS AMIGOS!!! [/COLOR]</title>
-<link>http://</link>
-</item>
- 
-<item>
-<title> [COLOR blue]*AdryanList [/COLOR]</title>
-<link>NA</link>
-<externallink>http://adryanlist.info</externallink>
-<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
-
-
-
-<item>
-      <title>[COLOR orange]*DJL IPTV ADDON [/COLOR][B][COLOR white]AQUI [/COLOR][/B]</title>
-      <link>http://ignoreme</link>
-	  <thumbnail>https://www.tpg.com.au/images/IPTV_MainBanner.jpg</thumbnail>
-      <fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
-      <externallink>http://bit.ly/DJLIPTV</externallink>
-</item>
- 
-
-<item>
-<title>[COLOR red]*******************************! [/COLOR]</title>
-<link>http://</link>
-</item>
- 
- 
  
  
 <item>
@@ -106,8 +97,6 @@
 
 
 
-
-
 <item>
 <title>[[COLOR red] * [/COLOR][COLOR yellow] RECOPILATORIO [/COLOR] [COLOR red] CINE [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -121,8 +110,8 @@
 <item>
 <title>[COLOR red] * [/COLOR][COLOR yellow] VIDEOCLUB[/COLOR] [COLOR red] JHG [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://img.ymlp.com/n1cm_logotipo_2.jpg</thumbnail>
+<fanart>http://img.ymlp.com/n1cm_logotipo_2.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CineJHg.xml</externallink>	
 </item>
 
@@ -148,7 +137,7 @@
 
 
 <item>
-<title>[COLOR orange]*PELICULAS [/COLOR][COLOR orange] JHG [/COLOR][COLOR gold] 2.0 [/COLOR]</title>
+<title>[COLOR red] * [/COLOR][COLOR yellow] PELICULAS JHG [/COLOR] [COLOR red] 2.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -160,10 +149,10 @@
 
 
 <item>
-<title>[COLOR orange]*ZONA [/COLOR][COLOR orange] ENTRETENIMIENTO[/COLOR]</title>
+<title>[COLOR red] * [/COLOR][COLOR yellow] ZONA [/COLOR] [COLOR red] ENTRETENIMIENTO [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.nosotrasonline.com.co/Plantillas/NOL/imagenes/entretenimiento/img_entretenimiento.png</thumbnail>
+<fanart>http://www.nosotrasonline.com.co/Plantillas/NOL/imagenes/entretenimiento/img_entretenimiento.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>	
 </item>
 
@@ -173,15 +162,7 @@
 
 
 <item>
-<title>[COLOR red] ***************FAMILIA [/COLOR][COLOR yellow] *********************DRAGON BALL********************* [/COLOR]</title>
-<link>http://</link>
-</item>
-
-
-
-
-<item>
-<title>[COLOR red]*SAGA Dragon Ball [/COLOR]</title>
+<title>[COLOR red] * [/COLOR][COLOR yellow] SAGA [/COLOR] [COLOR red] DRAGONBALL  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
 <fanart>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</fanart>
@@ -193,7 +174,7 @@
 
 
 <item>
-   <title>[COLOR red]*DRAGON BALL Z[/COLOR]</title>
+   <title>[COLOR red] * [/COLOR][COLOR yellow] DRAGONBALL [/COLOR] [COLOR red] Z [/COLOR]</title>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</fanart>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</thumbnail>
    	<genre>
