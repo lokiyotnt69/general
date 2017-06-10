@@ -13,13 +13,13 @@
 
 
 <item>
-<title>[COLOR red] ***EMPEZAMOS REFORMAS!!!! [/COLOR]</title>
+<title>[COLOR orange] ***EMPEZAMOS REFORMAS!!!! [/COLOR]</title>
 <link>http://</link>
 </item>
 
 
 <item>
-<title>[COLOR red] ***EN UN RATO SE OS ACTUALIZARA JHG!!!!! [/COLOR]</title>
+<title>[COLOR orange] ***EN UN RATO SE OS ACTUALIZARA JHG!!!!! [/COLOR]</title>
 <link>http://</link>
 </item>
 
@@ -37,7 +37,7 @@
 
 
 <item>
-<title>[COLOR white]* [/COLOR][COLOR red] MUNDO [/COLOR][COLOR red] JHG [/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR yellow] MUNDO [/COLOR][COLOR red] JHG [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://blog.adlo.es/images/2015/01/list_640px.jpg</thumbnail>
 <fanart>http://blog.adlo.es/images/2015/01/list_640px.jpg</fanart>
@@ -86,6 +86,22 @@
  
  
  
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] ESTRENOS [/COLOR] [COLOR red] HD [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.viuvalencia.com/netpublisher/minfo/imagenes/1393_MM_cineverano_lona_not_web-01.jpg</thumbnail>
+<fanart>http://www.viuvalencia.com/netpublisher/minfo/imagenes/1393_MM_cineverano_lona_not_web-01.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/ESTRENOSDIABLO.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR red] * [/COLOR][COLOR yellow] EL[/COLOR] [COLOR red] INFIERNO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</thumbnail>
+<fanart>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/EL%20INFIERNO.xml</externallink>	
+</item>
+
 
 
 
@@ -140,22 +156,6 @@
 </item>
 
 
-
-<item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] ESTRENOS [/COLOR] [COLOR red] HD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.viuvalencia.com/netpublisher/minfo/imagenes/1393_MM_cineverano_lona_not_web-01.jpg</thumbnail>
-<fanart>http://www.viuvalencia.com/netpublisher/minfo/imagenes/1393_MM_cineverano_lona_not_web-01.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/ESTRENOSDIABLO.xml</externallink>	
-</item>
-
-<item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] EL[/COLOR] [COLOR red] INFIERNO [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</thumbnail>
-<fanart>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/EL%20INFIERNO.xml</externallink>	
-</item>
 
 
 
