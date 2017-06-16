@@ -118,7 +118,7 @@ https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/G4wh8CQxhlg/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/G4wh8CQxhlg/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/EL%20RINCON%20DEL%20LOLO%20VOL%201.m3u</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELRINCONDELOLO/master/Baselolo.xml</externallink>	
 </item>
 
 
@@ -134,13 +134,6 @@ https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg
 
 
 
-<item>
-<title>[COLOR brown]*Pruebas JHG [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
-<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
-</item>
 
 
 
@@ -153,6 +146,15 @@ https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg
 <externallink></externallink>	
 </item>
 
+
+
+<item>
+<title>[COLOR brown]*Pruebas JHG [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</thumbnail>
+<fanart>https://www.vdo-services.com/templates/vdo-tolling/img/flag/ES.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
+</item>
 
 <item>
 <title>[COLOR red] * [/COLOR][COLOR yellow] *R* [/COLOR] [COLOR red] * [/COLOR]</title>
