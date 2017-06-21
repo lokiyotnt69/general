@@ -19,7 +19,7 @@
 	</channel>
 
 	<channel>
-		<name>[COLOR red][/COLOR][COLOR white]:[/COLOR][COLOR blue] [COLOR red] [/COLOR]</name>
+		<name>[COLOR red][/COLOR][COLOR white][/COLOR][COLOR blue] [COLOR red] [/COLOR]</name>
 		<thumbnail>http://www.nktphotonics.com/wp-content/uploads/2015/06/www.gif</thumbnail>
 		<fanart>http://opanorama.pt/wp-content/uploads/2017/02/WWW.jpg</fanart>
 		<link>http://ignorame</link>
@@ -27,7 +27,7 @@
 	</channel>
  
 	<channel>
-		<name>[COLOR red]PayPAl[/COLOR][COLOR white]:[/COLOR][COLOR blue] [COLOR red] zyattro@hotmail.com[/COLOR]</name>
+		<name>[COLOR red]PayPAl[/COLOR][COLOR white][/COLOR][COLOR blue] [COLOR red] zyattro@hotmail.com[/COLOR]</name>
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<link>http://ignorame</link>
@@ -48,15 +48,15 @@
 		<thumbnail>https://www.tpg.com.au/images/MASTER_MainBanner.jpg</thumbnail>
 		<fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
 		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/Index2JHG.xml</externallink>
 	</channel>
 	
 	<channel>
-		<name>[COLOR yellow]=====> [/COLOR][COLOR orange]INGRESAR A [/COLOR][B][COLOR white]RINCON DE LOLO [/COLOR][COLOR white]AQUI [/COLOR][/B][COLOR yellow]<=====[/COLOR]</name>
+		<name>[COLOR yellow]=====> [/COLOR][COLOR orange]INGRESAR AL [/COLOR][B][COLOR white]RINCON DE LOLO [/COLOR][COLOR white]AQUI [/COLOR][/B][COLOR yellow]<=====[/COLOR]</name>
 		<thumbnail>http://us.napster.com/assets/runway/kidsmode/kids_logo_x2-2cc464484bd057ac2638e40f988c3b91.png</thumbnail>
 		<fanart>http://img.clipartall.com/computer-20clipart-20for-20kids-kids-clipart-3097_1833.gif</fanart>
 		<link></link>http://ignoreme
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>
 	</channel>
 
 	<channel>
@@ -64,9 +64,17 @@
 		<thumbnail></thumbnail>
 		<fanart></fanart>
 		<link></link>http://ignoreme
-		<externallink></externallink>
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>
 	</channel>
 
+	
+	<channel>
+		<name>[COLOR yellow]=====> [/COLOR][COLOR orange]INGRESAR A PELICULAS [/COLOR][B][COLOR white]AQUI [/COLOR][/B][COLOR yellow]<=====[/COLOR]</name>
+		<thumbnail></thumbnail>
+		<fanart></fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>
+	</channel>
 	
 	<channel>
 		<name>[COLOR white]==========================[/COLOR]</name>
