@@ -1,6 +1,6 @@
 <channels>
 	<channels_info>
-		<title>[COLOR red]*JHG[/COLOR][COLOR white] MASTER[/COLOR][COLOR red] ADDON[/COLOR]</title>
+		<title>[COLOR red]*JHG[/COLOR][COLOR blue] MASTER[/COLOR][COLOR red] ADDON[/COLOR]</title>
 		<genre>JHG MASTER</genre>
 		<description> Addon JHG MASTER Para el Disfrute de Todos</description>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
@@ -11,7 +11,7 @@
 
 	
 	<channel>
-		<name>[COLOR red]BIENVENIDOS A [/COLOR][COLOR white][COLOR orange]JHG[/COLOR][COLOR red] MASTER[/COLOR]</name>
+		<name>[COLOR red]BIENVENIDOS A [/COLOR][COLOR blue][COLOR blue]JHG[/COLOR][COLOR red] MASTER[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link>http://ignorame</link>
@@ -19,7 +19,7 @@
 	</channel>
 
 	<channel>
-		<name>[COLOR red][/COLOR][COLOR white][/COLOR][COLOR blue] [COLOR red] [/COLOR]</name>
+		<name>[COLOR red][/COLOR][COLOR blue][/COLOR][COLOR blue] [COLOR red] [/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link>http://ignorame</link>
@@ -27,7 +27,7 @@
 	</channel>
  
 	<channel>
-		<name>[COLOR red]PayPAl[/COLOR][COLOR white][/COLOR][COLOR blue] [COLOR red] zyattro@hotmail.com[/COLOR]</name>
+		<name>[COLOR red]PayPAl[/COLOR][COLOR blue][/COLOR][COLOR blue] [COLOR red] zyattro@hotmail.com[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link>http://ignorame</link>
@@ -36,7 +36,7 @@
 	
 
 	<channel>
-		<name>[COLOR white]==========================[/COLOR]</name>
+		<name>[COLOR blue]==========================[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link></link>http://ignoreme
@@ -44,7 +44,7 @@
 	</channel>
 
 	<channel>
-		<name>[COLOR yellow]=====> [/COLOR][COLOR orange] JHG MASTER [/COLOR][B][COLOR white] PULSA AQUI [/COLOR][/B][COLOR yellow]<=====[/COLOR]</name>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] JHG MASTER [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link></link>http://ignoreme
@@ -52,7 +52,7 @@
 	</channel>
 	
 	<channel>
-		<name>[COLOR yellow]=====> [/COLOR][B][COLOR white]RINCON DE LOLO [/COLOR][COLOR white]PULSA AQUI [/COLOR][/B][COLOR yellow]<=====[/COLOR]</name>
+		<name>[COLOR red]=====> [/COLOR][B][COLOR blue]RINCON DE LOLO [/COLOR][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/G4wh8CQxhlg/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/G4wh8CQxhlg/hqdefault.jpg</fanart>
 		<link></link>http://ignoreme
@@ -60,33 +60,33 @@
 	</channel>
 
 	<channel>
-		<name>[COLOR yellow]=====> [/COLOR][COLOR orange] TELEVISIÓN JHG [/COLOR][B][COLOR white] PULSA AQUI [/COLOR][/B][COLOR yellow]<=====[/COLOR]</name>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] TELEVISIÓN JHG [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>
+		<externallink></externallink>
 	</channel>
 
 	
 	<channel>
-		<name>[COLOR yellow]=====> [/COLOR][COLOR orange] PELICULAS [/COLOR][B][COLOR white]PULSA AQUI [/COLOR][/B][COLOR yellow]<=====[/COLOR]</name>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] PELICULAS [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/baepeliculasJHg2.xml</externallink>
 	</channel>
 	
 	
 	<channel>
-		<name>[COLOR yellow]=====> [/COLOR][COLOR orange] ZONA ENTRETENIMIENTO [/COLOR][B][COLOR white]PULSA AQUI [/COLOR][/B][COLOR yellow]<=====[/COLOR]</name>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] ZONA ENTRETENIMIENTO [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>
+		<externallink></externallink>
 	</channel>
 	
 	<channel>
-		<name>[COLOR white]==========================[/COLOR]</name>
+		<name>[COLOR blue]==========================[/COLOR]</name>
 		<thumbnail>https://www.tpg.com.au/images/MASTER_MainBanner.jpg</thumbnail>
 		<fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
 		<link></link>http://ignoreme
