@@ -67,6 +67,14 @@
 		<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>
 	</channel>
 
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]  EL CHIRINGUITO DE JHG  [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/El%20CHiringuito.xml</externallink>
+	</channel>
 	
 	<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR blue] PELICULAS [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
@@ -92,8 +100,7 @@
 		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/LATAQUILLAFJHG.xml</externallink>
 	</channel>
 	
-	
-	
+		
 	
 	<channel>
 		<name>[COLOR blue]==========================[/COLOR]</name>
@@ -122,6 +129,14 @@
 	
 
 	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]  NOVEDADES [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/NOvedadesgrandes.xml</externallink>
+	</channel>
+	
 	
 	
 	<channel>
@@ -134,19 +149,20 @@
 	
 	
 	
+	
+	
 	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue]  EL CHIRINGUITO DE JHG  [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<name>[COLOR blue]*ADRYANLIST [/COLOR]</name>
+		<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+		<fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
 		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/El%20CHiringuito.xml</externallink>
+		<externallink>http://adryanlist.info</externallink>
 	</channel>
+
 	
 	
 	
-	
-	
-	
+
 	
 	
 	
