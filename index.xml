@@ -94,13 +94,6 @@
 	
 	
 	
-	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] ZONA ENTRETENIMIENTO [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink></externallink>
-	</channel>
 	
 	<channel>
 		<name>[COLOR blue]==========================[/COLOR]</name>
@@ -110,4 +103,43 @@
 		<externallink>http://pastebin.com/</externallink>
 	</channel>
 
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] DOCUMENTALES [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>	https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/documentales.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]  ENTRETENIMIENTO [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>
+	</channel>
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </channels>
