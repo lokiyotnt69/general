@@ -19,7 +19,7 @@
 
 
 <item>
-<title>[COLOR white] ******DE 22H---A  2)))REFORMANDO TODO********* [/COLOR][COLOR yellow] EN [/COLOR] [COLOR white] 22H A 2 DE LA MADRUGADA!!OFFF********* [/COLOR]</title>
+<title>[COLOR white] ******DE 22 A  2)))NOVEDADES!!!******** [/COLOR][COLOR yellow] *** [/COLOR] [COLOR white] SEGUIMOS DE REFORMAS [/COLOR]</title>
 <link>http://</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
@@ -39,10 +39,10 @@ https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg
 
 
 
-
 [COLOR red] * [/COLOR][COLOR yellow]  [/COLOR] [COLOR red]  [/COLOR]
 
 
+ 
  
  
 
@@ -176,7 +176,7 @@ https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/NOvedadesgrandes.xml</externallink>	
 </item>
 
-
+<!--
 <item>
 <title>[COLOR brown]*Pruebas JHG(Novedad) [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -185,26 +185,6 @@ https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
 </item>
 
-
-<item>
-<title>[COLOR dodgerblue][B]MOVIES[/B][/COLOR][COLOR yellow][B]INDEX OF[/B][/COLOR]</title> <!--- titulo a mostrar --->
-<link>$doregex[makelist0]</link>
-
-<regex>
-<name>makelist0</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR lightblue] [makelist0.param2] [/COLOR][/B] </title>
-<link>http://condor1726.dedicatedpanel.com/series/APB/[makelist0.param1]</link> <!--- ruta que contiene la serie o pelicula archivos mkv,avi,mp4 etc. --->
-]]></listrepeat>
-<expres><![CDATA[href="(.*?)">(.*?)<]]></expres>
-<page>http://condor1726.dedicatedpanel.com/series/APB/</page> <!--- ruta que contiene la serie o pelicula archivos mkv,avi,mp4 etc. --->
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-
-<fanart>http://i.huffpost.com/gen/1244965/images/o-CROWDED-MOVIE-THEATER-facebook.jpg</fanart> <!--- portada --->
-<thumbnail>http://www.itouchapps.net/images/wubu-guess-the-app/movies.jpg</thumbnail> <!--- fondo --->
-</item>
 
 <!--
 <item>
