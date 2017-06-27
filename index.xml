@@ -1,3 +1,202 @@
+<channels>
+	<channels_info>
+		<title>[COLOR red]*JHG[/COLOR][COLOR blue] MASTER[/COLOR][COLOR red] ADDON[/COLOR]</title>
+		<genre>JHG MASTER</genre>
+		<description> Addon JHG MASTER Para el Disfrute de Todos</description>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<date></date>
+		<credits>JHG MASTER</credits>
+	</channels_info>
 
+
+
+
+
+
+	
+	<channel>
+		<name>[COLOR red]BIENVENIDOS A [/COLOR][COLOR blue][COLOR blue]JHG[/COLOR][COLOR red] MASTER[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link>http://ignorame</link>
+		<externallink>http://pastebin.com</externallink>
+	</channel>
+
+	<channel>
+		<name>[COLOR red][/COLOR][COLOR blue][/COLOR][COLOR blue] [COLOR red] [/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link>http://ignorame</link>
+		<externallink>http://pastebin.com</externallink>
+	</channel>
+ 
+	<channel>
+		<name>[COLOR red]Invitame A un Café[/COLOR][COLOR blue][/COLOR]*PAYPAl[COLOR blue] [COLOR red] zyattro@hotmail.com[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link>http://ignorame</link>
+		<externallink>http://pastebin.com</externallink>
+	</channel>
+	
+
+	<channel>
+		<name>[COLOR blue]==========================[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>http://pastebin.com/</externallink>
+	</channel>
+
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] JHG MASTER [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/Index2JHG.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR yellow] *DEDICADO A OSCAR* [/COLOR][B][COLOR yellow] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/OSCAR.xml</externallink>
+	</channel>
+	
+	
+	
+	
+
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] TELEVISIÓN JHG [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>
+	</channel>
+
+		
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]  EL CHIRINGUITO DE JHG  [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/El%20CHiringuito.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] PELICULAS [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/baepeliculasJHg2.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] CINE CLASICO[/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Cineclasico.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*LA[/COLOR][COLOR blue] TAQUILLA[/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/LATAQUILLAFJHG.xml</externallink>
+	</channel>
+	
+		
+	
+	<channel>
+		<name>[COLOR blue]==========================[/COLOR]</name>
+		<thumbnail>https://www.tpg.com.au/images/MASTER_MainBanner.jpg</thumbnail>
+		<fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
+		<link></link>http://ignoreme
+		<externallink>http://pastebin.com/</externallink>
+	</channel>
+
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] DOCUMENTALES [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Mundodiablo2.0/master/documentales.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]  ENTRETENIMIENTO [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>
+	</channel>
+	
+
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]  NOVEDADES [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/NOvedadesgrandes.xml</externallink>
+	</channel>
+	
+	
+	
+	<channel>
+		<name>[COLOR blue]==========================[/COLOR]</name>
+		<thumbnail>https://www.tpg.com.au/images/MASTER_MainBanner.jpg</thumbnail>
+		<fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
+		<link></link>http://ignoreme
+		<externallink>http://pastebin.com/</externallink>
+	</channel>
+	
+		
+	
+	<channel>
+		<name>[COLOR blue]*ADRYANLIST [/COLOR]</name>
+		<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+		<fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>http://adryanlist.info</externallink>
+	</channel>
+
+	
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]**MASTER SPORTS [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/DEPORTEMANIAJULIO2017/master/basedeportesjulio.xml</externallink>
+	</channel>
+	
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]   [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</channels>
 	
 	
