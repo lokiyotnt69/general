@@ -14,15 +14,7 @@
 
 
 <item>
-<title>[COLOR white]*WORLD  [/COLOR][COLOR white] IPTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/xtL2iegAPTw/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGSERVER.xml</externallink>	
-</item>
-
-<item>
-<title>[COLOR white].[/COLOR][COLOR blue][B] JOKER[/B] [/COLOR][COLOR white ][I] IPTV[/I][/COLOR]</title>
+<title>[COLOR red]=====>[COLOR white].[/COLOR][COLOR blue][B] JOKER[/B][COLOR red]PULSA AQUI [/COLOR] [/COLOR][COLOR white ][I] IPTV[/I][/COLOR]<=====[/COLOR]</title>
 <thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
 <link>$doregex[makelist2]</link>
 
@@ -54,7 +46,7 @@
 
 
 <item> 
-<title>[COLOR red]=====>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]</title>
+<title>[COLOR red]=====>[COLOR blue] LISTAS M+ [/COLOR][COLOR yellow] IPTV [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][/COLOR red]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
 <fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
