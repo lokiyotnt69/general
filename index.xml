@@ -11,8 +11,11 @@
 
 
 
+	
+	
+	
 
-	<!---------
+	
 	<channel>
 		<name>[COLOR red]BIENVENIDOS A [/COLOR][COLOR blue][COLOR blue]JHG[/COLOR][COLOR red] MASTER[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
@@ -55,6 +58,14 @@
 	</channel>
 	
 	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue]*JOKER*  [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/ca/83/db/ca83db60ab88ef1bce781373fc5b7091.jpg</thumbnail>
+		<fanart>https://s-media-cache-ak0.pinimg.com/originals/ca/83/db/ca83db60ab88ef1bce781373fc5b7091.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/BASE2JOKER.xml</externallink>
+	</channel>
+	
+	<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR yellow] *DEDICADO A OSCAR* [/COLOR][B][COLOR yellow] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
@@ -63,9 +74,34 @@
 	</channel>
 	
 	
-	
-	
+	<channel>
+		<name>[COLOR blue]*ADDON[/COLOR][COLOR blue]*ADRY[/COLOR][COLOR red]ANLIST [/COLOR]</name>
+		<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+		<fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>http://adryanlist.info</externallink>
+	</channel>
 
+		<channel>
+		<name>[COLOR red]*ADDON [/COLOR][COLOR blue] PLANETA [/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link>http://ignorame</link>
+		<externallink>https://raw.githubusercontent.com/boni1974/Documentales/master/index.xml</externallink>
+	</channel>
+
+	<channel>
+		<name>[COLOR red]*ADDON [/COLOR][COLOR blue] KARAOKE [/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link>http://ignorame</link>
+		<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/index.xml</externallink>
+	</channel>
+	
+	
+</channels>
+	
+<!----------
 	<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR blue] TELEVISIÓN JHG [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
@@ -148,7 +184,7 @@
 			
 	
 	<channel>
-		<name>[COLOR blue]*ADRY  [/COLOR][COLOR red]ANLIST [/COLOR]</name>
+		<name>[COLOR blue]*ADDON[/COLOR][COLOR blue]*ADRY[/COLOR][COLOR red]ANLIST [/COLOR]</name>
 		<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
 		<fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
 		<link></link>http://ignoreme
@@ -186,13 +222,6 @@
 	
 	
 	
-	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] ARENAVISION JHG  [/COLOR][B][COLOR red]PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>
-	</channel>
 		
 	
 	
