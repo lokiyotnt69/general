@@ -75,7 +75,7 @@
 	
 	
 	<channel>
-		<name>[COLOR blue]*ADDON[/COLOR][COLOR blue]*ADRY[/COLOR][COLOR red]ANLIST [/COLOR]</name>
+		<name>[COLOR red]=====>[COLOR blue]*ADDON[/COLOR][COLOR blue]*ADRY[/COLOR][COLOR red]ANLIST [/COLOR] [/B] [COLOR red]<=====[/COLOR]</name>
 		<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
 		<fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
 		<link></link>http://ignoreme
@@ -83,7 +83,7 @@
 	</channel>
 
 		<channel>
-		<name>[COLOR red]*ADDON [/COLOR][COLOR blue] PLANETA [/COLOR]</name>
+		<name>[COLOR red]=====>[COLOR red]*ADDON [/COLOR][COLOR blue] PLANETA [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link>http://ignorame</link>
@@ -91,7 +91,7 @@
 	</channel>
 
 	<channel>
-		<name>[COLOR red]*ADDON [/COLOR][COLOR blue] KARAOKE [/COLOR]</name>
+		<name>[COLOR red]=====>[COLOR red]*ADDON [/COLOR][COLOR blue] KARAOKE [/COLOR][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 		<link>http://ignorame</link>
