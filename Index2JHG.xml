@@ -8,7 +8,7 @@
 
 
 <item>
-<title>[COLOR  blue]* [/COLOR][COLOR red]JHG[/COLOR][COLOR red] MASTER[/COLOR][COLOR red]*MOTOGP[/COLOR][COLOR  lime]*FORMULA 1 [/COLOR]</title>
+<title>[COLOR  red]* [/COLOR][COLOR blue]JHG[/COLOR][COLOR red] MASTER[/COLOR][COLOR red]*MOTOGP[/COLOR][COLOR  yellow]*FORMULA 1 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</fanart>
@@ -16,12 +16,27 @@
 </item>
 
 <item>
-<title>[COLOR  blue]* [/COLOR][COLOR red]JHG[/COLOR][COLOR red] MASTER[/COLOR][COLOR  lime]* [/COLOR][COLOR  lime] TOROSTV [/COLOR]</title>
+<title>[COLOR  red]* [/COLOR][COLOR blue]JHG[/COLOR][COLOR red] MASTER[/COLOR][COLOR  lime]* [/COLOR][COLOR  yellow] TOROSTV [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg</thumbnail>
 <fanart>http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
 </item>
+
+
+<item> 
+<title>[COLOR  red]* [/COLOR][COLOR blue]JHG[/COLOR][COLOR red] MASTER[/COLOR][COLOR  lime]* [/COLOR][COLOR  yellow] ARENAVISION [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.androidaba.com/wp-content/uploads/2016/12/ArenaVision-logo-by-ABA.png</thumbnail>
+<fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ArenaVision-logo-by-ABA.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
+</item> 
+
+
+
+
+
+
 
 
 
@@ -42,15 +57,6 @@
 <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/El%20CHiringuito.xml</externallink>	
 </item> 
-	
-	
-<item>
-<title>[COLOR yellow]=====> [/COLOR][COLOR skyblue] SPORTDEVIL [/COLOR] [/COLOR red]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Telefiveg.xml</externallink>	
-</item>
 
 
 
@@ -85,14 +91,6 @@
 </item>
 
 
-
-<item> 
-<title>[COLOR red]=====> [/COLOR][COLOR blue] ARENAVISION JHG  [/COLOR] [COLOR red]<=====[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
-</item> 
 
 
 <item> 
