@@ -1,12 +1,96 @@
-<channels>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+<item> 
+<title>[COLOR skyblue]*TV DIGITAL [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://media.cdnandroid.com/58/a0/aa/5e/imagen-tv-digital-0big.jpg</thumbnail>
+<fanart>https://media.cdnandroid.com/58/a0/aa/5e/imagen-tv-digital-0big.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/El%20CHiringuito.xml</externallink>	
+</item> 
+
+
+
+<item> 
+<title>[COLOR  skyblue]*M+ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.blogs.es/7c5077/movistar/original.jpg</thumbnail>
+<fanart>https://i.blogs.es/7c5077/movistar/original.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MJHG.xml</externallink>	
+</item> 
+
+
+
+<item>
+<title>[COLOR skyblue]*MOTOGP[/COLOR][COLOR  yellow]*FORMULA 1 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/Mundialmotosf1.xml</externallink>	
+</item>
+
+<item>
+<title>[COLOR  skyblue]* [/COLOR][COLOR  yellow] TOROSTV [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</thumbnail>
+<fanart>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
+</item>
+
+
+
+<item> 
+<title>[COLOR  skyblue]* [/COLOR][COLOR  yellow] ARENAVISION [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.androidaba.com/wp-content/uploads/2016/12/ArenaVision-logo-by-ABA.png</thumbnail>
+<fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ArenaVision-logo-by-ABA.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
+</item> 
+
+
+
+<item> 
+<title>[COLOR  white]*Zona En Mantenimiento) [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail>https://pbs.twimg.com/profile_images/432840206425661440/iO7oIB22.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/432840206425661440/iO7oIB22.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/espa%C3%B1a.m3u</externallink>	
+</item> 
+
+
+
 	
-	<channel>
-		<name>[COLOR red]=====> [/COLOR][COLOR blue] JHG MASTER [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
-		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-		<link></link>http://ignoreme
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/Index2JHG.xml</externallink>
-	</channel>
+<item> 
+<title>[COLOR  red]* [/COLOR][COLOR blue]ADDON [/COLOR][COLOR red] ADRYANLIST[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
+<externallink>http://adryanlist.info</externallink>	
+</item> 
+
+	
+	
+
+<item> 
+<title>[COLOR  red]* [/COLOR][COLOR blue]ADDON [/COLOR][COLOR red] PLANETA[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</thumbnail>
+<fanart>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Documentales/master/index.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  red]* [/COLOR][COLOR blue]ADDON[/COLOR][COLOR red]KARAOKE[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</thumbnail>
+<fanart>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/index.xml</externallink>	
+</item> 
+
 	
 
 	<!---------
