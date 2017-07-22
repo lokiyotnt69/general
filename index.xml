@@ -54,31 +54,6 @@
 
 
 
-<item> 
-<title>[COLOR  skyblue]*M+ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.blogs.es/7c5077/movistar/original.jpg</thumbnail>
-<fanart>https://i.blogs.es/7c5077/movistar/original.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MJHG.xml</externallink>	
-</item> 
-
-
-
-<item>
-<title>[COLOR skyblue]*MOTOGP[/COLOR][COLOR  yellow]*FORMULA 1 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/Mundialmotosf1.xml</externallink>	
-</item>
-
-<item>
-<title>[COLOR  skyblue]* [/COLOR][COLOR  yellow] TOROSTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</thumbnail>
-<fanart>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
-</item>
 
 
 
@@ -102,6 +77,33 @@
 </item>
 
 
+
+<item>
+<title>[COLOR skyblue]*MOTOGP[/COLOR][COLOR  yellow]*FORMULA 1 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/Mundialmotosf1.xml</externallink>	
+</item>
+
+
+
+<item> 
+<title>[COLOR  skyblue]*M+ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.blogs.es/7c5077/movistar/original.jpg</thumbnail>
+<fanart>https://i.blogs.es/7c5077/movistar/original.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MJHG.xml</externallink>	
+</item> 
+
+
+<item>
+<title>[COLOR  skyblue]* [/COLOR][COLOR  yellow] TOROSTV [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</thumbnail>
+<fanart>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
+</item>
 
 
 	
