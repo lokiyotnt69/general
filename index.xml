@@ -22,7 +22,6 @@
 <fanart>http://2.bp.blogspot.com/_5FpgyNPDSO4/TLokbeXJOnI/AAAAAAAAAG8/_llJr5Y_PwQ/s1600/undo%2520deportes%5B1%5D.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/DEPORTESJHGMASTER.xml</externallink>	
 </item>
-
 	
 
 <item>
@@ -43,7 +42,6 @@
 </item>	
 
 
-
  <item>
 <title>[COLOR red]* [/COLOR][COLOR red]*BEIN SPORTS [/COLOR]</title>
 <link>http://MENU.me</link>
@@ -53,10 +51,6 @@
 </item>
 
 
-
-
-
-
 <item> 
 <title>[COLOR  skyblue]* [/COLOR][COLOR  yellow] ARENAVISION [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -64,8 +58,6 @@
 <fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ArenaVision-logo-by-ABA.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
 </item> 
-
-
 
 	
 <item>
@@ -77,7 +69,6 @@
 </item>
 
 
-
 <item>
 <title>[COLOR skyblue]*MOTOGP[/COLOR][COLOR  yellow]*FORMULA 1 [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -85,16 +76,6 @@
 <fanart>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/Mundialmotosf1.xml</externallink>	
 </item>
-
-
-
-<item> 
-<title>[COLOR  skyblue]*M+ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.blogs.es/7c5077/movistar/original.jpg</thumbnail>
-<fanart>https://i.blogs.es/7c5077/movistar/original.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MJHG.xml</externallink>	
-</item> 
 
 
 <item>
@@ -105,7 +86,6 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
 </item>
 
-
 	
 <item> 
 <title>[COLOR  red]* [/COLOR][COLOR blue]ADDON [/COLOR][COLOR red] ADRYANLIST[/COLOR]</title>
@@ -114,8 +94,6 @@
 <fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
 <externallink>http://adryanlist.info</externallink>	
 </item> 
-
-	
 	
 
 <item> 
@@ -134,7 +112,6 @@
 <fanart>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/index.xml</externallink>	
 </item> 
-
 	
 
 <item> 
@@ -157,6 +134,20 @@
 
 
 	<!---------
+	
+	
+	
+	
+	
+<item> 
+<title>[COLOR  skyblue]*M+ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.blogs.es/7c5077/movistar/original.jpg</thumbnail>
+<fanart>https://i.blogs.es/7c5077/movistar/original.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/MJHG.xml</externallink>	
+</item> 
+	
+	
 	<channel>
 		<name>[COLOR red]=====> [/COLOR][COLOR yellow] *DEDICADO A OSCAR* [/COLOR][B][COLOR yellow] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
