@@ -1,18 +1,14 @@
 
 
 Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR red] ******[/COLOR]" URL=""; regex""
-Server:"IPTV 1[COLOR skyblue] 01:[/COLOR]" URL="http://lupin3.mine.nu:8000/get.php?username=P45PeterCopley&password=delpiero10&type=m3u"; regex"" 
-Server:"IPTV 2[COLOR skyblue] 02:[/COLOR]" URL=""; regex""
-Server:"IPTV 3[COLOR blue] 03:[/COLOR]" URL=""; regex""
-Server:"IPTV 4[COLOR blue] 04:[/COLOR]" URL=""; regex""
+Server:"IPTV 1[COLOR skyblue] 01:[/COLOR]" URL="http://junglacristal.ddns.net:25461/get.php?username=edil.aguilar.23@gmail.com&password=RDFSDG&type=m3u"; regex"" 
+Server:"IPTV 2[COLOR red] 02:[/COLOR]" URL=""; regex""
+Server:"IPTV 3[COLOR red] 03:[/COLOR]" URL=""; regex""
+Server:"IPTV 4[COLOR red] 04:[/COLOR]" URL=""; regex""
 Server:"IPTV 5[COLOR red] 05:[/COLOR]" URL=""; regex""
 Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL=""; regex""
 Server:"IPTV 7[COLOR red] 07:[/COLOR]" URL=""; regex""
-Server:"IPTV 8[COLOR red] 08:[/COLOR]" URL=""; regex""
-Server:"IPTV 9[COLOR red] 09:[/COLOR]" URL=""; regex""
-Server:"IPTV 10[COLOR red] 10:[/COLOR]" URL=""; regex""
-Server:"IPTV [COLOR red] 11:[/COLOR]" URL=""; regex""
-Server:"IPTV [COLOR red] 12:[/COLOR]" URL=""; regex""
+
 
 
 
