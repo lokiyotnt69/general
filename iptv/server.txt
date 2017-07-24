@@ -6,8 +6,8 @@ Server:"IPTV 2[COLOR red] 02:[/COLOR]" URL="http://s1.finoip.com:20000/get.php?u
 Server:"IPTV 3[COLOR red] 03:[/COLOR]" URL="http://151.80.99.90:16000/get.php?username=KEBTON&password=12000888&type=m3u"; regex""
 Server:"IPTV 4[COLOR red] 04:[/COLOR]" URL=""; regex""
 Server:"IPTV 5[COLOR red] 05:[/COLOR]" URL=""; regex""
-Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL=""; regex""
-Server:"IPTV 7[COLOR red] 07:[/COLOR]" URL=""; regex""
+Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL="http://giant-iptv.com:5477/get.php?username=4Ci7XNDMOO&password=rHJhwQbBuw&type=m3u"; regex""
+Server:"IPTV 7[COLOR red] 07:[/COLOR]" URL="http://149.202.195.182:2500/get.php?username=Jacques2&password=Jacques2&type=m3u"; regex""
 
 
 
