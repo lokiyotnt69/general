@@ -1,9 +1,10 @@
 
 
+
 Server:"[COLOR yellow] Propiedad de[/COLOR][COLOR red] ******[/COLOR]" URL=""; regex""
 Server:"IPTV 1[COLOR skyblue] 01:[/COLOR]" URL="http://junglacristal.ddns.net:25461/get.php?username=edil.aguilar.23@gmail.com&password=RDFSDG&type=m3u"; regex"" 
-Server:"IPTV 2[COLOR red] 02:[/COLOR]" URL=""; regex""
-Server:"IPTV 3[COLOR red] 03:[/COLOR]" URL=""; regex""
+Server:"IPTV 2[COLOR red] 02:[/COLOR]" URL="http://s1.finoip.com:20000/get.php?username=paolo&password=paolo&type=m3u"; regex""
+Server:"IPTV 3[COLOR red] 03:[/COLOR]" URL="http://151.80.99.90:16000/get.php?username=KEBTON&password=12000888&type=m3u"; regex""
 Server:"IPTV 4[COLOR red] 04:[/COLOR]" URL=""; regex""
 Server:"IPTV 5[COLOR red] 05:[/COLOR]" URL=""; regex""
 Server:"IPTV 6[COLOR red] 06:[/COLOR]" URL=""; regex""
