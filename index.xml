@@ -123,6 +123,22 @@
 <externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/index.xml</externallink>	
 </item> 
 	
+	<channel>
+		<name>[COLOR white]INGRESAR A[/COLOR][B] [COLOR red]E L   R I N C O N  [COLOR yellow] D E L [/COLOR]  L O L O[/COLOR][/B] [COLOR white] ADDON[/COLOR]</name>
+		<link>http://ignorame</link>
+		<thumbnail>https://www.dropbox.com/s/1jpt71qgtjk54c5/icon.png?dl=1</thumbnail>
+		<fanart>https://www.dropbox.com/s/dp2sdbbwk7dzgwj/fanart.jpg?dl=1</fanart>
+		<externallink>https://www.dropbox.com/s/0du0z9camxqttmu/Baselolo.xml?dl=1</externallink>
+	</channel>
+	
+	<item>
+		<title>[COLOR white]+ [/COLOR][COLOR red]EL RINCON DEL LOLO[/COLOR]</title>
+		<link>http://ignorame</link>
+		<thumbnail>https://www.dropbox.com/s/1jpt71qgtjk54c5/icon.png?dl=1</thumbnail>
+		<fanart>https://www.dropbox.com/s/dp2sdbbwk7dzgwj/fanart.jpg?dl=1</fanart>
+		<externallink>http://bit.ly/RinconLolo</externallink>
+	</item>
+		
 
 <item> 
 <title>[COLOR  white]*Zona En Mantenimiento) [/COLOR] </title>
