@@ -6,14 +6,7 @@
 
 
 
-
-<item> 
-<title>[COLOR blue] JHG [/COLOR][COLOR yellow] IPTV  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
-<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
-</item>  
+ 
 
 <item>
 <title>[COLOR skyblue]*LA TAQUILLA DE  JHG (Nuevo)[/COLOR]</title>
@@ -33,31 +26,6 @@
 </item>
 	
 
-<item>
-<title>[COLOR red]*[/COLOR][COLOR lime] AREA 13(Nuevo) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<fanart>https://www.areathirteen.com/images/area13_home.jpg</fanart>
-<thumbnail>https://www.areathirteen.com/images/area13_home.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/labomba34.xml</externallink>
-</item>
-
-
- <item>
-<title>[COLOR skyblue]*ZONA [/COLOR][COLOR lime]*BOOM [/COLOR]</title>
-<link>http://MENU.me</link>
-<externallink>http://pastebin.com/raw/ghXNKsZk</externallink>
-<fanart>https://pbs.twimg.com/profile_images/1132497714/LA_BOMBA_11.jpg</fanart>
-<thumbnail>https://pbs.twimg.com/profile_images/1132497714/LA_BOMBA_11.jpg</thumbnail>
-</item>	
-
-
- <item>
-<title>[COLOR red]* [/COLOR][COLOR red]*BEIN SPORTS [/COLOR]</title>
-<link>http://MENU.me</link>
-<externallink>https://pastebin.com/raw/2HyptJUH</externallink>
-<fanart>https://betsuites.com/blog/wp-content/uploads/2017/06/bein-sport-espa%C3%B1a-gratis.jpg</fanart>
-<thumbnail>https://betsuites.com/blog/wp-content/uploads/2017/06/bein-sport-espa%C3%B1a-gratis.jpg</thumbnail>
-</item>
 
 
 <item> 
@@ -69,32 +37,7 @@
 </item> 
 
 	
-<item>
-<title>[COLOR red]* [/COLOR][COLOR yellow] JUEGO DE [/COLOR][COLOR red] TRONOS [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://okdiario.com/series/img/2016/09/07/156476.alfabetajuega-pokemon-got.jpg</thumbnail>
-<fanart>https://okdiario.com/series/img/2016/09/07/156476.alfabetajuega-pokemon-got.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Juegotronos.xml</externallink>	
-</item>
 
-
-<item>
-<title>[COLOR skyblue]*MOTOGP[/COLOR][COLOR  yellow]*FORMULA 1 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</thumbnail>
-<fanart>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/Mundialmotosf1.xml</externallink>	
-</item>
-
-
-
-<item>
-<title>[COLOR  skyblue]* [/COLOR][COLOR  yellow] TOROSTV [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</thumbnail>
-<fanart>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
-</item>
 
 	
 <item> 
@@ -123,22 +66,7 @@
 <externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/index.xml</externallink>	
 </item> 
 	
-	<channel>
-		<name>[COLOR white]INGRESAR A[/COLOR][B] [COLOR red]E L   R I N C O N  [COLOR yellow] D E L [/COLOR]  L O L O[/COLOR][/B] [COLOR white] ADDON[/COLOR]</name>
-		<link>http://ignorame</link>
-		<thumbnail>https://www.dropbox.com/s/1jpt71qgtjk54c5/icon.png?dl=1</thumbnail>
-		<fanart>https://www.dropbox.com/s/dp2sdbbwk7dzgwj/fanart.jpg?dl=1</fanart>
-		<externallink>https://www.dropbox.com/s/0du0z9camxqttmu/Baselolo.xml?dl=1</externallink>
-	</channel>
-	
-	<item>
-		<title>[COLOR white]+ [/COLOR][COLOR red]EL RINCON DEL LOLO[/COLOR]</title>
-		<link>http://ignorame</link>
-		<thumbnail>https://www.dropbox.com/s/1jpt71qgtjk54c5/icon.png?dl=1</thumbnail>
-		<fanart>https://www.dropbox.com/s/dp2sdbbwk7dzgwj/fanart.jpg?dl=1</fanart>
-		<externallink>http://bit.ly/RinconLolo</externallink>
-	</item>
-		
+
 
 <item> 
 <title>[COLOR  white]*Zona En Mantenimiento) [/COLOR] </title>
@@ -149,20 +77,68 @@
 </item> 
 
 
-<item> 
-<title>[COLOR skyblue]* En Mantenimiento)[/COLOR]</title>
+<item>
+<title>[COLOR red]*[/COLOR][COLOR lime] AREA 13(Nuevo) [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://media.cdnandroid.com/58/a0/aa/5e/imagen-tv-digital-0big.jpg</thumbnail>
-<fanart>https://media.cdnandroid.com/58/a0/aa/5e/imagen-tv-digital-0big.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/El%20CHiringuito.xml</externallink>	
-</item> 
+<fanart>https://www.areathirteen.com/images/area13_home.jpg</fanart>
+<thumbnail>https://www.areathirteen.com/images/area13_home.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/labomba34.xml</externallink>
+</item>
+
+
+ <item>
+<title>[COLOR skyblue]*ZONA [/COLOR][COLOR lime]*BOOM [/COLOR]</title>
+<link>http://MENU.me</link>
+<externallink>http://pastebin.com/raw/ghXNKsZk</externallink>
+<fanart>https://pbs.twimg.com/profile_images/1132497714/LA_BOMBA_11.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/1132497714/LA_BOMBA_11.jpg</thumbnail>
+</item>	
+
 
 
 
 	<!---------
 	
 	
+	<item>
+<title>[COLOR red]* [/COLOR][COLOR yellow] JUEGO DE [/COLOR][COLOR red] TRONOS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://okdiario.com/series/img/2016/09/07/156476.alfabetajuega-pokemon-got.jpg</thumbnail>
+<fanart>https://okdiario.com/series/img/2016/09/07/156476.alfabetajuega-pokemon-got.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Juegotronos.xml</externallink>	
+</item>
+
 	
+<item> 
+<title>[COLOR blue] JHG [/COLOR][COLOR yellow] IPTV  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
+<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
+</item> 
+	
+	
+	
+	
+<item>
+<title>[COLOR skyblue]*MOTOGP[/COLOR][COLOR  yellow]*FORMULA 1 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/3f/d5/37/3fd537979a47f78379a3cc3b23f44c22.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/Mundialmotosf1.xml</externallink>	
+</item>
+
+	
+	
+	
+<item>
+<title>[COLOR  skyblue]* [/COLOR][COLOR  yellow] TOROSTV [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</thumbnail>
+<fanart>http://www.mundoplus.tv/img/7a80bdc359744f432f02ca2f03f77d60</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/TorosTV.xml</externallink>	
+</item>
+
 	
 	
 <item> 
