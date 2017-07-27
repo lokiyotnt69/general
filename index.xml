@@ -5,7 +5,7 @@
 
 
 <item> 
-<title>[COLOR blue] JHG [/COLOR][COLOR yellow] IPTV (Server 1 y 2) [/COLOR]</title>
+<title>[COLOR blue] JHG [/COLOR][COLOR yellow] IPTV  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
 <fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
@@ -13,10 +13,20 @@
 </item> 
 	
 
+
+<item>
+<title>[COLOR red]*[/COLOR][COLOR lime] AREA 13 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<fanart>https://www.areathirteen.com/images/area13_home.jpg</fanart>
+<thumbnail>https://www.areathirteen.com/images/area13_home.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/labomba34.xml</externallink>
+</item>
+	
+
  
 
 <item>
-<title>[COLOR skyblue]*LA TAQUILLA DE  JHG (Nuevo)[/COLOR]</title>
+<title>[COLOR skyblue]*LA TAQUILLA DE  JHG [/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/taquillajulio.xml</externallink>
 <fanart>http://www.tucine.com.ar/resources/images/logo.png</fanart>
@@ -74,15 +84,6 @@
 	
 
 
-
-
-<item>
-<title>[COLOR red]*[/COLOR][COLOR lime] AREA 13off [/COLOR]</title>
-<link>http://Ignoreme</link>
-<fanart>https://www.areathirteen.com/images/area13_home.jpg</fanart>
-<thumbnail>https://www.areathirteen.com/images/area13_home.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/labomba34.xml</externallink>
-</item>
 
 
  <item>
