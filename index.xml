@@ -53,7 +53,7 @@
 
 
 <item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] MUNDO DEPORTE [/COLOR][COLOR yellow] _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ARENAVISION [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.androidaba.com/wp-content/uploads/2016/12/ArenaVision-logo-by-ABA.png</thumbnail>
 <fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ArenaVision-logo-by-ABA.png</fanart>
@@ -61,7 +61,7 @@
 </item> 
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] JUEGO DE TRONOS [/COLOR][COLOR yellow]_**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] JUEGO DE TRONOS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -101,7 +101,7 @@
 
 	
 <item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] ADYANLIST [/COLOR][COLOR yellow] _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ADYANLIST [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
 <fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
@@ -119,7 +119,7 @@
 		
 
 <item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] ADDON PLANETA [/COLOR][COLOR yellow] _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ADDON PLANETA [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</thumbnail>
 <fanart>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</fanart>
@@ -128,7 +128,7 @@
 
 
 <item> 
-<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] ADDON KARAOKE [/COLOR][COLOR yellow] _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ADDON KARAOKE [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</thumbnail>
 <fanart>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</fanart>
