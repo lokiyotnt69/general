@@ -1,0 +1,4447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR deepskyblue] H2O. Señal de alarma[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ptzv77xuhm8r'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/lethal_tender-904590320-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/lethal_tender-904590320-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Ha llegado el águila[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yra4cg0ytwg7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_eagle_has_landed-497837756-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_eagle_has_landed-497837756-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Ha vuelto[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hr86bkgdb46l'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/er_ist_wieder_da_look_who_s_back-329719366-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/er_ist_wieder_da_look_who_s_back-329719366-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Habitación en Roma[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zawjj9oiet68'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/habitacion_en_roma_room_in_rome-162233525-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/habitacion_en_roma_room_in_rome-162233525-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Habitación sin salida (Vacancy)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hqsdg3ltka4i'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/vacancy-530642038-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/vacancy-530642038-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Habitación sin salida 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/3lvy21l1mphh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/vacancy_2_the_first_cut-580251887-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/vacancy_2_the_first_cut-580251887-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Habitus[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ot9fumzmqeqo'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/habitus-572476968-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/habitus-572476968-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hablar[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lyu2vygat5jk'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hablar-989404294-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hablar-989404294-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hable con ella[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mig4cdfr62q5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hable_con_ella-189725043-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hable_con_ella-189725043-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hacia rutas salvajes (Into the Wild)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zsjmykjm563b'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/into_the_wild-931354029-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/into_the_wild-931354029-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hackers, piratas informáticos[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/sfuk9235g79p'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hackers-358996581-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hackers-358996581-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hairspray[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/2huyzyuxu5xs'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hairspray-877136446-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hairspray-877136446-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halley[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/3t96znvktmla'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halley-884311348-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halley-884311348-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloween 2 (Halloween II: ¡Sanguinario!)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/mbmcz55djp5e'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halloween_ii_halloween_2-607028473-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halloween_ii_halloween_2-607028473-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloween 4 - El Regreso de Michael Myers[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/50prhaqca0f5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halloween_4_the_return_of_michael_myers-476103153-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halloween_4_the_return_of_michael_myers-476103153-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloween 5 - La venganza de Michael Myers[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/s4ci56uq0ndr'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halloween_5_the_revenge_of_michael_myers-431909290-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halloween_5_the_revenge_of_michael_myers-431909290-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloween II (H2)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f58dmd7m3jv5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halloween_ii_h2-903875726-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halloween_ii_h2-903875726-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloween III. El día de la bruja[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/q7n69oktukbh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halloween_iii_season_of_the_witch_halloween_3-738644391-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halloween_iii_season_of_the_witch_halloween_3-738644391-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloween mortal (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/a8c0bdco6r7q'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/grave_halloween_the_last_halloween_tv-530005145-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/grave_halloween_the_last_halloween_tv-530005145-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloween, el origen[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w50mgvmmge5o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halloween-795073773-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halloween-795073773-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloween: H20. Veinte años después[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/646np4uafs7m'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halloween_h20_20_years_later_halloween_7-161760898-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halloween_h20_20_years_later_halloween_7-161760898-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloween: La Maldición de Michael Myers (Halloween 6)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/kqsfmo17914o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halloween_the_curse_of_michael_myers_halloween_6-352287647-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halloween_the_curse_of_michael_myers_halloween_6-352287647-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloween: Resurrection[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/x6kyhu5rl6oa'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halloween_resurrection_halloween_8-597904539-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halloween_resurrection_halloween_8-597904539-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halloweentown. La venganza (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w9npw5orrikk'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halloweentown_ii_kalabar_s_revenge_tv-850777355-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halloweentown_ii_kalabar_s_revenge_tv-850777355-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halo 4: Forward Unto Dawn[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5fe6dn3mtyxm'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halo_4_forward_unto_dawn-889386310-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halo_4_forward_unto_dawn-889386310-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halo: Nightfall[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/22y8vd3dzq2w'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halo_nightfall-482596890-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halo_nightfall-482596890-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Halo: The Fall of Reach[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ftflyub2lmv7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/halo_the_fall_of_reach-988112581-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/halo_the_fall_of_reach-988112581-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hamilton 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lkvoefcygw39'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hamilton_men_inte_om_det_galler_din_dotter-227677750-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hamilton_men_inte_om_det_galler_din_dotter-227677750-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hamilton: En interés de la nación[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/sqahpwq3b0mc'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hamilton_i_nationens_intresse_hamilton_in_the_interest_of_the_nation-246610027-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hamilton_i_nationens_intresse_hamilton_in_the_interest_of_the_nation-246610027-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hamlet, el honor de la venganza[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/miv5ypu7kpa4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hamlet-924059969-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hamlet-924059969-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hampones[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vfn7894o3b4b'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hoodlum-986951739-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hoodlum-986951739-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hancock[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wl9wt2grpwyf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hancock-533756910-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hancock-533756910-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hands of Stone[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0pz4xwxg0gf8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hands_of_stone-107446832-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hands_of_stone-107446832-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hank Williams, una voz a la deriva[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8ys963svxhvs'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/i_saw_the_light-302382167-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/i_saw_the_light-302382167-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hanna[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ztjuwxm1cm86'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hanna-906354294-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hanna-906354294-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hannah Montana: La película[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/44nprskkrpb7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hannah_montana_the_movie-288619476-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hannah_montana_the_movie-288619476-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hannah y sus hermanas[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h30zgkfu181o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hannah_and_her_sisters-422497044-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hannah_and_her_sisters-422497044-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hannibal[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nm5gb8aqm1kq'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hannibal-562632903-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hannibal-562632903-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hannibal: El origen del mal[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rahiec7t2na9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hannibal_rising-621044770-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hannibal_rising-621044770-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hansel & Gretel: Cazadores de brujas[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/njs008qtpqtf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hansel_and_gretel_witch_hunters-259093852-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hansel_and_gretel_witch_hunters-259093852-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hansel y Gretel: La bruja del Bosque Negro[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/skh5gzmtlemd'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hansel_gretel_get_baked-746672688-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hansel_gretel_get_baked-746672688-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Happy Feet 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/03rvb0i24xtj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/happy_feet_two_happy_feet_2_in_3d-363824029-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/happy_feet_two_happy_feet_2_in_3d-363824029-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Happy Feet: rompiendo el hielo[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/r0wezyp1edya'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/happy_feet-637452144-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/happy_feet-637452144-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] HappyThankYouMorePlease[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zzk6q99r8jqf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/happythankyoumoreplease_happy_thank_you_more_please-707364324-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/happythankyoumoreplease_happy_thank_you_more_please-707364324-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hara-kiri: Muerte de un samurai[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qd9u88eodx7q'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/ichimei_hara_kiri_death_of_a_samurai_harakiri_seppuku-148639493-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/ichimei_hara_kiri_death_of_a_samurai_harakiri_seppuku-148639493-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hard Boiled (Hervidero)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fhk324rbzypn'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/lashou_shentan_hard_boiled-948694438-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/lashou_shentan_hard_boiled-948694438-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hard Candy[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/gwf0temlald0'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hard_candy-359915234-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hard_candy-359915234-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hardcore Henry[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/neu9emo1cazm'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hardcore_henry-762862601-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hardcore_henry-762862601-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harold y Maude[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xurpyz1r0cns'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harold_and_maude-636272546-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harold_and_maude-636272546-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harold y su manual de secuestro[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dd2nj4y18x5w'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/her_er_harold-386764201-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/her_er_harold-386764201-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry Brown[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/resp78tuq367'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harry_brown-671183011-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harry_brown-671183011-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry Dedos Largos[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/3gwamnrvrxjy'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harry_in_your_pocket-973761433-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harry_in_your_pocket-973761433-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry el fuerte[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/m4o0grgascrf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/magnum_force-712449492-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/magnum_force-712449492-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry el sucio[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w4xzki6jjisc'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/dirty_harry-681952792-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/dirty_harry-681952792-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry Potter y el cáliz de fuego[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tix6i33zrcja'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harry_potter_and_the_goblet_of_fire_harry_potter_4-872646483-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harry_potter_and_the_goblet_of_fire_harry_potter_4-872646483-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry Potter y el misterio del príncipe[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f3b3els4frfr'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harry_potter_and_the_half_blood_prince_harry_potter_6-140623436-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harry_potter_and_the_half_blood_prince_harry_potter_6-140623436-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry Potter y el prisionero de Azkaban[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/b9gfuxc19gmm'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harry_potter_and_the_prisoner_of_azkaban_harry_potter_3-928131061-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harry_potter_and_the_prisoner_of_azkaban_harry_potter_3-928131061-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry Potter y la cámara secreta[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/si0oy1gz9dxf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harry_potter_and_the_chamber_of_secrets_harry_potter_2-209568445-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harry_potter_and_the_chamber_of_secrets_harry_potter_2-209568445-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry Potter y la orden del Fénix[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/iz6mld8nuqty'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harry_potter_and_the_order_of_the_phoenix_harry_potter_5-448254831-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harry_potter_and_the_order_of_the_phoenix_harry_potter_5-448254831-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry Potter y la piedra filosofal[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jcogl63haate'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone_harry_potter_and_the_philosopher_s_stone-255494440-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harry_potter_and_the_sorcerer_s_stone_harry_potter_and_the_philosopher_s_stone-255494440-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry Potter y las Reliquias de la Muerte - Parte I[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yhr6569iqqe2'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_i-158932179-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_i-158932179-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harry Potter y las Reliquias de la Muerte - Parte II[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/txxv6bpla2eo'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_ii-477385286-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/harry_potter_and_the_deathly_hallows_part_ii-477385286-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Haru en el reino de los gatos[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0jvrvh6t4gny'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/neko_no_ongaeshi_the_cat_returns-963174131-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/neko_no_ongaeshi_the_cat_returns-963174131-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Harvard, movida americana[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wvykjk2mjlrw'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/soul_man-726678409-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/soul_man-726678409-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hasta donde los pies me lleven[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/uhip5bn3yylp'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/so_weit_die_fusse_tragen-260117027-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/so_weit_die_fusse_tragen-260117027-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hasta el último hombre[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/edrupax69k8r'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hacksaw_ridge-698653296-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hacksaw_ridge-698653296-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hasta la vista[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tb95zq563xyz'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hasta_la_vista-577874761-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hasta_la_vista-577874761-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hasta que la muerte nos separe[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h4sltzhjsdws'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/ngoh_oi_nei_till_death_do_us_part-705731191-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/ngoh_oi_nei_till_death_do_us_part-705731191-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hasta que la muerte nos separe (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rkp5c6ktwwpa'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/til_death_do_us_part_tv-294167354-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/til_death_do_us_part_tv-294167354-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hasta que llegó su hora[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/kcqii34dvhgb'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/c_era_una_volta_il_west_once_upon_a_time_in_the_west-719106650-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/c_era_una_volta_il_west_once_upon_a_time_in_the_west-719106650-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hay que educar a papá[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vf63m4502zeg'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hay_que_educar_a_papa-751149196-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hay_que_educar_a_papa-751149196-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hay que matar a B.[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/txebbmzn2tqf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hay_que_matar_a_b-123069730-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hay_que_matar_a_b-123069730-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hay un camino a la derecha[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rubg2y72dv31'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hay_un_camino_a_la_derecha-117476148-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hay_un_camino_a_la_derecha-117476148-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Haz de tu vida una obra de arte[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/muckh4fjrjv6'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/haz_de_tu_vida_una_obra_de_arte-771529286-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/haz_de_tu_vida_una_obra_de_arte-771529286-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Haz lo que debas[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qn72oozl6j3i'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/do_the_right_thing-570812882-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/do_the_right_thing-570812882-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hazme reír[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rjto25ln41s5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/funny_people-889497354-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/funny_people-889497354-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Headhunters[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zz7n1a7iu3ps'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hodejegerne_headhunters-600102933-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hodejegerne_headhunters-600102933-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Heat[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xyobtnw5kcw4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/heat-911641527-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/heat-911641527-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Heavy[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6k0mibt5za9j'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/heavy-763366707-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/heavy-763366707-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Heavy Metal[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/d0hihhvu3n08'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/heavy_metal-371424357-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/heavy_metal-371424357-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hechizada (Ella Enchanted)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/eedc1zbkst5m'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/ella_enchanted-584085526-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/ella_enchanted-584085526-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hechizo de luna[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/867ke3vzevli'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/moonstruck-728160127-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/moonstruck-728160127-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hector y el secreto de la felicidad[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tiew714er067'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hector_and_the_search_for_happiness-453820531-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hector_and_the_search_for_happiness-453820531-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Heidi[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dgsil3uo39cw'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/heidi-270451105-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/heidi-270451105-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Heidi[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ohgi9kdgd16k'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/heidi-362660697-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/heidi-362660697-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Heidi (coloreada)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/k5x4340dnzmy'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/heidi-362660697-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/heidi-362660697-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hell & Back[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5o7tgqhyb1ug'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hell_back-389317790-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hell_back-389317790-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellbound: Hellraiser II[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/eu4tw195slii'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hellbound_hellraiser_ii-677601589-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hellbound_hellraiser_ii-677601589-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellboy[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/scihijczrxx7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hellboy-207035020-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hellboy-207035020-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellboy 2: El ejército dorado[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/gwzwpenli9td'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hellboy_2_the_golden_army_hellboy_ii_the_golden_army-895488207-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hellboy_2_the_golden_army_hellboy_ii_the_golden_army-895488207-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellboy Animado: La espada de las tormentas (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hffyb9del6v5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hellboy_animated_sword_of_storms_tv-460545091-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hellboy_animated_sword_of_storms_tv-460545091-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellion[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/od4zlxbam80g'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hellion-175986960-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hellion-175986960-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellion, el ángel caído[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/j7yohifa64fy'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/whisper-964068193-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/whisper-964068193-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hello, My Name Is Doris[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/i3rg583vc6zh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hello_my_name_is_doris-166560411-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hello_my_name_is_doris-166560411-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellraiser[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/56ggywpv8duv'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hellraiser-583256724-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hellraiser-583256724-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellraiser III: infierno en la Tierra[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ftm7u0snrxq7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hellraiser_iii_hell_on_earth-717124852-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hellraiser_iii_hell_on_earth-717124852-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellraiser IV: El final de la dinastía sangrienta[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ecw7ewje7bqr'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hellraiser_iv_bloodline-569300394-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hellraiser_iv_bloodline-569300394-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellraiser V: Inferno[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rnrjlyzhf0tg'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hellraiser_inferno_hellraiser_v_inferno-834405090-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hellraiser_inferno_hellraiser_v_inferno-834405090-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hellraiser VI: Hellseeker[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/l8slcepil362'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hellraiser_hellseeker-650995786-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hellraiser_hellseeker-650995786-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hemingway y Gellhorn (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7pc3yh5g1q4v'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hemingway_gellhorn_tv-324558753-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hemingway_gellhorn_tv-324558753-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Her[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vakmj62vdwd5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/her-716403893-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/her-716403893-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Herbert[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7qrgww1kjmxt'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/herbert-991665989-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/herbert-991665989-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Herbie en el Grand Prix de Montecarlo[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/9xz9kvc7hcod'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/herbie_goes_to_monte_carlo-563196977-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/herbie_goes_to_monte_carlo-563196977-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Herbie, torero[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dauy49umekdh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/herbie_goes_bananas-359069085-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/herbie_goes_bananas-359069085-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Herbie, un volante loco[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/g5pv93sjhnyp'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/herbie_rides_again-243359274-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/herbie_rides_again-243359274-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Herbie: A tope[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/m9sa26le1xl2'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/herbie_fully_loaded-214412944-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/herbie_fully_loaded-214412944-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hercules[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/g4po7pk4eykk'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hercules-984903492-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hercules-984903492-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hércules[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6f8gjiissnfz'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hercules-333429825-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hercules-333429825-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hércules[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/9qd1wrwbabwi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hercules-437587744-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hercules-437587744-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hércules[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nx2aj01qdmpf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/le_fatiche_di_ercole_labors_of_hercules-747157190-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/le_fatiche_di_ercole_labors_of_hercules-747157190-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hermandad de sangre[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fv1z8psp2770'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/gong_wu_triad_underworld_jiang_hu-762193690-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/gong_wu_triad_underworld_jiang_hu-762193690-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hermandad de sangre (Brotherhood of Blood)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xl0ai9vwvj6s'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/brotherhood_of_blood-171262240-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/brotherhood_of_blood-171262240-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hermanísimas[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/p7kky62tx7j0'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/sisters-373395614-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/sisters-373395614-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hermano oso[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nlrgo2adapfd'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/brother_bear-266150246-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/brother_bear-266150246-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hermano oso 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ctendr5frg7i'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/brother_bear_2-318979533-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/brother_bear_2-318979533-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hermanos de fuego[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/r1g1l0gt6hbq'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/jiang_hu_long_hu_men_flaming_brothers-314923998-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/jiang_hu_long_hu_men_flaming_brothers-314923998-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hermanos por pelotas[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6v9gg6u6zvvr'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/step_brothers-811273775-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/step_brothers-811273775-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hermosa juventud[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6k38rl1v8mv5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hermosa_juventud-848620344-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hermosa_juventud-848620344-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hermosas criaturas[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/06d144kptsv3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/beautiful_creatures-357439942-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/beautiful_creatures-357439942-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hero[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/swnmh2xza9ty'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/ying_xiong_hero-218516605-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/ying_xiong_hero-218516605-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Héroe a rayas[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/u55ecn9dtzop'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/racing_stripes-701763945-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/racing_stripes-701763945-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Héroes[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yzqki0vqagkp'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/herois_heroes-202326543-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/herois_heroes-202326543-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Héroes (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ysv7a89zf6ru'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/helden_wenn_dein_land_dich_braucht_heroes_tv-861534655-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/helden_wenn_dein_land_dich_braucht_heroes_tv-861534655-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hidden: Terror en Kingsville[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/y1gaefxmiu29'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hidden-832285499-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hidden-832285499-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hiena salvaje[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pye30xxyoq86'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/xiao_quan_guai_zhao_the_fearless_hyena-974764714-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/xiao_quan_guai_zhao_the_fearless_hyena-974764714-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hiena: El infierno del crimen[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jq6v7bpsokox'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hyena-708002248-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hyena-708002248-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hierro 3[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vud5uadc8p5d'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/bin_jip_3_iron-721205272-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/bin_jip_3_iron-721205272-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] High School[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/v24tfs0w4psd'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/high_school-785235860-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/high_school-785235860-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] High School Musical (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/z1kqkg4rhybr'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/high_school_musical_hsm_tv-316023969-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/high_school_musical_hsm_tv-316023969-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] High School Musical 2 (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hvp0hh9rvywt'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/high_school_musical_2_hsm_2_tv-595498373-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/high_school_musical_2_hsm_2_tv-595498373-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] High School Musical 3: Fin de curso[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7jmoz5art003'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/high_school_musical_3_senior_year_hsm_3-767414099-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/high_school_musical_3_senior_year_hsm_3-767414099-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] High-Rise[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/oo6e6wusm0nh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/high_rise-384499165-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/high_rise-384499165-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hija única[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5aaqz4z9k305'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hija_unica-949496977-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hija_unica-949496977-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hijo de Caín[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8g8jgphtx8ts'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/fill_de_cain_hijo_de_cain-459344999-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/fill_de_cain_hijo_de_cain-459344999-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hijos de Dune (TV) Parte 1/2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7ihfligrj5p5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/children_of_dune_tv-966889471-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/children_of_dune_tv-966889471-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hijos de Dune (TV) Parte 2/2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qftl8qiqsaii'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/children_of_dune_tv-966889471-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/children_of_dune_tv-966889471-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hijos de la medianoche[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bkmf7xms5a62'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/midnight_s_children-340164211-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/midnight_s_children-340164211-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hijos de los hombres[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6izeobum6umv'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/children_of_men-423341707-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/children_of_men-423341707-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hijos de un dios menor[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/cb4dpeafq0rv'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/children_of_a_lesser_god-516650797-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/children_of_a_lesser_god-516650797-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hijos de un mismo Dios[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/73w6w0is0nu9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/edges_of_the_lord-250174081-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/edges_of_the_lord-250174081-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hijos y amantes[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6x2lfqwc7hdg'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/sons_and_lovers-584314989-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/sons_and_lovers-584314989-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hilary y Jackie[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/b1u1mj6i8gbs'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hilary_and_jackie-653800508-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hilary_and_jackie-653800508-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Híncame el diente (Vampires Suck)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f4vdpp62hz5c'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/vampires_suck-562111077-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/vampires_suck-562111077-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hindenburg, el último vuelo (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/p9qg7e4t71kq'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hindenburg_tv-622191768-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hindenburg_tv-622191768-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hipócrates[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w9zkx57nc69o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hippocrate-203547797-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hippocrate-203547797-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hiroshima, mon amour[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/t096lp52oqq1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hiroshima_mon_amour-915742795-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hiroshima_mon_amour-915742795-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historia de lo nuestro[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/z04gecyurlyz'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_story_of_us-683053115-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_story_of_us-683053115-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historia de un crimen[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/n2iyvkoul7no'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/infamous-994387312-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/infamous-994387312-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historia de un detective[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5k6mzy6zts4n'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/murder_my_sweet-717524344-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/murder_my_sweet-717524344-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historia de un director idiota[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/52gbawc1pnyi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/historia_de_un_director_idiota-193511491-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/historia_de_un_director_idiota-193511491-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historia de un soldado[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7z1qym618ql4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/a_soldier_s_story-594341516-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/a_soldier_s_story-594341516-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historia de una monja[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0iriq7ixq85s'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_nun_s_story-335671837-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_nun_s_story-335671837-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historia de una revolución[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7ut78y6bksgn'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/la_revolution_francaise-880711393-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/la_revolution_francaise-880711393-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias corrientes: La película (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/s6inja1xusr3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/regular_show_the_movie_tv-717667028-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/regular_show_the_movie_tv-717667028-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias de Filadelfia[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5ks97nv4vtiy'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_philadelphia_story-569220090-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_philadelphia_story-569220090-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias de la cripta: caballero del diablo[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rbtiudo4t2ji'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/tales_from_the_crypt_presents_demon_knight-776682204-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/tales_from_the_crypt_presents_demon_knight-776682204-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias de la edad de oro[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pixts3oyt0k3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/amintiri_din_epoca_de_aur_tales_from_the_golden_age-637374461-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/amintiri_din_epoca_de_aur_tales_from_the_golden_age-637374461-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias de la radio[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tkitjmtdnhm9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/historias_de_la_radio-932396295-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/historias_de_la_radio-932396295-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias de Lavapiés[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/obkmsxaxq84o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/historias_de_lavapies-347111354-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/historias_de_lavapies-347111354-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias de Navidad[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7cdcsh0jab5t'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/a_christmas_story-621628714-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/a_christmas_story-621628714-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias de Nueva York[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/y3i56xq29ei5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/new_york_stories-234471366-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/new_york_stories-234471366-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias de San Valentín[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/822wpj6hpj0h'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/valentine_s_day-970241885-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/valentine_s_day-970241885-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias del Kronen[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/j6q3b8e8xemd'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/historias_del_kronen-911294290-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/historias_del_kronen-911294290-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Historias mínimas[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/3bvnhkdac0ow'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/historias_minimas-271947435-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/historias_minimas-271947435-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hitch, especialista en ligues[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pxvbux2d8hda'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hitch-566472834-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hitch-566472834-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hitchcock[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pezr09sjocm6'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hitchcock_alfred_hitchcock_and_the_making_of_psycho-964973135-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hitchcock_alfred_hitchcock_and_the_making_of_psycho-964973135-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hitman[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/o4x7c4mocwy4'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hitman-339032424-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hitman-339032424-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hitman: Agente 47[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/z7yaih0xdvig'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hitman_agent_47-905036940-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hitman_agent_47-905036940-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hogar dulce hogar (C)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tfrwxi8tt5sf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/unaccustomed_as_we_are_s-225071466-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/unaccustomed_as_we_are_s-225071466-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hogar no tan dulce hogar[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xptwrpf6qq5z'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/home_sweet_hell-958308919-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/home_sweet_hell-958308919-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hojas de hierba[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/736fcl9b3fn3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/leaves_of_grass-447694361-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/leaves_of_grass-447694361-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Holding the Man[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ga9byek2i9ua'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/holding_the_man-564974622-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/holding_the_man-564974622-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Holidays[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0v6gwfip2yji'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/holidays-963747011-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/holidays-963747011-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Holocausto caníbal[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dl48xwo5lung'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/cannibal_holocaust-451694723-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/cannibal_holocaust-451694723-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hombre lobo: La bestia entre nosotros[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/axc6cyrntjhf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/werewolf_the_beast_among_us-265203189-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/werewolf_the_beast_among_us-265203189-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hombres contra mujeres[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/c0p29nl933i2'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/maschi_contro_femmine-530288235-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/maschi_contro_femmine-530288235-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hombres de élite[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/e3mq6nfbwgo0'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/life_on_the_line-435941367-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/life_on_the_line-435941367-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hombres de honor[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zq8bolnnr2qg'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/men_of_honor-584186623-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/men_of_honor-584186623-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hombres, mujeres y niños[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/nhlpqwwjsz4o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/men_women_and_children-126905177-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/men_women_and_children-126905177-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Home[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5ppnqmai4z6e'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/home_at_the_devil_s_door-341681282-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/home_at_the_devil_s_door-341681282-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Home Movie[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6c9ts81ucf68'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/home_movie-510842744-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/home_movie-510842744-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Home Run[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/gl5gw5kjsf5p'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/home_run-790537116-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/home_run-790537116-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] HOME. Hogar dulce hogar[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ns5kqtia3fm1'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/home-964477913-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/home-964477913-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Homicidio[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/r8ai41qk2pnz'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/homicide-109083212-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/homicide-109083212-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hondo[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f0e849jzx5ya'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hondo-571234821-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hondo-571234821-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Honey[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7qxhe9f0fsuh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/honey-253573017-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/honey-253573017-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Honey 3: Dare to Dance[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/awnoett027et'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/honey_3_dare_to_dance-368385884-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/honey_3_dare_to_dance-368385884-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Honeymoon[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/069gcshu3do3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/luna_de_miel-575071976-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/luna_de_miel-575071976-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Honor y venganza[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/xl5t7oq0frfl'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/destry-481644480-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/destry-481644480-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hook (El capitán Garfio)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bvhwsqsd03p3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hook-241482773-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hook-241482773-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hooligan[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/y2i07bza6189'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/rise_of_the_footsoldier-549388345-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/rise_of_the_footsoldier-549388345-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hooligans[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/u7eqm08agpyd'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/green_street_hooligans-878178521-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/green_street_hooligans-878178521-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hooligans 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8m17u7wm89r5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/green_street_hooligans_2-326109413-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/green_street_hooligans_2-326109413-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hoosiers: más que ídolos[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ttpcidkwmeph'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hoosiers-410821553-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hoosiers-410821553-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hopalong Cassidy: La ley del revólver[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fwzv3fgmv2kf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_frontiersmen-772358981-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_frontiersmen-772358981-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hora punta[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/23shjfw04z8n'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/rush_hour-490554038-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/rush_hour-490554038-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hora punta 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/of6izwf3ri8z'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/rush_hour_2-459423265-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/rush_hour_2-459423265-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hora punta 3[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/posjw7grhvdp'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/rush_hour_3-537038930-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/rush_hour_3-537038930-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Horas desesperadas (Cuenta atrás)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/cyhna1u1028n'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hours-602373422-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hours-602373422-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Horizonte Final[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dpbcuf0m55kv'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/event_horizon-152495994-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/event_horizon-152495994-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Horizontes de grandeza[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0uff91elwg3n'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_big_country-609819729-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_big_country-609819729-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Horizontes lejanos[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/55d5ewsg8fm8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/bend_of_the_river-903021330-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/bend_of_the_river-903021330-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Horizontes perdidos[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/c066hbfyi0um'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/lost_horizon-111286087-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/lost_horizon-111286087-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Horns[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/n7watqlitd67'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/horns-164499464-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/horns-164499464-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Horton[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/a9gpumjdmywy'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/horton_hears_a_who-595802634-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/horton_hears_a_who-595802634-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hostage[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5tm1t7m419y3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hostage-624644438-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hostage-624644438-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hostel[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f5sglv3s2dgb'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hostel-752558415-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hostel-752558415-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hostel 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/c2vwjxd2qsev'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hostel_part_ii_hostel_2-296004945-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hostel_part_ii_hostel_2-296004945-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hostel 3: De vuelta al horror[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/41tkxfa08zbz'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hostel_part_iii_hostel_3-200463211-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hostel_part_iii_hostel_3-200463211-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hot Bot[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/d68du6telx6q'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hot_bot-820001270-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hot_bot-820001270-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hot Girls Wanted[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pm7stqwxfceo'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hot_girls_wanted-158672382-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hot_girls_wanted-158672382-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hot Shots! (¡La madre de todos los desmadres!)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/l037983ytjd7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hot_shots-770260574-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hot_shots-770260574-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hot Wheels, el origen[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rjhe0xgtvbj3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/team_hot_wheels_the_origin_of_awesome-346499264-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/team_hot_wheels_the_origin_of_awesome-346499264-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hotel Transilvania[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/2zfmvp1qw01y'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hotel_transylvania-382209595-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hotel_transylvania-382209595-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hotel Transilvania 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/x85wm0amedix'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hotel_transylvania_2-144535509-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hotel_transylvania_2-144535509-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] House on Haunted Hill[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yx9gu2dvch2h'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/house_on_haunted_hill-630379645-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/house_on_haunted_hill-630379645-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] How to Build a Better Boy (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/edq49lmih6gl'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/how_to_build_a_better_boy_tv-465882614-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/how_to_build_a_better_boy_tv-465882614-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Howard: un nuevo héroe[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/obnqd1741fkq'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/howard_the_duck-874965198-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/howard_the_duck-874965198-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Howl (Aullido)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/px1evws2hczh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/howl-397252669-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/howl-397252669-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Huella de luz[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/320vsu3scnjh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/huella_de_luz-807934309-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/huella_de_luz-807934309-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Huevos de oro[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ss7jv47aop3o'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/huevos_de_oro-494701492-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/huevos_de_oro-494701492-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Huevos revueltos[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/t2q2oh6o91fl'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/huevos_revueltos-111341377-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/huevos_revueltos-111341377-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Huida a medianoche[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zhyrtwetvwf2'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/midnight_run-695546395-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/midnight_run-695546395-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Huida del planeta de los simios[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hmxpywc0yp7t'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/escape_from_the_planet_of_the_apes-909779781-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/escape_from_the_planet_of_the_apes-909779781-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Huida desesperada[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jz52tkiykxkk'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/heaven_s_burning-150212109-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/heaven_s_burning-150212109-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hulk[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/wo2pg4g551m7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_hulk-283958535-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_hulk-283958535-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Human Nature[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6si3mvpwl8b5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/human_nature-982089881-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/human_nature-982089881-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hundid el Bismarck[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/5htjlnrqrzac'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/sink_the_bismarck-202753473-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/sink_the_bismarck-202753473-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hunt for the Wilderpeople, a la caza de los ñumanos[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/i56ic5nm005c'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hunt_for_the_wilderpeople-926657521-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hunt_for_the_wilderpeople-926657521-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Huracán[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0t20ykpj8wk9'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/500_mph_storm-105897413-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/500_mph_storm-105897413-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Huracán Categoría 6 (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ai5kmwaek9mf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/category_6_day_of_destruction_tv-599114817-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/category_6_day_of_destruction_tv-599114817-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hush (Silencio)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fuuw1ivyhace'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hush-458579584-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hush-458579584-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Huyendo de lo imposible[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pc2fxgaruv5x'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/der_teufel_von_mailand-668089969-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/der_teufel_von_mailand-668089969-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Hysteria[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/sidj8sshwxcx'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hysteria-643844293-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hysteria-643844293-large.jpg</fanart>
+</item>
+           
