@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR deepskyblue] X: Night of Vengeance[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/u4cjwlt3ci9a'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/x-568182686-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/x-568182686-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Xanadu[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0ads2vmdkjie'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/xanadu-440885752-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/xanadu-440885752-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] X-Files: Creer es la clave[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zbj092qckilk'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_x_files_2_i_want_to_believe-168304612-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_x_files_2_i_want_to_believe-168304612-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] X-Men[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pcvhjfduo245'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/x_men-358442316-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/x_men-358442316-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] X-Men 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ti6ch4or6n88'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/x2-567489176-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/x2-567489176-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] X-Men Orígenes: Lobezno[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/3isnux6kn9pl'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/x_men_origins_wolverine-358983996-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/x_men_origins_wolverine-358983996-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] X-Men: Apocalipsis[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/p2jnphz11a48'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/x_men_apocalypse-913526208-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/x_men_apocalypse-913526208-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] X-Men: Días del futuro pasado[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/vqtn5300c7ii'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/x_men_days_of_future_past-252906568-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/x_men_days_of_future_past-252906568-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] X-Men: La decisión final[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/gftddnzyjgxa'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/x3_x_men_3_the_last_stand-992099331-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/x3_x_men_3_the_last_stand-992099331-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] X-Men: Primera generación[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ypqmlybdjc2x'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/x_men_first_class-838228011-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/x_men_first_class-838228011-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] XOXO[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/tc8j65nv1xee'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/xoxo-939037996-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/xoxo-939037996-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] XP3D[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yx8z0k0c846m'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/xp3d_paranormal_xperience_3d-797052907-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/xp3d_paranormal_xperience_3d-797052907-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] XXL[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8jkq3fcwqgc7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/xxl-491999105-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/xxl-491999105-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] xXx2: Estado de emergencia[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fm7wfzi7sn5c'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/xxx2_state_of_the_union-634976692-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/xxx2_state_of_the_union-634976692-large.jpg</fanart>
+</item>
+
+           

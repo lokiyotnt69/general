@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+           
+<item>
+<title>[COLOR deepskyblue] Zack y Cody, la película (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/w1h2iui5r5mc'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/the_suite_life_movie_tv-539432364-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/the_suite_life_movie_tv-539432364-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zafarrancho en el rancho[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qty82gctsh4q'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/home_on_the_range-764151137-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/home_on_the_range-764151137-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zandalee (En el límite del deseo)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4uq2p3shwnmm'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zandalee-981642759-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zandalee-981642759-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zapatones[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ctqmvbz3fczo'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/piedone_d_egitto-364876009-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/piedone_d_egitto-364876009-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zapped (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/d2kt7reel118'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zapped_tv-657823334-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zapped_tv-657823334-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zathura, una aventura espacial[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dj5ayjz1k93p'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zathura_a_space_adventure-689874214-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zathura_a_space_adventure-689874214-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zatoichi[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/yfpvl14g95su'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zatoichi-776337106-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zatoichi-776337106-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zelig[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/54astys9vymj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zelig-491434869-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zelig-491434869-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zipi y Zape y el club de la canica[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/64yvyyjlk47j'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zipi_y_zape_y_el_club_de_la_canica-521947130-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zipi_y_zape_y_el_club_de_la_canica-521947130-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zipi y Zape y la isla del capitán[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/e3u5gffzi8fa'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zipi_y_zape_y_la_isla_del_capitan-266990408-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zipi_y_zape_y_la_isla_del_capitan-266990408-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zodiac[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/4we5ydccvewm'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zodiac-856909935-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zodiac-856909935-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zombeavers (Castores zombies)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/hpcm26ut1wdz'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zombeavers-961382103-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zombeavers-961382103-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zombi[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/6gdo4gnt1oov'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/dawn_of_the_dead-486487800-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/dawn_of_the_dead-486487800-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zombie Camp[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/12werl7hlj0z'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/scouts_guide_to_the_zombie_apocalypse-747330471-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/scouts_guide_to_the_zombie_apocalypse-747330471-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zombie Nightmare[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lwjrnobo6syp'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zombie_nightmare-594808703-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zombie_nightmare-594808703-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zombie Strippers[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/l7m1msz19svv'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zombie_strippers-298588071-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zombie_strippers-298588071-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zombie Town[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/2fe778c8pvg0'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/wasting_away_aaah_zombies-299230355-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/wasting_away_aaah_zombies-299230355-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zombie World, the Movie[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ar10ywdokeqi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zombie_world_the_movie-710721005-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zombie_world_the_movie-710721005-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zombies party [/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/y9sbgefccb42'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/shaun_of_the_dead-862150434-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/shaun_of_the_dead-862150434-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zombis nazis (Dead Snow)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/at8oiwg7j08f'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/d_d_sn_dead_snow_dod_sno-119808222-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/d_d_sn_dead_snow_dod_sno-119808222-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zombis nazis 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/je4klu58aooa'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/d_d_sn_2_dead_snow_2_red_vs_dead-683053919-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/d_d_sn_2_dead_snow_2_red_vs_dead-683053919-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zona de Combate (Hyena Road)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7m7uuj8iglgr'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/hyena_road-260888041-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/hyena_road-260888041-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zoolander No. 2[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/0fles0ddsbho'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zoolander_no_2-865825258-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zoolander_no_2-865825258-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zoolander: Un descerebrado de moda[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rrrdgdsb3whx'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zoolander-135717443-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zoolander-135717443-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zootrópolis[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8h1bh1x64ko6'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zootopia-155827662-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zootopia-155827662-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zorba el griego[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/n1imz3s41ick'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/alexis_zorbas_zorba_the_greek-876087444-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/alexis_zorbas_zorba_the_greek-876087444-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Zulu[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/einqhiuh1wtu'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/zulu-268542931-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/zulu-268542931-large.jpg</fanart>
+</item>
+
+		   
