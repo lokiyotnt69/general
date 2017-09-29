@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR deepskyblue] Quadrophenia[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/rdfvz8bx49ja'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/quadrophenia-566672388-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/quadrophenia-566672388-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quantum of Solace[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ibjbrzgs6duh'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/quantum_of_solace-911955696-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/quantum_of_solace-911955696-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quatretondeta[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/qr8vjnoacrit'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/quatretondeta-702126777-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/quatretondeta-702126777-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Qué bello es vivir[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/h4vmbe5gqdnv'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/it_s_a_wonderful_life-996638881-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/it_s_a_wonderful_life-996638881-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Que Dios nos perdone[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/jpxeygmrvwvw'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/que_dios_nos_perdone-230971747-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/que_dios_nos_perdone-230971747-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Qué les pasa a los hombres[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/bnnv1r17pvw3'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/he_s_just_not_that_into_you-418817419-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/he_s_just_not_that_into_you-418817419-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Qué noche la de aquel día[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/zrpcw1fjzsdf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/a_hard_day_s_night-997295627-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/a_hard_day_s_night-997295627-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Qué pelo más guay[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/dxvjmyzwkkzi'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/que_pelo_mas_guay-115163104-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/que_pelo_mas_guay-115163104-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Que pena tu vida[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/fstq2vqkw4xt'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/que_pena_tu_vida-500306020-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/que_pena_tu_vida-500306020-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Que se mueran los feos[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ywb1fjbeqj1v'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/que_se_mueran_los_feos-129497198-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/que_se_mueran_los_feos-129497198-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Que viene Valdez[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/aoq1472wbup5'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/valdez_is_coming-949265306-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/valdez_is_coming-949265306-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quédate conmigo[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/z5ft00a6nys7'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/still_still_mine-156154862-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/still_still_mine-156154862-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quemando suerte[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/m32fuu7qehok'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://media.salir-static.net/_images_/peliculas/b/6/b/1/cartel_quemando_suerte_0.jpg</thumbnail>
+<fanart>http://media.salir-static.net/_images_/peliculas/b/6/b/1/cartel_quemando_suerte_0.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quemar después de leer[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/88lee26msvlv'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/burn_after_reading-728246269-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/burn_after_reading-728246269-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Querido Diario Tonto (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/lz4qvpa2a6hl'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/dear_dumb_diary_tv-999884594-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/dear_dumb_diary_tv-999884594-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quicksilver Highway (TV)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/7fj3syxbwwti'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/quicksilver_highway_tv-481363990-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/quicksilver_highway_tv-481363990-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quid Pro Quo[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/27jfhtlkplcf'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/quid_pro_quo-936356363-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/quid_pro_quo-936356363-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quien tiene un amigo... tiene un tesoro[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/gwiq9wyp5unj'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/chi_trova_un_amico_trova_un_tesoro-436180819-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/chi_trova_un_amico_trova_un_tesoro-436180819-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quiéreme si te atreves[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/svycsvsk1da0'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/jeux_d_enfants-854462488-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/jeux_d_enfants-854462488-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quiero la cabeza de Alfredo García[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/b4esftnnhxus'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/bring_me_the_head_of_alfredo_garcia-328708264-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/bring_me_the_head_of_alfredo_garcia-328708264-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quiero ser como Beckham[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/f0znp4fwtccz'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/bend_it_like_beckham-414413750-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/bend_it_like_beckham-414413750-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quiero ser italiano[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/2eudsgmbyb8k'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/l_italien-162374470-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/l_italien-162374470-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quiero ser superfamosa[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8umji3rc7hz8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/confessions_of_a_teenage_drama_queen-135386192-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/confessions_of_a_teenage_drama_queen-135386192-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quiero ser un Thunder[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/opkec2ukm7r8'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/thunderstruck-180771716-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/thunderstruck-180771716-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quills[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/ho51igd2wx18'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/quills-492223534-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/quills-492223534-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quiz Show. El dilema[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/8uho8ttbppke'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/quiz_show-103512412-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/quiz_show-103512412-large.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue] Quo Vadis (Una historia de la época de Nerón)[/COLOR]</title>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://streamcloud.eu/pyty30puys1l'):
+    import urlresolver
+    u = urlresolver.resolve(url)
+    return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/quo_vadis-858129210-large.jpg</thumbnail>
+<fanart>http://pics.filmaffinity.com/quo_vadis-858129210-large.jpg</fanart>
+</item>
+         
